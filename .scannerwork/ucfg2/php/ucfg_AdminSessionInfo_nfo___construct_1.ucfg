@@ -1,0 +1,93 @@
+
+4magento\security\model\adminsessioninfo::__constructr
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionInfo.phpL L("1*§
+2
+AdminSessionInfo.php"‰
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionInfo.phpX X(
+implicit return*¡
+1r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionInfo.phpU U(X¸
+µ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionInfo.phpL L(
+
+$context"__id*-
++
+$contextmagento\framework\model\contextµ
+²
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionInfo.phpL L(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÍ
+Ê
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionInfo.phpL L(
+$securityConfig"__id*;
+9
+$securityConfig&magento\security\model\configinterfaceÅ
+Â
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionInfo.phpL L(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetimeÑ
+Î
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionInfo.phpL L(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceÛ
+Ø
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionInfo.phpL L(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb˜
+•
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionInfo.phpL L(
+$data"__id*
+
+$dataarray®
+«
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionInfo.phpU U(W
+%1"2magento\framework\model\abstractmodel::__construct*+)
+'magento\security\model\adminsessioninfo*
+
+
+$context*
+
+	$registry*
+
+	$resource*
+
+$resourceCollection*	
+
+$dataÑ
+Î
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionInfo.phpV V(/=)
+'magento\security\model\adminsessioninfo"
+securityConfig"__id*
+
+$securityConfigÅ
+Â
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionInfo.phpW W(#7)
+'magento\security\model\adminsessioninfo"
+
+dateTime"__id*
+
+	$dateTime*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:9
+$securityConfig&magento\security\model\configinterface:7
+	$dateTime*magento\framework\stdlib\datetime\datetime:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB+)
+'magento\security\model\adminsessioninfo

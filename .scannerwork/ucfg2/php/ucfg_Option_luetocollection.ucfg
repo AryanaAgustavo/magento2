@@ -1,0 +1,304 @@
+
+Smagento\eav\model\resourcemodel\entity\attribute\option::addoptionvaluetocollection‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php" "(."1*ÿ<
+1‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php$ $(-æ
+ã
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php" "(.
+$collection"__id*G
+E
+$collection6magento\eav\model\entity\collection\abstractcollectionÐ
+Í
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php" "(.
+
+$attribute"__id*2
+0
+
+$attribute"magento\eav\model\entity\attributeº
+·
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php" "(.
+
+$valueExpr"__id*
+
+
+$valueExprzend_db_exprÚ×
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php$ $(,
+%1*;9
+7magento\eav\model\resourcemodel\entity\attribute\option2getconnection¥
+¢
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php$ $(,
+$connection"__id*
+
+%1°­
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php% %(7
+%2*
+
+
+$attribute2getattributecode¨
+¥
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php% %(7
+$attributeCode"__id*
+
+%2Â
+¿
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php& &(;
+%3"__concat*
+
+$attributeCode*
+_option_value_t1§
+¤
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php& &(;
+$optionTable1"__id*
+
+%3Â
+¿
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php' '(;
+%4"__concat*
+
+$attributeCode*
+_option_value_t2§
+¤
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php' '(;
+$optionTable2"__id*
+
+%4û
+ø
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php( ((a
+%5"__concat*
+.option_id=*	
+ AND *
+.store_id=0*
+
+$optionTable1*
+
+
+$valueExpr*
+
+$optionTable1©
+¦
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php( ((a
+$tableJoinCond1"__id*
+
+%5û
+ø
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php* *(S
+%6"__concat*
+.option_id=*	
+ AND *
+.store_id=?*
+
+$optionTable2*
+
+
+$valueExpr*
+
+$optionTable2«¨
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php+ +(%
+%7*
+
+$collection2
+getstoreidº·
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php) ,(	
+%8*
+
+$connection*
+
+%6*
+
+%72	quoteinto©
+¦
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php) ,(	
+$tableJoinCond2"__id*
+
+%8»
+¸
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php. .('
+%9"__concat*
+
+.option_id*
+
+$optionTable2¼
+¹
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php/ /('
+%10"__concat*
+
+.option_id*
+
+$optionTable1¿¼
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php- 0(	
+%11*
+
+$connection*
+
+%9*
+
+%102getifnullsql§
+¤
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php- 0(	
+$valueIdExpr"__id*
+
+%11¸
+µ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php2 2(#
+%12"__concat*
+
+.value*
+
+$optionTable2¸
+µ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php3 3(#
+%13"__concat*
+
+.value*
+
+$optionTable1À½
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php1 4(	
+%14*
+
+$connection*
+
+%12*
+
+%132getifnullsql¥
+¢
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php1 4(	
+
+$valueExpr"__id*
+
+%14«¨
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php6 6( 
+%15*
+
+$collection2	getselect—”
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php7 7(L
+%16"$Arrayöó
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php7 7(K
+%17*;9
+7magento\eav\model\resourcemodel\entity\attribute\option*
+eav_attribute_option_value2gettableÀ
+½
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php7 7(L
+%18"
+__arraySet*
+
+%16*
+
+$optionTable1*
+
+%17—”
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php9 9(
+%19"$ArrayÉÆ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php6 :(	
+%20*
+
+%15*
+
+%16*
+
+$tableJoinCond1*
+
+%192joinleft—”
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php; ;(L
+%21"$Arrayöó
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php; ;(K
+%22*;9
+7magento\eav\model\resourcemodel\entity\attribute\option*
+eav_attribute_option_value2gettableÀ
+½
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php; ;(L
+%23"
+__arraySet*
+
+%21*
+
+$optionTable2*
+
+%22—”
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php= @(
+%24"$ArrayÊ
+Ç
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php= @(
+%25"
+__arraySet*
+
+%24*
+
+$attributeCode*
+
+$valueIdExpr¹
+¶
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php? ?()
+%26"__concat*
+
+$attributeCode*
+
+_value½
+º
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php= @(
+%27"
+__arraySet*
+
+%24*
+
+%26*
+
+
+$valueExprÉÆ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.php6 A(	
+%28*
+
+%20*
+
+%21*
+
+$tableJoinCond2*
+
+%242joinleft"Â
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Option.phpC C(;9
+7magento\eav\model\resourcemodel\entity\attribute\option:E
+$collection6magento\eav\model\entity\collection\abstractcollection:0
+
+$attribute"magento\eav\model\entity\attribute:
+
+$valueExprzend_db_exprB;9
+7magento\eav\model\resourcemodel\entity\attribute\option

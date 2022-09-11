@@ -1,0 +1,87 @@
+
+Cmagento\catalog\model\indexer\product\flat\action\rows::__constructÅ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Flat\Action\Rows.php ("1*´
+2
+
+Rows.php"ô
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Flat\Action\Rows.php1 1(
+implicit return*À
+1Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Flat\Action\Rows.php( /(
+”
+–
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Flat\Action\Rows.php (
+	$resource"__id*7
+5
+	$resource(magento\framework\app\resourceconnection‹
+Ÿ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Flat\Action\Rows.php (
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface‡
+›
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Flat\Action\Rows.php (
+$productHelper"__id*?
+=
+$productHelper+magento\catalog\helper\product\flat\indexer”
+–
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Flat\Action\Rows.php (
+$productType"__id*4
+2
+$productType"magento\catalog\model\product\typeÍ
+Á
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Flat\Action\Rows.php (
+$tableBuilder"__id*J
+H
+$tableBuilder7magento\catalog\model\indexer\product\flat\tablebuilderˆ
+Û
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Flat\Action\Rows.php (
+$flatTableBuilder"__id*R
+P
+$flatTableBuilder;magento\catalog\model\indexer\product\flat\flattablebuilderÔ
+Ï
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Flat\Action\Rows.php (
+$flatItemEraser"__id*M
+K
+$flatItemEraser8magento\catalog\model\indexer\product\flat\action\eraserÉ
+Ä
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Flat\Action\Rows.php( /(	
+%1"Fmagento\catalog\model\indexer\product\flat\abstractaction::__construct*:8
+6magento\catalog\model\indexer\product\flat\action\rows*
+
+	$resource*
+
+$storeManager*
+
+$productHelper*
+
+$productType*
+
+$tableBuilder*
+
+$flatTableBuilder
+Ì
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Flat\Action\Rows.php0 0(/L8
+6magento\catalog\model\indexer\product\flat\action\rows"
+flatItemEraser"__id*
+
+$flatItemEraser*
+2:5
+	$resource(magento\framework\app\resourceconnection::
+$storeManager)magento\store\model\storemanagerinterface:=
+$productHelper+magento\catalog\helper\product\flat\indexer:2
+$productType"magento\catalog\model\product\type:H
+$tableBuilder7magento\catalog\model\indexer\product\flat\tablebuilder:P
+$flatTableBuilder;magento\catalog\model\indexer\product\flat\flattablebuilder:K
+$flatItemEraser8magento\catalog\model\indexer\product\flat\action\eraserB:8
+6magento\catalog\model\indexer\product\flat\action\rows

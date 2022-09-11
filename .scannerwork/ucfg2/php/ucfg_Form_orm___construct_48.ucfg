@@ -1,0 +1,112 @@
+
+5magento\review\block\adminhtml\edit\form::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php2 2("1*œ
+2
+
+Form.php"Š
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.phpA A(
+implicit return*†
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php< <()À
+½
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php2 2(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\context¶
+³
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php2 2(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÄ
+Á
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php2 2(
+$formFactory"__id*4
+2
+$formFactory"magento\framework\data\formfactoryÂ
+¿
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php2 2(
+$systemStore"__id*2
+0
+$systemStore magento\store\model\system\storeà
+Ý
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php2 2(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceÌ
+É
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php2 2(
+$productFactory"__id*9
+7
+$productFactory$magento\catalog\model\productfactoryº
+·
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php2 2(
+$reviewData"__id*+
+)
+$reviewDatamagento\review\helper\data™
+–
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php2 2(
+$data"__id*
+
+$dataarrayÌ
+É
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php< <((;*
+(magento\review\block\adminhtml\edit\form"
+_reviewData"__id*
+
+$reviewDataÛ
+Ø
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php= =(7B*
+(magento\review\block\adminhtml\edit\form"
+customerRepository"__id*
+
+$customerRepositoryÔ
+Ñ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php> >(0?*
+(magento\review\block\adminhtml\edit\form"
+_productFactory"__id*
+
+$productFactoryÎ
+Ë
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php? ?(*<*
+(magento\review\block\adminhtml\edit\form"
+_systemStore"__id*
+
+$systemStorež
+›
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Edit\Form.php@ @(E
+%1"6magento\backend\block\widget\form\generic::__construct*,*
+(magento\review\block\adminhtml\edit\form*
+
+
+$context*
+
+	$registry*
+
+$formFactory*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:'
+	$registrymagento\framework\registry:2
+$formFactory"magento\framework\data\formfactory:0
+$systemStore magento\store\model\system\store:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:7
+$productFactory$magento\catalog\model\productfactory:)
+$reviewDatamagento\review\helper\data:
+$dataarrayB,*
+(magento\review\block\adminhtml\edit\form

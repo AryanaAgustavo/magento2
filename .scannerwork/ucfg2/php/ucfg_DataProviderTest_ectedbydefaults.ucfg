@@ -1,0 +1,147 @@
+
+_magento\catalog\model\category\dataprovidertest::testexistingcategorylayoutunaffectedbydefaultsî
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpÇ Ç(B"1* 
+2
+DataProviderTest.php"¨
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpé é(
+implicit return*¢!
+1î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpÖ Ö(5
+Ì
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpÖ Ö(*
+%1"__id*H*F1
+/magento\catalog\model\category\dataprovidertest"
+categoryFactory∞≠
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpÖ Ö(4
+%2*
+
+%12createµ
+≤
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpÖ Ö(4
+	$category"__id*
+
+%2ª∏
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpÜ Ü(
+%3*
+
+	$category*22loadÈ
+Ê
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpà à(
+%4"__id*A*?1
+/magento\catalog\model\category\dataprovidertest"
+
+registryœÃ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpà à(8
+%5*
+
+%4*
+
+category*
+
+	$category2registerÌ
+Í
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpâ â(#
+%6"__id*E*C1
+/magento\catalog\model\category\dataprovidertest"
+dataProvider±Æ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpâ â(.
+%7*
+
+%62getmeta±
+Æ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpâ â(.
+$meta"__id*
+
+%7¡
+æ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpä ä(-
+%8"__mapGet*	
+
+$meta*
+
+design¿
+Ω
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpä ä(9
+%9"__mapGet*
+
+%8*
+
+childrenƒ
+¡
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpä ä(H
+%10"__mapGet*
+
+%9*
+page_layout√
+¿
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpä ä(U
+%11"__mapGet*
+
+%10*
+	argumentsæ
+ª
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpä ä(]
+%12"__mapGet*
+
+%11*
+data¿
+Ω
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpä ä(g
+%13"__mapGet*
+
+%12*
+
+config¡
+æ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpä ä(r
+%14"__mapGet*
+
+%13*	
+default¿
+Ω
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpä ä(r
+$categoryPageLayout"__id*
+
+%14Í
+Á
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpã ã(
+%15"__id*A*?1
+/magento\catalog\model\category\dataprovidertest"
+
+registryƒ¡
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpã ã(/
+%16*
+
+%15*
+
+category2
+unregister˚¯
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpç ç(.
+%17*31
+/magento\catalog\model\category\dataprovidertest*
+
+$categoryPageLayout2
+assertnull*
+2B31
+/magento\catalog\model\category\dataprovidertest

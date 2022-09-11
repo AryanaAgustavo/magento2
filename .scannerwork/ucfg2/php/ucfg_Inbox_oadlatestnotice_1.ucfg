@@ -1,0 +1,117 @@
+
+Emagento\adminnotification\model\resourcemodel\inbox::loadlatestnotice~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php   ($"1*∂
+2~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php1 1($´®
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php1 1(#
+%12*
+	
+$object*	
+
+$data2setdata*
+3*û
+3~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php4 4(#‹Ÿ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php4 4("
+%13*75
+3magento\adminnotification\model\resourcemodel\inbox*
+	
+$object2
+_afterload"π
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php6 6(75
+3magento\adminnotification\model\resourcemodel\inbox*˘
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php" "(-»
+≈
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php   ($	
+$object"__id*2
+0
+$object%magento\adminnotification\model\inbox—Œ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php" "(,
+%1*75
+3magento\adminnotification\model\resourcemodel\inbox2getconnection†
+ù
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php" "(,
+$connection"__id*
+
+%1¢ü
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php# #('
+%2*
+
+$connection2select–Õ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php$ $(!
+%3*75
+3magento\adminnotification\model\resourcemodel\inbox2getmaintableüú
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php# %(	
+%4*
+
+%2*
+
+%32from“œ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php& &(#
+%5*75
+3magento\adminnotification\model\resourcemodel\inbox2getidfieldname¶
+£
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php& &(-
+%6"__concat*
+
+%5*	
+ DESC†ù
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php# '(	
+%7*
+
+%4*
+
+%62order™ß
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php# )(	
+%8*
+
+%7*
+is_read != 12where¨©
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php# +(	
+%9*
+
+%8*
+is_remove != 12whereüú
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php# -(	
+%10*
+
+%9*22limitù
+ö
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php# -(		
+$select"__id*
+
+%10≤Ø
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php. .(.
+%11*
+
+$connection*
+	
+$select2fetchrowõ
+ò
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\Inbox.php. .(.
+$data"__id*
+
+%11*
+2
+3:0
+$object%magento\adminnotification\model\inboxB75
+3magento\adminnotification\model\resourcemodel\inbox

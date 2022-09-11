@@ -1,0 +1,65 @@
+
+Nmagento\backend\controller\adminhtml\dashboard\productsviewedtest::testexecute§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Controller\Adminhtml\Dashboard\ProductsViewedTest.php ("1*‹
+2
+ProductsViewedTest.php"º
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Controller\Adminhtml\Dashboard\ProductsViewedTest.php (
+implicit return*Ï
+1§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Controller\Adminhtml\Dashboard\ProductsViewedTest.php (/ÉÄ
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Controller\Adminhtml\Dashboard\ProductsViewedTest.php (
+%1*EC
+Amagento\backend\controller\adminhtml\dashboard\productsviewedtest2
+getrequestÕ 
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Controller\Adminhtml\Dashboard\ProductsViewedTest.php (.
+%2*
+
+%1*
+POST2	setmethodÆ´
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Controller\Adminhtml\Dashboard\ProductsViewedTest.php (B
+%3*EC
+Amagento\backend\controller\adminhtml\dashboard\productsviewedtest*+)
+'backend/admin/dashboard/productsViewed/2dispatchÑÅ
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Controller\Adminhtml\Dashboard\ProductsViewedTest.php! (5
+%4*EC
+Amagento\backend\controller\adminhtml\dashboard\productsviewedtest2getresponseÕ 
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Controller\Adminhtml\Dashboard\ProductsViewedTest.php! (L
+%5*
+
+%42gethttpresponsecodeîë
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Controller\Adminhtml\Dashboard\ProductsViewedTest.php (M
+%6*EC
+Amagento\backend\controller\adminhtml\dashboard\productsviewedtest*2»*
+
+%52assertequalsÑÅ
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Controller\Adminhtml\Dashboard\ProductsViewedTest.php (&
+%7*EC
+Amagento\backend\controller\adminhtml\dashboard\productsviewedtest2getresponse¡æ
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Controller\Adminhtml\Dashboard\ProductsViewedTest.php (1
+%8*
+
+%72getbody√
+¿
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Controller\Adminhtml\Dashboard\ProductsViewedTest.php (1	
+$actual"__id*
+
+%8¥±
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Controller\Adminhtml\Dashboard\ProductsViewedTest.php (D
+%9*EC
+Amagento\backend\controller\adminhtml\dashboard\productsviewedtest*
+Simple Product*
+	
+$actual2assertstringcontainsstring*
+2BEC
+Amagento\backend\controller\adminhtml\dashboard\productsviewedtest

@@ -1,0 +1,162 @@
+
+Mmagento\catalog\model\categoryrepositorytest::testgetcategoryforprovidedstoreë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpá á(3"1*Õ
+2
+CategoryRepositoryTest.php"©
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpí í(
+implicit return*…(
+1ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpâ â(≥
+∞
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpâ â(
+$categoryId"__id*2´Ì
+Í
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpä ä(4
+%1"__id*H*F.
+,magento\catalog\model\categoryrepositorytest"
+categoryRepositoryª∏
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpä ä(F
+%2*
+
+%1*
+
+$categoryId2getπ
+∂
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpä ä(F
+$categoryDefault"__id*
+
+%2æª
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpã3 ã(P
+%3*
+
+$categoryDefault2	geturlkey˛˚
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpã ã(Q
+%4*0.
+,magento\catalog\model\categoryrepositorytest*
+category-defaultstore*
+
+%32
+assertsameÁ
+‰
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpå å(-
+%5"__id*B*@.
+,magento\catalog\model\categoryrepositorytest"
+storeManagerºπ
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpå å(B
+%6*
+
+%5*	
+default2getstore¨©
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpå å(K
+%7*
+
+%62getid∏
+µ
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpå å(K
+$defaultStoreId"__id*
+
+%7Ì
+Í
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpç ç(7
+%8"__id*H*F.
+,magento\catalog\model\categoryrepositorytest"
+categoryRepository–Õ
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpç ç(Z
+%9*
+
+%8*
+
+$categoryId*
+
+$defaultStoreId2getº
+π
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpç ç(Z
+$categoryFirstStore"__id*
+
+%9¬ø
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpé3 é(S
+%10*
+
+$categoryFirstStore2	geturlkeyÄ˝
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpé é(T
+%11*0.
+,magento\catalog\model\categoryrepositorytest*
+category-defaultstore*
+
+%102
+assertsameË
+Â
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpè è(-
+%12"__id*B*@.
+,magento\catalog\model\categoryrepositorytest"
+storeManager√¿
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpè è(G
+%13*
+
+%12*
+fixturestore2getstoreÆ´
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpè è(P
+%14*
+
+%132getidπ
+∂
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpè è(P
+$fixtureStoreId"__id*
+
+%14Ó
+Î
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpê ê(8
+%15"__id*H*F.
+,magento\catalog\model\categoryrepositorytest"
+categoryRepository“œ
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpê ê([
+%16*
+
+%15*
+
+$categoryId*
+
+$fixtureStoreId2getæ
+ª
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpê ê([
+$categorySecondStore"__id*
+
+%16√¿
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpë3 ë(T
+%17*
+
+$categorySecondStore2	geturlkeyÄ˝
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryRepositoryTest.phpë ë(U
+%18*0.
+,magento\catalog\model\categoryrepositorytest*
+category-fixturestore*
+
+%172
+assertsame*
+2B0.
+,magento\catalog\model\categoryrepositorytest

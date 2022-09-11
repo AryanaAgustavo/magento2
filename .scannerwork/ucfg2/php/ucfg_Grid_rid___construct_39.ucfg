@@ -1,0 +1,89 @@
+
+Bmagento\paypal\block\adminhtml\billing\agreement\grid::__construct€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\Grid.php& &("1*ª
+2
+
+Grid.php"˜
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\Grid.php2 2(
+implicit return*÷
+1€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\Grid.php. .(!Î
+Ë
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\Grid.php& &(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\contextÏ
+Ì
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\Grid.php& &(
+$backendHelper"__id*/
+-
+$backendHelpermagento\backend\helper\dataÀ
+½
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\Grid.php& &(	
+$helper"__id*'
+%
+$helpermagento\paypal\helper\data€
+ý
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\Grid.php& &(
+$agreementFactory"__id*]
+[
+$agreementFactoryFmagento\paypal\model\resourcemodel\billing\agreement\collectionfactoryÜ
+Ù
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\Grid.php& &(
+$agreementModel"__id*;
+9
+$agreementModel&magento\paypal\model\billing\agreement§
+¤
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\Grid.php& &(
+$data"__id*
+
+$dataarrayß
+Ü
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\Grid.php. .( D7
+5magento\paypal\block\adminhtml\billing\agreement\grid"	
+_helper"__id*
+	
+$helperó
+ð
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\Grid.php/ /(4N7
+5magento\paypal\block\adminhtml\billing\agreement\grid"
+_agreementFactory"__id*
+
+$agreementFactoryï
+ì
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\Grid.php0 0(0L7
+5magento\paypal\block\adminhtml\billing\agreement\grid"
+_agreementModel"__id*
+
+$agreementModel­
+ª
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\Grid.php1 1(<
+%1"7magento\backend\block\widget\grid\extended::__construct*97
+5magento\paypal\block\adminhtml\billing\agreement\grid*
+
+
+$context*
+
+$backendHelper*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:-
+$backendHelpermagento\backend\helper\data:%
+$helpermagento\paypal\helper\data:[
+$agreementFactoryFmagento\paypal\model\resourcemodel\billing\agreement\collectionfactory:9
+$agreementModel&magento\paypal\model\billing\agreement:
+$dataarrayB97
+5magento\paypal\block\adminhtml\billing\agreement\grid

@@ -1,0 +1,138 @@
+
+]magento\catalogsearch\test\unit\model\resourcemodel\engineprovidertest::testgetwithoutenginesí
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpG G()"1* 
+2
+EngineProviderTest.php"™
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.php\ \(
+implicit return*Å'
+1í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpI I(1èå
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpI I(0
+%1*JH
+Fmagento\catalogsearch\test\unit\model\resourcemodel\engineprovidertest*
+LogicException2expectexceptionØ¨
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpJ J(P
+%2*JH
+Fmagento\catalogsearch\test\unit\model\resourcemodel\engineprovidertest*+)
+'There is no such engine: current_engine2expectexceptionmessageƒ
+¡
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpK K()
+$currentEngine"__id*
+current_engine¶£
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpL L(
+%3"$Array≤
+Ø
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpL L(
+
+$engines"__id*
+
+%3à
+Ö
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpN N(!
+%4"__id*b*`H
+Fmagento\catalogsearch\test\unit\model\resourcemodel\engineprovidertest"
+engineResolverMockÌ
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpN+ N(8
+%5*JH
+Fmagento\catalogsearch\test\unit\model\resourcemodel\engineprovidertest2once∑¥
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpN N(9
+%6*
+
+%4*
+
+%52expects «
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpN O(.
+%7*
+
+%6*
+getCurrentSearchEngine2method∆√
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpN P((
+%8*
+
+%7*
+
+$currentEngine2
+willreturná
+Ñ
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpR R( 
+%9"__id*a*_H
+Fmagento\catalogsearch\test\unit\model\resourcemodel\engineprovidertest"
+objectManagerMockÚÔ
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpR* R(8
+%10*JH
+Fmagento\catalogsearch\test\unit\model\resourcemodel\engineprovidertest2neverπ∂
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpR R(9
+%11*
+
+%9*
+
+%102expectsºπ
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpR S(
+%12*
+
+%11*
+
+create2methodà
+Ö
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpV V($
+%14"__id*a*_H
+Fmagento\catalogsearch\test\unit\model\resourcemodel\engineprovidertest"
+objectManagerMockâ
+Ü
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpX X(%
+%15"__id*b*`H
+Fmagento\catalogsearch\test\unit\model\resourcemodel\engineprovidertest"
+engineResolverMockŸ÷
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpU Y(	
+%13"8magento\catalogsearch\model\resourcemodel\engineproviderè
+å
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpU Y(	
+%16"Emagento\catalogsearch\model\resourcemodel\engineprovider::__construct*
+
+%13*
+
+%14*
+
+
+$engines*
+
+%15¸
+˘
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.phpU Y(	SH
+Fmagento\catalogsearch\test\unit\model\resourcemodel\engineprovidertest"
+model"__id*
+
+%13¸
+˘
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.php[ [(
+%17"__id*U*SH
+Fmagento\catalogsearch\test\unit\model\resourcemodel\engineprovidertest"
+model≠™
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Test\Unit\Model\ResourceModel\EngineProviderTest.php[ [(
+%18*
+
+%172get*
+2BJH
+Fmagento\catalogsearch\test\unit\model\resourcemodel\engineprovidertest

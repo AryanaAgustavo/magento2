@@ -1,0 +1,53 @@
+
+>magento\catalog\controller\adminhtml\product\grid::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Adminhtml\Product\Grid.php ("1*¥
+2
+
+Grid.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Adminhtml\Product\Grid.php (
+implicit return*¦
+
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Adminhtml\Product\Grid.php (7Å
+Â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Adminhtml\Product\Grid.php (
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextå
+â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Adminhtml\Product\Grid.php (
+$productBuilder"__id*I
+G
+$productBuilder4magento\catalog\controller\adminhtml\product\builderà
+Ý
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Adminhtml\Product\Grid.php (
+$resultPageFactory"__id*A
+?
+$resultPageFactory)magento\framework\view\result\pagefactoryœ
+™
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Adminhtml\Product\Grid.php (6
+%1"9magento\catalog\controller\adminhtml\product::__construct*53
+1magento\catalog\controller\adminhtml\product\grid*
+
+
+$context*
+
+$productBuilderë
+è
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Adminhtml\Product\Grid.php (5J3
+1magento\catalog\controller\adminhtml\product\grid"
+resultPageFactory"__id*
+
+$resultPageFactory*
+2:.
+$context"magento\backend\app\action\context:G
+$productBuilder4magento\catalog\controller\adminhtml\product\builder:?
+$resultPageFactory)magento\framework\view\result\pagefactoryB53
+1magento\catalog\controller\adminhtml\product\grid

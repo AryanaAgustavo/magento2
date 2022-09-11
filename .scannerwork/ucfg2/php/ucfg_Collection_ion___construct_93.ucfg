@@ -1,0 +1,112 @@
+
+Kmagento\reports\model\resourcemodel\review\customer\collection::__construct‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.php+ +("1*¹
+2
+Collection.php"¡
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.phpC C(
+implicit return*Ú
+1‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.php7 7(5ì
+é
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.php+ +(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÆ
+Ã
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.php+ +(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceø
+õ
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.php+ +(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceã
+à
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.php+ +(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceÑ
+Î
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.php+ +(
+$reviewData"__id*+
+)
+$reviewDatamagento\review\helper\dataç
+ä
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.php+ +(
+$voteFactory"__id*@
+>
+$voteFactory.magento\review\model\rating\option\votefactoryä
+á
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.php+ +(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceð
+í
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.php+ +(
+$customerResource"__id*D
+B
+$customerResource-magento\customer\model\resourcemodel\customerä
+á
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.php+ +(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceæ
+ã
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.php+ +(
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdb…
+‚
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.php7 7(4W@
+>magento\reports\model\resourcemodel\review\customer\collection"
+_customerResource"__id*
+
+$customerResourceº
+·
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Review\Customer\Collection.php8 B(	
+%1"Amagento\review\model\resourcemodel\review\collection::__construct*B@
+>magento\reports\model\resourcemodel\review\customer\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$reviewData*
+
+$voteFactory*
+
+$storeManager*
+
+$connection*
+
+	$resource*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:)
+$reviewDatamagento\review\helper\data:>
+$voteFactory.magento\review\model\rating\option\votefactory::
+$storeManager)magento\store\model\storemanagerinterface:B
+$customerResource-magento\customer\model\resourcemodel\customer:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbBB@
+>magento\reports\model\resourcemodel\review\customer\collection

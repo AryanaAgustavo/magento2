@@ -1,0 +1,92 @@
+
+1magento\catalog\model\layer\category::__constructo
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Category.php ("1*œ
+2
+Category.php"†
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Category.php, ,(
+implicit return*Õ
+1o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Category.php" +(
+Â
+¿
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Category.php (
+
+$context"__id*:
+8
+$context,magento\catalog\model\layer\contextinterfaceÒ
+Ï
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Category.php (
+$layerStateFactory"__id*@
+>
+$layerStateFactory(magento\catalog\model\layer\statefactoryƒ
+€
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Category.php (
+$attributeCollectionFactory"__id*h
+f
+$attributeCollectionFactoryGmagento\catalog\model\resourcemodel\product\attribute\collectionfactoryÏ
+Ì
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Category.php (
+$catalogProduct"__id*@
+>
+$catalogProduct+magento\catalog\model\resourcemodel\productÉ
+Æ
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Category.php (
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface²
+¯
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Category.php (
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÛ
+Ø
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Category.php (
+$categoryRepository"__id*H
+F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface•
+’
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Category.php (
+$data"__id*
+
+$dataarrayð
+í
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Category.php" +(	
+%1"(magento\catalog\model\layer::__construct*(&
+$magento\catalog\model\layer\category*
+
+
+$context*
+
+$layerStateFactory*
+
+$attributeCollectionFactory*
+
+$catalogProduct*
+
+$storeManager*
+
+	$registry*
+
+$categoryRepository*	
+
+$data*
+2:8
+$context,magento\catalog\model\layer\contextinterface:>
+$layerStateFactory(magento\catalog\model\layer\statefactory:f
+$attributeCollectionFactoryGmagento\catalog\model\resourcemodel\product\attribute\collectionfactory:>
+$catalogProduct+magento\catalog\model\resourcemodel\product::
+$storeManager)magento\store\model\storemanagerinterface:'
+	$registrymagento\framework\registry:F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface:
+$dataarrayB(&
+$magento\catalog\model\layer\category

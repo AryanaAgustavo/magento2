@@ -1,0 +1,147 @@
+
+`magento\salesinventory\model\plugin\order\validation\orderrefundcreationarguments::aftervalidateù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php1 1(!"1*Ù
+2ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php= =(&ı
+Ú
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php= =(&2
+%2,magento\sales\model\validatorresultinterface"__id*
+
+$validationResults"÷
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php= =(&4
+2
+%2,magento\sales\model\validatorresultinterface*Â
+3ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php@ @(\—Œ
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php@ @(B
+%3*
+
+
+$arguments2getextensionattributes»≈
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php@ @([
+%4*
+
+%32getreturntostockitems»
+≈
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php@ @([
+$returnToStockItems"__id*
+
+%4õ
+ò
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.phpA A(3
+%5"__id*j*hS
+Qmagento\salesinventory\model\plugin\order\validation\orderrefundcreationarguments"
+returnValidatorÂ‚
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.phpA A(_
+%6*
+
+%5*
+
+$returnToStockItems*
+
+$creditmemo2validate«
+ƒ
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.phpA A(_
+$validationMessage"__id*
+
+%6*
+4
+5*ê
+4ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.phpC C(?Â‚
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.phpC C(>
+%7*
+
+$validationResults*
+
+$validationMessage2
+addmessage*
+5*Ù
+5ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.phpF F("ı
+Ú
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.phpF F("2
+%8,magento\sales\model\validatorresultinterface"__id*
+
+$validationResults"÷
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.phpF F("4
+2
+%8,magento\sales\model\validatorresultinterface*©
+1ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php< <(3ò
+ï
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php1 1(!
+$refundOrderValidator"__id*T
+R
+$refundOrderValidator9magento\sales\model\order\validation\refundorderinterfaceÖ
+Ç
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php1 1(!
+$validationResults"__id*D
+B
+$validationResults,magento\sales\model\validatorresultinterfaceÊ
+„
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php1 1(!
+$order"__id*1
+/
+$order%magento\sales\api\data\orderinterfaceı
+Ú
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php1 1(!
+$creditmemo"__id*;
+9
+$creditmemo*magento\sales\api\data\creditmemointerface∆
+√
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php1 1(!
+$items"__id*
+
+$itemsarray˛
+˚
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php1 1(!
+
+$comment"__id*G
+E
+$comment9magento\sales\api\data\creditmemocommentcreationinterfaceÑ
+Å
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php1 1(!
+
+$arguments"__id*K
+I
+
+$arguments;magento\sales\api\data\creditmemocreationargumentsinterface¶£
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Plugin\Order\Validation\OrderRefundCreationArguments.php< <(3
+%1*US
+Qmagento\salesinventory\model\plugin\order\validation\orderrefundcreationarguments*
+
+
+$arguments2isreturntostockitems*
+2
+3:R
+$refundOrderValidator9magento\sales\model\order\validation\refundorderinterface:B
+$validationResults,magento\sales\model\validatorresultinterface:/
+$order%magento\sales\api\data\orderinterface:9
+$creditmemo*magento\sales\api\data\creditmemointerface:
+$itemsarray:	
+$notify:
+$appendComment:E
+$comment9magento\sales\api\data\creditmemocommentcreationinterface:I
+
+$arguments;magento\sales\api\data\creditmemocreationargumentsinterfaceBUS
+Qmagento\salesinventory\model\plugin\order\validation\orderrefundcreationarguments

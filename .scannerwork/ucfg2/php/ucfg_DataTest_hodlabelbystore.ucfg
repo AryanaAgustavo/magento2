@@ -1,0 +1,61 @@
+
+>magento\payment\helper\datatest::testpaymentmethodlabelbystoreÅ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Payment\Helper\DataTest.php3 3(1"1*Ø
+2
+DataTest.php"ô
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Payment\Helper\DataTest.php< <(
+implicit return*Ÿ
+1Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Payment\Helper\DataTest.php5 5(Bƒ
+¡
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Payment\Helper\DataTest.php5 5(
+%1"__id*/*-!
+magento\payment\helper\datatest"
+helperøº
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Payment\Helper\DataTest.php5 5(A
+%2*
+
+%1*
+true*
+true2getpaymentmethodlist†
+ù
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Payment\Helper\DataTest.php5 5(A	
+$result"__id*
+
+%2áÑ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Payment\Helper\DataTest.php6 6(Z
+%3*#!
+magento\payment\helper\datatest*
+cashondelivery*
+	
+$result*
+Payment info does not exist2assertarrayhaskey∏
+µ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Payment\Helper\DataTest.php9 9(%
+%4"__mapGet*
+	
+$result*
+cashondelivery™
+ß
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Payment\Helper\DataTest.php9 9(.
+%5"__mapGet*
+
+%4*	
+label¨©
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Payment\Helper\DataTest.php7 ;(	
+%6*#!
+magento\payment\helper\datatest*(&
+$Cash On Delivery Title Of The Method*
+
+%5*86
+4Payment method title is not loaded from store config2assertequals*
+2B#!
+magento\payment\helper\datatest

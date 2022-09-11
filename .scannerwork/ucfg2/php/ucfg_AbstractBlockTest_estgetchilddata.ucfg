@@ -1,0 +1,120 @@
+
+Bmagento\framework\view\element\abstractblocktest::testgetchilddataï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpŒ Œ($"1*Ã
+2
+AbstractBlockTest.php"≠
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpﬂ ﬂ(
+implicit return*›
+1ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.php– –(DáÑ
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.php– –(C
+%1*42
+0magento\framework\view\element\abstractblocktest*
+
+parent*
+
+parent2_createblockwithlayout¥
+±
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.php– –(C	
+$parent"__id*
+
+%1ÖÇ
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.php— —(@
+%2*42
+0magento\framework\view\element\abstractblocktest*	
+block*	
+block2_createblockwithlayout≥
+∞
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.php— —(@
+$block"__id*
+
+%2ŒÀ
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.php“ “(-
+%3*
+
+
+$block*
+
+some_value2setsomeproperty–Õ
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.php” ”(+
+%4*
+	
+$parent*
+
+block1*
+
+
+$block2setchild»≈
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.php÷ ÷(:
+%5*
+	
+$parent*
+
+block12getchilddataΩ
+∫
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.php÷ ÷(:
+$actualChildData"__id*
+
+%5ìê
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.php◊ ◊(C
+%6*42
+0magento\framework\view\element\abstractblocktest*
+some_property*
+
+$actualChildData2assertarrayhaskey‘
+—
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÿ* ÿ(K
+%7"__mapGet*
+
+$actualChildData*
+some_property˝˙
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÿ ÿ(L
+%8*42
+0magento\framework\view\element\abstractblocktest*
+
+some_value*
+
+%72assertequals€ÿ
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.php€* €(Z
+%9*
+	
+$parent*
+
+block1*
+some_property2getchilddata˛˚
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.php€ €([
+%10*42
+0magento\framework\view\element\abstractblocktest*
+
+some_value*
+
+%92assertequals–Õ
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpﬁ ﬁ(@
+%11*
+	
+$parent*
+unknown_block2getchilddataÌÍ
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpﬁ ﬁ(A
+%12*42
+0magento\framework\view\element\abstractblocktest*
+
+%112
+assertnull*
+2B42
+0magento\framework\view\element\abstractblocktest

@@ -1,0 +1,62 @@
+
+:magento\framework\db\adapter\interfacetest::testdropcolumn
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.phpz z(""1*Â
+2
+InterfaceTest.php"§
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php (
+implicit return*Ñ
+1
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php| |(Eà
+Ý
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php| |(
+%1"__id*?*=,
+*magento\framework\db\adapter\interfacetest"
+_connectionß
+Ü
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php|' |(8
+%2"__id*>*<,
+*magento\framework\db\adapter\interfacetest"
+
+_tableNameÂ¿
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php| |(D
+%3*
+
+%1*
+
+%2*	
+column12
+dropcolumnà
+Ý
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php~ ~(
+%4"__id*?*=,
+*magento\framework\db\adapter\interfacetest"
+_connectionß
+Ü
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php~2 ~(C
+%5"__id*>*<,
+*magento\framework\db\adapter\interfacetest"
+
+_tableNameÉÆ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php~ ~(O
+%6*
+
+%4*
+
+%5*	
+column12tablecolumnexists›˜
+Ž
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php} €(	
+%7*.,
+*magento\framework\db\adapter\interfacetest*
+
+%6*:8
+6Table column must not exist after it has been dropped.2assertfalse*
+2B.,
+*magento\framework\db\adapter\interfacetest

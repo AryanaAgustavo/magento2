@@ -1,0 +1,106 @@
+
+>magento\salesrule\model\resourcemodel\report\rule::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Report\Rule.php$ $("1*¥
+2
+
+Rule.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Report\Rule.php: :(
+implicit return*ë
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Report\Rule.php/ 7(
+Ó
+Ð
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Report\Rule.php$ $(
+
+$context"__id*>
+<
+$context0magento\framework\model\resourcemodel\db\context¸
+µ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Report\Rule.php$ $(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÜ
+Ù
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Report\Rule.php$ $(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterfaceÚ
+×
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Report\Rule.php$ $(
+$reportsFlagFactory"__id*:
+8
+$reportsFlagFactory!magento\reports\model\flagfactoryë
+è
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Report\Rule.php$ $(
+$timezoneValidator"__id*L
+J
+$timezoneValidator4magento\framework\stdlib\datetime\timezone\validatorÏ
+Ì
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Report\Rule.php$ $(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetime÷
+ô
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Report\Rule.php$ $(
+$createdatFactory"__id*Y
+W
+$createdatFactoryBmagento\salesrule\model\resourcemodel\report\rule\createdatfactory÷
+ô
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Report\Rule.php$ $(
+$updatedatFactory"__id*Y
+W
+$updatedatFactoryBmagento\salesrule\model\resourcemodel\report\rule\updatedatfactory‡
+„
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Report\Rule.php/ 7(	
+%1"Fmagento\reports\model\resourcemodel\report\abstractreport::__construct*53
+1magento\salesrule\model\resourcemodel\report\rule*
+
+
+$context*
+	
+$logger*
+
+$localeDate*
+
+$reportsFlagFactory*
+
+$timezoneValidator*
+
+	$dateTime*
+
+$connectionNameê
+ç
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Report\Rule.php8 8(4J3
+1magento\salesrule\model\resourcemodel\report\rule"
+_createdatFactory"__id*
+
+$createdatFactoryê
+ç
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Report\Rule.php9 9(4J3
+1magento\salesrule\model\resourcemodel\report\rule"
+_updatedatFactory"__id*
+
+$updatedatFactory*
+2:<
+$context0magento\framework\model\resourcemodel\db\context:"
+$loggerpsr\log\loggerinterface:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:8
+$reportsFlagFactory!magento\reports\model\flagfactory:J
+$timezoneValidator4magento\framework\stdlib\datetime\timezone\validator:7
+	$dateTime*magento\framework\stdlib\datetime\datetime:W
+$createdatFactoryBmagento\salesrule\model\resourcemodel\report\rule\createdatfactory:W
+$updatedatFactoryBmagento\salesrule\model\resourcemodel\report\rule\updatedatfactory:
+$connectionNameB53
+1magento\salesrule\model\resourcemodel\report\rule

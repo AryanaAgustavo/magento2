@@ -1,0 +1,113 @@
+
+Bmagento\catalog\model\resourcemodel\product\compare\item::getcountƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpG G("1*Ì
+2ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpQ Q(4³
+°
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpQ# Q(3
+%9"__sanitizing_cast*
+
+$customerId¾
+»
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpQ Q( 
+%10"__mapSet*	
+
+$bind*
+customer_id*
+
+%9ÄÁ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpR R(8
+%11*
+	
+$select*
+customer_id = :customer_id2where*
+3*¹
+3ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpT T(@ÝÚ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpT T(%
+%12*<:
+8magento\catalog\model\resourcemodel\product\compare\item2getconnection»¸
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpT T(?
+%13*
+
+%12*
+	
+$select*	
+
+$bind2fetchone"
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpT T(@
+
+%13*º
+1ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpI I(3—”
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpI I(2
+%1"$Array²
+¯
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpI" I(1
+%2"__sanitizing_cast*
+
+
+$visitorIdº
+·
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpI I(2
+%3"__mapSet*
+
+%1*
+visitore_id*
+
+%2 
+
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpI I(2
+$bind"__id*
+
+%1ÜÙ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpJ J((
+%4*<:
+8magento\catalog\model\resourcemodel\product\compare\item2getconnectionŸœ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpJ J(2
+%5*
+
+%42selectÛØ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpK K(!
+%6*<:
+8magento\catalog\model\resourcemodel\product\compare\item2getmaintable³°
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpJ M(	
+%7*
+
+%5*
+
+%6*
+
+COUNT(*)2from½º
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpJ O(	
+%8*
+
+%7*
+visitor_id = :visitore_id2where¢
+Ÿ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item.phpJ O(		
+$select"__id*
+
+%8*
+2
+3:
+$customerId:
+
+$visitorIdB<:
+8magento\catalog\model\resourcemodel\product\compare\item

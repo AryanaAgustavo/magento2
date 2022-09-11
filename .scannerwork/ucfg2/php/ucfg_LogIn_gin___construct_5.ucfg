@@ -1,0 +1,87 @@
+
+)magento\adobeims\model\login::__constructg
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.php; ;("1*
+2
+	LogIn.php"~
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpG G(
+implicit return*ž
+1g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpB B(>à
+Ý
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.php; ;(
+$userProfileRepository"__id*R
+P
+$userProfileRepository6magento\adobeimsapi\api\userprofilerepositoryinterfaceÜ
+Ù
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.php; ;(
+$userProfileFactory"__id*Q
+O
+$userProfileFactory8magento\adobeimsapi\api\data\userprofileinterfacefactory¹
+¶
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.php; ;(
+	$getImage"__id*8
+6
+	$getImage)magento\adobeimsapi\api\getimageinterfaceÁ
+¾
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.php; ;(
+
+$encryptor"__id*?
+=
+
+$encryptor/magento\framework\encryption\encryptorinterfaceº
+·
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.php; ;(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetimeÉ
+Æ
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpB B(=9
+magento\adobeims\model\login"
+userProfileRepository"__id*
+
+$userProfileRepositoryÃ
+À
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpC C(76
+magento\adobeims\model\login"
+userProfileFactory"__id*
+
+$userProfileFactory³
+°
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpD D('0
+magento\adobeims\model\login"
+getUserImage"__id*
+
+	$getImage±
+®
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpE E(%-
+magento\adobeims\model\login"
+	encryptor"__id*
+
+
+$encryptor¯
+¬
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpF F(#,
+magento\adobeims\model\login"
+
+dateTime"__id*
+
+	$dateTime*
+2:P
+$userProfileRepository6magento\adobeimsapi\api\userprofilerepositoryinterface:O
+$userProfileFactory8magento\adobeimsapi\api\data\userprofileinterfacefactory:6
+	$getImage)magento\adobeimsapi\api\getimageinterface:=
+
+$encryptor/magento\framework\encryption\encryptorinterface:7
+	$dateTime*magento\framework\stdlib\datetime\datetimeB 
+magento\adobeims\model\login

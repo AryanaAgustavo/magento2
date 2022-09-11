@@ -1,0 +1,69 @@
+
+8magento\pagecache\observer\flushcachebytags::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Observer\FlushCacheByTags.php7 7("1*«
+2
+FlushCacheByTags.php"
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Observer\FlushCacheByTags.phpA A(
+implicit return*ã
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Observer\FlushCacheByTags.php= =(!¹
+¶
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Observer\FlushCacheByTags.php7 7(	
+$config"__id*+
+)
+$configmagento\pagecache\model\config¾
+»
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Observer\FlushCacheByTags.php7 7(
+$cache"__id*1
+/
+$cache%magento\framework\app\pagecache\cacheË
+È
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Observer\FlushCacheByTags.php7 7(
+$fullPageCache"__id*6
+4
+$fullPageCache"magento\pagecache\model\cache\typeÍ
+Ê
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Observer\FlushCacheByTags.php7 7(
+$tagResolver"__id*:
+8
+$tagResolver(magento\framework\app\cache\tag\resolverÊ
+Ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Observer\FlushCacheByTags.php= =( :-
++magento\pagecache\observer\flushcachebytags"	
+_config"__id*
+	
+$configÈ
+Å
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Observer\FlushCacheByTags.php> >(9-
++magento\pagecache\observer\flushcachebytags"
+_cache"__id*
+
+
+$cache×
+Ô
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Observer\FlushCacheByTags.php? ?(-@-
++magento\pagecache\observer\flushcachebytags"
+fullPageCache"__id*
+
+$fullPageCacheÓ
+Ð
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Observer\FlushCacheByTags.php@ @()>-
++magento\pagecache\observer\flushcachebytags"
+tagResolver"__id*
+
+$tagResolver*
+2:)
+$configmagento\pagecache\model\config:/
+$cache%magento\framework\app\pagecache\cache:4
+$fullPageCache"magento\pagecache\model\cache\type:8
+$tagResolver(magento\framework\app\cache\tag\resolverB/-
++magento\pagecache\observer\flushcachebytags

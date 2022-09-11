@@ -1,0 +1,96 @@
+
+Qmagento\cataloginventory\model\resourcemodel\stock\status::addstockstatustoselect†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpä ä(*"1*µ
+1†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpæ æ(<Ç
+Ä
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpä ä(*	
+$select"__id*(
+&
+$selectmagento\framework\db\selectÉ
+Æ
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpä ä(*
+
+$website"__id*)
+'
+$websitemagento\store\model\website§¤
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpæ) æ(:
+%1*
+
+
+$website2getidçä
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpæ æ(;
+%2*=;
+9magento\cataloginventory\model\resourcemodel\stock\status*
+
+%12getwebsiteid¨
+¥
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpæ æ(;
+
+$websiteId"__id*
+
+%2š—
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpè è(5
+%3"$ArrayßÜ
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpè è(4
+%4*=;
+9magento\cataloginventory\model\resourcemodel\stock\status2getmaintable¾
+»
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpè è(5
+%5"__mapSet*
+
+%3*
+stock_status*
+
+%4ô
+ñ
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpé é(]
+%6"__concat*FD
+Be.entity_id = stock_status.product_id AND stock_status.website_id=*
+
+
+$websiteIdš—
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpê ê(9
+%7"$ArrayÓ
+Ð
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpê ê(9
+%8"__mapSet*
+
+%7*
+
+is_salable*
+stock_status.stock_statusÁ¾
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpç ë(	
+%9*
+	
+$select*
+
+%3*
+
+%6*
+
+%72joinleft“
+
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpí í(@
+%109magento\cataloginventory\model\resourcemodel\stock\status"__id*=;
+9magento\cataloginventory\model\resourcemodel\stock\status"Í
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock\Status.phpí í(B
+@
+%109magento\cataloginventory\model\resourcemodel\stock\status:&
+$selectmagento\framework\db\select:'
+$websitemagento\store\model\websiteB=;
+9magento\cataloginventory\model\resourcemodel\stock\status

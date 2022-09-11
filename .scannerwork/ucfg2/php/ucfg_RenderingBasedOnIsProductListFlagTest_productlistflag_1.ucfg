@@ -1,0 +1,84 @@
+
+‰magento\configurableproduct\pricing\render\finalpricebox\renderingbasedonisproductlistflagtest::testrenderingaccordingtoisproductlistflagÁ
+¶C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Pricing\Render\FinalPriceBox\RenderingBasedOnIsProductListFlagTest.phps s(="1*Ž
+2+
+)RenderingBasedOnIsProductListFlagTest.php"Û
+Ã
+¶C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Pricing\Render\FinalPriceBox\RenderingBasedOnIsProductListFlagTest.php† †(
+implicit return*é
+1Á
+¶C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Pricing\Render\FinalPriceBox\RenderingBasedOnIsProductListFlagTest.phpu u(@Ê
+Ç
+Á
+¶C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Pricing\Render\FinalPriceBox\RenderingBasedOnIsProductListFlagTest.phpu u(
+%1"__id*u*s`
+^magento\configurableproduct\pricing\render\finalpricebox\renderingbasedonisproductlistflagtest"
+finalPriceBoxþû
+Á
+¶C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Pricing\Render\FinalPriceBox\RenderingBasedOnIsProductListFlagTest.phpu u(?
+%2*
+
+%1*
+is_product_list*	
+
+$flag2setdataÊ
+Ç
+Á
+¶C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Pricing\Render\FinalPriceBox\RenderingBasedOnIsProductListFlagTest.phpv v($
+%3"__id*u*s`
+^magento\configurableproduct\pricing\render\finalpricebox\renderingbasedonisproductlistflagtest"
+finalPriceBoxÝÚ
+Á
+¶C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Pricing\Render\FinalPriceBox\RenderingBasedOnIsProductListFlagTest.phpv v(.
+%4*
+
+%32tohtmlÞ
+Û
+Á
+¶C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Pricing\Render\FinalPriceBox\RenderingBasedOnIsProductListFlagTest.phpv v(.
+$html"__id*
+
+%4Â
+¿
+Á
+¶C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Pricing\Render\FinalPriceBox\RenderingBasedOnIsProductListFlagTest.phpw w(7
+%5"zmagento\configurableproduct\pricing\render\finalpricebox\renderingbasedonisproductlistflagtest::assertstringcontainsstring*b"`
+^magento\configurableproduct\pricing\render\finalpricebox\renderingbasedonisproductlistflagtest*
+5.99*	
+
+$htmlè
+å
+Á
+¶C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Pricing\Render\FinalPriceBox\RenderingBasedOnIsProductListFlagTest.phpz }(
+%6"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*(&
+$//*[contains(@class,"normal-price")]*	
+
+$htmlÍÊ
+Á
+¶C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Pricing\Render\FinalPriceBox\RenderingBasedOnIsProductListFlagTest.phpx ~(	
+%7*b`
+^magento\configurableproduct\pricing\render\finalpricebox\renderingbasedonisproductlistflagtest*2*
+
+%62assertequalsç
+ä
+Ã
+¶C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Pricing\Render\FinalPriceBox\RenderingBasedOnIsProductListFlagTest.php „(
+%8"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*%#
+!//*[contains(@class,"old-price")]*	
+
+$htmlÔÑ
+Â
+¶C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Pricing\Render\FinalPriceBox\RenderingBasedOnIsProductListFlagTest.php …(	
+%9*b`
+^magento\configurableproduct\pricing\render\finalpricebox\renderingbasedonisproductlistflagtest*
+
+
+$count*
+
+%82assertequals*
+2:
+$flag:
+$countBb`
+^magento\configurableproduct\pricing\render\finalpricebox\renderingbasedonisproductlistflagtest

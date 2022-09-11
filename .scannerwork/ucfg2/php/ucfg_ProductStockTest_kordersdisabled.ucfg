@@ -1,0 +1,51 @@
+
+gmagento\catalogimportexport\model\import\producttest\productstocktest::testimportwithbackordersdisabled™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpë ë(4"1*‡
+2
+ProductStockTest.php"¬
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpñ ñ(
+implicit return*„
+1™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpì ì([–Õ
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpì ì(Z
+%1*IG
+Emagento\catalogimportexport\model\import\producttest\productstocktest*A?
+=products_to_import_with_backorders_disabled_and_not_0_qty.csv2
+importfile¢ü
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpî î(7
+%2*IG
+Emagento\catalogimportexport\model\import\producttest\productstocktest*
+
+simple_new2getproductbysku 
+«
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpî î(7
+
+$product"__id*
+
+%2ÒÓ
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpï ï(N
+%3*
+
+
+$product*
+quantity_and_stock_status2getdatabykeyŸ
+÷
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpï ï(]
+%4"__mapGet*
+
+%3*
+is_in_stockñì
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpï ï(^
+%5*IG
+Emagento\catalogimportexport\model\import\producttest\productstocktest*
+
+%42assertfalse*
+2BIG
+Emagento\catalogimportexport\model\import\producttest\productstocktest

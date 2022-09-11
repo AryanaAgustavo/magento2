@@ -1,0 +1,67 @@
+
+Umagento\graphql\cataloginventory\addproducttocarttest::testaddmoreproductsthatallowedõ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\AddProductToCartTest.php7 7(2"1*’
+2
+AddProductToCartTest.php"≥
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\AddProductToCartTest.phpC C(
+implicit return*°
+1õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\AddProductToCartTest.php9 9(.—
+Œ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\AddProductToCartTest.php9 9(-
+$sku"__id* 
+custom-design-simple-product∫
+∑
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\AddProductToCartTest.php: :(
+	$quantity"__id*2è
+å
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\AddProductToCartTest.php; ;(A
+%1"__id*`*^7
+5magento\graphql\cataloginventory\addproducttocarttest"#
+!getMaskedQuoteIdByReservedOrderId «
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\AddProductToCartTest.php; ;(Z
+%2*
+
+%1*
+test_order_12execute¡
+æ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\AddProductToCartTest.php; ;(Z
+$maskedQuoteId"__id*
+
+%2ÍÁ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\AddProductToCartTest.php= ?(	
+%3*97
+5magento\graphql\cataloginventory\addproducttocarttest*ge
+c/The most you may purchase is 5|The requested qty exceeds the maximum qty allowed in shopping cart/2expectexceptionmessagematchesôñ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\AddProductToCartTest.phpA A(A
+%4*97
+5magento\graphql\cataloginventory\addproducttocarttest*
+
+$maskedQuoteId*
+
+$sku*
+
+	$quantity2getqueryπ
+∂
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\AddProductToCartTest.phpA A(A
+$query"__id*
+
+%4ˇ¸
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\AddProductToCartTest.phpB B(&
+%5*97
+5magento\graphql\cataloginventory\addproducttocarttest*
+
+
+$query2graphqlmutation*
+2B97
+5magento\graphql\cataloginventory\addproducttocarttest

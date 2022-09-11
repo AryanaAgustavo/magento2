@@ -1,0 +1,215 @@
+
+omagento\releasenotification\test\unit\model\contentprovider\http\httpcontentprovidertest::testgetcontentfailure§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpV V()"1*·
+2
+HttpContentProviderTest.php"º
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpj j(
+implicit return*µ9
+1§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpX X(«
+ƒ
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpX X(
+
+$version"__id*	
+2.3.5À
+»
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpY Y(
+
+$edition"__id*
+	Community∆
+√
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpZ Z(	
+$locale"__id*	
+fr_FRû
+õ
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.php[ [(c
+%1"__concat* 
+https://content.url.example/*
+
+
+$version*
+/*
+
+
+$edition*
+/*
+	
+$locale*	
+.json¿
+Ω
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.php[ [(c
+$url"__id*
+
+%1®
+•
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.php] ](
+%2"__id*p*nZ
+Xmagento\releasenotification\test\unit\model\contentprovider\http\httpcontentprovidertest"
+urlBuilderMockìê
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.php]' ](3
+%3*\Z
+Xmagento\releasenotification\test\unit\model\contentprovider\http\httpcontentprovidertest2any…∆
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.php] ](4
+%4*
+
+%2*
+
+%32expectsÃ…
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.php] ^(
+%5*
+
+%4*
+
+getUrl2methodÁ‰
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.php] _(/
+%6*
+
+%5*
+
+
+$version*
+
+
+$edition*
+	
+$locale2withŒÀ
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.php] `(
+%7*
+
+%6*
+
+$url2
+willreturn®
+•
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpa a(
+%8"__id*p*nZ
+Xmagento\releasenotification\test\unit\model\contentprovider\http\httpcontentprovidertest"
+httpClientMockîë
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpa' a(4
+%9*\Z
+Xmagento\releasenotification\test\unit\model\contentprovider\http\httpcontentprovidertest2once «
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpa a(5
+%10*
+
+%8*
+
+%92expectsÀ»
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpa b(
+%11*
+
+%10*
+get2method «
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpa c(
+%12*
+
+%11*
+
+$url2withºπ
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpd! d(1
+%13"	exception“
+œ
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpd! d(1
+%14"exception::__construct*
+
+%13◊‘
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpa d(2
+%15*
+
+%12*
+
+%132willthrowexception©
+¶
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpe e(
+%16"__id*p*nZ
+Xmagento\releasenotification\test\unit\model\contentprovider\http\httpcontentprovidertest"
+httpClientMockñì
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpe' e(5
+%17*\Z
+Xmagento\releasenotification\test\unit\model\contentprovider\http\httpcontentprovidertest2neverÃ…
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpe e(6
+%18*
+
+%16*
+
+%172expectsœÃ
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpe e(I
+%19*
+
+%18*	
+getBody2method•
+¢
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpf f(
+%20"__id*l*jZ
+Xmagento\releasenotification\test\unit\model\contentprovider\http\httpcontentprovidertest"
+
+loggerMockïí
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpf# f(0
+%21*\Z
+Xmagento\releasenotification\test\unit\model\contentprovider\http\httpcontentprovidertest2onceÃ…
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpf f(1
+%22*
+
+%20*
+
+%212expectsœÃ
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpf g(
+%23*
+
+%22*	
+warning2methodÆ
+´
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpi i(5
+%24"__id*u*sZ
+Xmagento\releasenotification\test\unit\model\contentprovider\http\httpcontentprovidertest"
+httpContentProviderÔÏ
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpi i(^
+%25*
+
+%24*
+
+
+$version*
+
+
+$edition*
+	
+$locale2
+getcontent•¢
+§
+ôC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Test\Unit\Model\ContentProvider\Http\HttpContentProviderTest.phpi i(_
+%26*\Z
+Xmagento\releasenotification\test\unit\model\contentprovider\http\httpcontentprovidertest*
+
+%252assertfalse*
+2B\Z
+Xmagento\releasenotification\test\unit\model\contentprovider\http\httpcontentprovidertest

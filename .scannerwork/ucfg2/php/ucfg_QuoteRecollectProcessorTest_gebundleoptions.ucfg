@@ -1,0 +1,109 @@
+
+`magento\bundle\model\quoterecollectprocessortest::testmarkquoterecollectafterchangebundleoptions“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.php: :(B"1*Ô
+2!
+QuoteRecollectProcessorTest.php"«
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.phpD D(
+implicit return*¶
+1“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.php? ?(ZÈ
+Å
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.php: :(B
+$optionsData"__id*
+
+$optionsDataarrayÎ
+Ë
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.php: :(B
+$selectionsData"__id*
+
+$selectionsDataarrayã
+à
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.php: :(B
+$expectedTriggerRecollect"__id*%
+#
+$expectedTriggerRecollectstringú
+÷
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.php? ?(1
+%1"__id*S*Q2
+0magento\bundle\model\quoterecollectprocessortest"
+getQuoteByReservedOrderIdÑÎ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.php? ?(Y
+%2*
+
+%1*
+test_cart_with_fixed_bundle2execute±
+®
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.php? ?(Y
+$quote"__id*
+
+%2À½
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.php@! @(>
+%3*
+
+
+$quote2gettriggerrecollectº
+·
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.php@ @(>
+%4"__sanitizing_cast*
+
+%3êç
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.php@ @(?
+%5*42
+0magento\bundle\model\quoterecollectprocessortest*
+
+%42assertfalse½º
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.phpA A(k
+%6*42
+0magento\bundle\model\quoterecollectprocessortest**(
+&fixed_bundle_product_without_discounts*
+
+$optionsData*
+
+$selectionsData2updatebundleproductú
+÷
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.phpB B(8
+%7"__id*S*Q2
+0magento\bundle\model\quoterecollectprocessortest"
+getQuoteByReservedOrderIdÑÎ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.phpB B(`
+%8*
+
+%7*
+test_cart_with_fixed_bundle2execute¸
+µ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.phpB B(`
+$updatedQuote"__id*
+
+%8ÇÄ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.phpC7 C([
+%9*
+
+$updatedQuote2gettriggerrecollect‹ˆ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\QuoteRecollectProcessorTest.phpC C(\
+%10*42
+0magento\bundle\model\quoterecollectprocessortest*
+
+$expectedTriggerRecollect*
+
+%92assertequals*
+2:
+$optionsDataarray:
+$selectionsDataarray:#
+$expectedTriggerRecollectstringB42
+0magento\bundle\model\quoterecollectprocessortest

@@ -1,0 +1,26 @@
+
+Imagento\graphql\giftmessage\order\giftmessagetest::getcustomerordersquery—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Order\GiftMessageTest.php[ [(+"1*Â
+1—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Order\GiftMessageTest.php] j(ý
+ú
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Order\GiftMessageTest.php] j(
+%1"__id*ÑÎ
+Ëquery {
+    customerOrders {
+        items {
+            order_number
+            gift_message {
+                to
+                from
+                message
+            }
+        }
+    }
+}"¢
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Order\GiftMessageTest.php] j(
+
+%1B53
+1magento\graphql\giftmessage\order\giftmessagetest

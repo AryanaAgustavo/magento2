@@ -1,0 +1,109 @@
+
+4magento\adobeims\block\adminhtml\signin::__constructr
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpL L("1*ù
+2
+
+SignIn.php"â
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.php[ [(
+implicit return*˝
+1r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpU U( ø
+º
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpL L(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\contextæ
+ª
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpL L(	
+$config"__id*4
+2
+$config'magento\adobeimsapi\api\configinterface—
+Œ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpL L(
+$userContext"__id*B
+@
+$userContext0magento\authorization\model\usercontextinterface÷
+”
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpL L(
+$userAuthorized"__id*D
+B
+$userAuthorized/magento\adobeimsapi\api\userauthorizedinterfaceÎ
+Ë
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpL L(
+$userProfileRepository"__id*R
+P
+$userProfileRepository6magento\adobeimsapi\api\userprofilerepositoryinterfaceƒ
+¡
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpL L(
+$json"__id*<
+:
+$json1magento\framework\serialize\serializer\jsonhextagò
+ï
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpL L(
+$data"__id*
+
+$dataarray¡
+æ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpU U(5)
+'magento\adobeims\block\adminhtml\signin"
+config"__id*
+	
+$configÀ
+»
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpV V():)
+'magento\adobeims\block\adminhtml\signin"
+userContext"__id*
+
+$userContext—
+Œ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpW W(/=)
+'magento\adobeims\block\adminhtml\signin"
+userAuthorized"__id*
+
+$userAuthorizedﬂ
+‹
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpX X(=D)
+'magento\adobeims\block\adminhtml\signin"
+userProfileRepository"__id*
+
+$userProfileRepository√
+¿
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpY Y(!9)
+'magento\adobeims\block\adminhtml\signin"
+
+serializer"__id*	
+
+$json
+Ì
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Block\Adminhtml\SignIn.phpZ Z(,
+%1"+magento\backend\block\template::__construct*+)
+'magento\adobeims\block\adminhtml\signin*
+
+
+$context*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:2
+$config'magento\adobeimsapi\api\configinterface:@
+$userContext0magento\authorization\model\usercontextinterface:B
+$userAuthorized/magento\adobeimsapi\api\userauthorizedinterface:P
+$userProfileRepository6magento\adobeimsapi\api\userprofilerepositoryinterface::
+$json1magento\framework\serialize\serializer\jsonhextag:
+$dataarrayB+)
+'magento\adobeims\block\adminhtml\signin

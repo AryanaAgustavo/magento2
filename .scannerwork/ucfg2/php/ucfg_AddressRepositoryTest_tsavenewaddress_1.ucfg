@@ -1,0 +1,193 @@
+
+>magento\customer\api\addressrepositorytest::testsavenewaddress
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php™ ™(&"1*Ê
+2
+AddressRepositoryTest.php"§
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php­ ­(
+implicit return*1
+1
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php› ›(KáÞ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php› ›(8
+%1*.,
+*magento\customer\api\addressrepositorytest2_createsecondaddress¸µ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php› ›(J
+%2*
+
+%1*22setcustomerid·
+´
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php› ›(J
+$proposedAddress"__id*
+
+%2á
+Þ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php (,
+%3"__id*>*<,
+*magento\customer\api\addressrepositorytest"
+
+repository¿¼
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php (D
+%4*
+
+%3*
+
+$proposedAddress2save·
+´
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php (D
+$returnedAddress"__id*
+
+%4¸µ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.phpž ž(6
+%5*
+
+$returnedAddress2getidâß
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.phpž ž(7
+%6*.,
+*magento\customer\api\addressrepositorytest*
+
+%52assertnotnullá
+Þ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php   ()
+%7"__id*>*<,
+*magento\customer\api\addressrepositorytest"
+
+repository¸µ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php 3  (L
+%8*
+
+$returnedAddress2getid´±
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php   (M
+%9*
+
+%7*
+
+%82getbyid´
+±
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php   (M
+$savedAddress"__id*
+
+%9ê
+ç
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php¢ ¢(7
+%10"__id*F*D,
+*magento\customer\api\addressrepositorytest"
+_expectedAddresses·
+´
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php¢ ¢(:
+%11"
+__arrayGet*
+
+%10*2»
+¸
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php¢ ¢(:
+$expectedNewAddress"__id*
+
+%11¶³
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php£# £(9
+%12*
+
+$savedAddress2getidÅÂ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php£ £(:
+%13*
+
+$expectedNewAddress*
+
+%122setidê
+ç
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php¤' ¤(@
+%14"__id*F*D,
+*magento\customer\api\addressrepositorytest"
+_expectedAddresses·
+´
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php¤' ¤(C
+%15"
+__arrayGet*
+
+%14*2°­
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php¤' ¤(P
+%16*
+
+%152	getregionÉÆ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php¤ ¤(Q
+%17*
+
+$expectedNewAddress*
+
+%162	setregionÍÊ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php¦ ¦(I
+%18*
+
+$expectedNewAddress2getextensionattributesÇÄ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php¦K ¦(r
+%19*
+
+$savedAddress2getextensionattributesìé
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php¦ ¦(s
+%20*.,
+*magento\customer\api\addressrepositorytest*
+
+%18*
+
+%192assertequalsÀ½
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php¨ ¨(,
+%21*
+
+$expectedNewAddress2	getregion½º
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php¨ ¨(F
+%22*
+
+%212getextensionattributesº·
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php© ©(&
+%23*
+
+$savedAddress2	getregion½º
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php© ©(@
+%24*
+
+%232getextensionattributesìé
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php§ ª(	
+%25*.,
+*magento\customer\api\addressrepositorytest*
+
+%22*
+
+%242assertequals†ƒ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Api\AddressRepositoryTest.php¬ ¬(?
+%26*.,
+*magento\customer\api\addressrepositorytest*
+
+$expectedNewAddress*
+
+$savedAddress2assertequals*
+2B.,
+*magento\customer\api\addressrepositorytest

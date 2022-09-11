@@ -1,0 +1,228 @@
+
+Qmagento\catalog\controller\adminhtml\product\gallery\uploadtest::testuploadaction¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpN N($"1*“
+2
+UploadTest.php"∫
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.php] ](
+implicit return*¯=
+1¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpP P(*…
+∆
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpN N($
+$file"__id*
+
+$filearray◊
+‘
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpN N($
+$expectation"__id*
+
+$expectationarrayìê
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpP P()
+%1*CA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest*	
+
+$file2copyfiletosystmpdirˇ¸
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpQ Q(
+%2*CA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest2
+getrequestâ
+Ü
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpQ' Q(8
+%3"__id*S*QA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest"
+
+httpMethod…∆
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpQ Q(9
+%4*
+
+%2*
+
+%32	setmethodÇ
+ˇ
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpR R("
+%5"__id*L*JA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest"
+uriÖÇ
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpR R(#
+%6*CA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest*
+
+%52dispatchâ
+Ü
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpS S(%
+%7"__id*S*QA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest"
+
+serializerÄ˝
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpS3 S(G
+%8*CA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest2getresponseøº
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpS3 S(R
+%9*
+
+%82getbodyÃ…
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpS S(S
+%10*
+
+%7*
+
+%92unserializeƒ
+¡
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpS S(S
+	$jsonBody"__id*
+
+%10“
+œ
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpT T(-
+%11"__mapGet*
+
+	$jsonBody*
+name’
+“
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpT/ T(C
+%12"__mapGet*
+
+$expectation*
+nameîë
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpT T(D
+%13*CA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest*
+
+%11*
+
+%122assertequals“
+œ
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpU U(-
+%14"__mapGet*
+
+	$jsonBody*
+type’
+“
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpU/ U(C
+%15"__mapGet*
+
+$expectation*
+typeîë
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpU U(D
+%16*CA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest*
+
+%14*
+
+%152assertequals“
+œ
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpV V(-
+%17"__mapGet*
+
+	$jsonBody*
+file’
+“
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpV/ V(C
+%18"__mapGet*
+
+$expectation*
+fileîë
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpV V(D
+%19*CA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest*
+
+%17*
+
+%182assertequals—
+Œ
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpW W(,
+%20"__mapGet*
+
+	$jsonBody*
+url‘
+—
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpW. W(A
+%21"__mapGet*
+
+$expectation*
+urlîë
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpW W(B
+%22*CA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest*
+
+%20*
+
+%212assertequals§°
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpX X(7
+%23*CA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest*	
+error*
+
+	$jsonBody2assertarraynothaskey®•
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpY Y(;
+%24*CA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest*
+	errorcode*
+
+	$jsonBody2assertarraynothaskeyé
+ã
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpZ Z(/
+%25"__id*W*UA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest"
+mediaDirectoryﬂ
+‹
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.php[' [(E
+%26"__mapGet*
+
+$expectation*
+tmp_media_pathíè
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.php[ [(F
+%27*CA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest*
+
+%262getfileabsolutepath «
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpZ \(	
+%28*
+
+%25*
+
+%272isexistâÜ
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\Gallery\UploadTest.phpZ \(
+
+%29*CA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest*
+
+%282
+asserttrue*
+2:
+$filearray:
+$expectationarrayBCA
+?magento\catalog\controller\adminhtml\product\gallery\uploadtest

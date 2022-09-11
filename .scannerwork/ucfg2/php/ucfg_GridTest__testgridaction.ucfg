@@ -1,0 +1,81 @@
+
+@magento\user\controller\adminhtml\locks\gridtest::testgridaction“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\GridTest.php (""1*Á
+2
+GridTest.php"«
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\GridTest.php) )(
+implicit return*Û
+1“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\GridTest.php (4ýú
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\GridTest.php (3
+%1*42
+0magento\user\controller\adminhtml\locks\gridtest*
+backend/admin/locks/grid2dispatchâß
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\GridTest.php ($
+%2*42
+0magento\user\controller\adminhtml\locks\gridtest2getresponse°­
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\GridTest.php (/
+%3*
+
+%22getbody°
+­
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\GridTest.php (/
+$body"__id*
+
+%3˜•
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\GridTest.php (J
+%4*42
+0magento\user\controller\adminhtml\locks\gridtest*
+data-column="username"*	
+
+$body2assertstringcontainsstringš—
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\GridTest.php (L
+%5*42
+0magento\user\controller\adminhtml\locks\gridtest*
+data-column="last_login"*	
+
+$body2assertstringcontainsstringš—
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\GridTest.php (L
+%6*42
+0magento\user\controller\adminhtml\locks\gridtest*
+data-column="last_login"*	
+
+$body2assertstringcontainsstringœ™
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\GridTest.php (N
+%7*42
+0magento\user\controller\adminhtml\locks\gridtest*
+data-column="failures_num"*	
+
+$body2assertstringcontainsstringœ™
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\GridTest.php   (N
+%8*42
+0magento\user\controller\adminhtml\locks\gridtest*
+data-column="lock_expires"*	
+
+$body2assertstringcontainsstringìé
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\GridTest.php! $(	
+%9*42
+0magento\user\controller\adminhtml\locks\gridtest*jh
+f/<td data-column\="username"\s*class\="[^"]*col-name[^"]*col-username[^"]*"\s*>\s*adminUser1\s*<\/td>/*	
+
+$body2assertmatchesregularexpressioníê
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\GridTest.php% ((	
+%10*42
+0magento\user\controller\adminhtml\locks\gridtest*jh
+f/<td data-column\="username"\s*class\="[^"]*col-name[^"]*col-username[^"]*"\s*>\s*adminUser2\s*<\/td>/*	
+
+$body2assertmatchesregularexpression*
+2B42
+0magento\user\controller\adminhtml\locks\gridtest

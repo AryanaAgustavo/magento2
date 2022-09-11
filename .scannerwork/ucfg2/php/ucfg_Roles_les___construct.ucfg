@@ -1,0 +1,88 @@
+
+3magento\user\block\user\edit\tab\roles::__constructq
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Block\User\Edit\Tab\Roles.php+ +("1*›
+2
+	Roles.php"ˆ
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Block\User\Edit\Tab\Roles.php7 7(
+implicit return*’
+1q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Block\User\Edit\Tab\Roles.php3 3(+¾
+»
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Block\User\Edit\Tab\Roles.php+ +(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\context¿
+¼
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Block\User\Edit\Tab\Roles.php+ +(
+$backendHelper"__id*/
+-
+$backendHelpermagento\backend\helper\dataÇ
+Ä
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Block\User\Edit\Tab\Roles.php+ +(
+$jsonEncoder"__id*9
+7
+$jsonEncoder'magento\framework\json\encoderinterfaceê
+ç
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Block\User\Edit\Tab\Roles.php+ +(
+$userRolesFactory"__id*W
+U
+$userRolesFactory@magento\authorization\model\resourcemodel\role\collectionfactory¼
+¹
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Block\User\Edit\Tab\Roles.php+ +(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registry—
+”
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Block\User\Edit\Tab\Roles.php+ +(
+$data"__id*
+
+$dataarrayÊ
+Ç
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Block\User\Edit\Tab\Roles.php3 3(*:(
+&magento\user\block\user\edit\tab\roles"
+_jsonEncoder"__id*
+
+$jsonEncoderÔ
+Ñ
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Block\User\Edit\Tab\Roles.php4 4(4?(
+&magento\user\block\user\edit\tab\roles"
+_userRolesFactory"__id*
+
+$userRolesFactoryÌ
+É
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Block\User\Edit\Tab\Roles.php5 5(,;(
+&magento\user\block\user\edit\tab\roles"
+_coreRegistry"__id*
+
+$coreRegistryŽ
+‹
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Block\User\Edit\Tab\Roles.php6 6(<
+%1"7magento\backend\block\widget\grid\extended::__construct**(
+&magento\user\block\user\edit\tab\roles*
+
+
+$context*
+
+$backendHelper*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:-
+$backendHelpermagento\backend\helper\data:7
+$jsonEncoder'magento\framework\json\encoderinterface:U
+$userRolesFactory@magento\authorization\model\resourcemodel\role\collectionfactory:+
+$coreRegistrymagento\framework\registry:
+$dataarrayB*(
+&magento\user\block\user\edit\tab\roles

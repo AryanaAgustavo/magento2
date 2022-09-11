@@ -1,0 +1,58 @@
+
+Amagento\captcha\observer\resetattemptforfrontendobserver::executeƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\ResetAttemptForFrontendObserver.php) )("1*”
+1ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\ResetAttemptForFrontendObserver.php, ,('Í
+Ê
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\ResetAttemptForFrontendObserver.php) )(
+	$observer"__id*/
+-
+	$observer magento\framework\event\observer¨¥
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\ResetAttemptForFrontendObserver.php, ,(&
+%1*
+
+	$observer2getmodel¡
+ž
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\ResetAttemptForFrontendObserver.php, ,(&
+$model"__id*
+
+%1æ
+ã
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\ResetAttemptForFrontendObserver.php. .(#
+%2"__id*O*M:
+8magento\captcha\observer\resetattemptforfrontendobserver"
+resLogFactoryŸœ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\ResetAttemptForFrontendObserver.php. .(-
+%3*
+
+%22create¥¢
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\ResetAttemptForFrontendObserver.php.B .(T
+%4*
+
+
+$model2getemail³°
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\ResetAttemptForFrontendObserver.php. .(U
+%5*
+
+%3*
+
+%42deleteuserattemptsÆ
+Ã
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\ResetAttemptForFrontendObserver.php. .(V-
+%6'magento\captcha\model\resourcemodel\log"__id*
+
+%5"·
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\ResetAttemptForFrontendObserver.php. .(V/
+-
+%6'magento\captcha\model\resourcemodel\log:-
+	$observer magento\framework\event\observerB<:
+8magento\captcha\observer\resetattemptforfrontendobserver

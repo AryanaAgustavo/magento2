@@ -1,0 +1,94 @@
+
+:magento\framework\filesystem\directory\writetest::testcopyï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpÜ Ü("1*ƒ
+2
+WriteTest.php"≠
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpé é(
+implicit return*Ì
+1ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpà à(Jéã
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpà à(I
+%1*42
+0magento\framework\filesystem\directory\writetest*
+
+	$basePath*
+
+$permissions2getdirectoryinstance∑
+¥
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpà à(I
+
+$directory"__id*
+
+%1ŒÀ
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpâ â(1
+%2*
+
+
+$directory*	
+
+$name*
+w+2openfile≤
+Ø
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpâ â(1
+$file"__id*
+
+%2≥∞
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpä ä(
+%3*	
+
+$file2close‘—
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpã ã(-
+%4*
+
+
+$directory*	
+
+$name*
+
+
+$newName2copyfile≈¬
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpå å(4
+%5*
+
+
+$directory*	
+
+$name2isexistÎË
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpå å(5
+%6*42
+0magento\framework\filesystem\directory\writetest*
+
+%52
+asserttrue»≈
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpç ç(7
+%7*
+
+
+$directory*
+
+
+$newName2isexistÎË
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpç ç(8
+%8*42
+0magento\framework\filesystem\directory\writetest*
+
+%72
+asserttrue*
+2:
+	$basePath:
+$permissions:
+$name:
+
+$newNameB42
+0magento\framework\filesystem\directory\writetest

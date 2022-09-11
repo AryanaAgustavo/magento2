@@ -1,0 +1,53 @@
+
+Bmagento\user\controller\adminhtml\locks\indextest::testindexaction”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\IndexTest.php (#"1*Ã
+2
+IndexTest.php"¬
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\IndexTest.php$ $(
+implicit return*‚
+1”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\IndexTest.php (5€ý
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\IndexTest.php (4
+%1*53
+1magento\user\controller\adminhtml\locks\indextest*
+backend/admin/locks/index2dispatchäá
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\IndexTest.php ($
+%2*53
+1magento\user\controller\adminhtml\locks\indextest2getresponse±®
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\IndexTest.php (/
+%3*
+
+%22getbody±
+®
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\IndexTest.php (/
+$body"__id*
+
+%3¬©
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\IndexTest.php (\
+%4*53
+1magento\user\controller\adminhtml\locks\indextest*,*
+(<h1 class="page-title">Locked Users</h1>*	
+
+$body2assertstringcontainsstringîë
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\IndexTest.php (	
+%5*53
+1magento\user\controller\adminhtml\locks\indextest*jh
+f/<td data-column\="username"\s*class\="[^"]*col-name[^"]*col-username[^"]*"\s*>\s*adminUser1\s*<\/td>/*	
+
+$body2assertmatchesregularexpressionîë
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\Locks\IndexTest.php  #(	
+%6*53
+1magento\user\controller\adminhtml\locks\indextest*jh
+f/<td data-column\="username"\s*class\="[^"]*col-name[^"]*col-username\s*"[^"]*>\s*adminUser2\s*<\/td>/*	
+
+$body2assertmatchesregularexpression*
+2B53
+1magento\user\controller\adminhtml\locks\indextest

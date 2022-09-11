@@ -1,0 +1,85 @@
+
+Pmagento\graphql\catalog\categoriesquery\categoriesfiltertest::testnoresultsfound¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesFilterTest.php½ ½(&"1*Þ
+2
+CategoriesFilterTest.php"¼
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesFilterTest.phpÓ Ó(
+implicit return*ž
+1¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesFilterTest.php¿ Î(Ö
+Ó
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesFilterTest.php¿ Î(
+$query"__id*™–
+“{
+    categories(filters: {url_key: {in: ["inactive", "does-not-exist"]}}){
+        items{
+            id
+            uid
+            name
+            url_key
+            url_path
+            children_count
+            path
+            position
+        }
+    }
+}Œ‰
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesFilterTest.phpÏ Ï(-
+%1*@>
+<magento\graphql\catalog\categoriesquery\categoriesfiltertest*
+
+
+$query2graphqlqueryÃ
+À
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesFilterTest.phpÏ Ï(-	
+$result"__id*
+
+%1¡ž
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesFilterTest.phpÐ Ð(6
+%2*@>
+<magento\graphql\catalog\categoriesquery\categoriesfiltertest*
+
+errors*
+	
+$result2assertarraynothaskey¢Ÿ
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesFilterTest.phpÑ Ñ(7
+%3*@>
+<magento\graphql\catalog\categoriesquery\categoriesfiltertest*
+
+categories*
+	
+$result2assertarrayhaskey¸µ
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesFilterTest.phpÒ Ò(
+%4"$Array×
+Ô
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesFilterTest.phpÒ  Ò(5
+%5"__mapGet*
+	
+$result*
+
+categoriesÍ
+Ê
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesFilterTest.phpÒ  Ò(>
+%6"__mapGet*
+
+%5*	
+items
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesFilterTest.phpÒ Ò(?
+%7*@>
+<magento\graphql\catalog\categoriesquery\categoriesfiltertest*
+
+%4*
+
+%62assertequals*
+2B@>
+<magento\graphql\catalog\categoriesquery\categoriesfiltertest

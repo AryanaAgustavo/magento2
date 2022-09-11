@@ -1,0 +1,110 @@
+
+[magento\cataloggraphql\dataprovider\product\layerednavigation\builder\category::__constructö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpW W("1*»
+2
+Category.php"≤
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpg g(
+implicit return*ò"
+1ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.php` `(@©
+¶
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpW W(
+$categoryAttributeQuery"__id*f
+d
+$categoryAttributeQueryImagento\cataloggraphql\dataprovider\category\query\categoryattributequeryê
+ç
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpW W(
+$attributesMapper"__id*S
+Q
+$attributesMapper<magento\cataloggraphql\dataprovider\categoryattributesmapperÆ
+´
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpW W(
+$rootCategoryProvider"__id*m
+k
+$rootCategoryProviderRmagento\cataloggraphql\dataprovider\product\layerednavigation\rootcategoryproviderÄ
+˝
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpW W(
+$resourceConnection"__id*A
+?
+$resourceConnection(magento\framework\app\resourceconnection¶
+£
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpW W(
+$layerFormatter"__id*k
+i
+$layerFormatterVmagento\cataloggraphql\dataprovider\product\layerednavigation\formatter\layerformatter›
+⁄
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpW W(
+$includeDirectChildrenOnly"__id*ñ
+ì
+$includeDirectChildrenOnlyumagento\cataloggraphql\dataprovider\product\layerednavigation\builder\aggregations\category\includedirectchildrenonly§
+°
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpW W(
+$categoryCollectionFactory"__id*^
+\
+$categoryCollectionFactory>magento\catalog\model\resourcemodel\category\collectionfactory±
+Æ
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.php` `(?lP
+Nmagento\cataloggraphql\dataprovider\product\layerednavigation\builder\category"
+categoryAttributeQuery"__id*
+
+$categoryAttributeQuery•
+¢
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpa a(3fP
+Nmagento\cataloggraphql\dataprovider\product\layerednavigation\builder\category"
+attributesMapper"__id*
+
+$attributesMapper©
+¶
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpb b(7hP
+Nmagento\cataloggraphql\dataprovider\product\layerednavigation\builder\category"
+resourceConnection"__id*
+
+$resourceConnection≠
+™
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpc c(;jP
+Nmagento\cataloggraphql\dataprovider\product\layerednavigation\builder\category"
+rootCategoryProvider"__id*
+
+$rootCategoryProvider°
+û
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpd d(/dP
+Nmagento\cataloggraphql\dataprovider\product\layerednavigation\builder\category"
+layerFormatter"__id*
+
+$layerFormatter∑
+¥
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpe e(EoP
+Nmagento\cataloggraphql\dataprovider\product\layerednavigation\builder\category"
+includeDirectChildrenOnly"__id*
+
+$includeDirectChildrenOnly∑
+¥
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\DataProvider\Product\LayeredNavigation\Builder\Category.phpf f(EoP
+Nmagento\cataloggraphql\dataprovider\product\layerednavigation\builder\category"
+categoryCollectionFactory"__id*
+
+$categoryCollectionFactory*
+2:d
+$categoryAttributeQueryImagento\cataloggraphql\dataprovider\category\query\categoryattributequery:Q
+$attributesMapper<magento\cataloggraphql\dataprovider\categoryattributesmapper:k
+$rootCategoryProviderRmagento\cataloggraphql\dataprovider\product\layerednavigation\rootcategoryprovider:?
+$resourceConnection(magento\framework\app\resourceconnection:i
+$layerFormatterVmagento\cataloggraphql\dataprovider\product\layerednavigation\formatter\layerformatter:ì
+$includeDirectChildrenOnlyumagento\cataloggraphql\dataprovider\product\layerednavigation\builder\aggregations\category\includedirectchildrenonly:\
+$categoryCollectionFactory>magento\catalog\model\resourcemodel\category\collectionfactoryBRP
+Nmagento\cataloggraphql\dataprovider\product\layerednavigation\builder\category

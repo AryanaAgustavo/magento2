@@ -1,0 +1,76 @@
+
+Ymagento\graphql\quote\guest\removeitemfromcarttest::testremoveitemifitemisnotbelongtocartò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveItemFromCartTest.php[ [(9"1*‘
+2
+RemoveItemFromCartTest.php"∞
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveItemFromCartTest.phpg g(
+implicit return*Å
+1ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveItemFromCartTest.php] ](^â
+Ü
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveItemFromCartTest.php] ](F
+%1"__id*]*[4
+2magento\graphql\quote\guest\removeitemfromcarttest"#
+!getMaskedQuoteIdByReservedOrderId≈¬
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveItemFromCartTest.php] ](]
+%2*
+
+%1*
+
+test_quote2execute√
+¿
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveItemFromCartTest.php] ](]
+$firstQuoteMaskedId"__id*
+
+%2ç
+ä
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveItemFromCartTest.php^ ^(I
+%3"__id*a*_4
+2magento\graphql\quote\guest\removeitemfromcarttest"'
+%getQuoteItemIdByReservedQuoteIdAndSkuˇ¸
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveItemFromCartTest.php^ a(	
+%4*
+
+%3*31
+/test_order_with_virtual_product_without_address*
+virtual-product2execute¬
+ø
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveItemFromCartTest.php^ a(	
+$secondQuoteItemId"__id*
+
+%4õò
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveItemFromCartTest.phpc c(J
+%5*64
+2magento\graphql\quote\guest\removeitemfromcarttest*%#
+!The cart doesn't contain the item2expectexceptionmessageóî
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveItemFromCartTest.phpe e(I
+%6*64
+2magento\graphql\quote\guest\removeitemfromcarttest*
+
+$firstQuoteMaskedId*
+
+$secondQuoteItemId2getquery∂
+≥
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveItemFromCartTest.phpe e(I
+$query"__id*
+
+%6˘ˆ
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveItemFromCartTest.phpf f(&
+%7*64
+2magento\graphql\quote\guest\removeitemfromcarttest*
+
+
+$query2graphqlmutation*
+2B64
+2magento\graphql\quote\guest\removeitemfromcarttest

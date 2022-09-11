@@ -1,0 +1,41 @@
+
+Omagento\test\integrity\circulardependencytest::buildcircularmodulesdependencies‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Integrity\CircularDependencyTest.php9 9(7"1*Ç
+2
+CircularDependencyTest.php"£
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Integrity\CircularDependencyTest.php< <(
+implicit return*Ö	
+1‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Integrity\CircularDependencyTest.php; ;(sÁ¾
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Integrity\CircularDependencyTest.php;, ;(<
+%1"(magento\setup\module\dependency\circularÖ
+Ó
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Integrity\CircularDependencyTest.php;, ;(<
+%2"5magento\setup\module\dependency\circular::__construct*
+
+%1è
+å
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Integrity\CircularDependencyTest.php;X ;(q
+%3"__id*I*G/
+-magento\test\integrity\circulardependencytest"
+moduleDependenciesÂ¿
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Integrity\CircularDependencyTest.php;, ;(r
+%4*
+
+%1*
+
+%32buildcirculardependenciesð
+í
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Integrity\CircularDependencyTest.php; ;(rO/
+-magento\test\integrity\circulardependencytest"
+circularModuleDependencies"__id*
+
+%4*
+2B1/
+-magento\test\integrity\circulardependencytest

@@ -1,0 +1,79 @@
+
+;magento\framework\filesystem\directory\writetest::testtouch•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpÆ Æ("1*Ä
+2
+WriteTest.php"­
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpÌ Ì(
+implicit return*ô
+1•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpÈ È(JŽ‹
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpÈ È(I
+%1*42
+0magento\framework\filesystem\directory\writetest*
+
+	$basePath*
+
+$permissions2getdirectoryinstance·
+´
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpÈ È(I
+
+$directory"__id*
+
+%1ÆÃ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpÉ É(#
+%2*
+
+
+$directory*	
+
+$path2openfileÎË
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpÊ Ê(9
+%3*
+
+
+$directory*	
+
+$path*	
+
+$time2touchëè
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpÊ Ê(:
+%4*42
+0magento\framework\filesystem\directory\writetest*
+
+%32
+asserttrueÂ¿
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpË# Ë(:
+%5*
+
+
+$directory*	
+
+$path2stat¾
+»
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpË# Ë(C
+%6"__mapGet*
+
+%5*	
+mtimeøõ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpË Ë(D
+%7*42
+0magento\framework\filesystem\directory\writetest*	
+
+$time*
+
+%62assertequals*
+2:
+	$basePath:
+$permissions:
+$path:
+$timeB42
+0magento\framework\filesystem\directory\writetest

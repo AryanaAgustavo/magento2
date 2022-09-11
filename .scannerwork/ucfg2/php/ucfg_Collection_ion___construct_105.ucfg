@@ -1,0 +1,86 @@
+
+Fmagento\widget\model\resourcemodel\layout\link\collection::__construct„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.php ("1*´
+2
+Collection.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.php& &(
+implicit return*¨
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.php$ $($ç
+ä
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.php (
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÁ
+¾
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.php (	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceó
+ð
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.php (
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceÞ
+Û
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.php (
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceÏ
+Ì
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.php (
+	$dateTime"__id*0
+.
+	$dateTime!magento\framework\stdlib\datetimeß
+Ü
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.php (
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceá
+Þ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.php (
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbê
+ç
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.php$ $(#I;
+9magento\widget\model\resourcemodel\layout\link\collection"
+
+dateTime"__id*
+
+	$dateTimeŒ
+‰
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.php% %(k
+%1"Smagento\framework\model\resourcemodel\db\collection\abstractcollection::__construct*=;
+9magento\widget\model\resourcemodel\layout\link\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$connection*
+
+	$resource*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:.
+	$dateTime!magento\framework\stdlib\datetime:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbB=;
+9magento\widget\model\resourcemodel\layout\link\collection

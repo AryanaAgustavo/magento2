@@ -1,0 +1,215 @@
+
+umagento\framework\messagequeue\test\unit\topology\config\validator\dependantfieldstest::testvalidatemissingtopicfield¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpE E(1"1*ﬂ
+2
+DependantFieldsTest.php"æ
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.php_ _(
+implicit return*»4
+1¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpG G(SÅ
+˛
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpG G(R
+$expectedMessage"__id*97
+5Topic name is required for topic based exchange: ex01¥±
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpH H(1
+%1*ZX
+Vmagento\framework\messagequeue\test\unit\topology\config\validator\dependantfieldstest*
+\LogicException2expectexceptionºπ
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpI I(7
+%2*ZX
+Vmagento\framework\messagequeue\test\unit\topology\config\validator\dependantfieldstest*
+
+$expectedMessage2expectexceptionmessage∫∑
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpJ ](	
+%3"$Array∫∑
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpK \(
+%4"$Arrayÿ
+’
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpK \(
+%5"__mapSet*
+
+%4*
+name*
+ex01Ÿ
+÷
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpK \(
+%6"__mapSet*
+
+%4*
+type*	
+topicﬁ
+€
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpK \(
+%7"__mapSet*
+
+%4*
+
+connection*
+amqp€
+ÿ
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpK \(
+%8"__mapSet*
+
+%4*	
+durable*
+true›
+⁄
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpK \(
+%9"__mapSet*
+
+%4*
+
+internal*	
+false‡
+›
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpK \(
+%10"__mapSet*
+
+%4*
+
+autoDelete*	
+falseª∏
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpR R(5
+%11"$Arrayﬁ
+€
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpR R(5
+%12"__mapSet*
+
+%11*
+some*
+
+argument›
+⁄
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpK \(
+%13"__mapSet*
+
+%4*
+	arguments*
+
+%11ª∏
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpS [(
+%14"$Arrayª∏
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpT  Z(
+%15"$Array⁄
+◊
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpT  Z(
+%16"__mapSet*
+
+%15*
+id*
+
+bind01Ê
+„
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpT  Z(
+%17"__mapSet*
+
+%15*
+destinationType*	
+queue„
+‡
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpT  Z(
+%18"__mapSet*
+
+%15*
+destination*
+
+bind01ﬂ
+‹
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpT  Z(
+%19"__mapSet*
+
+%15*
+
+disabled*	
+falseª∏
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpY' Y(>
+%20"$Arrayﬂ
+‹
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpY' Y(>
+%21"__mapSet*
+
+%20*
+some*
+	argumentsﬁ
+€
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpT  Z(
+%22"__mapSet*
+
+%15*
+	arguments*
+
+%20€
+ÿ
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpS [(
+%23"__mapSet*
+
+%14*
+
+bind01*
+
+%15‹
+Ÿ
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpK \(
+%24"__mapSet*
+
+%4*
+
+bindings*
+
+%14◊
+‘
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpJ ](	
+%25"__mapSet*
+
+%3*
+ex01*
+
+%4…
+∆
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.phpJ ](	
+$configData"__id*
+
+%3†
+ù
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.php^ ^(
+%26"__id*e*cX
+Vmagento\framework\messagequeue\test\unit\topology\config\validator\dependantfieldstest"
+model◊‘
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Topology\Config\Validator\DependantFieldsTest.php^ ^(+
+%27*
+
+%26*
+
+$configData2validate*
+2BZX
+Vmagento\framework\messagequeue\test\unit\topology\config\validator\dependantfieldstest

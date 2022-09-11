@@ -1,0 +1,289 @@
+
+magento\framework\messagequeue\test\unit\publisher\config\validator\enabledconnectiontest::testvalidatemultipleenabledconnections©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php3 3(:"1*ä
+2
+EnabledConnectionTest.php"Á
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpM M(
+implicit return*ÖF
+1©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php5 5(2º·
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php5 5(1
+%1*][
+Ymagento\framework\messagequeue\test\unit\publisher\config\validator\enabledconnectiontest*
+\LogicException2expectexceptionÊ
+Ç
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php7 8(M
+%2"__concat*DB
+@More than 1 enabled connections configured for publisher pub01. *CA
+?More than 1 enabled connections configured for publisher pub02.´±
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php6 9(	
+%3*][
+Ymagento\framework\messagequeue\test\unit\publisher\config\validator\enabledconnectiontest*
+
+%22expectexceptionmessage½º
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php: K(	
+%4"$Array½º
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php; B(
+%5"$ArrayÝ
+Ú
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php; B(
+%6"__mapSet*
+
+%5*	
+topic*	
+pub01à
+Ý
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php; B(
+%7"__mapSet*
+
+%5*
+
+disabled*	
+false½º
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php>! A(
+%8"$Array½º
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php? ?(b
+%9"$ArrayÜ
+Ù
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php? ?(b
+%10"__mapSet*
+
+%9*
+name*
+con1æ
+ã
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php? ?(b
+%11"__mapSet*
+
+%9*
+
+exchange*
+
+exchange01á
+Þ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php? ?(b
+%12"__mapSet*
+
+%9*
+
+disabled*	
+falseÛ
+Ø
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php>! A(
+%13"__mapSet*
+
+%8*	
+con01*
+
+%9¾»
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php@ @(b
+%14"$ArrayÝ
+Ú
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php@ @(b
+%15"__mapSet*
+
+%14*
+name*
+con1ç
+ä
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php@ @(b
+%16"__mapSet*
+
+%14*
+
+exchange*
+
+exchange01â
+ß
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php@ @(b
+%17"__mapSet*
+
+%14*
+
+disabled*	
+falseÜ
+Ù
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php>! A(
+%18"__mapSet*
+
+%8*	
+con02*
+
+%14á
+Þ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php; B(
+%19"__mapSet*
+
+%5*
+connections*
+
+%8Û
+Ø
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php: K(	
+%20"__mapSet*
+
+%4*	
+pub01*
+
+%5¾»
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpC J(
+%21"$Arrayß
+Ü
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpC J(
+%22"__mapSet*
+
+%21*	
+topic*	
+pub02â
+ß
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpC J(
+%23"__mapSet*
+
+%21*
+
+disabled*	
+false¾»
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpF! I(
+%24"$Array¾»
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpG G(b
+%25"$ArrayÝ
+Ú
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpG G(b
+%26"__mapSet*
+
+%25*
+name*
+con1ç
+ä
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpG G(b
+%27"__mapSet*
+
+%25*
+
+exchange*
+
+exchange01â
+ß
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpG G(b
+%28"__mapSet*
+
+%25*
+
+disabled*	
+falseÝ
+Ú
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpF! I(
+%29"__mapSet*
+
+%24*	
+con01*
+
+%25¾»
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpH H(b
+%30"$ArrayÝ
+Ú
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpH H(b
+%31"__mapSet*
+
+%30*
+name*
+con1ç
+ä
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpH H(b
+%32"__mapSet*
+
+%30*
+
+exchange*
+
+exchange01â
+ß
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpH H(b
+%33"__mapSet*
+
+%30*
+
+disabled*	
+falseÝ
+Ú
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpF! I(
+%34"__mapSet*
+
+%24*	
+con02*
+
+%30ã
+à
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpC J(
+%35"__mapSet*
+
+%21*
+connections*
+
+%24Ü
+Ù
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php: K(	
+%36"__mapSet*
+
+%4*	
+pub02*
+
+%21Ì
+É
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.php: K(	
+$configData"__id*
+
+%4¦
+£
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpL L(
+%37"__id*h*f[
+Ymagento\framework\messagequeue\test\unit\publisher\config\validator\enabledconnectiontest"
+modelÚ×
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Publisher\Config\Validator\EnabledConnectionTest.phpL L(+
+%38*
+
+%37*
+
+$configData2validate*
+2B][
+Ymagento\framework\messagequeue\test\unit\publisher\config\validator\enabledconnectiontest

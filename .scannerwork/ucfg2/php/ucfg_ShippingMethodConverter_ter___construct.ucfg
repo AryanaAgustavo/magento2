@@ -1,0 +1,58 @@
+
+=magento\quote\model\cart\shippingmethodconverter::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\ShippingMethodConverter.php& &("1*·
+2
+ShippingMethodConverter.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\ShippingMethodConverter.php. .(
+implicit return*Õ
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\ShippingMethodConverter.php+ +(Fû
+ø
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\ShippingMethodConverter.php& &(
+$shippingMethodDataFactory"__id*U
+S
+$shippingMethodDataFactory5magento\quote\api\data\shippingmethodinterfacefactoryÕ
+Ò
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\ShippingMethodConverter.php& &(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface½
+º
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\ShippingMethodConverter.php& &(
+
+$taxHelper"__id*'
+%
+
+$taxHelpermagento\tax\helper\dataù
+ö
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\ShippingMethodConverter.php+ +(EQ2
+0magento\quote\model\cart\shippingmethodconverter"
+shippingMethodDataFactory"__id*
+
+$shippingMethodDataFactoryß
+Ü
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\ShippingMethodConverter.php, ,(+D2
+0magento\quote\model\cart\shippingmethodconverter"
+storeManager"__id*
+
+$storeManagerÙ
+Ö
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\ShippingMethodConverter.php- -(%A2
+0magento\quote\model\cart\shippingmethodconverter"
+	taxHelper"__id*
+
+
+$taxHelper*
+2:S
+$shippingMethodDataFactory5magento\quote\api\data\shippingmethodinterfacefactory::
+$storeManager)magento\store\model\storemanagerinterface:%
+
+$taxHelpermagento\tax\helper\dataB42
+0magento\quote\model\cart\shippingmethodconverter

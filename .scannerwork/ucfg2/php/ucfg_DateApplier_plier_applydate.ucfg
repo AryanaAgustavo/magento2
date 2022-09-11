@@ -1,0 +1,37 @@
+
+Amagento\salesrule\model\resourcemodel\rule\dateapplier::applydateÅ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\DateApplier.php ("1*≤
+2
+DateApplier.php"ô
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\DateApplier.php (
+implicit return*ˆ
+1Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\DateApplier.php (
+¬
+ø
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\DateApplier.php (	
+$select"__id*(
+&
+$selectmagento\framework\db\select‘—
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\DateApplier.php (	
+%1*
+	
+$select*'%
+#from_date is null or from_date <= ?*
+
+$now2whereÀ»
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\DateApplier.php (	
+%2*
+
+%1*#!
+to_date is null or to_date >= ?*
+
+$now2where*
+2:&
+$selectmagento\framework\db\select:
+$nowB:8
+6magento\salesrule\model\resourcemodel\rule\dateapplier

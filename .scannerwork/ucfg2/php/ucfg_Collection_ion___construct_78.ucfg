@@ -1,0 +1,177 @@
+
+Dmagento\reports\model\resourcemodel\customer\collection::__construct‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `("1*´
+2
+Collection.php"œ
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php„ „(
+implicit return*Ö%
+1ƒ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.phpr €(
+å
+â
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactory¿
+¼
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceñ
+î
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceÜ
+Ù
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceÆ
+Ã
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(
+
+$eavConfig"__id*(
+&
+
+$eavConfigmagento\eav\model\configÔ
+Ñ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(
+	$resource"__id*7
+5
+	$resource(magento\framework\app\resourceconnectionÛ
+Ø
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(
+$eavEntityFactory"__id*6
+4
+$eavEntityFactorymagento\eav\model\entityfactoryÞ
+Û
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(
+$resourceHelper"__id*;
+9
+$resourceHelper&magento\eav\model\resourcemodel\helperè
+å
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(
+$universalFactory"__id*C
+A
+$universalFactory,magento\framework\validator\universalfactoryø
+õ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(
+$entitySnapshot"__id*U
+S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshotà
+Ý
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(
+$fieldsetConfig"__id*=
+;
+$fieldsetConfig(magento\framework\dataobject\copy\configã
+à
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(
+$quoteRepository"__id*?
+=
+$quoteRepository)magento\quote\api\cartrepositoryinterfaceú
+÷
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(
+$quoteItemFactory"__id*U
+S
+$quoteItemFactory>magento\quote\model\resourcemodel\quote\item\collectionfactoryè
+å
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(
+$orderResource"__id*F
+D
+$orderResource2magento\sales\model\resourcemodel\order\collectionÝ
+Ú
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php` `(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceˆ
+…
+ƒ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.phpr €(	
+%1"Emagento\customer\model\resourcemodel\customer\collection::__construct*;9
+7magento\reports\model\resourcemodel\customer\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+
+$eavConfig*
+
+	$resource*
+
+$eavEntityFactory*
+
+$resourceHelper*
+
+$universalFactory*
+
+$entitySnapshot*
+
+$fieldsetConfig*
+
+$connection*
+
+
+$modelNameò
+ï
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php (-L9
+7magento\reports\model\resourcemodel\customer\collection"
+orderResource"__id*
+
+$orderResourceö
+ó
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.php‚ ‚(1N9
+7magento\reports\model\resourcemodel\customer\collection"
+quoteRepository"__id*
+
+$quoteRepositoryù
+ö
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Customer\Collection.phpƒ ƒ(4P9
+7magento\reports\model\resourcemodel\customer\collection"
+_quoteItemFactory"__id*
+
+$quoteItemFactory*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:&
+
+$eavConfigmagento\eav\model\config:5
+	$resource(magento\framework\app\resourceconnection:4
+$eavEntityFactorymagento\eav\model\entityfactory:9
+$resourceHelper&magento\eav\model\resourcemodel\helper:A
+$universalFactory,magento\framework\validator\universalfactory:S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshot:;
+$fieldsetConfig(magento\framework\dataobject\copy\config:=
+$quoteRepository)magento\quote\api\cartrepositoryinterface:S
+$quoteItemFactory>magento\quote\model\resourcemodel\quote\item\collectionfactory:D
+$orderResource2magento\sales\model\resourcemodel\order\collection:<
+$connection-magento\framework\db\adapter\adapterinterface:
+
+$modelNameB;9
+7magento\reports\model\resourcemodel\customer\collection

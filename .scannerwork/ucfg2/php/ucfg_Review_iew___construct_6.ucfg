@@ -1,0 +1,163 @@
+
+(magento\review\model\review::__constructh
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpŽ Ž("1*’
+2
+
+Review.php"
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.php¤ ¤(
+implicit return*ý
+1h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpœ œ(:®
+«
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpŽ Ž(
+
+$context"__id*-
++
+$contextmagento\framework\model\context«
+¨
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpŽ Ž(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryà
+Ý
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpŽ Ž(
+$productFactory"__id*X
+V
+$productFactoryCmagento\review\model\resourcemodel\review\product\collectionfactoryÝ
+Ú
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpŽ Ž(
+$statusFactory"__id*V
+T
+$statusFactoryBmagento\review\model\resourcemodel\review\status\collectionfactoryà
+Ý
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpŽ Ž(
+$summaryFactory"__id*X
+V
+$summaryFactoryCmagento\review\model\resourcemodel\review\summary\collectionfactoryÍ
+Ê
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpŽ Ž(
+$summaryModFactory"__id*B
+@
+$summaryModFactory*magento\review\model\review\summaryfactory¾
+»
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpŽ Ž(
+$reviewSummary"__id*7
+5
+$reviewSummary#magento\review\model\review\summaryÂ
+¿
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpŽ Ž(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface¯
+¬
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpŽ Ž(
+	$urlModel"__id*-
++
+	$urlModelmagento\framework\urlinterfaceÇ
+Ä
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpŽ Ž(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceÑ
+Î
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpŽ Ž(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdbŽ
+‹
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpŽ Ž(
+$data"__id*
+
+$dataarrayÅ
+Â
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpœ œ(9;
+magento\review\model\review"
+productCollectionFactory"__id*
+
+$productFactoryº
+·
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.php (.1
+magento\review\model\review"
+_statusFactory"__id*
+
+$statusFactory¼
+¹
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpž ž(02
+magento\review\model\review"
+_summaryFactory"__id*
+
+$summaryFactoryÂ
+¿
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.phpŸ Ÿ(65
+magento\review\model\review"
+_summaryModFactory"__id*
+
+$summaryModFactoryº
+·
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.php   (.1
+magento\review\model\review"
+_reviewSummary"__id*
+
+$reviewSummary¸
+µ
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.php¡ ¡(,0
+magento\review\model\review"
+_storeManager"__id*
+
+$storeManager°
+­
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.php¢ ¢($,
+magento\review\model\review"
+	_urlModel"__id*
+
+	$urlModel˜
+•
+h
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\Review.php£ £(W
+%1"2magento\framework\model\abstractmodel::__construct*
+magento\review\model\review*
+
+
+$context*
+
+	$registry*
+
+	$resource*
+
+$resourceCollection*	
+
+$data*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:V
+$productFactoryCmagento\review\model\resourcemodel\review\product\collectionfactory:T
+$statusFactoryBmagento\review\model\resourcemodel\review\status\collectionfactory:V
+$summaryFactoryCmagento\review\model\resourcemodel\review\summary\collectionfactory:@
+$summaryModFactory*magento\review\model\review\summaryfactory:5
+$reviewSummary#magento\review\model\review\summary::
+$storeManager)magento\store\model\storemanagerinterface:+
+	$urlModelmagento\framework\urlinterface:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB
+magento\review\model\review

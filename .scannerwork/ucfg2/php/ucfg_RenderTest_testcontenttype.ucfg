@@ -1,0 +1,82 @@
+
+7magento\ui\controller\index\rendertest::testcontenttypeˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php (#"1*¸
+2
+RenderTest.php" 
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php (
+implicit return*Ö
+1ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php (MÌÉ
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php (
+%1**(
+&magento\ui\controller\index\rendertest2
+getrequestÑÎ
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php (L
+%2*
+
+%1*
+	namespace*
+widget_recently_viewed2setparamÌÉ
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php (
+%3**(
+&magento\ui\controller\index\rendertest2
+getrequestî
+ë
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php( (W
+%4" laminas\http\headers::fromstring*"
+laminas\http\headers*
+Accept: application/json°­
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php (X
+%5*
+
+%3*
+
+%42
+setheadersàÝ
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php (+
+%6**(
+&magento\ui\controller\index\rendertest*
+mui/index/render2dispatchÍÊ
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php- (A
+%7**(
+&magento\ui\controller\index\rendertest2getresponse¹¶
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php- (\
+%8*
+
+%7*
+Content-Type2	getheader¬
+©
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php (\
+$contentType"__id*
+
+%8âß
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php (]
+%9**(
+&magento\ui\controller\index\rendertest*
+
+$contentType2assertnotempty¶³
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php0 (M
+%10*
+
+$contentType2getfieldvalueîë
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Ui\Controller\Index\RenderTest.php (N
+%11**(
+&magento\ui\controller\index\rendertest*
+application/json*
+
+%102assertequals*
+2B*(
+&magento\ui\controller\index\rendertest

@@ -1,0 +1,126 @@
+
+Omagento\catalog\block\product\productlist\upselltest::testdisplayupsellproducts—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpJ J(-"1*Ç
+2
+UpsellTest.php"¯
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpW W(
+implicit return*û
+1—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpL L(7¾
+»
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpJ J(-
+$data"__id*
+
+$dataarrayÌ
+É
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpL L(5
+%1"__mapGet*	
+
+$data*
+updateProductsõò
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpL L(6
+%2*86
+4magento\catalog\block\product\productlist\upselltest*
+
+%12updateproductsù
+ö
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpM& M(=
+%3"__id*N*L6
+4magento\catalog\block\product\productlist\upselltest"
+existingProductsÿü
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpM M(>
+%4*86
+4magento\catalog\block\product\productlist\upselltest*
+
+simple*
+
+%32linkproductsú
+÷
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpN N(1
+%5"__id*O*M6
+4magento\catalog\block\product\productlist\upselltest"
+productRepository¼¹
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpN N(@
+%6*
+
+%5*
+
+simple2getð
+í
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpN N(@C6
+4magento\catalog\block\product\productlist\upselltest"	
+product"__id*
+
+%6î
+ë
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpO O(
+%7"__id*C*A6
+4magento\catalog\block\product\productlist\upselltest"
+blockð
+í
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpO! O(/
+%8"__id*E*C6
+4magento\catalog\block\product\productlist\upselltest"	
+product¿¼
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpO O(0
+%9*
+
+%7*
+
+%82
+setproductï
+ì
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpP P(
+%10"__id*C*A6
+4magento\catalog\block\product\productlist\upselltest"
+block·´
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpP P()
+%11*
+
+%102getitems¶
+³
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpP P()
+$items"__id*
+
+%11Ó
+Ð
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpS S()
+%12"__mapGet*	
+
+$data*
+expectedProductLinksú÷
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpT T()
+%13*86
+4magento\catalog\block\product\productlist\upselltest*
+
+
+$items2getactuallinksÃÀ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\UpsellTest.phpR V(	
+%14*86
+4magento\catalog\block\product\productlist\upselltest*
+
+%12*
+
+%13*CA
+?Expected up-sell products do not match actual up-sell products!2assertequals*
+2:
+$dataarrayB86
+4magento\catalog\block\product\productlist\upselltest

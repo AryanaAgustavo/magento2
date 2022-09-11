@@ -1,0 +1,102 @@
+
+Dmagento\framework\convert\test\unit\convertarraytest::testassoctoxmlÉ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php (""1*π
+2
+ConvertArrayTest.php"õ
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php$ $(
+implicit return*Æ
+1É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php (Eóî
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php (D
+%1"$Array∞
+≠
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php (D
+%2"__mapSet*
+
+%1*
+one*2óî
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php& (C
+%3"$Array≤
+Ø
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php& (C
+%4"__mapSet*
+
+%3*	
+three*2≤
+Ø
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php& (C
+%5"__mapSet*
+
+%3*
+four*
+4≤
+Ø
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php (D
+%6"__mapSet*
+
+%1*
+two*
+
+%3†
+ù
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php (D
+$data"__id*
+
+%1€
+ÿ
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php (
+%7"__id*D*B6
+4magento\framework\convert\test\unit\convertarraytest"
+_modelÆ´
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php (2
+%8*
+
+%7*	
+
+$data2
+assoctoxml¢
+ü
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php (2	
+$result"__id*
+
+%8ü
+ú
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php !(
+$expectedResult"__id*{y
+w<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<_><one>1</one><two><three>3</three><four>4</four></two></_>
+˛˚
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php" "(<
+%9*86
+4magento\framework\convert\test\unit\convertarraytest*
+SimpleXMLElement*
+	
+$result2assertinstanceof§°
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php#- #(=
+%10*
+	
+$result2asxmlˆÛ
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Convert\Test\Unit\ConvertArrayTest.php# #(>
+%11*86
+4magento\framework\convert\test\unit\convertarraytest*
+
+$expectedResult*
+
+%102assertequals*
+2B86
+4magento\framework\convert\test\unit\convertarraytest

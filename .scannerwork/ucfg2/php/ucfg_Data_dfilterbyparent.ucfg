@@ -1,0 +1,72 @@
+
+/magento\swatches\helper\data::addfilterbyparenti
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Helper\Data.php© ©(&"1*’
+2
+
+Data.php"€
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Helper\Data.php³ ³(
+implicit return*í
+1i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Helper\Data.php« «(YÚ
+×
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Helper\Data.php© ©(&
+$productCollection"__id*N
+L
+$productCollection6magento\catalog\model\resourcemodel\product\collection±
+®
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Helper\Data.php© ©(&
+	$parentId"__id*.
+,
+	$parentIdmagento\swatches\helper\integer´±
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Helper\Data.php«  «(X
+%1*
+
+$productCollection*
+catalog_product_relation2gettable•
+’
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Helper\Data.php« «(X
+$tableProductRelation"__id*
+
+%1—”
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Helper\Data.php¬ ­(
+%2*
+
+$productCollection2	getselect{y
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Helper\Data.php¯ ¯(/
+%3"$Array©
+¦
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Helper\Data.php¯ ¯(/
+%4"__mapSet*
+
+%3*
+pr*
+
+$tableProductRelation©¦
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Helper\Data.php¬ ±(
+%5*
+
+%2*
+
+%3*
+e.entity_id = pr.child_id2join¨¥
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Helper\Data.php¬ ²(2
+%6*
+
+%5*
+pr.parent_id = ?*
+
+	$parentId2where*
+2:L
+$productCollection6magento\catalog\model\resourcemodel\product\collection:,
+	$parentIdmagento\swatches\helper\integerB 
+magento\swatches\helper\data

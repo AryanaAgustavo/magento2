@@ -1,0 +1,91 @@
+
+Qmagento\graphql\catalog\categoriesquery\categorytreetest::testgetdisabledcategory†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoryTreeTest.phpÏ Ï(+"1*÷
+2
+CategoryTreeTest.php"∏
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoryTreeTest.php¸ ¸(
+implicit return*˛
+1†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoryTreeTest.phpÓ Ó(¡
+æ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoryTreeTest.phpÓ Ó(
+$categoryId"__id*2Ø
+¨
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoryTreeTest.phpÔ ¯(
+%1"__concat*)'
+%{
+  categories(filters: {ids: {eq: "*;9
+7"}}) {
+    items{
+      id
+      name
+    }
+  }
+}*
+
+$categoryIdæ
+ª
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoryTreeTest.phpÔ ¯(
+$query"__id*
+
+%1ÑÅ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoryTreeTest.php˘ ˘(/
+%2*<:
+8magento\graphql\catalog\categoriesquery\categorytreetest*
+
+
+$query2graphqlquery¡
+æ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoryTreeTest.php˘ ˘(/
+	$response"__id*
+
+%2’
+“
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoryTreeTest.php˙* ˙(A
+%3"__mapGet*
+
+	$response*
+
+categoriesêç
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoryTreeTest.php˙ ˙(B
+%4*<:
+8magento\graphql\catalog\categoriesquery\categorytreetest*	
+items*
+
+%32assertarrayhaskey¥±
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoryTreeTest.php˚ ˚(
+%5"$Array’
+“
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoryTreeTest.php˚  ˚(7
+%6"__mapGet*
+
+	$response*
+
+categories…
+∆
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoryTreeTest.php˚  ˚(@
+%7"__mapGet*
+
+%6*	
+itemsàÖ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoryTreeTest.php˚ ˚(A
+%8*<:
+8magento\graphql\catalog\categoriesquery\categorytreetest*
+
+%5*
+
+%72assertequals*
+2B<:
+8magento\graphql\catalog\categoriesquery\categorytreetest

@@ -1,0 +1,83 @@
+
+Nmagento\mediagallerysynchronization\model\resolvenonexistedassets::__constructç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\ResolveNonExistedAssets.php@ @("1* 
+2
+ResolveNonExistedAssets.php"•
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\ResolveNonExistedAssets.phpL L(
+implicit return*Ì
+1ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\ResolveNonExistedAssets.phpG G((◊
+‘
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\ResolveNonExistedAssets.php@ @(
+$filesystem"__id*-
++
+$filesystemmagento\framework\filesystemÛ
+
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\ResolveNonExistedAssets.php@ @(
+$resourceConnection"__id*A
+?
+$resourceConnection(magento\framework\app\resourceconnectionÖ
+Ç
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\ResolveNonExistedAssets.php@ @(
+$deleteAssetsByPaths"__id*R
+P
+$deleteAssetsByPaths8magento\mediagalleryapi\api\deleteassetsbypathsinterface 
+«
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\ResolveNonExistedAssets.php@ @(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÉ
+Ä
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\ResolveNonExistedAssets.php@ @(
+$selectBatches"__id*V
+T
+$selectBatchesBmagento\mediagallerysynchronizationapi\model\fetchbatchesinterfaceˇ
+¸
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\ResolveNonExistedAssets.phpG G('SC
+Amagento\mediagallerysynchronization\model\resolvenonexistedassets"
+
+filesystem"__id*
+
+$filesystemè
+å
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\ResolveNonExistedAssets.phpH H(7[C
+Amagento\mediagallerysynchronization\model\resolvenonexistedassets"
+resourceConnection"__id*
+
+$resourceConnectionë
+é
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\ResolveNonExistedAssets.phpI I(9\C
+Amagento\mediagallerysynchronization\model\resolvenonexistedassets"
+deleteAssetsByPaths"__id*
+
+$deleteAssetsByPaths˜
+Ù
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\ResolveNonExistedAssets.phpJ J(OC
+Amagento\mediagallerysynchronization\model\resolvenonexistedassets"
+logger"__id*
+	
+$loggerÖ
+Ç
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\ResolveNonExistedAssets.phpK K(-VC
+Amagento\mediagallerysynchronization\model\resolvenonexistedassets"
+selectBatches"__id*
+
+$selectBatches*
+2:+
+$filesystemmagento\framework\filesystem:?
+$resourceConnection(magento\framework\app\resourceconnection:P
+$deleteAssetsByPaths8magento\mediagalleryapi\api\deleteassetsbypathsinterface:"
+$loggerpsr\log\loggerinterface:T
+$selectBatchesBmagento\mediagallerysynchronizationapi\model\fetchbatchesinterfaceBEC
+Amagento\mediagallerysynchronization\model\resolvenonexistedassets

@@ -1,0 +1,51 @@
+
+Rmagento\bundle\model\product\issaleabletest::testissaleableonallitemssalableistrueŽ
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpr r(9"1*Â
+2
+IsSaleableTest.php"¦
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.php| |(
+implicit return*Ô
+1Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpt t(Iè
+å
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpt t(1
+%1"__id*F*D-
++magento\bundle\model\product\issaleabletest"
+productRepository»¸
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpt t(H
+%2*
+
+%1*
+bundle-product2get´
+±
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpt t(H
+$bundleProduct"__id*
+
+%2ØÕ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpu u(:
+%3*
+
+$bundleProduct*
+all_items_salable*
+true2setdata¹¶
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpx x('
+%4*
+
+$bundleProduct2	issalableÁ¾
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpw {(	
+%5*/-
++magento\bundle\model\product\issaleabletest*
+
+%4*`^
+\Bundle product supposed to be saleable 
+            if it has data all_items_salable = true2
+asserttrue*
+2B/-
++magento\bundle\model\product\issaleabletest

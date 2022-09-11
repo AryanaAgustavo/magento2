@@ -1,0 +1,61 @@
+
+Bmagento\sales\controller\adminhtml\order\invoice\view::__construct€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Invoice\View.php ("1*ª
+2
+
+View.php"˜
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Invoice\View.php$ $(
+implicit return*Ã
+1€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Invoice\View.php" "(6Ê
+Ç
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Invoice\View.php (
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÄ
+Á
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Invoice\View.php (
+	$registry"__id*)
+'
+	$registrymagento\framework\registryò
+ï
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Invoice\View.php (
+$resultForwardFactory"__id*K
+I
+$resultForwardFactory0magento\backend\model\view\result\forwardfactoryå
+â
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Invoice\View.php (
+$resultPageFactory"__id*A
+?
+$resultPageFactory)magento\framework\view\result\pagefactoryô
+ñ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Invoice\View.php" "(5N7
+5magento\sales\controller\adminhtml\order\invoice\view"
+resultPageFactory"__id*
+
+$resultPageFactoryÍ
+Ê
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Invoice\View.php# #(G
+%1"Lmagento\sales\controller\adminhtml\invoice\abstractinvoice\view::__construct*97
+5magento\sales\controller\adminhtml\order\invoice\view*
+
+
+$context*
+
+	$registry*
+
+$resultForwardFactory*
+2:.
+$context"magento\backend\app\action\context:'
+	$registrymagento\framework\registry:I
+$resultForwardFactory0magento\backend\model\view\result\forwardfactory:?
+$resultPageFactory)magento\framework\view\result\pagefactoryB97
+5magento\sales\controller\adminhtml\order\invoice\view

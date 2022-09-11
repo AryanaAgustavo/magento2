@@ -1,0 +1,133 @@
+
+.magento\review\block\product\view::__constructl
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php0 0("1*•
+2
+
+View.php"ƒ
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.phpL L(
+implicit return*§
+1l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php> >(7¸
+µ
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php0 0(
+
+$context"__id*3
+1
+$context%magento\catalog\block\product\context¿
+¼
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php0 0(
+$urlEncoder"__id*7
+5
+$urlEncoder&magento\framework\url\encoderinterfaceÂ
+¿
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php0 0(
+$jsonEncoder"__id*9
+7
+$jsonEncoder'magento\framework\json\encoderinterfaceµ
+²
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php0 0(	
+$string"__id*1
+/
+$string$magento\framework\stdlib\stringutils½
+º
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php0 0(
+$productHelper"__id*2
+0
+$productHelpermagento\catalog\helper\productÙ
+Ö
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php0 0(
+$productTypeConfig"__id*J
+H
+$productTypeConfig2magento\catalog\model\producttypes\configinterfaceÅ
+Â
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php0 0(
+$localeFormat"__id*;
+9
+$localeFormat(magento\framework\locale\formatinterfaceÁ
+¾
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php0 0(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÕ
+Ò
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php0 0(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceÏ
+Ì
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php0 0(
+$priceCurrency"__id*D
+B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterfaceâ
+ß
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php0 0(
+$collectionFactory"__id*S
+Q
+$collectionFactory;magento\review\model\resourcemodel\review\collectionfactory’
+
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php0 0(
+$data"__id*
+
+$dataarrayÌ
+É
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php> >(6;#
+!magento\review\block\product\view"
+_reviewsColFactory"__id*
+
+$collectionFactory™
+–
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Product\View.php? K(	
+%1"/magento\catalog\block\product\view::__construct*%#
+!magento\review\block\product\view*
+
+
+$context*
+
+$urlEncoder*
+
+$jsonEncoder*
+	
+$string*
+
+$productHelper*
+
+$productTypeConfig*
+
+$localeFormat*
+
+$customerSession*
+
+$productRepository*
+
+$priceCurrency*	
+
+$data*
+2:1
+$context%magento\catalog\block\product\context:5
+$urlEncoder&magento\framework\url\encoderinterface:7
+$jsonEncoder'magento\framework\json\encoderinterface:/
+$string$magento\framework\stdlib\stringutils:0
+$productHelpermagento\catalog\helper\product:H
+$productTypeConfig2magento\catalog\model\producttypes\configinterface:9
+$localeFormat(magento\framework\locale\formatinterface:2
+$customerSessionmagento\customer\model\session:D
+$productRepository.magento\catalog\api\productrepositoryinterface:B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterface:Q
+$collectionFactory;magento\review\model\resourcemodel\review\collectionfactory:
+$dataarrayB%#
+!magento\review\block\product\view

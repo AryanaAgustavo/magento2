@@ -1,0 +1,83 @@
+
+Jmagento\graphql\introspectionquerytest::testintrospectionquerywithonlytypeé
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpñ ñ(6"1* 
+2
+IntrospectionQueryTest.php"¶
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpØ Ø(
+implicit return*¯
+1é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpò ´(ñ
+ì
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpò ´(
+$query"__id*ÔÏ
+È{
+  __type(name:"Query")
+    {
+    name
+      kind
+    fields(includeDeprecated:true){
+      name
+      type{
+        kind
+        name
+      }
+      description
+      isDeprecated
+      deprecationReason
+    }
+  }
+} ‡›
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.php¨+ ¨(F
+%1**(
+&magento\graphql\introspectionquerytest*
+
+
+$query2graphqlqueryÌÍ
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.php¨ ¨(G
+%2**(
+&magento\graphql\introspectionquerytest*
+
+__type*
+
+%12assertarrayhaskey‡›
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.php≠ ≠(/
+%3**(
+&magento\graphql\introspectionquerytest*
+
+
+$query2graphqlqueryØ
+¨
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.php≠ ≠(/
+	$response"__id*
+
+%3ø
+º
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpÆ Æ(1
+%4"__mapGet*
+
+	$response*
+
+__type∏
+µ
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpÆ Æ(;
+%5"__mapGet*
+
+%4*
+
+fieldsﬁ€
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpÆ Æ(<
+%6**(
+&magento\graphql\introspectionquerytest*
+
+%52assertnotempty*
+2B*(
+&magento\graphql\introspectionquerytest

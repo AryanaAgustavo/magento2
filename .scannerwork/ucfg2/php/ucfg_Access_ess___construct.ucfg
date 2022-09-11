@@ -1,0 +1,85 @@
+
+8magento\integration\controller\token\access::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Token\Access.php. .("1*°
+2
+
+Access.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Token\Access.php: :(
+implicit return*˘
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Token\Access.php5 5(&¡
+æ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Token\Access.php. .(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\contextÕ
+ 
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Token\Access.php. .(
+$oauthService"__id*9
+7
+$oauthService&magento\framework\oauth\oauthinterface⁄
+◊
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Token\Access.php. .(
+$intOauthService"__id*C
+A
+$intOauthService-magento\integration\api\oauthserviceinterfaceÊ
+„
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Token\Access.php. .(
+$integrationService"__id*L
+J
+$integrationService3magento\integration\api\integrationserviceinterface¡
+æ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Token\Access.php. .(	
+$helper"__id*3
+1
+$helper&magento\framework\oauth\helper\requestÚ
+Ô
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Token\Access.php5 5(%
+%1"0magento\framework\app\action\action::__construct*/-
++magento\integration\controller\token\access*
+
+
+$context’
+“
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Token\Access.php6 6(+?-
++magento\integration\controller\token\access"
+oauthService"__id*
+
+$oauthService€
+ÿ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Token\Access.php7 7(1B-
++magento\integration\controller\token\access"
+intOauthService"__id*
+
+$intOauthService·
+ﬁ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Token\Access.php8 8(7E-
++magento\integration\controller\token\access"
+integrationService"__id*
+
+$integrationService…
+∆
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Token\Access.php9 9(9-
++magento\integration\controller\token\access"
+helper"__id*
+	
+$helper*
+2:0
+$context$magento\framework\app\action\context:7
+$oauthService&magento\framework\oauth\oauthinterface:A
+$intOauthService-magento\integration\api\oauthserviceinterface:J
+$integrationService3magento\integration\api\integrationserviceinterface:1
+$helper&magento\framework\oauth\helper\requestB/-
++magento\integration\controller\token\access

@@ -1,0 +1,84 @@
+
+Cmagento\sales\block\adminhtml\order\status\assign\form::__constructÅ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Status\Assign\Form.php# #("1*´
+2
+
+Form.php"ô
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Status\Assign\Form.php. .(
+implicit return*°
+1Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Status\Assign\Form.php+ +(+œ
+Ã
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Status\Assign\Form.php# #(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\context≈
+¬
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Status\Assign\Form.php# #(
+	$registry"__id*)
+'
+	$registrymagento\framework\registry”
+–
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Status\Assign\Form.php# #(
+$formFactory"__id*4
+2
+$formFactory"magento\framework\data\formfactory—
+Œ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Status\Assign\Form.php# #(
+$orderConfig"__id*2
+0
+$orderConfig magento\sales\model\order\config˝
+˙
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Status\Assign\Form.php# #(
+$collectionFactory"__id*X
+V
+$collectionFactory@magento\sales\model\resourcemodel\order\status\collectionfactory®
+•
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Status\Assign\Form.php# #(
+$data"__id*
+
+$dataarrayÎ
+Ë
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Status\Assign\Form.php+ +(*J8
+6magento\sales\block\adminhtml\order\status\assign\form"
+_orderConfig"__id*
+
+$orderConfig˜
+Ù
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Status\Assign\Form.php, ,(6P8
+6magento\sales\block\adminhtml\order\status\assign\form"
+_collectionFactory"__id*
+
+$collectionFactoryª
+∏
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Status\Assign\Form.php- -(E
+%1"6magento\backend\block\widget\form\generic::__construct*:8
+6magento\sales\block\adminhtml\order\status\assign\form*
+
+
+$context*
+
+	$registry*
+
+$formFactory*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:'
+	$registrymagento\framework\registry:2
+$formFactory"magento\framework\data\formfactory:0
+$orderConfig magento\sales\model\order\config:V
+$collectionFactory@magento\sales\model\resourcemodel\order\status\collectionfactory:
+$dataarrayB:8
+6magento\sales\block\adminhtml\order\status\assign\form

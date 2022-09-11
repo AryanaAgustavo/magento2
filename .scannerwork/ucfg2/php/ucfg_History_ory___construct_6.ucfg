@@ -1,0 +1,84 @@
+
+=magento\sales\block\adminhtml\order\view\history::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\View\History.php* *("1*§
+2
+History.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\View\History.php5 5(
+implicit return*ß
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\View\History.php1 1()È
+Å
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\View\History.php* *(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\context¿
+¼
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\View\History.php* *(
+
+$salesData"__id*)
+'
+
+$salesDatamagento\sales\helper\data¾
+»
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\View\History.php* *(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÄ
+Á
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\View\History.php* *(
+$adminHelper"__id*,
+*
+$adminHelpermagento\sales\helper\admin¡
+ž
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\View\History.php* *(
+$data"__id*
+
+$dataarrayÜ
+Ù
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\View\History.php1 1((E2
+0magento\sales\block\adminhtml\order\view\history"
+_coreRegistry"__id*
+
+	$registryÚ
+×
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\View\History.php2 2(&B2
+0magento\sales\block\adminhtml\order\view\history"
+
+_salesData"__id*
+
+
+$salesData‚
+ÿ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\View\History.php3 3(,
+%1"+magento\backend\block\template::__construct*42
+0magento\sales\block\adminhtml\order\view\history*
+
+
+$context*	
+
+$dataÝ
+Ú
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\View\History.php4 4()C2
+0magento\sales\block\adminhtml\order\view\history"
+adminHelper"__id*
+
+$adminHelper*
+2:2
+$context&magento\backend\block\template\context:'
+
+$salesDatamagento\sales\helper\data:'
+	$registrymagento\framework\registry:*
+$adminHelpermagento\sales\helper\admin:
+$dataarrayB42
+0magento\sales\block\adminhtml\order\view\history

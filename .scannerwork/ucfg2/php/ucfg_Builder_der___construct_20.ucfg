@@ -1,0 +1,67 @@
+
+>magento\elasticsearch\searchadapter\query\builder::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\SearchAdapter\Query\Builder.php( (("1*¨
+2
+Builder.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\SearchAdapter\Query\Builder.php1 1(
+implicit return*ä
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\SearchAdapter\Query\Builder.php/ /(jÏ
+Ì
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\SearchAdapter\Query\Builder.php( ((
+$clientConfig"__id*5
+3
+$clientConfig"magento\elasticsearch\model\configþ
+û
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\SearchAdapter\Query\Builder.php( ((
+$searchIndexNameResolver"__id*Y
+W
+$searchIndexNameResolver;magento\elasticsearch\searchadapter\searchindexnameresolverö
+ó
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\SearchAdapter\Query\Builder.php( ((
+$aggregationBuilder"__id*V
+T
+$aggregationBuilder=magento\elasticsearch\searchadapter\query\builder\aggregationÛ
+Ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\SearchAdapter\Query\Builder.php( ((
+$scopeResolver"__id*@
+>
+$scopeResolver,magento\framework\app\scoperesolverinterfaceá
+Þ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\SearchAdapter\Query\Builder.php( ((
+$sortBuilder"__id*H
+F
+$sortBuilder6magento\elasticsearch\searchadapter\query\builder\sortë
+è
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\SearchAdapter\Query\Builder.php/ /(i
+%1"Mmagento\elasticsearch\elasticsearch5\searchadapter\query\builder::__construct*53
+1magento\elasticsearch\searchadapter\query\builder*
+
+$clientConfig*
+
+$searchIndexNameResolver*
+
+$aggregationBuilder*
+
+$scopeResolverß
+Ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\SearchAdapter\Query\Builder.php0 0()D3
+1magento\elasticsearch\searchadapter\query\builder"
+sortBuilder"__id*
+
+$sortBuilder*
+2:3
+$clientConfig"magento\elasticsearch\model\config:W
+$searchIndexNameResolver;magento\elasticsearch\searchadapter\searchindexnameresolver:T
+$aggregationBuilder=magento\elasticsearch\searchadapter\query\builder\aggregation:>
+$scopeResolver,magento\framework\app\scoperesolverinterface:F
+$sortBuilder6magento\elasticsearch\searchadapter\query\builder\sortB53
+1magento\elasticsearch\searchadapter\query\builder

@@ -1,0 +1,128 @@
+
+(magento\wishlist\helper\rss::__constructf
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php1 1("1*
+2	
+Rss.php"}
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.phpL L(
+implicit return*ù
+1f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php> >(3±
+®
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php1 1(
+
+$context"__id*2
+0
+$context$magento\framework\app\helper\context±
+®
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php1 1(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registry»
+¸
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php1 1(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÃ
+À
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php1 1(
+$wishlistFactory"__id*<
+:
+$wishlistFactory&magento\wishlist\model\wishlistfactoryÀ
+½
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php1 1(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÃ
+À
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php1 1(
+$postDataHelper"__id*=
+;
+$postDataHelper(magento\framework\data\helper\posthelper¿
+¼
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php1 1(
+$customerViewHelper"__id*5
+3
+$customerViewHelpermagento\customer\helper\viewÔ
+Ñ
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php1 1(
+$wishlistProvider"__id*L
+J
+$wishlistProvider5magento\wishlist\controller\wishlistproviderinterfaceÏ
+Ì
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php1 1(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceÏ
+Ì
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php1 1(
+$customerFactory"__id*H
+F
+$customerFactory2magento\customer\api\data\customerinterfacefactoryÓ
+Ð
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php1 1(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterface¼
+¹
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php> >(23
+magento\wishlist\helper\rss"
+_customerFactory"__id*
+
+$customerFactoryÂ
+¿
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.php? ?(86
+magento\wishlist\helper\rss"
+_customerRepository"__id*
+
+$customerRepositoryú
+÷
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Helper\Rss.phpA K(	
+%1")magento\wishlist\helper\data::__construct*
+magento\wishlist\helper\rss*
+
+
+$context*
+
+$coreRegistry*
+
+$customerSession*
+
+$wishlistFactory*
+
+$storeManager*
+
+$postDataHelper*
+
+$customerViewHelper*
+
+$wishlistProvider*
+
+$productRepository*
+2:0
+$context$magento\framework\app\helper\context:+
+$coreRegistrymagento\framework\registry:2
+$customerSessionmagento\customer\model\session::
+$wishlistFactory&magento\wishlist\model\wishlistfactory::
+$storeManager)magento\store\model\storemanagerinterface:;
+$postDataHelper(magento\framework\data\helper\posthelper:3
+$customerViewHelpermagento\customer\helper\view:J
+$wishlistProvider5magento\wishlist\controller\wishlistproviderinterface:D
+$productRepository.magento\catalog\api\productrepositoryinterface:F
+$customerFactory2magento\customer\api\data\customerinterfacefactory:G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceB
+magento\wishlist\helper\rss

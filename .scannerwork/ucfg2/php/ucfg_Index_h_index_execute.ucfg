@@ -1,0 +1,130 @@
+
+1magento\captcha\controller\refresh\index::executes
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpM M("1*¬
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpO O(,æª
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpO O(+
+%1*,*
+(magento\captcha\controller\refresh\index2getrequestformidë
+é
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpO O(+	
+$formId"__id*
+
+%1≈
+¬
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpQ Q(,
+%2"__id*?*=*
+(magento\captcha\controller\refresh\index"
+captchaHelperüú
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpQ Q(A
+%3*
+
+%2*
+	
+$formId2
+getcaptchaó
+î
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpQ Q(A
+$captchaModel"__id*
+
+%3õò
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpR R(!
+%4*
+
+$captchaModel2generateæ
+ª
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpT T(
+%5"__id*8*6*
+(magento\captcha\controller\refresh\index"
+layoutüú
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpT, T(I
+%6*
+
+$captchaModel2getblocknameõò
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpT T(J
+%7*
+
+%5*
+
+%62createblockê
+ç
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpT T(J
+$block"__id*
+
+%7¢ü
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpU U("
+%8*
+
+
+$block*
+	
+$formId2	setformidõò
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpU U(3
+%9*
+
+%8*
+true2	setisajaxèå
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpU U(=
+%10*
+
+%92tohtml 
+«
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpW W(*
+%11"__id*C*A*
+(magento\captcha\controller\refresh\index"
+jsonResultFactoryêç
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpW W(4
+%12*
+
+%112createí
+è
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpW W(4	
+$result"__id*
+
+%12áÑ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpY  Y(H
+%13"$Arrayùö
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpY- Y(G
+%14*
+
+$captchaModel2	getimgsrcß
+§
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpY  Y(H
+%15"__mapSet*
+
+%13*
+
+imgSrc*
+
+%14ûõ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpY Y(I
+%16*
+	
+$result*
+
+%132setdata"~
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpY Y(J
+
+%16B,*
+(magento\captcha\controller\refresh\index

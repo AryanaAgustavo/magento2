@@ -1,0 +1,50 @@
+
+Smagento\bundle\model\product\issaleabletest::testissaleableonallitemssalableisfalseê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpÑ Ñ(:"1*ƒ
+2
+IsSaleableTest.php"®
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpé é(
+implicit return*È
+1ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpÜ Ü(IÍ
+Á
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpÜ Ü(1
+%1"__id*F*D-
++magento\bundle\model\product\issaleabletest"
+productRepositoryΩ∫
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpÜ Ü(H
+%2*
+
+%1*
+bundle-product2get∂
+≥
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpÜ Ü(H
+$bundleProduct"__id*
+
+%2€ÿ
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpá á(;
+%3*
+
+$bundleProduct*
+all_items_salable*	
+false2setdataª∏
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpä ä('
+%4*
+
+$bundleProduct2	issalable…∆
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Model\Product\IsSaleableTest.phpâ ç(	
+%5*/-
++magento\bundle\model\product\issaleabletest*
+
+%4*ec
+aBundle product supposed to be non saleable 
+            if it has data all_items_salable = false2assertfalse*
+2B/-
++magento\bundle\model\product\issaleabletest

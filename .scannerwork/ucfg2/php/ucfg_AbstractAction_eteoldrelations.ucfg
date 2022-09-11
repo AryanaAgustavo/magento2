@@ -1,0 +1,108 @@
+
+Pmagento\cataloginventory\model\indexer\stock\abstractaction::_deleteoldrelationsà
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.phpŸ Ÿ(*"1*º
+2
+AbstractAction.php"†
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.phpÊ Ê(
+implicit return*ç
+1à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.php€ ‚(,Â‚
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.php€ €()
+%1*?=
+;magento\cataloginventory\model\indexer\stock\abstractaction2_getconnection§°
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.php€ €(3
+%2*
+
+%12selectúô
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.php‹ ‹(&
+%3"$ArrayΩ
+∫
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.php‹ ‹(&
+%4"__mapSet*
+
+%3*
+s*
+
+
+$tableName™ß
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.php€ ‹('
+%5*
+
+%2*
+
+%32fromúô
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.phpﬁ ﬁ(D
+%6"$Array˝˙
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.phpﬁ ﬁ(C
+%7*?=
+;magento\cataloginventory\model\indexer\stock\abstractaction*
+catalog_product_website2	_gettableµ
+≤
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.phpﬁ ﬁ(D
+%8"__mapSet*
+
+%6*
+w*
+
+%7úô
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.php‡ ‡(
+%9"$Array¯ı
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.php€ ·(
+%10*
+
+%5*
+
+%6*?=
+;s.product_id = w.product_id AND s.website_id = w.website_id*
+
+%92joinleftøº
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.php€ ‚(+
+%11*
+
+%10*
+w.product_id IS NULL2where®
+•
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.php€ ‚(+	
+$select"__id*
+
+%11ª∏
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.php‰ ‰(-
+%12*
+	
+$select*
+s2deletefromselect•
+¢
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.php‰ ‰(-
+$sql"__id*
+
+%12Ê„
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.phpÂ Â(
+%13*?=
+;magento\cataloginventory\model\indexer\stock\abstractaction2_getconnectionØ¨
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Indexer\Stock\AbstractAction.phpÂ Â(,
+%14*
+
+%13*
+
+$sql2query*
+2:
+
+$tableNameB?=
+;magento\cataloginventory\model\indexer\stock\abstractaction

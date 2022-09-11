@@ -1,0 +1,56 @@
+
+>magento\cms\controller\adminhtml\block\massdelete::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Block\MassDelete.php* *("1*«
+2
+MassDelete.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Block\MassDelete.php/ /(
+implicit return*Ç
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Block\MassDelete.php, ,( Å
+Â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Block\MassDelete.php* *(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÇ
+Ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Block\MassDelete.php* *(	
+$filter"__id*3
+1
+$filter&magento\ui\component\massaction\filterî
+ë
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Block\MassDelete.php* *(
+$collectionFactory"__id*O
+M
+$collectionFactory7magento\cms\model\resourcemodel\block\collectionfactoryÕ
+Ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Block\MassDelete.php, ,(?3
+1magento\cms\controller\adminhtml\block\massdelete"
+filter"__id*
+	
+$filterë
+è
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Block\MassDelete.php- -(5J3
+1magento\cms\controller\adminhtml\block\massdelete"
+collectionFactory"__id*
+
+$collectionFactoryõ
+ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Block\MassDelete.php. .(%
+%1"'magento\backend\app\action::__construct*53
+1magento\cms\controller\adminhtml\block\massdelete*
+
+
+$context*
+2:.
+$context"magento\backend\app\action\context:1
+$filter&magento\ui\component\massaction\filter:M
+$collectionFactory7magento\cms\model\resourcemodel\block\collectionfactoryB53
+1magento\cms\controller\adminhtml\block\massdelete

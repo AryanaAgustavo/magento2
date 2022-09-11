@@ -1,0 +1,132 @@
+
+Cmagento\search\model\resourcemodel\query::saveincrementalpopularityu
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpå å(-"1*ü
+2
+	Query.php"å
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpô ô(
+implicit return*≤
+1u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpé é(*≤
+Ø
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpå å(-
+$query"__id*&
+$
+$querymagento\search\model\queryΩ∫
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpé é()
+%1*,*
+(magento\search\model\resourcemodel\query2getconnectionî
+ë
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpé é()
+
+$adapter"__id*
+
+%1ºπ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpè è(&
+%2*,*
+(magento\search\model\resourcemodel\query2getmaintableí
+è
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpè è(&
+$table"__id*
+
+%2àÖ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpê î(	
+%3"$Arrayòï
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpë ë(.
+%4*
+
+
+$query2
+getstoreid®
+•
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpê î(	
+%5"__mapSet*
+
+%3*
+
+store_id*
+
+%4öó
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpí í(2
+%6*
+
+
+$query2getquerytext™
+ß
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpê î(	
+%7"__mapSet*
+
+%3*
+
+query_text*
+
+%6®
+•
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpê î(	
+%8"__mapSet*
+
+%3*
+
+popularity*2ï
+í
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpê î(	
+	$saveData"__id*
+
+%3àÖ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpï ó(	
+%9"$Arrayèå
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpñ ñ(A
+%10"zend_db_exprª
+∏
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpñ ñ(A
+%11"zend_db_expr::__construct*
+
+%10*
+`popularity` + 1¨
+©
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpï ó(	
+%12"__mapSet*
+
+%9*
+
+popularity*
+
+%10ó
+î
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpï ó(	
+$updateData"__id*
+
+%9ŒÀ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpò ò(C
+%13*
+
+
+$adapter*
+
+
+$table*
+
+	$saveData*
+
+$updateData2insertonduplicate*
+2:$
+$querymagento\search\model\queryB,*
+(magento\search\model\resourcemodel\query

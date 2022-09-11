@@ -1,0 +1,155 @@
+
+/magento\adobeims\model\login::updateuserprofileg
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.php] ](&"1*Õ
+1g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpa a(0ø
+º
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.php] ](&
+
+$profile"__id*?
+=
+$profile1magento\adobeimsapi\api\data\userprofileinterface√
+¿
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.php] ](&
+	$response"__id*B
+@
+	$response3magento\adobeimsapi\api\data\tokenresponseinterfaceäá
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpa a(.
+%1*
+
+	$response2getnameëé
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpa a(/
+%2*
+
+
+$profile*
+
+%12setnameãà
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpb b(0
+%3*
+
+	$response2getemailíè
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpb b(1
+%4*
+
+
+$profile*
+
+%32setemail¨
+©
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpc c(.
+%5"__id*2*0
+magento\adobeims\model\login"
+getUserImageëé
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpc8 c(S
+%6*
+
+	$response2getaccesstokenãà
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpc c(T
+%7*
+
+%5*
+
+%62executeíè
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpc c(U
+%8*
+
+
+$profile*
+
+%72setimage©
+¶
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpd! d(1
+%9"__id*/*-
+magento\adobeims\model\login"
+	encryptoríè
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpd; d(V
+%10*
+
+	$response2getaccesstokençä
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpd! d(W
+%11*
+
+%9*
+
+%102encryptöó
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpd d(X
+%12*
+
+
+$profile*
+
+%112setaccesstoken™
+ß
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpe" e(2
+%13"__id*/*-
+magento\adobeims\model\login"
+	encryptorìê
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpe< e(X
+%14*
+
+	$response2getrefreshtokenéã
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpe" e(Y
+%15*
+
+%13*
+
+%142encryptõò
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpe e(Z
+%16*
+
+
+$profile*
+
+%152setrefreshtokenêç
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpf@ f(Y
+%17*
+
+	$response2getexpiresinÆ´
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpf* f(Z
+%18* 
+magento\adobeims\model\login*
+
+%172getexpirestime£†
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phpf f([
+%19*
+
+
+$profile*
+
+%182setaccesstokenexpiresat∫
+∑
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phph h(8
+%201magento\adobeimsapi\api\data\userprofileinterface"__id*
+
+
+$profile"•
+g
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogIn.phph h(:
+8
+%201magento\adobeimsapi\api\data\userprofileinterface:=
+$profile1magento\adobeimsapi\api\data\userprofileinterface:@
+	$response3magento\adobeimsapi\api\data\tokenresponseinterfaceB 
+magento\adobeims\model\login

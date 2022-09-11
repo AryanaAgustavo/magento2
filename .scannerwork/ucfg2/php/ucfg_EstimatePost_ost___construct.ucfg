@@ -1,0 +1,87 @@
+
+:magento\checkout\controller\cart\estimatepost::__constructx
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\EstimatePost.php ("1*©
+2
+EstimatePost.php"è
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\EstimatePost.php. .(
+implicit return*
+1x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\EstimatePost.php% %(2√
+¿
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\EstimatePost.php (
+
+$context"__id*2
+0
+$context$magento\framework\app\action\contextÿ
+’
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\EstimatePost.php (
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceÕ
+ 
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\EstimatePost.php (
+$checkoutSession"__id*4
+2
+$checkoutSessionmagento\checkout\model\session“
+œ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\EstimatePost.php (
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceﬁ
+€
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\EstimatePost.php (
+$formKeyValidator"__id*D
+B
+$formKeyValidator-magento\framework\data\form\formkey\validator¥
+±
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\EstimatePost.php (
+$cart"__id*&
+$
+$cartmagento\checkout\model\cartÿ
+’
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\EstimatePost.php (
+$quoteRepository"__id*?
+=
+$quoteRepository)magento\quote\api\cartrepositoryinterfaceﬂ
+‹
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\EstimatePost.php% %(1D/
+-magento\checkout\controller\cart\estimatepost"
+quoteRepository"__id*
+
+$quoteRepository–
+Õ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\EstimatePost.php& -(	
+%1"-magento\checkout\controller\cart::__construct*1/
+-magento\checkout\controller\cart\estimatepost*
+
+
+$context*
+
+$scopeConfig*
+
+$checkoutSession*
+
+$storeManager*
+
+$formKeyValidator*	
+
+$cart*
+2:0
+$context$magento\framework\app\action\context:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:2
+$checkoutSessionmagento\checkout\model\session::
+$storeManager)magento\store\model\storemanagerinterface:B
+$formKeyValidator-magento\framework\data\form\formkey\validator:$
+$cartmagento\checkout\model\cart:=
+$quoteRepository)magento\quote\api\cartrepositoryinterfaceB1/
+-magento\checkout\controller\cart\estimatepost

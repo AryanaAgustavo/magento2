@@ -1,0 +1,126 @@
+
+Umagento\widget\model\resourcemodel\layout\link\collection::addupdateddaysbeforefilter„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpf f(."1*ì
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phph h(Cž›
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phph) h(A
+%1"datetimezone¼
+¹
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phph) h(A
+%2"datetimezone::__construct*
+
+%1*
+UTC¡ž
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phph h(B
+	$datetime"datetimeÇ
+Ä
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phph h(B
+%3"datetime::__construct*
+
+	$datetime*
+now*
+
+%1³
+°
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpi+ i(<
+%4"__concat*
+P*	
+
+$days*
+Dª§
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpi i(=
+$storeInterval"dateintervalÇ
+Ä
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpi i(=
+%5"dateinterval::__construct*
+
+$storeInterval*
+
+%4¸µ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpj j(&
+%6*
+
+	$datetime*
+
+$storeInterval2subã
+à
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpk k((
+%7"__id*K*I;
+9magento\widget\model\resourcemodel\layout\link\collection"
+
+dateTime­ª
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpk5 k(N
+%8*
+
+	$datetime2gettimestamp¬©
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpk k(O
+%9*
+
+%7*
+
+%82
+formatdateª
+§
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpk k(O
+$formattedDate"__id*
+
+%9áÞ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpm m( 
+%10*=;
+9magento\widget\model\resourcemodel\layout\link\collection2_joinwithupdate™–
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpp p(
+%11"$Array»
+¸
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpp p(
+%12"__mapSet*
+
+%11*	
+notnull*
+true‚ÿ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpn q(	
+%13*=;
+9magento\widget\model\resourcemodel\layout\link\collection*
+update.updated_at*
+
+%112addfieldtofilter™–
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phps s($
+%14"$ArrayÀ
+½
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phps s($
+%15"__mapSet*
+
+%14*
+lt*
+
+$formattedDateÌÉ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpn t(	
+%16*
+
+%13*
+update.updated_at*
+
+%142addfieldtofilter"Æ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Link\Collection.phpv v(=;
+9magento\widget\model\resourcemodel\layout\link\collection:
+$daysB=;
+9magento\widget\model\resourcemodel\layout\link\collection

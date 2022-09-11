@@ -1,0 +1,133 @@
+
+8magento\catalog\model\categorytest::testaddchildcategory†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.phpö ö(("1*¸
+2
+CategoryTest.php"ž
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.php‚ ‚(
+implicit return*°
+1†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.phpø ý(
+š—
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.phpø ý(	
+%1"$ArrayÂ
+¿
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.phpø ý(	
+%2"__mapSet*
+
+%1*
+name*
+Child Category»
+¸
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.phpø ý(	
+%3"__mapSet*
+
+%1*
+path*	
+1/2/333º
+·
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.phpø ý(	
+%4"__mapSet*
+
+%1*
+	is_active*
+1À
+½
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.phpø ý(	
+%5"__mapSet*
+
+%1*
+include_in_menu*
+1£
+ 
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.phpø ý(	
+$data"__id*
+
+%1Ì
+É
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.phpþ þ(
+%6"__id*2*0$
+"magento\catalog\model\categorytest"
+_model®«
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.phpþ þ(%
+%7*
+
+%6*	
+
+$data2setdataÖ
+Ó
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.phpÿ ÿ(
+%8"__id*<*:$
+"magento\catalog\model\categorytest"
+categoryResourceÌ
+É
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.phpÿ& ÿ(3
+%9"__id*2*0$
+"magento\catalog\model\categorytest"
+_model©¦
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.phpÿ ÿ(4
+%10*
+
+%8*
+
+%92saveÙ
+Ö
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.php€ €(3
+%11"__id*>*<$
+"magento\catalog\model\categorytest"
+categoryRepository¨¥
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.php€ €(=
+%12*
+
+%11*2Í2get®
+«
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.php€ €(=
+$parentCategory"__id*
+
+%12Í
+Ê
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.php2 (?
+%13"__id*2*0$
+"magento\catalog\model\categorytest"
+_model£ 
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.php2 (H
+%14*
+
+%132getid°
+­
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.php* (H
+%15"__passthrough_cast*
+
+%14µ²
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.phpJ (h
+%16*
+
+$parentCategory2getchildrenéæ
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\CategoryTest.php (i
+%17*&$
+"magento\catalog\model\categorytest*
+
+%15*
+
+%162assertstringcontainsstring*
+2B&$
+"magento\catalog\model\categorytest

@@ -1,0 +1,145 @@
+
+Lmagento\downloadable\model\resourcemodel\sample\collection::addtitletoresult…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpd d($"1*€#
+1…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpf f(ZàÝ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpf f(4
+%1*><
+:magento\downloadable\model\resourcemodel\sample\collection2getconnectionÂ¿
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpf f(Y
+%2*
+
+%1*
+
+st.title*	
+d.title2getifnullsql°
+­
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpf f(Y
+$ifNullDefaultTitle"__id*
+
+%2ÜÙ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpg g(
+%3*><
+:magento\downloadable\model\resourcemodel\sample\collection2	getselect™–
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phph h(A
+%4"$Arrayú÷
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phph h(@
+%5*><
+:magento\downloadable\model\resourcemodel\sample\collection*
+downloadable_sample_title2gettable²
+¯
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phph h(A
+%6"__mapSet*
+
+%4*
+d*
+
+%5™–
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpj j((
+%7"$ArrayÁ
+¾
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpj j((
+%8"__mapSet*
+
+%7*
+default_title*	
+titleìé
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpg k(	
+%9*
+
+%3*
+
+%4*75
+3d.sample_id=main_table.sample_id AND d.store_id = 0*
+
+%72joinleftš—
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpl l(B
+%10"$Arrayûø
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpl l(A
+%11*><
+:magento\downloadable\model\resourcemodel\sample\collection*
+downloadable_sample_title2gettable¶
+³
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpl l(B
+%12"__mapSet*
+
+%10*
+st*
+
+%11³
+°
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpmE m(R
+%13"__sanitizing_cast*
+
+
+$storeIdß
+Ü
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpm m(R
+%14"__concat*86
+4st.sample_id=main_table.sample_id AND st.store_id = *
+
+%13š—
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpn n(F
+%15"$ArrayÁ
+¾
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpn n(F
+%16"__mapSet*
+
+%15*
+store_title*	
+titleÉ
+Æ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpn n(F
+%17"__mapSet*
+
+%15*	
+title*
+
+$ifNullDefaultTitle¿¼
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpg o(	
+%18*
+
+%9*
+
+%10*
+
+%14*
+
+%152joinleftÁ¾
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpg q(	
+%19*
+
+%18*
+main_table.sort_order ASC2order±®
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpg s(	
+%20*
+
+%19*
+	title ASC2order"È
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Sample\Collection.phpu u(><
+:magento\downloadable\model\resourcemodel\sample\collection:
+
+$storeIdB><
+:magento\downloadable\model\resourcemodel\sample\collection

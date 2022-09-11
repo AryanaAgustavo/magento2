@@ -1,0 +1,109 @@
+
+Imagento\cron\test\unit\model\groups\config\converter\xmltest::testconvert‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php ("1*´
+2
+XmlTest.php"Ÿ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php* *(
+implicit return*„
+1‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php !(ž
+›
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php !(
+$xmlExample"__id*zx
+v<config>
+    <group id="test">
+        <schedule_generate_every>1</schedule_generate_every>
+    </group>
+</config>¢Ÿ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php# #(!
+$xml"domdocument·
+´
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php# #(!
+%1"domdocument::__construct*
+
+$xml·´
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php$ $("
+%2*
+
+$xml*
+
+$xmlExample2loadxmlç
+ä
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php& &( 
+%3"__id*L*J>
+<magento\cron\test\unit\model\groups\config\converter\xmltest"
+object®«
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php& &(/
+%4*
+
+%3*
+
+$xml2convert§
+¤
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php& &(/
+
+$results"__id*
+
+%4€ý
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php' '(2
+%5*@>
+<magento\cron\test\unit\model\groups\config\converter\xmltest*
+test*
+
+
+$results2assertarrayhaskeyµ
+²
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php(< ((L
+%6"__mapGet*
+
+
+$results*
+testŠ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php( ((M
+%7*@>
+<magento\cron\test\unit\model\groups\config\converter\xmltest*
+schedule_generate_every*
+
+%62assertarrayhaskeyµ
+²
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php)! )(1
+%8"__mapGet*
+
+
+$results*
+testÂ
+¿
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php)! )(L
+%9"__mapGet*
+
+%8*
+schedule_generate_every±
+®
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php)! )(U
+%10"__mapGet*
+
+%9*	
+valueôñ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cron\Test\Unit\Model\Groups\Config\Converter\XmlTest.php) )(V
+%11*@>
+<magento\cron\test\unit\model\groups\config\converter\xmltest*
+1*
+
+%102assertequals*
+2B@>
+<magento\cron\test\unit\model\groups\config\converter\xmltest

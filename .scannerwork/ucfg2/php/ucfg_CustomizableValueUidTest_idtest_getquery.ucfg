@@ -1,0 +1,39 @@
+
+Rmagento\graphql\configurableproduct\options\uid\customizablevalueuidtest::getquery®
+£C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\Options\Uid\CustomizableValueUidTest.phpL L("1*¢
+1®
+£C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\Options\Uid\CustomizableValueUidTest.phpN ^(Ô
+Ñ
+®
+£C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\Options\Uid\CustomizableValueUidTest.phpL L(
+$sku"__id*
+
+$skustringØ
+Õ
+®
+£C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\Options\Uid\CustomizableValueUidTest.phpN ^(
+%1"__concat*.,
+*query {
+  products(filter: { sku: { eq: "*×Ô
+Ñ" } }) {
+    items {
+      ... on ConfigurableProduct {
+        variants {
+          attributes {
+            uid
+            code
+            value_index
+          }
+        }
+      }
+    }
+  }
+}*
+
+$sku"¹
+®
+£C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\Options\Uid\CustomizableValueUidTest.phpN ^(
+
+%1:
+$skustringBLJ
+Hmagento\graphql\configurableproduct\options\uid\customizablevalueuidtest

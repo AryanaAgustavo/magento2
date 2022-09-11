@@ -1,0 +1,27 @@
+
+Omagento\graphql\cataloggraphql\productsearchtest::getsearchquerywithsuggestionsñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.phpf f(2"1*˚
+1ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.phph v(∏
+µ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.phph v(
+%1"__id*çä
+á{
+  products(
+    search: "smiple"
+   ) {
+    items {
+      name
+      sku
+    }
+    suggestions {
+      search
+    }
+  }
+}"°
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.phph v(
+
+%1B42
+0magento\graphql\cataloggraphql\productsearchtest

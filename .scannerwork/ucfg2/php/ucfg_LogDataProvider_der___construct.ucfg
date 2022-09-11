@@ -1,0 +1,129 @@
+
+Gmagento\loginascustomerlog\ui\dataprovider\logdataprovider::__construct…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.php7 7("1*º
+2
+LogDataProvider.php"
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.phpS S(
+implicit return*‡
+1…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.phpE O(
+à
+Ý
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.php7 7(
+
+$reporting"__id*?
+=
+
+$reporting/magento\framework\api\search\reportinginterfaceû
+ø
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.php7 7(
+$searchCriteriaBuilder"__id*N
+L
+$searchCriteriaBuilder2magento\framework\api\search\searchcriteriabuilderÓ
+Ð
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.php7 7(
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterfaceÜ
+Ù
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.php7 7(
+$filterBuilder"__id*7
+5
+$filterBuilder#magento\framework\api\filterbuilderè
+å
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.php7 7(
+$getLogsList"__id*E
+C
+$getLogsList3magento\loginascustomerlog\api\getlogslistinterfaceð
+í
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.php7 7(
+$searchResultFactory"__id*E
+C
+$searchResultFactory+magento\ui\dataprovider\searchresultfactoryå
+â
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.php7 7(
+$sortOrderBuilder"__id*=
+;
+$sortOrderBuilder&magento\framework\api\sortorderbuilder¬
+©
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.php7 7(
+$meta"__id*
+
+$metaarray¬
+©
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.php7 7(
+$data"__id*
+
+$dataarrayÁ
+¾
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.phpE O(	
+%1"Qmagento\framework\view\element\uicomponent\dataprovider\dataprovider::__construct*><
+:magento\loginascustomerlog\ui\dataprovider\logdataprovider*	
+
+$name*
+
+$primaryFieldName*
+
+$requestFieldName*
+
+
+$reporting*
+
+$searchCriteriaBuilder*
+
+
+$request*
+
+$filterBuilder*	
+
+$meta*	
+
+$dataò
+ï
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.phpP P()M<
+:magento\loginascustomerlog\ui\dataprovider\logdataprovider"
+getLogsList"__id*
+
+$getLogsList‚
+ÿ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.phpQ Q(9U<
+:magento\loginascustomerlog\ui\dataprovider\logdataprovider"
+searchResultFactory"__id*
+
+$searchResultFactoryü
+ù
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Ui\DataProvider\LogDataProvider.phpR R(3R<
+:magento\loginascustomerlog\ui\dataprovider\logdataprovider"
+sortOrderBuilder"__id*
+
+$sortOrderBuilder*
+2:
+$name:
+$primaryFieldName:
+$requestFieldName:=
+
+$reporting/magento\framework\api\search\reportinginterface:L
+$searchCriteriaBuilder2magento\framework\api\search\searchcriteriabuilder:2
+$request&magento\framework\app\requestinterface:5
+$filterBuilder#magento\framework\api\filterbuilder:C
+$getLogsList3magento\loginascustomerlog\api\getlogslistinterface:C
+$searchResultFactory+magento\ui\dataprovider\searchresultfactory:;
+$sortOrderBuilder&magento\framework\api\sortorderbuilder:
+$metaarray:
+$dataarrayB><
+:magento\loginascustomerlog\ui\dataprovider\logdataprovider

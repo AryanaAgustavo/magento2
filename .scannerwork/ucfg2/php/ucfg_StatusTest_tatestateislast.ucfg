@@ -1,0 +1,139 @@
+
+Lmagento\sales\test\unit\model\order\statustest::testunassignstatestateislasty
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.php] ](0"1*®
+2
+StatusTest.php"ê
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpl l(
+implicit return*º
+1y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.php_ _(Q˝˙
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.php_ _(P
+%1*20
+.magento\sales\test\unit\model\order\statustest*20
+.Magento\Framework\Exception\LocalizedException2expectexception®•
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.php` b(	
+%2*20
+.magento\sales\test\unit\model\order\statustest*VT
+RThe last status can\'t be changed and needs to stay assigned to its current state.2expectexceptionmessageåâ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpc f(	
+%3"$Array…
+∆
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpd d($
+%4"__id*=*;0
+.magento\sales\test\unit\model\order\statustest"
+modelóî
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpd d(1
+%5*
+
+%42	getstatus™
+ß
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpc f(	
+%6"__mapSet*
+
+%3*
+
+status*
+
+%5±
+Æ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpc f(	
+%7"__mapSet*
+
+%3*	
+state*
+
+test_stateó
+î
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpc f(		
+$params"__id*
+
+%3–
+Õ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpg g(
+%8"__id*D*B0
+.magento\sales\test\unit\model\order\statustest"
+resourceMockæª
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpg% g(2
+%9*20
+.magento\sales\test\unit\model\order\statustest2onceûõ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpg g(3
+%10*
+
+%8*
+
+%92expects¨©
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpg h((
+%11*
+
+%10*
+checkIsStateLast2methodß
+§
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpi i(#
+%12"__mapGet*
+	
+$params*	
+stateùö
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpg i($
+%13*
+
+%11*
+
+%122with§°
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpg j(
+%14*
+
+%13*
+true2
+willreturn 
+«
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpk k((
+%15"__id*=*;0
+.magento\sales\test\unit\model\order\statustest"
+model 
+«
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpk* k(6
+%16"__id*=*;0
+.magento\sales\test\unit\model\order\statustest"
+modelß
+§
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpkF k(V
+%17"__mapGet*
+	
+$params*	
+state¶£
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpk* k(W
+%18*
+
+%16*
+
+%172unassignstateŸ÷
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\StatusTest.phpk k(X
+%19*20
+.magento\sales\test\unit\model\order\statustest*
+
+%15*
+
+%182assertequals*
+2B20
+.magento\sales\test\unit\model\order\statustest

@@ -1,0 +1,397 @@
+
+jmagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest::testsendtruewithoutcustomercopyï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpH H(3"1*”
+2
+InvoiceCommentSenderTest.php"≠
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpt t(
+implicit return*‹j
+1ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpJ J(-á
+Ñ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpJ J(,
+%1"__id*^*\K
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest"
+addressMockº
+π
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpJ J(,
+$billingAddress"__id*
+
+%1òï
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpK K(1
+%2*MK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest*
+
+$billingAddress2stepaddressformatø
+º
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpL L(!
+
+$comment"__id*
+comment_test≈
+¬
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpM M('
+$customerName"__id*
+Test Customer…
+∆
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpN N(+
+$frontendStatusLabel"__id*
+
+ProcessingÖ
+Ç
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpO O(
+%3"__id*\*ZK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest"
+	orderMockˆÛ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpO" O(/
+%4*MK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest2once∫∑
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpO O(0
+%5*
+
+%3*
+
+%42expects…∆
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpO P(*
+%6*
+
+%5*
+getCustomerIsGuest2method¿Ω
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpO Q(
+%7*
+
+%6*	
+false2
+willreturnÖ
+Ç
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpS S(
+%8"__id*\*ZK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest"
+	orderMockıÚ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpS" S(.
+%9*MK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest2anyª∏
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpS S(/
+%10*
+
+%8*
+
+%92expects»≈
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpS T('
+%11*
+
+%10*
+getCustomerName2method «
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpS U('
+%12*
+
+%11*
+
+$customerName2
+willreturnÜ
+É
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpW W(
+%13"__id*\*ZK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest"
+	orderMockˆÛ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpW" W(.
+%14*MK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest2anyΩ∫
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpW W(/
+%15*
+
+%13*
+
+%142expectsœÃ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpW X(.
+%16*
+
+%15*
+getFrontendStatusLabel2method—Œ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpW Y(.
+%17*
+
+%16*
+
+$frontendStatusLabel2
+willreturní
+è
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.php[ [($
+%18"__id*h*fK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest"
+identityContainerMock˜Ù
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.php[. [(;
+%19*MK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest2onceΩ∫
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.php[ [(<
+%20*
+
+%18*
+
+%192expects¬ø
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.php[ \(!
+%21*
+
+%20*
+	isEnabled2method¡æ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.php[ ](
+%22*
+
+%21*
+true2
+willreturní
+è
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.php^ ^($
+%23"__id*h*fK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest"
+templateContainerMock˜Ù
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.php^. ^(;
+%24*MK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest2onceΩ∫
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.php^ ^(<
+%25*
+
+%23*
+
+%242expects»≈
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.php^ _('
+%26*
+
+%25*
+setTemplateVars2method™ß
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpa m(
+%27"$ArrayÜ
+É
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpb b(/
+%28"__id*\*ZK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest"
+	orderMock…
+∆
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpa m(
+%29"__mapSet*
+
+%27*	
+order*
+
+%28à
+Ö
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpc! c(3
+%30"__id*^*\K
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest"
+invoiceMockÀ
+»
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpa m(
+%31"__mapSet*
+
+%27*	
+invoice*
+
+%30–
+Õ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpa m(
+%32"__mapSet*
+
+%27*	
+comment*
+
+
+$comment◊
+‘
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpa m(
+%33"__mapSet*
+
+%27*	
+billing*
+
+$billingAddressÜ
+É
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpf f(/
+%34"__id*\*ZK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest"
+	storeMock…
+∆
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpa m(
+%35"__mapSet*
+
+%27*	
+store*
+
+%34Ÿ
+÷
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpa m(
+%36"__mapSet*
+
+%27*
+formattedShippingAddress*2ÿ
+’
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpa m(
+%37"__mapSet*
+
+%27*
+formattedBillingAddress*2™ß
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpi$ l(
+%38"$Array€
+ÿ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpi$ l(
+%39"__mapSet*
+
+%38*
+customer_name*
+
+$customerNameÍ
+Á
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpi$ l(
+%40"__mapSet*
+
+%38*
+frontend_status_label*
+
+$frontendStatusLabelŒ
+À
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpa m(
+%41"__mapSet*
+
+%27*
+
+order_data*
+
+%38∫∑
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.php^ n(
+%42*
+
+%26*
+
+%272withà
+Ö
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpo o(
+%43"__id*^*\K
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest"
+appEmulator˜Ù
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpo$ o(1
+%44*MK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest2onceΩ∫
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpo o(2
+%45*
+
+%43*
+
+%442expects“œ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpo o(W
+%46*
+
+%45*
+startEnvironmentEmulation2methodà
+Ö
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpp p(
+%47"__id*^*\K
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest"
+appEmulator˜Ù
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpp$ p(1
+%48*MK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest2onceΩ∫
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpp p(2
+%49*
+
+%47*
+
+%482expects—Œ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpp p(V
+%50*
+
+%49*
+stopEnvironmentEmulation2methodäá
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpq q((
+%51*MK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest2stepsendwithoutsendcopyÉ
+Ä
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpr r(
+%52"__id*Y*WK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest"
+senderà
+Ö
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpr& r(8
+%53"__id*^*\K
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest"
+invoiceMock“œ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpr r(I
+%54*
+
+%52*
+
+%53*
+true*
+
+
+$comment2sendµ
+≤
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phpr r(I	
+$result"__id*
+
+%54äá
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\InvoiceCommentSenderTest.phps s("
+%55*MK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest*
+	
+$result2
+asserttrue*
+2BMK
+Imagento\sales\test\unit\model\order\email\sender\invoicecommentsendertest

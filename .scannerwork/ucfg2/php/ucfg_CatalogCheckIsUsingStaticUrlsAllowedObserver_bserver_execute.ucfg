@@ -1,0 +1,84 @@
+
+Nmagento\catalog\observer\catalogcheckisusingstaticurlsallowedobserver::execute‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Observer\CatalogCheckIsUsingStaticUrlsAllowedObserver.php! !("1*ã
+22
+0CatalogCheckIsUsingStaticUrlsAllowedObserver.php"©
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Observer\CatalogCheckIsUsingStaticUrlsAllowedObserver.php& &(
+implicit return*—
+1‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Observer\CatalogCheckIsUsingStaticUrlsAllowedObserver.php# #(>Û
+Ø
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Observer\CatalogCheckIsUsingStaticUrlsAllowedObserver.php! !(
+	$observer"__id*/
+-
+	$observer magento\framework\event\observer¶³
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Observer\CatalogCheckIsUsingStaticUrlsAllowedObserver.php# #((
+%1*
+
+	$observer2getevent¼¹
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Observer\CatalogCheckIsUsingStaticUrlsAllowedObserver.php# #(=
+%2*
+
+%1*
+
+store_id2getdata±
+®
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Observer\CatalogCheckIsUsingStaticUrlsAllowedObserver.php# #(=
+
+$storeId"__id*
+
+%2¶³
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Observer\CatalogCheckIsUsingStaticUrlsAllowedObserver.php$ $('
+%3*
+
+	$observer2geteventº·
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Observer\CatalogCheckIsUsingStaticUrlsAllowedObserver.php$ $(:
+%4*
+
+%3*
+
+result2getdata°
+­
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Observer\CatalogCheckIsUsingStaticUrlsAllowedObserver.php$ $(:	
+$result"__id*
+
+%4ÿ
+ü
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Observer\CatalogCheckIsUsingStaticUrlsAllowedObserver.php% %(/
+%5"__id*Z*XG
+Emagento\catalog\observer\catalogcheckisusingstaticurlsallowedobserver"
+catalogData¿¼
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Observer\CatalogCheckIsUsingStaticUrlsAllowedObserver.php% %(E
+%6*
+
+%5*
+
+
+$storeId2
+setstoreid¿¼
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Observer\CatalogCheckIsUsingStaticUrlsAllowedObserver.php% %(a
+%7*
+
+%62isusingstaticurlsallowed¿
+¼
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Observer\CatalogCheckIsUsingStaticUrlsAllowedObserver.php% %(a
+	
+$result"
+	isAllowed"__id*
+
+%7*
+2:-
+	$observer magento\framework\event\observerBIG
+Emagento\catalog\observer\catalogcheckisusingstaticurlsallowedobserver

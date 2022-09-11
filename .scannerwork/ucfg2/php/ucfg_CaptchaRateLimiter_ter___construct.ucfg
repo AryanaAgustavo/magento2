@@ -1,0 +1,102 @@
+
+6magento\checkout\model\captcharatelimiter::__constructt
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.php> >("1*«
+2
+CaptchaRateLimiter.php"‹
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.phpL L(
+implicit return*§
+1t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.phpF F(*Ó
+Ð
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.php> >(
+$userContext"__id*B
+@
+$userContext0magento\authorization\model\usercontextinterfaceÕ
+Ò
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.php> >(
+$customerRepo"__id*C
+A
+$customerRepo0magento\customer\api\customerrepositoryinterfaceÂ
+¿
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.php> >(
+$captchaHelper"__id*/
+-
+$captchaHelpermagento\captcha\helper\dataÁ
+¾
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.php> >(
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterfaceÙ
+Ö
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.php> >(
+$captchaResolver"__id*D
+B
+$captchaResolver.magento\captcha\observer\captchastringresolver¥
+¢
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.php> >(
+
+$captchaId"__id*
+
+
+$captchaIdstringÏ
+Ì
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.phpF F()<+
+)magento\checkout\model\captcharatelimiter"
+userContext"__id*
+
+$userContextÑ
+Î
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.phpG G(+=+
+)magento\checkout\model\captcharatelimiter"
+customerRepo"__id*
+
+$customerRepoÓ
+Ð
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.phpH H(->+
+)magento\checkout\model\captcharatelimiter"
+captchaHelper"__id*
+
+$captchaHelperÇ
+Ä
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.phpI I(!8+
+)magento\checkout\model\captcharatelimiter"	
+request"__id*
+
+
+$request×
+Ô
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.phpJ J(1@+
+)magento\checkout\model\captcharatelimiter"
+captchaResolver"__id*
+
+$captchaResolverË
+È
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\CaptchaRateLimiter.phpK K(%:+
+)magento\checkout\model\captcharatelimiter"
+	captchaId"__id*
+
+
+$captchaId*
+2:@
+$userContext0magento\authorization\model\usercontextinterface:A
+$customerRepo0magento\customer\api\customerrepositoryinterface:-
+$captchaHelpermagento\captcha\helper\data:2
+$request&magento\framework\app\requestinterface:B
+$captchaResolver.magento\captcha\observer\captchastringresolver:
+
+$captchaIdstringB-+
+)magento\checkout\model\captcharatelimiter

@@ -1,0 +1,36 @@
+
+bmagento\graphql\quote\customer\assigncustomertoguestcarttest::getassigncustomertoguestcartmutation¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\AssignCustomerToGuestCartTest.php¨ ¨(9"1*¹
+1¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\AssignCustomerToGuestCartTest.phpª ·(è
+å
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\AssignCustomerToGuestCartTest.php¨ ¨(9
+$guestQuoteMaskedId"__id*
+
+$guestQuoteMaskedIdstringï
+ì
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\AssignCustomerToGuestCartTest.phpª ·(
+%1"__concat*<:
+8mutation {
+  assignCustomerToGuestCart(
+    cart_id: "*\Z
+X"
+  ){
+  items {
+      quantity
+      product {
+        sku
+      }
+    }
+  }
+}*
+
+$guestQuoteMaskedId"¯
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\AssignCustomerToGuestCartTest.phpª ·(
+
+%1:
+$guestQuoteMaskedIdstringB@>
+<magento\graphql\quote\customer\assigncustomertoguestcarttest

@@ -1,0 +1,83 @@
+
+Emagento\sales\block\adminhtml\order\invoice\create\items::__constructƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Invoice\Create\Items.php& &("1*®
+2
+	Items.php"›
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Invoice\Create\Items.php0 0(
+implicit return*à
+1ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Invoice\Create\Items.php. .('Ñ
+Î
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Invoice\Create\Items.php& &(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\contextê
+ç
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Invoice\Create\Items.php& &(
+$stockRegistry"__id*G
+E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterfaceù
+ö
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Invoice\Create\Items.php& &(
+$stockConfiguration"__id*Q
+O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterfaceÇ
+Ä
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Invoice\Create\Items.php& &(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÈ
+Å
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Invoice\Create\Items.php& &(
+
+$salesData"__id*)
+'
+
+$salesDatamagento\sales\helper\dataª
+§
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Invoice\Create\Items.php& &(
+$data"__id*
+
+$dataarrayë
+è
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Invoice\Create\Items.php. .(&J:
+8magento\sales\block\adminhtml\order\invoice\create\items"
+
+_salesData"__id*
+
+
+$salesDataâ
+ß
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Invoice\Create\Items.php/ /(\
+%1">magento\sales\block\adminhtml\items\abstractitems::__construct*<:
+8magento\sales\block\adminhtml\order\invoice\create\items*
+
+
+$context*
+
+$stockRegistry*
+
+$stockConfiguration*
+
+	$registry*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterface:O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterface:'
+	$registrymagento\framework\registry:'
+
+$salesDatamagento\sales\helper\data:
+$dataarrayB<:
+8magento\sales\block\adminhtml\order\invoice\create\items

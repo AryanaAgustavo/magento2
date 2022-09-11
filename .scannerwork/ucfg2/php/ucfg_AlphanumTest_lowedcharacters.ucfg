@@ -1,0 +1,58 @@
+
+wmagento\eav\test\unit\model\entity\increment\alphanumtest::testgetnextidthrowsexceptionifidcontainsnotallowedcharacters„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\Increment\AlphanumTest.php> >(P"1*¶
+2
+AlphanumTest.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\Increment\AlphanumTest.phpE E(
+implicit return*Ž
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\Increment\AlphanumTest.php@ @(Q”‘
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\Increment\AlphanumTest.php@ @(P
+%1*=;
+9magento\eav\test\unit\model\entity\increment\alphanumtest*20
+.Magento\Framework\Exception\LocalizedException2expectexceptionª§
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\Increment\AlphanumTest.phpA A(f
+%2*=;
+9magento\eav\test\unit\model\entity\increment\alphanumtest*A?
+=Invalid character encountered in increment ID: ---wrong-id---2expectexceptionmessageà
+Ý
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\Increment\AlphanumTest.phpB B(
+%3"__id*H*F;
+9magento\eav\test\unit\model\entity\increment\alphanumtest"
+model·´
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\Increment\AlphanumTest.phpB B(1
+%4*
+
+%3*
+---wrong-id---2	setlastidà
+Ý
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\Increment\AlphanumTest.phpC C(
+%5"__id*H*F;
+9magento\eav\test\unit\model\entity\increment\alphanumtest"
+model¯¬
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\Increment\AlphanumTest.phpC C()
+%6*
+
+%5*
+
+prefix2	setprefixà
+Ý
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\Increment\AlphanumTest.phpD D(
+%7"__id*H*F;
+9magento\eav\test\unit\model\entity\increment\alphanumtest"
+model£ 
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\Increment\AlphanumTest.phpD D(!
+%8*
+
+%72	getnextid*
+2B=;
+9magento\eav\test\unit\model\entity\increment\alphanumtest

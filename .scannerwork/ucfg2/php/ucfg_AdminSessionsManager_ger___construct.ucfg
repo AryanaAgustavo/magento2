@@ -1,0 +1,97 @@
+
+8magento\security\model\adminsessionsmanager::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.php] ]("1*¯
+2
+AdminSessionsManager.php"
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.phpk k(
+implicit return*ž
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.phpe e(0Ñ
+Î
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.php] ](
+$securityConfig"__id*;
+9
+$securityConfig&magento\security\model\configinterfaceÇ
+Ä
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.php] ](
+$authSession"__id*4
+2
+$authSession"magento\backend\model\auth\sessionë
+è
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.php] ](
+$adminSessionInfoFactory"__id*L
+J
+$adminSessionInfoFactory.magento\security\model\adminsessioninfofactory˜
+•
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.php] ]($
+"$adminSessionInfoCollectionFactory"__id*o
+m
+"$adminSessionInfoCollectionFactoryGmagento\security\model\resourcemodel\adminsessioninfo\collectionfactoryÉ
+Æ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.php] ](
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetimeÜ
+Ù
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.php] ](
+$remoteAddress"__id*G
+E
+$remoteAddress3magento\framework\http\phpenvironment\remoteaddressÙ
+Ö
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.phpe e(/A-
++magento\security\model\adminsessionsmanager"
+securityConfig"__id*
+
+$securityConfigÓ
+Ð
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.phpf f()>-
++magento\security\model\adminsessionsmanager"
+authSession"__id*
+
+$authSessionë
+è
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.phpg g(AJ-
++magento\security\model\adminsessionsmanager"
+adminSessionInfoFactory"__id*
+
+$adminSessionInfoFactoryÿ
+ü
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.phph h(UT-
++magento\security\model\adminsessionsmanager"#
+!adminSessionInfoCollectionFactory"__id*&
+$
+"$adminSessionInfoCollectionFactoryÍ
+Ê
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.phpi i(#;-
++magento\security\model\adminsessionsmanager"
+
+dateTime"__id*
+
+	$dateTime×
+Ô
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\AdminSessionsManager.phpj j(-@-
++magento\security\model\adminsessionsmanager"
+remoteAddress"__id*
+
+$remoteAddress*
+2:9
+$securityConfig&magento\security\model\configinterface:2
+$authSession"magento\backend\model\auth\session:J
+$adminSessionInfoFactory.magento\security\model\adminsessioninfofactory:m
+"$adminSessionInfoCollectionFactoryGmagento\security\model\resourcemodel\adminsessioninfo\collectionfactory:7
+	$dateTime*magento\framework\stdlib\datetime\datetime:E
+$remoteAddress3magento\framework\http\phpenvironment\remoteaddressB/-
++magento\security\model\adminsessionsmanager

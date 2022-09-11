@@ -1,0 +1,59 @@
+
+Gmagento\user\controller\adminhtml\user\roletest::testeditrolegridactioní
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\User\RoleTest.php   (*"1*¿
+2
+RoleTest.php"™
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\User\RoleTest.php& &(
+implicit return*ê
+1í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\User\RoleTest.php" "(Nﬂ‹
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\User\RoleTest.php" "(
+%1*31
+/magento\user\controller\adminhtml\user\roletest2
+getrequestƒ¡
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\User\RoleTest.php" "(3
+%2*
+
+%1*
+ajax*
+true2setparam∆√
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\User\RoleTest.php" "(M
+%3*
+
+%2*
+
+isAjax*
+true2setparamáÑ
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\User\RoleTest.php# #(?
+%4*31
+/magento\user\controller\adminhtml\user\roletest*(&
+$backend/admin/user_role/editrolegrid2dispatch◊
+‘
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\User\RoleTest.php$ $(<
+	$expected"__id**(
+&%a<table %a id="roleUserGrid_table">%a‡›
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\User\RoleTest.php%4 %(H
+%5*31
+/magento\user\controller\adminhtml\user\roletest2getresponseØ¨
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\User\RoleTest.php%4 %(S
+%6*
+
+%52getbodyÖÇ
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\User\RoleTest.php% %(T
+%7*31
+/magento\user\controller\adminhtml\user\roletest*
+
+	$expected*
+
+%62assertstringmatchesformat*
+2B31
+/magento\user\controller\adminhtml\user\roletest

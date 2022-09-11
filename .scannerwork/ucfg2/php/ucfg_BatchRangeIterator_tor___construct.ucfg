@@ -1,0 +1,74 @@
+
+:magento\framework\db\query\batchrangeiterator::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Query\BatchRangeIterator.php[ [("1*³
+2
+BatchRangeIterator.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Query\BatchRangeIterator.phph h(
+implicit return*”
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Query\BatchRangeIterator.phpb b(&¼
+¹
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Query\BatchRangeIterator.php[ [(	
+$select"__id*(
+&
+$selectmagento\framework\db\select×
+Ô
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Query\BatchRangeIterator.phpb b(%>/
+-magento\framework\db\query\batchrangeiterator"
+	batchSize"__id*
+
+
+$batchSizeÑ
+Î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Query\BatchRangeIterator.phpc c(;/
+-magento\framework\db\query\batchrangeiterator"
+select"__id*
+	
+$selectã
+à
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Query\BatchRangeIterator.phpd d(1D/
+-magento\framework\db\query\batchrangeiterator"
+correlationName"__id*
+
+$correlationNameÙ
+Ö
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Query\BatchRangeIterator.phpe e('?/
+-magento\framework\db\query\batchrangeiterator"
+
+rangeField"__id*
+
+$rangeFieldã
+à
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Query\BatchRangeIterator.phpf f(1D/
+-magento\framework\db\query\batchrangeiterator"
+rangeFieldAlias"__id*
+
+$rangeFieldAlias£ 
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Query\BatchRangeIterator.phpg g(4
+%1*
+	
+$select2getconnectionÐ
+Í
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Query\BatchRangeIterator.phpg g(4?/
+-magento\framework\db\query\batchrangeiterator"
+
+connection"__id*
+
+%1*
+2:&
+$selectmagento\framework\db\select:
+
+$batchSize:
+$correlationName:
+$rangeField:
+$rangeFieldAliasB1/
+-magento\framework\db\query\batchrangeiterator

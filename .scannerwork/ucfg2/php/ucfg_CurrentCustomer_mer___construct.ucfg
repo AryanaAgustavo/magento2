@@ -1,0 +1,112 @@
+
+<magento\customer\helper\session\currentcustomer::__constructz
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpB B("1*®
+2
+CurrentCustomer.php"‘
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpR R(
+implicit return*Ý
+1z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpK K(2Ï
+Ì
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpB B(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÅ
+Â
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpB B(	
+$layout"__id*3
+1
+$layout&magento\framework\view\layoutinterfaceã
+à
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpB B(
+$customerFactory"__id*H
+F
+$customerFactory2magento\customer\api\data\customerinterfacefactoryç
+ä
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpB B(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceÇ
+Ä
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpB B(
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterfaceÍ
+Ê
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpB B(
+$moduleManager"__id*4
+2
+$moduleManager magento\framework\module\manager¾
+»
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpB B(
+$view"__id*.
+,
+$view#magento\framework\app\viewinterfaceã
+à
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpK K(1F1
+/magento\customer\helper\session\currentcustomer"
+customerSession"__id*
+
+$customerSessionÑ
+Î
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpL L(=1
+/magento\customer\helper\session\currentcustomer"
+layout"__id*
+	
+$layoutã
+à
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpM M(1F1
+/magento\customer\helper\session\currentcustomer"
+customerFactory"__id*
+
+$customerFactoryé
+æ
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpN N(7I1
+/magento\customer\helper\session\currentcustomer"
+customerRepository"__id*
+
+$customerRepositoryÓ
+Ð
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpO O(!>1
+/magento\customer\helper\session\currentcustomer"	
+request"__id*
+
+
+$requestß
+Ü
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpP P(-D1
+/magento\customer\helper\session\currentcustomer"
+moduleManager"__id*
+
+$moduleManagerÍ
+Ê
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Helper\Session\CurrentCustomer.phpQ Q(;1
+/magento\customer\helper\session\currentcustomer"
+view"__id*	
+
+$view*
+2:2
+$customerSessionmagento\customer\model\session:1
+$layout&magento\framework\view\layoutinterface:F
+$customerFactory2magento\customer\api\data\customerinterfacefactory:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:2
+$request&magento\framework\app\requestinterface:2
+$moduleManager magento\framework\module\manager:,
+$view#magento\framework\app\viewinterfaceB31
+/magento\customer\helper\session\currentcustomer

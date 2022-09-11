@@ -1,0 +1,166 @@
+
+.magento\sales\model\order\invoice::__constructn
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpç ç("1*ö
+2
+Invoice.php"Ö
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.php´ ´(
+implicit return*á#
+1n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpú ú(/¥
+±
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpç ç(
+
+$context"__id*-
++
+$contextmagento\framework\model\context±
+Æ
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpç ç(
+	$registry"__id*)
+'
+	$registrymagento\framework\registry◊
+‘
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpç ç(
+$extensionFactory"__id*G
+E
+$extensionFactory0magento\framework\api\extensionattributesfactoryﬁ
+€
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpç ç(
+$customAttributeFactory"__id*H
+F
+$customAttributeFactory+magento\framework\api\attributevaluefactory…
+∆
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpç ç(
+$invoiceConfig"__id*<
+:
+$invoiceConfig(magento\sales\model\order\invoice\configø
+º
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpç ç(
+$orderFactory"__id*3
+1
+$orderFactory magento\sales\model\orderfactory—
+Œ
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpç ç(
+$calculatorFactory"__id*@
+>
+$calculatorFactory(magento\framework\math\calculatorfactoryÖ
+Ç
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpç ç(
+$invoiceItemCollectionFactory"__id*i
+g
+$invoiceItemCollectionFactoryFmagento\sales\model\resourcemodel\order\invoice\item\collectionfactory·
+ﬁ
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpç ç(
+$invoiceCommentFactory"__id*L
+J
+$invoiceCommentFactory0magento\sales\model\order\invoice\commentfactoryÄ
+˝
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpç ç(
+$commentCollectionFactory"__id*h
+f
+$commentCollectionFactoryImagento\sales\model\resourcemodel\order\invoice\comment\collectionfactoryÕ
+ 
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpç ç(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresource◊
+‘
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpç ç(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdbî
+ë
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpç ç(
+$data"__id*
+
+$dataarray∆
+√
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpú ú(.7#
+!magento\sales\model\order\invoice"
+_invoiceConfig"__id*
+
+$invoiceConfigƒ
+¡
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpù ù(,6#
+!magento\sales\model\order\invoice"
+_orderFactory"__id*
+
+$orderFactoryŒ
+À
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpû û(6;#
+!magento\sales\model\order\invoice"
+_calculatorFactory"__id*
+
+$calculatorFactory‰
+·
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.phpü ü(LF#
+!magento\sales\model\order\invoice"
+_invoiceItemCollectionFactory"__id*!
+
+$invoiceItemCollectionFactory÷
+”
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.php† †(>?#
+!magento\sales\model\order\invoice"
+_invoiceCommentFactory"__id*
+
+$invoiceCommentFactory‹
+Ÿ
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.php° °(DB#
+!magento\sales\model\order\invoice"
+_commentCollectionFactory"__id*
+
+$commentCollectionFactory‘
+—
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice.php¢ ™(	
+%1".magento\sales\model\abstractmodel::__construct*%#
+!magento\sales\model\order\invoice*
+
+
+$context*
+
+	$registry*
+
+$extensionFactory*
+
+$customAttributeFactory*
+
+	$resource*
+
+$resourceCollection*	
+
+$data*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:E
+$extensionFactory0magento\framework\api\extensionattributesfactory:F
+$customAttributeFactory+magento\framework\api\attributevaluefactory::
+$invoiceConfig(magento\sales\model\order\invoice\config:1
+$orderFactory magento\sales\model\orderfactory:>
+$calculatorFactory(magento\framework\math\calculatorfactory:g
+$invoiceItemCollectionFactoryFmagento\sales\model\resourcemodel\order\invoice\item\collectionfactory:J
+$invoiceCommentFactory0magento\sales\model\order\invoice\commentfactory:f
+$commentCollectionFactoryImagento\sales\model\resourcemodel\order\invoice\comment\collectionfactory:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB%#
+!magento\sales\model\order\invoice

@@ -1,0 +1,111 @@
+
+Gmagento\mediagallerysynchronization\model\synchronizefiles::__constructÖ
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpL L("1*ª
+2
+SynchronizeFiles.php"ù
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.php\ \(
+implicit return*∆
+1Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpU U( ”
+–
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpL L(	
+$driver"__id*5
+3
+$driver(magento\framework\filesystem\driver\fileœ
+Ã
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpL L(
+$filesystem"__id*-
++
+$filesystemmagento\framework\filesystem—
+Œ
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpL L(
+$date"__id*5
+3
+$date*magento\framework\stdlib\datetime\datetimeº
+π
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpL L(
+$log"__id*!
+
+$logpsr\log\loggerinterfaceı
+Ú
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpL L(
+$getFileInfo"__id*R
+P
+$getFileInfo@magento\mediagallerysynchronization\model\filesystem\getfileinfoÙ
+Ò
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpL L(
+$getAssetsByPaths"__id*L
+J
+$getAssetsByPaths5magento\mediagalleryapi\api\getassetsbypathsinterfaceˆ
+Û
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpL L(
+$importFiles"__id*S
+Q
+$importFilesAmagento\mediagallerysynchronizationapi\model\importfilesinterfaceË
+Â
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpU U(H<
+:magento\mediagallerysynchronization\model\synchronizefiles"
+driver"__id*
+	
+$driver
+Ì
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpV V('L<
+:magento\mediagallerysynchronization\model\synchronizefiles"
+
+filesystem"__id*
+
+$filesystem‰
+·
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpW W(F<
+:magento\mediagallerysynchronization\model\synchronizefiles"
+date"__id*	
+
+$date‚
+ﬂ
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpX X(E<
+:magento\mediagallerysynchronization\model\synchronizefiles"
+log"__id*
+
+$logÚ
+Ô
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpY Y()M<
+:magento\mediagallerysynchronization\model\synchronizefiles"
+getFileInfo"__id*
+
+$getFileInfo¸
+˘
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.phpZ Z(3R<
+:magento\mediagallerysynchronization\model\synchronizefiles"
+getAssetsByPaths"__id*
+
+$getAssetsByPathsÚ
+Ô
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGallerySynchronization\Model\SynchronizeFiles.php[ [()M<
+:magento\mediagallerysynchronization\model\synchronizefiles"
+importFiles"__id*
+
+$importFiles*
+2:3
+$driver(magento\framework\filesystem\driver\file:+
+$filesystemmagento\framework\filesystem:3
+$date*magento\framework\stdlib\datetime\datetime:
+$logpsr\log\loggerinterface:P
+$getFileInfo@magento\mediagallerysynchronization\model\filesystem\getfileinfo:J
+$getAssetsByPaths5magento\mediagalleryapi\api\getassetsbypathsinterface:Q
+$importFilesAmagento\mediagallerysynchronizationapi\model\importfilesinterfaceB><
+:magento\mediagallerysynchronization\model\synchronizefiles

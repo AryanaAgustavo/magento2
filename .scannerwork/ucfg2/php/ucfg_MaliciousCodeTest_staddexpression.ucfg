@@ -1,0 +1,83 @@
+
+Mmagento\framework\filter\test\unit\input\maliciouscodetest::testaddexpression‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest.phpœ œ(%"1*Â
+2
+MaliciousCodeTest.php"£
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest.php­ ­(
+implicit return*Â
+1‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest.phpž ž(<Ï
+Ì
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest.phpž ž(;
+$customExpression"__id*!
+/<\/?(customMalicious).*>/Uisë
+è
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest.php   (
+%1"__id*L*J<
+:magento\framework\filter\test\unit\input\maliciouscodetest"
+
+purifier 
+
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest.php !  (4
+%2"Gmagento\framework\filter\test\unit\input\maliciouscodetest::atleastonce*>"<
+:magento\framework\filter\test\unit\input\maliciouscodetest°­
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest.php   (5
+%3*
+
+%1*
+
+%22expects³°
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest.php  ¡(
+%4*
+
+%3*
+
+purify2methodàÝ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest.php  ¢(K
+%5*
+
+%4*31
+/Custom malicious tag is removed customMalicious2
+willreturné
+æ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest.php¤ ¤(
+%6"__id*J*H<
+:magento\framework\filter\test\unit\input\maliciouscodetest"
+filterÅÂ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest.php¤ ¤(7
+%7*
+
+%6*
+
+$customExpression2addexpressioné
+æ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest.php¨ ¨(
+%8"__id*J*H<
+:magento\framework\filter\test\unit\input\maliciouscodetest"
+filter…‚
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest.php¨ ª(
+%9*
+
+%8*\Z
+XCustom \tmalicious tag\t\t is removed <customMalicious>customMalicious</customMalicious>2filterÒÏ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Input\MaliciousCodeTest.php¥ ¬(	
+%10*><
+:magento\framework\filter\test\unit\input\maliciouscodetest*31
+/Custom malicious tag is removed customMalicious*
+
+%9*-+
+)Custom filters are not applied correctly.2assertequals*
+2B><
+:magento\framework\filter\test\unit\input\maliciouscodetest

@@ -1,0 +1,99 @@
+
+Bmagento\customer\model\sessiontest::testlogoutactionflushesformkey„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpa a(2"1*µ
+2
+SessionTest.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpo o(
+implicit return*‚
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpc c(.Ô
+Ñ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpc c(
+%1"__id*<*:$
+"magento\customer\model\sessiontest"
+_customerSession©¦
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpc c(-
+%2*
+
+%1*22	loginbyidË
+È
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpe e(
+%3"__id*3*1$
+"magento\customer\model\sessiontest"	
+formKeyÒ
+Ï
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpg g(!
+%4"__id*:*8$
+"magento\customer\model\sessiontest"
+cookieMetadata³°
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpe h(	
+%5*
+
+%3*
+
+form_key*
+
+%42setË
+È
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpj j(#
+%6"__id*3*1$
+"magento\customer\model\sessiontest"	
+formKeyš
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpj j(*
+%7*
+
+%62get¦
+£
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpj j(*
+
+$beforeKey"__id*
+
+%7Ô
+Ñ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpk k(
+%8"__id*<*:$
+"magento\customer\model\sessiontest"
+_customerSession 
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpk k()
+%9*
+
+%82logoutÌ
+É
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpl l("
+%10"__id*3*1$
+"magento\customer\model\sessiontest"	
+formKeyŸœ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpl l()
+%11*
+
+%102get¦
+£
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpl l()
+	$afterKey"__id*
+
+%11éæ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\SessionTest.phpn n(5
+%12*&$
+"magento\customer\model\sessiontest*
+
+
+$beforeKey*
+
+	$afterKey2assertnotequals*
+2B&$
+"magento\customer\model\sessiontest

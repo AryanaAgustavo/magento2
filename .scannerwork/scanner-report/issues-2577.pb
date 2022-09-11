@@ -1,4 +1,0 @@
-`
-phpS107GThis function has 8 parameters, which is greater than the 7 authorized. 2EN S
-phpS11557Use empty() to check whether the array is empty or not. 2
-¨¨ 

@@ -1,0 +1,68 @@
+
+Bmagento\paypalgraphql\model\resolver\payflowlinktoken::__construct€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\PayflowLinkToken.php5 5("1*¶
+2
+PayflowLinkToken.php"˜
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\PayflowLinkToken.php? ?(
+implicit return*°
+1€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\PayflowLinkToken.php; ;(@ù
+ö
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\PayflowLinkToken.php5 5(
+$maskedQuoteIdToQuoteId"__id*P
+N
+$maskedQuoteIdToQuoteId3magento\quote\model\maskedquoteidtoquoteidinterface×
+Ô
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\PayflowLinkToken.php5 5(
+$paymentDataHelper"__id*3
+1
+$paymentDataHelpermagento\payment\helper\dataÛ
+Ø
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\PayflowLinkToken.php5 5(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceˆ
+…
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\PayflowLinkToken.php5 5(
+$orderCollectionFactory"__id*_
+]
+$orderCollectionFactoryBmagento\sales\model\resourcemodel\order\collectionfactoryinterfaceþ
+û
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\PayflowLinkToken.php; ;(?S7
+5magento\paypalgraphql\model\resolver\payflowlinktoken"
+maskedQuoteIdToQuoteId"__id*
+
+$maskedQuoteIdToQuoteIdô
+ñ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\PayflowLinkToken.php< <(5N7
+5magento\paypalgraphql\model\resolver\payflowlinktoken"
+paymentDataHelper"__id*
+
+$paymentDataHelperê
+ç
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\PayflowLinkToken.php= =(+I7
+5magento\paypalgraphql\model\resolver\payflowlinktoken"
+storeManager"__id*
+
+$storeManagerþ
+û
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\PayflowLinkToken.php> >(?S7
+5magento\paypalgraphql\model\resolver\payflowlinktoken"
+orderCollectionFactory"__id*
+
+$orderCollectionFactory*
+2:N
+$maskedQuoteIdToQuoteId3magento\quote\model\maskedquoteidtoquoteidinterface:1
+$paymentDataHelpermagento\payment\helper\data::
+$storeManager)magento\store\model\storemanagerinterface:]
+$orderCollectionFactoryBmagento\sales\model\resourcemodel\order\collectionfactoryinterfaceB97
+5magento\paypalgraphql\model\resolver\payflowlinktoken

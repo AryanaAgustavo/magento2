@@ -1,0 +1,118 @@
+
+Qmagento\catalog\ui\dataprovider\product\related\abstractdataprovider::__construct
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phpL L("1*Ê
+2
+AbstractDataProvider.php"¨
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phpi i(
+implicit return*Œ
+1
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phpZ c(
+‰
+†
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phpL L(
+$collectionFactory"__id*U
+S
+$collectionFactory=magento\catalog\model\resourcemodel\product\collectionfactoryÞ
+Û
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phpL L(
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterfaceú
+÷
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phpL L(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceò
+ï
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phpL L(
+$storeRepository"__id*@
+>
+$storeRepository*magento\store\api\storerepositoryinterface†
+ƒ
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phpL L(
+$productLinkRepository"__id*N
+L
+$productLinkRepository2magento\catalog\api\productlinkrepositoryinterface·
+´
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phpL L(
+$meta"__id*
+
+$metaarray·
+´
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phpL L(
+$data"__id*
+
+$dataarrayÊ
+Ç
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phpZ c(	
+%1"Hmagento\catalog\ui\dataprovider\product\productdataprovider::__construct*HF
+Dmagento\catalog\ui\dataprovider\product\related\abstractdataprovider*	
+
+$name*
+
+$primaryFieldName*
+
+$requestFieldName*
+
+$collectionFactory*
+
+$addFieldStrategies*
+
+$addFilterStrategies*	
+
+$meta*	
+
+$dataÿ
+ü
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phpe e(!SF
+Dmagento\catalog\ui\dataprovider\product\related\abstractdataprovider"	
+request"__id*
+
+
+$request“
+
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phpf f(5]F
+Dmagento\catalog\ui\dataprovider\product\related\abstractdataprovider"
+productRepository"__id*
+
+$productRepository
+Œ
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phpg g(1[F
+Dmagento\catalog\ui\dataprovider\product\related\abstractdataprovider"
+storeRepository"__id*
+
+$storeRepository›
+˜
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Related\AbstractDataProvider.phph h(=aF
+Dmagento\catalog\ui\dataprovider\product\related\abstractdataprovider"
+productLinkRepository"__id*
+
+$productLinkRepository*
+2:
+$name:
+$primaryFieldName:
+$requestFieldName:S
+$collectionFactory=magento\catalog\model\resourcemodel\product\collectionfactory:2
+$request&magento\framework\app\requestinterface:D
+$productRepository.magento\catalog\api\productrepositoryinterface:>
+$storeRepository*magento\store\api\storerepositoryinterface:L
+$productLinkRepository2magento\catalog\api\productlinkrepositoryinterface:
+$addFieldStrategies:
+$addFilterStrategies:
+$metaarray:
+$dataarrayBHF
+Dmagento\catalog\ui\dataprovider\product\related\abstractdataprovider

@@ -1,0 +1,222 @@
+
+5magento\paypal\model\payflow\transparent::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o("1*¥
+2
+Transparent.php"Œ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.php› ›(
+implicit return*–-
+1u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.php… –(
+¹
+¶
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+
+$context"__id*-
++
+$contextmagento\framework\model\context¶
+³
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÜ
+Ù
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$extensionFactory"__id*G
+E
+$extensionFactory0magento\framework\api\extensionattributesfactoryã
+à
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$customAttributeFactory"__id*H
+F
+$customAttributeFactory+magento\framework\api\attributevaluefactory½
+º
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$paymentData"__id*-
++
+$paymentDatamagento\payment\helper\dataÓ
+Ð
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface»
+¸
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(	
+$logger"__id*0
+.
+$logger#magento\payment\model\method\loggerÌ
+É
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$moduleList"__id*=
+;
+$moduleList,magento\framework\module\modulelistinterfaceÓ
+Ð
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterfaceÍ
+Ê
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÙ
+Ö
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$configFactory"__id*G
+E
+$configFactory3magento\payment\model\method\configinterfacefactoryÆ
+Ã
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+
+$gateway"__id*:
+8
+$gateway,magento\paypal\model\payflow\service\gatewayê
+ç
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$errorHandler"__id*Y
+W
+$errorHandlerFmagento\paypal\model\payflow\service\response\handler\handlerinterface÷
+ô
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$responseValidator"__id*a
+_
+$responseValidatorImagento\paypal\model\payflow\service\response\validator\responsevalidatorå
+â
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$paymentTokenFactory"__id*M
+K
+$paymentTokenFactory3magento\vault\api\data\paymenttokeninterfacefactoryö
+ó
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$paymentExtensionFactory"__id*Z
+X
+$paymentExtensionFactory<magento\sales\api\data\orderpaymentextensioninterfacefactoryÎ
+Ë
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$payPalCartFactory"__id*8
+6
+$payPalCartFactory magento\paypal\model\cartfactoryÒ
+Ï
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceÜ
+Ù
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb™
+–
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpo o(
+$data"__id*
+
+$dataarrayû
+ø
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.php… –(	
+%1",magento\paypal\model\payflowpro::__construct*,*
+(magento\paypal\model\payflow\transparent*
+
+
+$context*
+
+	$registry*
+
+$extensionFactory*
+
+$customAttributeFactory*
+
+$paymentData*
+
+$scopeConfig*
+	
+$logger*
+
+$moduleList*
+
+$localeDate*
+
+$storeManager*
+
+$configFactory*
+
+
+$gateway*
+
+$errorHandler*
+
+	$resource*
+
+$resourceCollection*	
+
+$dataÛ
+Ø
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.php— —(5A*
+(magento\paypal\model\payflow\transparent"
+responseValidator"__id*
+
+$responseValidatorß
+Ü
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.php˜ ˜(9C*
+(magento\paypal\model\payflow\transparent"
+paymentTokenFactory"__id*
+
+$paymentTokenFactoryç
+ä
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.php™ ™(AG*
+(magento\paypal\model\payflow\transparent"
+paymentExtensionFactory"__id*
+
+$paymentExtensionFactoryÛ
+Ø
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Payflow\Transparent.phpš š(5A*
+(magento\paypal\model\payflow\transparent"
+payPalCartFactory"__id*
+
+$payPalCartFactory*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:E
+$extensionFactory0magento\framework\api\extensionattributesfactory:F
+$customAttributeFactory+magento\framework\api\attributevaluefactory:+
+$paymentDatamagento\payment\helper\data:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:.
+$logger#magento\payment\model\method\logger:;
+$moduleList,magento\framework\module\modulelistinterface:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface::
+$storeManager)magento\store\model\storemanagerinterface:E
+$configFactory3magento\payment\model\method\configinterfacefactory:8
+$gateway,magento\paypal\model\payflow\service\gateway:W
+$errorHandlerFmagento\paypal\model\payflow\service\response\handler\handlerinterface:_
+$responseValidatorImagento\paypal\model\payflow\service\response\validator\responsevalidator:K
+$paymentTokenFactory3magento\vault\api\data\paymenttokeninterfacefactory:X
+$paymentExtensionFactory<magento\sales\api\data\orderpaymentextensioninterfacefactory:6
+$payPalCartFactory magento\paypal\model\cartfactory:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB,*
+(magento\paypal\model\payflow\transparent

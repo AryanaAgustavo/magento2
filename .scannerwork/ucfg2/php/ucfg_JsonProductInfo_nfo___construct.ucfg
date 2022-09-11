@@ -1,0 +1,69 @@
+
+Hmagento\review\controller\adminhtml\product\jsonproductinfo::__construct†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product\JsonProductInfo.php# #("1*»
+2
+JsonProductInfo.php"ž
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product\JsonProductInfo.php, ,(
+implicit return*Æ
+1†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product\JsonProductInfo.php* *(6Ð
+Í
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product\JsonProductInfo.php# #(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÒ
+Ï
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product\JsonProductInfo.php# #(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryÜ
+Ù
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product\JsonProductInfo.php# #(
+$reviewFactory"__id*6
+4
+$reviewFactory"magento\review\model\reviewfactoryÜ
+Ù
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product\JsonProductInfo.php# #(
+$ratingFactory"__id*6
+4
+$ratingFactory"magento\review\model\ratingfactoryð
+í
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product\JsonProductInfo.php# #(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterface€
+ý
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product\JsonProductInfo.php* *(5T=
+;magento\review\controller\adminhtml\product\jsonproductinfo"
+productRepository"__id*
+
+$productRepositoryÖ
+Ó
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product\JsonProductInfo.php+ +(T
+%1"8magento\review\controller\adminhtml\product::__construct*?=
+;magento\review\controller\adminhtml\product\jsonproductinfo*
+
+
+$context*
+
+$coreRegistry*
+
+$reviewFactory*
+
+$ratingFactory*
+2:.
+$context"magento\backend\app\action\context:+
+$coreRegistrymagento\framework\registry:4
+$reviewFactory"magento\review\model\reviewfactory:4
+$ratingFactory"magento\review\model\ratingfactory:D
+$productRepository.magento\catalog\api\productrepositoryinterfaceB?=
+;magento\review\controller\adminhtml\product\jsonproductinfo

@@ -1,0 +1,65 @@
+
+Smagento\graphql\loginascustomergraphql\updatecustomerv2test::getcustomerauthheaders¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\UpdateCustomerV2Test.phpF F(+"1*±
+1¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\UpdateCustomerV2Test.phpH H(cË
+È
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\UpdateCustomerV2Test.phpF F(+
+$email"__id*
+
+$emailstringÑ
+Î
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\UpdateCustomerV2Test.phpF F(+
+	$password"__id*
+
+	$passwordstringŽ
+‹
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\UpdateCustomerV2Test.phpH H(4
+%1"__id*Y*W=
+;magento\graphql\loginascustomergraphql\updatecustomerv2test"
+customerTokenServiceëè
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\UpdateCustomerV2Test.phpH H(b
+%2*
+
+%1*
+
+
+$email*
+
+	$password2createcustomeraccesstokenÇ
+Ä
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\UpdateCustomerV2Test.phpH H(b
+$customerToken"__id*
+
+%2µ²
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\UpdateCustomerV2Test.phpI I(>
+%3"$ArrayØ
+Õ
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\UpdateCustomerV2Test.phpI# I(=
+%4"__concat*	
+Bearer *
+
+$customerTokenÚ
+×
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\UpdateCustomerV2Test.phpI I(>
+%5"__mapSet*
+
+%3*
+Authorization*
+
+%4"¬
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\UpdateCustomerV2Test.phpI I(?
+
+%3:
+$emailstring:
+	$passwordstringB?=
+;magento\graphql\loginascustomergraphql\updatecustomerv2test

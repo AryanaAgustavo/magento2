@@ -1,0 +1,203 @@
+
+omagento\security\test\unit\model\plugin\authsessiontest::testaroundprolongsessionisnotactiveandisnotajaxrequestÇ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpw w(J"1*π
+2
+AuthSessionTest.php"ú
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpï ï(
+implicit return*ï2
+1Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpy y(•
+¢
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpy y(	
+$result"__id*
+
+result≤
+Ø
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpz z('
+$errorMessage"__id*
+Error Messageæ
+ª
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.php| ~(	
+
+$proceed"__declareFunction*îë
+é__sonar_lambda_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.php_124_19Î
+Ë
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpÄ Ä(!
+%1"__id*S*Q9
+7magento\security\test\unit\model\plugin\authsessiontest"
+currentSessionMock”–
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpÄ+ Ä(8
+%2*;9
+7magento\security\test\unit\model\plugin\authsessiontest2once©¶
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpÄ Ä(9
+%3*
+
+%1*
+
+%22expects∂≥
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpÄ Å((
+%4*
+
+%3*
+isLoggedInStatus2methodØ¨
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpÄ Ç(
+%5*
+
+%4*	
+false2
+willreturnË
+Â
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpÑ Ñ(
+%6"__id*P*N9
+7magento\security\test\unit\model\plugin\authsessiontest"
+authSessionMock”–
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpÑ( Ñ(5
+%7*;9
+7magento\security\test\unit\model\plugin\authsessiontest2once©¶
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpÑ Ñ(6
+%8*
+
+%6*
+
+%72expects≠™
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpÑ Ö(
+%9*
+
+%8*	
+destroy2methodÂ
+‚
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpá á(
+%10"__id*L*J9
+7magento\security\test\unit\model\plugin\authsessiontest"
+requestMock‘—
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpá$ á(1
+%11*;9
+7magento\security\test\unit\model\plugin\authsessiontest2once¨©
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpá á(2
+%12*
+
+%10*
+
+%112expects∞≠
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpá à( 
+%13*
+
+%12*
+
+getParam2method¨©
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpá â(
+%14*
+
+%13*
+
+isAjax2with±Æ
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpá ä(
+%15*
+
+%14*	
+false2
+willreturnÚ
+Ô
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpå å('
+%16"__id*Y*W9
+7magento\security\test\unit\model\plugin\authsessiontest"
+adminSessionsManagerMock‘—
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpå1 å(>
+%17*;9
+7magento\security\test\unit\model\plugin\authsessiontest2once¨©
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpå å(?
+%18*
+
+%16*
+
+%172expectsæª
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpå ç(.
+%19*
+
+%18*
+getLogoutReasonMessage2methodπ∂
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpå é('
+%20*
+
+%19*
+
+$errorMessage2
+willreturnÏ
+È
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpê ê(!
+%21"__id*S*Q9
+7magento\security\test\unit\model\plugin\authsessiontest"
+messageManagerMock‘—
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpê+ ê(8
+%22*;9
+7magento\security\test\unit\model\plugin\authsessiontest2once¨©
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpê ê(9
+%23*
+
+%21*
+
+%222expects∑¥
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpê ë('
+%24*
+
+%23*
+addErrorMessage2method≥∞
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpê í(!
+%25*
+
+%24*
+
+$errorMessage2withﬂ
+‹
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpî î(
+%26"__id*F*D9
+7magento\security\test\unit\model\plugin\authsessiontest"
+modelÈ
+Ê
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpî$ î(:
+%27"__id*P*N9
+7magento\security\test\unit\model\plugin\authsessiontest"
+authSessionMock¿Ω
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Model\Plugin\AuthSessionTest.phpî î(E
+%28*
+
+%26*
+
+%27*
+
+
+$proceed2aroundprolong*
+2B;9
+7magento\security\test\unit\model\plugin\authsessiontest

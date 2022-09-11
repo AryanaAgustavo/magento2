@@ -1,0 +1,72 @@
+
+@magento\config\model\config\structure\element\group::__construct~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Structure\Element\Group.php% %("1*¨
+2
+	Group.php"•
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Structure\Element\Group.php/ /(
+implicit return*Ç
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Structure\Element\Group.php, ,(NØ
+Õ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Structure\Element\Group.php% %(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÑ
+Î
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Structure\Element\Group.php% %(
+$moduleManager"__id*4
+2
+$moduleManager magento\framework\module\manageró
+ð
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Structure\Element\Group.php% %(
+$childrenIterator"__id*S
+Q
+$childrenIterator<magento\config\model\config\structure\element\iterator\fieldé
+æ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Structure\Element\Group.php% %(
+$cloneModelFactory"__id*H
+F
+$cloneModelFactory0magento\config\model\config\backendclone\factoryö
+ó
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Structure\Element\Group.php% %(
+$dependencyMapper"__id*V
+T
+$dependencyMapper?magento\config\model\config\structure\element\dependency\mapperÎ
+Ë
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Structure\Element\Group.php, ,(M
+%1"Lmagento\config\model\config\structure\element\abstractcomposite::__construct*75
+3magento\config\model\config\structure\element\group*
+
+$storeManager*
+
+$moduleManager*
+
+$childrenIteratorð
+í
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Structure\Element\Group.php- -(6M5
+3magento\config\model\config\structure\element\group"
+_cloneModelFactory"__id*
+
+$cloneModelFactoryî
+ë
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Structure\Element\Group.php. .(4L5
+3magento\config\model\config\structure\element\group"
+_dependencyMapper"__id*
+
+$dependencyMapper*
+2::
+$storeManager)magento\store\model\storemanagerinterface:2
+$moduleManager magento\framework\module\manager:Q
+$childrenIterator<magento\config\model\config\structure\element\iterator\field:F
+$cloneModelFactory0magento\config\model\config\backendclone\factory:T
+$dependencyMapper?magento\config\model\config\structure\element\dependency\mapperB75
+3magento\config\model\config\structure\element\group

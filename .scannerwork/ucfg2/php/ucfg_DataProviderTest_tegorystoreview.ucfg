@@ -1,0 +1,135 @@
+
+Fmagento\catalog\model\category\dataprovidertest::testcategorystoreview”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php­ ­()"1*Ê
+2
+DataProviderTest.php"¬
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php· ·(
+implicit return*Ì 
+1”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php¯ ¯(®
+«
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php¯ ¯(
+$id"__id*2Íí
+ê
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php° °(*
+%1"__id*E*C1
+/magento\catalog\model\category\dataprovidertest"
+storeManager¼¹
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php° °(<
+%2*
+
+%1*
+test2getstore¸
+µ
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php° °(<
+$secondStore"__id*
+
+%2ó
+ð
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php± ±(-
+%3"__id*K*I1
+/magento\catalog\model\category\dataprovidertest"
+categoryRepository¹¶
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php±8 ±(M
+%4*
+
+$secondStore2getid¾»
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php± ±(N
+%5*
+
+%3*
+
+$id*
+
+%42getµ
+²
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php± ±(N
+	$category"__id*
+
+%5öó
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php² ²(*
+%6*31
+/magento\catalog\model\category\dataprovidertest*
+
+	$category2registercategoryí
+ê
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php³ ³(#
+%7"__id*E*C1
+/magento\catalog\model\category\dataprovidertest"
+dataProvider±®
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php³ ³(.
+%8*
+
+%72getdata±
+®
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php³ ³(.
+$data"__id*
+
+%8ðí
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php´ ´($
+%9*31
+/magento\catalog\model\category\dataprovidertest*	
+
+$data2assertnotemptyÁ
+¾
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpµ1 µ(;
+%10"
+__arrayGet*	
+
+$data*
+
+$id¾
+»
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpµ1 µ(C
+%11"__mapGet*
+
+%10*
+name„
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.phpµ µ(D
+%12*31
+/magento\catalog\model\category\dataprovidertest*
+Category 1 Second*
+
+%112assertequalsÁ
+¾
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php¶9 ¶(C
+%13"
+__arrayGet*	
+
+$data*
+
+$idÁ
+¾
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php¶9 ¶(N
+%14"__mapGet*
+
+%13*	
+url_keyŒ‰
+”
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\DataProviderTest.php¶ ¶(O
+%15*31
+/magento\catalog\model\category\dataprovidertest*
+category-1-second-url-key*
+
+%142assertequals*
+2B31
+/magento\catalog\model\category\dataprovidertest

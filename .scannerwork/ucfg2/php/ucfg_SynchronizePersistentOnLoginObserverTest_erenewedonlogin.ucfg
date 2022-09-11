@@ -1,0 +1,182 @@
+
+xmagento\persistent\observer\synchronizepersistentonloginobservertest::testexpiredpersistentsessionshouldberenewedonlogin§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpv v(F"1*÷
+2.
+,SynchronizePersistentOnLoginObserverTest.php"Á
+©
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpƒ ƒ(
+implicit return*¥5
+1§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpx x(K›
+˜
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpx x(-
+%1"__id*`*^F
+Dmagento\persistent\observer\synchronizepersistentonloginobservertest"
+customerRepositoryÚ×
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpx x(J
+%2*
+
+%1*
+customer@example.com2getÈ
+Å
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpx x(J
+	$customer"__id*
+
+%2½º
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpy y(0
+%3"datetimeÝ
+Ú
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpy y(0
+%4"datetime::__construct*
+
+%3*	
+-1dayÁ¾
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpy> y(U
+%5"datetimezoneß
+Ü
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpy> y(U
+%6"datetimezone::__construct*
+
+%5*
+UTCÐÍ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpy y(V
+%7*
+
+%3*
+
+%52settimezoneÔÑ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpy y(m
+%8*
+
+%7*
+Y-m-d H:i:s2formatÍ
+Ê
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpy y(m
+$lastUpdatedAt"__id*
+
+%8¡
+ž
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpz z(7
+%9"__id*f*dF
+Dmagento\persistent\observer\synchronizepersistentonloginobservertest"
+persistentSessionFactoryÄÁ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpz z(A
+%10*
+
+%92createÍ
+Ê
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.phpz z(A
+$sessionModel"__id*
+
+%10ÊÇ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php{% {(7
+%11*
+
+	$customer2getidßÜ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php{ {(8
+%12*
+
+$sessionModel*
+
+%112setcustomeridéæ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php| |(3
+%13*
+
+$sessionModel*
+
+$lastUpdatedAt2setupdatedatÍÊ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php} }(
+%14*
+
+$sessionModel2save¡
+ž
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php~ ~(&
+%15"__id*e*cF
+Dmagento\persistent\observer\synchronizepersistentonloginobservertest"
+persistentSessionHelperÝÚ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php~ ~(B
+%16*
+
+%15*
+true2setremembermechecked™
+–
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php (
+%17"__id*]*[F
+Dmagento\persistent\observer\synchronizepersistentonloginobservertest"
+customerSessionÊÇ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php* (<
+%18*
+
+	$customer2getidÑÎ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php (=
+%19*
+
+%17*
+
+%182	loginbyid¤
+¡
+©
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php€ €(7
+%20"__id*f*dF
+Dmagento\persistent\observer\synchronizepersistentonloginobservertest"
+persistentSessionFactoryÇÄ
+©
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php€ €(A
+%21*
+
+%202createÏ
+Ì
+©
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php€ €(A
+$sessionModel"__id*
+
+%21ÌÉ
+©
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php( (:
+%22*
+
+	$customer2getidäá
+©
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php (;
+%23*
+
+$sessionModel*
+
+%222loadbycustomerid×Ô
+©
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php‚1 ‚(N
+%24*
+
+$sessionModel2getupdatedat°­
+©
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Observer\SynchronizePersistentOnLoginObserverTest.php‚ ‚(O
+%25*HF
+Dmagento\persistent\observer\synchronizepersistentonloginobservertest*
+
+$lastUpdatedAt*
+
+%242assertgreaterthan*
+2BHF
+Dmagento\persistent\observer\synchronizepersistentonloginobservertest

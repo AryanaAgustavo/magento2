@@ -1,0 +1,85 @@
+
+Emagento\mediagalleryui\controller\adminhtml\image\delete::__constructƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryUi\Controller\Adminhtml\Image\Delete.phpA A("1*¯
+2
+
+Delete.php"›
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryUi\Controller\Adminhtml\Image\Delete.phpN N(
+implicit return*›
+1ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryUi\Controller\Adminhtml\Image\Delete.phpH H(&Í
+Ê
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryUi\Controller\Adminhtml\Image\Delete.phpA A(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÛ
+Ø
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryUi\Controller\Adminhtml\Image\Delete.phpA A(
+$deleteImage"__id*:
+8
+$deleteImage(magento\mediagalleryui\model\deleteimageì
+é
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryUi\Controller\Adminhtml\Image\Delete.phpA A(
+$getAssetsByIds"__id*H
+F
+$getAssetsByIds3magento\mediagalleryapi\api\getassetsbyidsinterfaceß
+Ü
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryUi\Controller\Adminhtml\Image\Delete.phpA A(
+$imagesStorage"__id*<
+:
+$imagesStorage(magento\cms\model\wysiwyg\images\storageÀ
+½
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryUi\Controller\Adminhtml\Image\Delete.phpA A(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface„
+
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryUi\Controller\Adminhtml\Image\Delete.phpH H(%
+%1"'magento\backend\app\action::__construct*<:
+8magento\mediagalleryui\controller\adminhtml\image\delete*
+
+
+$contextî
+ë
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryUi\Controller\Adminhtml\Image\Delete.phpJ J()K:
+8magento\mediagalleryui\controller\adminhtml\image\delete"
+deleteImage"__id*
+
+$deleteImageô
+ñ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryUi\Controller\Adminhtml\Image\Delete.phpK K(/N:
+8magento\mediagalleryui\controller\adminhtml\image\delete"
+getAssetsByIds"__id*
+
+$getAssetsByIdsò
+ï
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryUi\Controller\Adminhtml\Image\Delete.phpL L(-M:
+8magento\mediagalleryui\controller\adminhtml\image\delete"
+imagesStorage"__id*
+
+$imagesStorageä
+á
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryUi\Controller\Adminhtml\Image\Delete.phpM M(F:
+8magento\mediagalleryui\controller\adminhtml\image\delete"
+logger"__id*
+	
+$logger*
+2:.
+$context"magento\backend\app\action\context:8
+$deleteImage(magento\mediagalleryui\model\deleteimage:F
+$getAssetsByIds3magento\mediagalleryapi\api\getassetsbyidsinterface::
+$imagesStorage(magento\cms\model\wysiwyg\images\storage:"
+$loggerpsr\log\loggerinterfaceB<:
+8magento\mediagalleryui\controller\adminhtml\image\delete

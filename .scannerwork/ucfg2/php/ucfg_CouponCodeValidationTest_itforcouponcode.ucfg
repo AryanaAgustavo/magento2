@@ -1,0 +1,359 @@
+
+]magento\salesrule\test\unit\observer\couponcodevalidationtest::testreachinglimitforcouponcodeä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpä ä(2"1*»
+2
+CouponCodeValidationTest.php"¢
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpü ü(
+implicit return*Ûa
+1ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpå å(\©¶
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpå å([
+%1*A?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest*=;
+9Magento\SalesRule\Api\Exception\CodeRequestLimitException2expectexception≠™
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpç ç(_
+%2*A?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest*:8
+6Too many coupon code requests, please try again later.2expectexceptionmessage∞
+≠
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpé é(
+$couponCode"__id*	
+AB123Ò
+Ó
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpè è(
+%3"__id*S*Q?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest"
+observerMockﬂ‹
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpè% è(2
+%4*A?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest2onceØ¨
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpè è(3
+%5*
+
+%3*
+
+%42expects≥∞
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpè è(F
+%6*
+
+%5*	
+getData2methodØ¨
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpè è(U
+%7*
+
+%6*	
+quote2withÓ
+Î
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpê ê()
+%8"__id*P*N?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest"
+	quoteMock≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpè ê(*
+%9*
+
+%7*
+
+%82
+willreturnÔ
+Ï
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpë ë(
+%10"__id*P*N?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest"
+	quoteMock‡›
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpë" ë(/
+%11*A?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest2once≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpë ë(0
+%12*
+
+%10*
+
+%112expectsª∏
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpë ë(I
+%13*
+
+%12*
+getCouponCode2methodΩ∫
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpë ë(b
+%14*
+
+%13*
+
+$couponCode2
+willreturnˇ
+¸
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpí í((
+%15"__id*`*^?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest"
+searchCriteriaBuilderMock‡›
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpí2 í(?
+%16*A?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest2once≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpí í(@
+%17*
+
+%15*
+
+%162expects∑¥
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpí í(U
+%18*
+
+%17*
+	addFilter2method∞≠
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpí í(g
+%19*
+
+%182willreturnselfˇ
+¸
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpì ì((
+%20"__id*`*^?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest"
+searchCriteriaBuilderMock‡›
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpì2 ì(?
+%21*A?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest2once≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpì ì(@
+%22*
+
+%20*
+
+%212expects¥±
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpì ì(R
+%23*
+
+%22*
+
+create2method¯
+ı
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpî î(2
+%24"__id*Y*W?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest"
+searchCriteriaMockµ≤
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpì î(3
+%25*
+
+%23*
+
+%242
+willreturnÔ
+Ï
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpï ï(
+%26"__id*P*N?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest"
+	quoteMock‡›
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpï" ï(/
+%27*A?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest2once≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpï ï(0
+%28*
+
+%26*
+
+%272expects≥∞
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpï ï(A
+%29*
+
+%28*	
+getId2method≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpï ï(R
+%30*
+
+%29*2{2
+willreturn¯
+ı
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpñ ñ(!
+%31"__id*Y*W?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest"
+cartRepositoryMockﬂ‹
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpñ+ ñ(7
+%32*A?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest2any≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpñ ñ(8
+%33*
+
+%31*
+
+%322expectsµ≤
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpñ ñ(K
+%34*
+
+%33*	
+getList2method∞≠
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpñ ñ(]
+%35*
+
+%342willreturnself¯
+ı
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpó ó(!
+%36"__id*Y*W?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest"
+cartRepositoryMockﬂ‹
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpó+ ó(7
+%37*A?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest2any≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpó ó(8
+%38*
+
+%36*
+
+%372expects∂≥
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpó ó(L
+%39*
+
+%38*
+
+getItems2methodüú
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpóY ó([
+%40"$Arrayµ≤
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpó ó(\
+%41*
+
+%39*
+
+%402
+willreturn˙
+˜
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpò ò(#
+%42"__id*[*Y?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest"
+codeLimitManagerMock‡›
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpò- ò(:
+%43*A?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest2once≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpò ò(;
+%44*
+
+%42*
+
+%432expects∫∑
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpò ò(S
+%45*
+
+%44*
+checkRequest2method∑¥
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpò ò(f
+%46*
+
+%45*
+
+$couponCode2with€
+ÿ
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpö. ö(j
+%48"__* *:8
+6Too many coupon code requests, please try again later.“œ
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpö ö(k
+%47"9magento\salesrule\api\exception\coderequestlimitexceptionÒ
+Ó
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpö ö(k
+%49"Fmagento\salesrule\api\exception\coderequestlimitexception::__construct*
+
+%47*
+
+%48Ω∫
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpò õ(
+%50*
+
+%46*
+
+%472willthrowexceptionÔ
+Ï
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpú ú(
+%51"__id*P*N?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest"
+	quoteMock‡›
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpú" ú(/
+%52*A?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest2once≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpú ú(0
+%53*
+
+%51*
+
+%522expectsª∏
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpú ú(I
+%54*
+
+%53*
+setCouponCode2method™ß
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpú ú(S
+%55*
+
+%54* 2with˙
+˜
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpû û(#
+%56"__id*[*Y?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest"
+couponCodeValidationÚ
+Ô
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpû- û(@
+%57"__id*S*Q?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest"
+observerMock≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Test\Unit\Observer\CouponCodeValidationTest.phpû û(A
+%58*
+
+%56*
+
+%572execute*
+2BA?
+=magento\salesrule\test\unit\observer\couponcodevalidationtest

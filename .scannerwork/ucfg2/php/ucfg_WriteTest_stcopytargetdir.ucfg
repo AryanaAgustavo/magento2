@@ -1,0 +1,108 @@
+
+Cmagento\framework\filesystem\directory\writetest::testcopytargetdirï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php– –(%"1*ƒ
+2
+WriteTest.php"≠
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php€ €(
+implicit return*§
+1ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php“ “(Dçä
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php“ “(C
+%1*42
+0magento\framework\filesystem\directory\writetest*
+
+	$firstDir*
+
+$permission2getdirectoryinstance≤
+Ø
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php“ “(C
+$dir1"__id*
+
+%1éã
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php” ”(D
+%2*42
+0magento\framework\filesystem\directory\writetest*
+
+
+$secondDir*
+
+$permission2getdirectoryinstance≤
+Ø
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php” ”(D
+$dir2"__id*
+
+%2…∆
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php’ ’(,
+%3*	
+
+$dir1*	
+
+$name*
+w+2openfile≤
+Ø
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php’ ’(,
+$file"__id*
+
+%3≥∞
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php÷ ÷(
+%4*	
+
+$file2close⁄◊
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php◊ ◊(/
+%5*	
+
+$dir1*	
+
+$name*
+
+
+$newName*	
+
+$dir22copyfile¿Ω
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpŸ Ÿ(/
+%6*	
+
+$dir1*	
+
+$name2isexistÎË
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpŸ Ÿ(0
+%7*42
+0magento\framework\filesystem\directory\writetest*
+
+%62
+asserttrue√¿
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php⁄ ⁄(2
+%8*	
+
+$dir2*
+
+
+$newName2isexistÎË
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php⁄ ⁄(3
+%9*42
+0magento\framework\filesystem\directory\writetest*
+
+%82
+asserttrue*
+2:
+	$firstDir:
+
+$secondDir:
+$permission:
+$name:
+
+$newNameB42
+0magento\framework\filesystem\directory\writetest

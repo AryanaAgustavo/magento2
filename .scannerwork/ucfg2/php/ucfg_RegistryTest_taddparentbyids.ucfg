@@ -1,0 +1,120 @@
+
+Emagento\framework\acl\test\unit\role\registrytest::testaddparentbyids€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.php; ;(&"1*²
+2
+RegistryTest.php"˜
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.phpE E(
+implicit return*Å
+1€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.php= =(
+š
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.php= =(	
+$roleId"__id*2£
+ 
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.php> >(
+$parentRoleId"__id*2îë
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.php? ?(F
+%1*53
+1magento\framework\acl\test\unit\role\registrytest*
+	
+$roleId*
+
+$parentRoleId2	initroles¯
+¬
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.php? ?(
+$parentRole"
+__arrayGet*
+
+%1*2Ô
+Ñ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.phpA A('
+%2"__id*@*>3
+1magento\framework\acl\test\unit\role\registrytest"
+model­ª
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.phpA A(<
+%3*
+
+%2*
+	
+$roleId2
+getparentsØÕ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.phpA A(=
+%4*53
+1magento\framework\acl\test\unit\role\registrytest*
+
+%32assertemptyÔ
+Ñ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.phpB B(
+%5"__id*@*>3
+1magento\framework\acl\test\unit\role\registrytest"
+model¿¼
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.phpB B(7
+%6*
+
+%5*
+	
+$roleId*
+
+$parentRoleId2	addparentÔ
+Ñ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.phpC C(
+%7"__id*@*>3
+1magento\framework\acl\test\unit\role\registrytest"
+model­ª
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.phpC C()
+%8*
+
+%7*
+	
+$roleId2
+getparents”‘
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.phpD D(:
+%9"$ArrayÅ
+Â
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.phpD D(:
+%10"
+__arraySet*
+
+%9*
+
+$parentRoleId*
+
+$parentRoleÕ
+Ò
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.phpD< D(H
+%11"__id*@*>3
+1magento\framework\acl\test\unit\role\registrytest"
+model¯¬
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.phpD< D(]
+%12*
+
+%11*
+	
+$roleId2
+getparentsãà
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Acl\Test\Unit\Role\RegistryTest.phpD D(^
+%13*53
+1magento\framework\acl\test\unit\role\registrytest*
+
+%9*
+
+%122assertequals*
+2B53
+1magento\framework\acl\test\unit\role\registrytest

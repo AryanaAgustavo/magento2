@@ -1,0 +1,110 @@
+
+Pmagento\quote\observer\frontend\quote\address\collecttotalsobserver::__constructè
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpJ J("1* 
+2
+CollectTotalsObserver.php"ß
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpZ Z(
+implicit return*√
+1è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpS S(*Ú
+Ô
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpJ J(
+$customerAddressHelper"__id*;
+9
+$customerAddressHelpermagento\customer\helper\addressŸ
+÷
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpJ J(
+$customerVat"__id*,
+*
+$customerVatmagento\customer\model\vat˚
+¯
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpJ J(
+$vatValidator"__id*M
+K
+$vatValidator:magento\quote\observer\frontend\quote\address\vatvalidatorÅ
+˛
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpJ J(
+$customerDataFactory"__id*L
+J
+$customerDataFactory2magento\customer\api\data\customerinterfacefactoryÙ
+Ò
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpJ J(
+$groupManagement"__id*C
+A
+$groupManagement-magento\customer\api\groupmanagementinterface˙
+˜
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpJ J(
+$addressRepository"__id*G
+E
+$addressRepository/magento\customer\api\addressrepositoryinterfaceÂ
+‚
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpJ J(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÖ
+Ç
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpS S()VE
+Cmagento\quote\observer\frontend\quote\address\collecttotalsobserver"
+customerVat"__id*
+
+$customerVatô
+ñ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpT T(=`E
+Cmagento\quote\observer\frontend\quote\address\collecttotalsobserver"
+customerAddressHelper"__id*
+
+$customerAddressHelperá
+Ñ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpU U(+WE
+Cmagento\quote\observer\frontend\quote\address\collecttotalsobserver"
+vatValidator"__id*
+
+$vatValidatorï
+í
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpV V(9^E
+Cmagento\quote\observer\frontend\quote\address\collecttotalsobserver"
+customerDataFactory"__id*
+
+$customerDataFactoryç
+ä
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpW W(1ZE
+Cmagento\quote\observer\frontend\quote\address\collecttotalsobserver"
+groupManagement"__id*
+
+$groupManagementë
+é
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpX X(5\E
+Cmagento\quote\observer\frontend\quote\address\collecttotalsobserver"
+addressRepository"__id*
+
+$addressRepositoryç
+ä
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Observer\Frontend\Quote\Address\CollectTotalsObserver.phpY Y(1ZE
+Cmagento\quote\observer\frontend\quote\address\collecttotalsobserver"
+customerSession"__id*
+
+$customerSession*
+2:9
+$customerAddressHelpermagento\customer\helper\address:*
+$customerVatmagento\customer\model\vat:K
+$vatValidator:magento\quote\observer\frontend\quote\address\vatvalidator:J
+$customerDataFactory2magento\customer\api\data\customerinterfacefactory:A
+$groupManagement-magento\customer\api\groupmanagementinterface:E
+$addressRepository/magento\customer\api\addressrepositoryinterface:2
+$customerSessionmagento\customer\model\sessionBGE
+Cmagento\quote\observer\frontend\quote\address\collecttotalsobserver

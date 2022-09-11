@@ -1,0 +1,95 @@
+
+Amagento\reports\model\resourcemodel\quote\collection::__construct
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Quote\Collection.php! !("1*®
+2
+Collection.php"–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Quote\Collection.php5 5(
+implicit return*
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Quote\Collection.php+ 3(
+ê
+ç
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Quote\Collection.php! !(
+$entityFactory"__id*L
+J
+$entityFactory8magento\framework\data\collection\entityfactoryinterface»
+¸
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Quote\Collection.php! !(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceí
+ê
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Quote\Collection.php! !(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceØ
+Õ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Quote\Collection.php! !(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceô
+ñ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Quote\Collection.php! !(
+$entitySnapshot"__id*U
+S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshotå
+â
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Quote\Collection.php! !(
+$customerResource"__id*D
+B
+$customerResource-magento\customer\model\resourcemodel\customerÙ
+Ö
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Quote\Collection.php! !(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceÛ
+Ø
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Quote\Collection.php! !(
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdb‚
+ÿ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Quote\Collection.php+ 3(	
+%1"?magento\quote\model\resourcemodel\quote\collection::__construct*86
+4magento\reports\model\resourcemodel\quote\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$entitySnapshot*
+
+$connection*
+
+	$resourceï
+ì
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Quote\Collection.php4 4(3L6
+4magento\reports\model\resourcemodel\quote\collection"
+customerResource"__id*
+
+$customerResource*
+2:J
+$entityFactory8magento\framework\data\collection\entityfactoryinterface:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshot:B
+$customerResource-magento\customer\model\resourcemodel\customer:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbB86
+4magento\reports\model\resourcemodel\quote\collection

@@ -1,0 +1,29 @@
+
+8magento\graphql\quote\getcarttotalquantitytest::getquery”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\GetCartTotalQuantityTest.php6 6("1*Ž
+1”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\GetCartTotalQuantityTest.php8 >(Î
+Ë
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\GetCartTotalQuantityTest.php6 6(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringþ
+û
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\GetCartTotalQuantityTest.php8 >(
+%1"__concat*
+{
+  cart(cart_id: "*$"
+ ") {
+    total_quantity
+  }
+}*
+
+$maskedQuoteId"Ÿ
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\GetCartTotalQuantityTest.php8 >(
+
+%1:
+$maskedQuoteIdstringB20
+.magento\graphql\quote\getcarttotalquantitytest

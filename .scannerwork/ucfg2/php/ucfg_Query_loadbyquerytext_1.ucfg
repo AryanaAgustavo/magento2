@@ -1,0 +1,110 @@
+
+9magento\search\model\resourcemodel\query::loadbyquerytexts
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.php: :(#"1*È
+2s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpI I($†ù
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpI I(#
+%11*
+	
+$object*	
+
+$data2setdata∆√
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpJ J(&
+%12*,*
+(magento\search\model\resourcemodel\query*
+	
+$object2
+_afterload*
+3*û
+3s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpL L("£
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpL L(,*
+(magento\search\model\resourcemodel\query*Û
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.php< F(
+Ω
+∫
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.php: :(#	
+$object"__id*2
+0
+$object%magento\framework\model\abstractmodelª∏
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.php< <((
+%1*,*
+(magento\search\model\resourcemodel\query2getconnectionéã
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.php< <(2
+%2*
+
+%12select∫∑
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.php= =(!
+%3*,*
+(magento\search\model\resourcemodel\query2getmaintableîë
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.php< >(	
+%4*
+
+%2*
+
+%32from≠™
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.php< A(	
+%5*
+
+%4*
+query_text = ?*
+
+
+$value2whereóî
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpC C(!
+%6*
+	
+$object2
+getstoreidß§
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.php< D(	
+%7*
+
+%5*
+store_id = ?*
+
+%62whereìê
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.php< F(	
+%8*
+
+%7*22limitë
+é
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.php< F(		
+$select"__id*
+
+%8ª∏
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpG G(&
+%9*,*
+(magento\search\model\resourcemodel\query2getconnectionûõ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpG G(9
+%10*
+
+%9*
+	
+$select2fetchrowê
+ç
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\Query.phpG G(9
+$data"__id*
+
+%10*
+2
+3:0
+$object%magento\framework\model\abstractmodel:
+$valueB,*
+(magento\search\model\resourcemodel\query

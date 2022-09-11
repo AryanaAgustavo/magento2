@@ -1,0 +1,68 @@
+
+?magento\salesgraphql\model\resolver\customerorders::__construct}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\CustomerOrders.php5 5("1*°
+2
+CustomerOrders.php"”
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\CustomerOrders.php? ?(
+implicit return*Ú
+1}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\CustomerOrders.php; ;(2Þ
+Û
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\CustomerOrders.php5 5(
+$orderRepository"__id*@
+>
+$orderRepository*magento\sales\api\orderrepositoryinterfaceë
+è
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\CustomerOrders.php5 5(
+$searchCriteriaBuilder"__id*G
+E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilderð
+í
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\CustomerOrders.php5 5(
+$orderFilter"__id*V
+T
+$orderFilterDmagento\salesgraphql\model\resolver\customerorders\query\orderfilterÜ
+Ù
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\CustomerOrders.php5 5(
+$orderFormatter"__id*?
+=
+$orderFormatter*magento\salesgraphql\model\formatter\orderé
+æ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\CustomerOrders.php; ;(1I4
+2magento\salesgraphql\model\resolver\customerorders"
+orderRepository"__id*
+
+$orderRepositoryõ
+ò
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\CustomerOrders.php< <(=O4
+2magento\salesgraphql\model\resolver\customerorders"
+searchCriteriaBuilder"__id*
+
+$searchCriteriaBuilderá
+Þ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\CustomerOrders.php= =()E4
+2magento\salesgraphql\model\resolver\customerorders"
+orderFilter"__id*
+
+$orderFilterç
+ä
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\CustomerOrders.php> >(/H4
+2magento\salesgraphql\model\resolver\customerorders"
+orderFormatter"__id*
+
+$orderFormatter*
+2:>
+$orderRepository*magento\sales\api\orderrepositoryinterface:E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilder:T
+$orderFilterDmagento\salesgraphql\model\resolver\customerorders\query\orderfilter:=
+$orderFormatter*magento\salesgraphql\model\formatter\orderB64
+2magento\salesgraphql\model\resolver\customerorders

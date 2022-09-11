@@ -1,0 +1,140 @@
+
+7magento\graphql\directory\currencytest::testgetcurrencyå
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php (#"1*æ
+2
+CurrencyTest.php"§
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php+ +(
+implicit return*Â
+1å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php !(»
+≈
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php !(
+$query"__id*£†
+ùquery {
+    currency {
+        base_currency_code
+        base_currency_symbol
+        default_display_currency_code
+        default_display_currency_symbol
+        available_currency_codes
+        exchange_rates {
+            currency_to
+            rate
+        }
+    }
+}ﬁ€
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php# #(-
+%1**(
+&magento\graphql\directory\currencytest*
+
+
+$query2graphqlquery´
+®
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php# #(-	
+$result"__id*
+
+%1ÚÔ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php$ $(5
+%2**(
+&magento\graphql\directory\currencytest*
+
+currency*
+	
+$result2assertarrayhaskeyΩ
+∫
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php%7 %(J
+%3"__mapGet*
+	
+$result*
+
+currency˜Ù
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php% %(K
+%4**(
+&magento\graphql\directory\currencytest*
+base_currency_code*
+
+%32assertarrayhaskeyΩ
+∫
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php&9 &(L
+%5"__mapGet*
+	
+$result*
+
+currency˘ˆ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php& &(M
+%6**(
+&magento\graphql\directory\currencytest*
+base_currency_symbol*
+
+%52assertarrayhaskeyΩ
+∫
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php'B '(U
+%7"__mapGet*
+	
+$result*
+
+currencyÇˇ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php' '(V
+%8**(
+&magento\graphql\directory\currencytest*!
+default_display_currency_code*
+
+%72assertarrayhaskeyΩ
+∫
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php(D ((W
+%9"__mapGet*
+	
+$result*
+
+currencyÖÇ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php( ((X
+%10**(
+&magento\graphql\directory\currencytest*#!
+default_display_currency_symbol*
+
+%92assertarrayhaskeyæ
+ª
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php)= )(P
+%11"__mapGet*
+	
+$result*
+
+currencyˇ¸
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php) )(Q
+%12**(
+&magento\graphql\directory\currencytest*
+available_currency_codes*
+
+%112assertarrayhaskeyæ
+ª
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php*3 *(F
+%13"__mapGet*
+	
+$result*
+
+currencyıÚ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Directory\CurrencyTest.php* *(G
+%14**(
+&magento\graphql\directory\currencytest*
+exchange_rates*
+
+%132assertarrayhaskey*
+2B*(
+&magento\graphql\directory\currencytest

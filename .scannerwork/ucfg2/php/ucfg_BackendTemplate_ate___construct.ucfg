@@ -1,0 +1,176 @@
+
+0magento\email\model\backendtemplate::__constructn
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -("1*¢
+2
+BackendTemplate.php"…
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.phpQ Q(
+implicit return*Š
+1n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php? ?(&´
+±
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+
+$context"__id*-
++
+$contextmagento\framework\model\context¹
+¶
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(	
+$design"__id*3
+1
+$design&magento\framework\view\designinterface±
+®
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÀ
+½
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+$appEmulation"__id*4
+2
+$appEmulation!magento\store\model\app\emulationÈ
+Å
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÀ
+½
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+
+$assetRepo"__id*7
+5
+
+$assetRepo'magento\framework\view\asset\repository·
+´
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+$filesystem"__id*-
++
+$filesystemmagento\framework\filesystemÎ
+Ë
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceÀ
+½
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+$emailConfig"__id*5
+3
+$emailConfig#magento\email\model\template\configÈ
+Å
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+$templateFactory"__id*9
+7
+$templateFactory#magento\email\model\templatefactoryÇ
+Ä
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+$filterManager"__id*:
+8
+$filterManager&magento\framework\filter\filtermanagerµ
+²
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+	$urlModel"__id*-
++
+	$urlModelmagento\framework\urlinterfaceË
+È
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+$filterFactory"__id*>
+<
+$filterFactory*magento\email\model\template\filterfactory¾
+»
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+
+$structure"__id*5
+3
+
+$structure%magento\config\model\config\structure”
+‘
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+$data"__id*
+
+$dataarrayÆ
+Ã
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php- -(
+$serializer"__id*<
+:
+$serializer+magento\framework\serialize\serializer\json¿
+¼
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php? ?(%4%
+#magento\email\model\backendtemplate"
+	structure"__id*
+
+
+$structureË
+È
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Model\BackendTemplate.php@ P(	
+%1")magento\email\model\template::__construct*'%
+#magento\email\model\backendtemplate*
+
+
+$context*
+	
+$design*
+
+	$registry*
+
+$appEmulation*
+
+$storeManager*
+
+
+$assetRepo*
+
+$filesystem*
+
+$scopeConfig*
+
+$emailConfig*
+
+$templateFactory*
+
+$filterManager*
+
+	$urlModel*
+
+$filterFactory*	
+
+$data*
+
+$serializer*
+2:+
+$contextmagento\framework\model\context:1
+$design&magento\framework\view\designinterface:'
+	$registrymagento\framework\registry:2
+$appEmulation!magento\store\model\app\emulation::
+$storeManager)magento\store\model\storemanagerinterface:5
+
+$assetRepo'magento\framework\view\asset\repository:+
+$filesystemmagento\framework\filesystem:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:3
+$emailConfig#magento\email\model\template\config:7
+$templateFactory#magento\email\model\templatefactory:8
+$filterManager&magento\framework\filter\filtermanager:+
+	$urlModelmagento\framework\urlinterface:<
+$filterFactory*magento\email\model\template\filterfactory:3
+
+$structure%magento\config\model\config\structure:
+$dataarray::
+$serializer+magento\framework\serialize\serializer\jsonB'%
+#magento\email\model\backendtemplate

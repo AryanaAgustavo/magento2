@@ -1,0 +1,66 @@
+
+9magento\mediagallerymetadata\model\gif\writefile::execute{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryMetadata\Model\Gif\WriteFile.php? ?("1*©
+2
+WriteFile.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryMetadata\Model\Gif\WriteFile.phpE E(
+implicit return*‚
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryMetadata\Model\Gif\WriteFile.phpA A(IÏ
+Ì
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryMetadata\Model\Gif\WriteFile.php? ?(
+$file"__id*>
+<
+$file3magento\mediagallerymetadataapi\model\fileinterfaceÇÄ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryMetadata\Model\Gif\WriteFile.phpA A(&
+%1*42
+0magento\mediagallerymetadata\model\gif\writefile2	getdriverš—
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryMetadata\Model\Gif\WriteFile.phpA1 A(A
+%2*	
+
+$file2getpath¨¥
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryMetadata\Model\Gif\WriteFile.phpA A(H
+%3*
+
+%1*
+
+%2*
+wb2fileopen›
+˜
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryMetadata\Model\Gif\WriteFile.phpA A(H
+	$resource"__id*
+
+%3ž›
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryMetadata\Model\Gif\WriteFile.phpC( C(<
+%4*	
+
+$file2getsegmentsâß
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryMetadata\Model\Gif\WriteFile.phpC C(=
+%5*42
+0magento\mediagallerymetadata\model\gif\writefile*
+
+	$resource*
+
+%42writesegmentsÇÄ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryMetadata\Model\Gif\WriteFile.phpD D(
+%6*42
+0magento\mediagallerymetadata\model\gif\writefile2	getdriver¨¥
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryMetadata\Model\Gif\WriteFile.phpD D(0
+%7*
+
+%6*
+
+	$resource2	fileclose*
+2:<
+$file3magento\mediagallerymetadataapi\model\fileinterfaceB42
+0magento\mediagallerymetadata\model\gif\writefile

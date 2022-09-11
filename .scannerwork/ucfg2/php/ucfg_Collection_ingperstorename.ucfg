@@ -1,0 +1,93 @@
+
+Kmagento\review\model\resourcemodel\rating\collection::addratingperstorenameÅ
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.phpÚ Ú()"1*ô
+1Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.phpÙ Ù(-÷”
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.phpÙ Ù(,
+%1*86
+4magento\review\model\resourcemodel\rating\collection2getconnection§
+°
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.phpÙ Ù(,
+$connection"__id*
+
+%1Ÿ÷
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.phpı ı(\
+%2*
+
+$connection*
+title.value*
+main_table.rating_code2getifnullsql®
+•
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.phpı ı(\
+$ratingCodeCond"__id*
+
+%2“œ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.phpˆ ˆ(
+%3*86
+4magento\review\model\resourcemodel\rating\collection2	getselectïí
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.php˜ ˜(8
+%4"$Array„‡
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.php˜ ˜(7
+%5*86
+4magento\review\model\resourcemodel\rating\collection*
+rating_title2gettable≤
+Ø
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.php˜ ˜(8
+%6"__mapSet*
+
+%4*	
+title*
+
+%5Æ
+´
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.php¯b ¯(o
+%7"__sanitizing_cast*
+
+
+$storeIdÚÔ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.php¯ ¯(p
+%8*
+
+$connection*?=
+;main_table.rating_id=title.rating_id AND title.store_id = ?*
+
+%72	quoteintoïí
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.php˘ ˘(.
+%9"$Array∆
+√
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.php˘ ˘(.
+%10"__mapSet*
+
+%9*
+rating_code*
+
+$ratingCodeCond∏µ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.phpˆ ˙(	
+%11*
+
+%3*
+
+%4*
+
+%8*
+
+%92joinleft"æ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Collection.php˚ ˚(86
+4magento\review\model\resourcemodel\rating\collection:
+
+$storeIdB86
+4magento\review\model\resourcemodel\rating\collection

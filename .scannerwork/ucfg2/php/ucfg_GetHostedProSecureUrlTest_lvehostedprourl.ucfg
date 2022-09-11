@@ -1,0 +1,168 @@
+
+]magento\paypalgraphql\model\resolver\guest\gethostedprosecureurltest::testresolvehostedprourlß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php0 0(+"1*Ê
+2
+GetHostedProSecureUrlTest.php"ø
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.phpG G(
+implicit return*œ,
+1ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php2 2((◊
+‘
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php2 2('
+$reservedQuoteId"__id*
+
+test_quote™
+ß
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php3 3(:
+%1"__id*o*mF
+Dmagento\paypalgraphql\model\resolver\guest\gethostedprosecureurltest"#
+!getMaskedQuoteIdByReservedOrderId⁄◊
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php3 3(U
+%2*
+
+%1*
+
+$reservedQuoteId2execute∆
+√
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php3 3(U	
+$cartId"__id*
+
+%2ß
+§
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php6 =(
+%3"__concat*,*
+( {
+   getHostedProUrl(input: {cart_id:"*-+
+)"})
+   {
+       secure_form_url
+  }
+}*
+	
+$cartId’
+“
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php5 =(
+$payflowLinkTokenQuery"__id*
+
+%3ó
+î
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php? ?()
+%4"__id*\*ZF
+Dmagento\paypalgraphql\model\resolver\guest\gethostedprosecureurltest"
+graphQlRequest›⁄
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php? ?(G
+%5*
+
+%4*
+
+$payflowLinkTokenQuery2send»
+≈
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php? ?(G
+	$response"__id*
+
+%5ç
+ä
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php@ @(#
+%6"__id*R*PF
+Dmagento\paypalgraphql\model\resolver\guest\gethostedprosecureurltest"
+jsonŒÀ
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php@1 @(H
+%7*
+
+	$response2
+getcontent–Õ
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php@ @(I
+%8*
+
+%6*
+
+%72unserializeÃ
+…
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.php@ @(I
+$responseData"__id*
+
+%8≤Ø
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.phpB B(<
+%9*HF
+Dmagento\paypalgraphql\model\resolver\guest\gethostedprosecureurltest*
+
+errors*
+
+$responseData2assertarraynothaskey€
+ÿ
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.phpC C(3
+%10"__mapGet*
+
+$responseData*
+data‹
+Ÿ
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.phpC C(F
+%11"__mapGet*
+
+%10*
+getHostedProUrlóî
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.phpC C(G
+%12*HF
+Dmagento\paypalgraphql\model\resolver\guest\gethostedprosecureurltest*
+
+%112assertnotemptyÎ
+Ë
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.phpD D(;
+$expectedSecureUrl"__id* 
+https://hostedpro.paypal.com€
+ÿ
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.phpE E(0
+%13"__mapGet*
+
+$responseData*
+data‹
+Ÿ
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.phpE E(C
+%14"__mapGet*
+
+%13*
+getHostedProUrl‹
+Ÿ
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.phpE E(V
+%15"__mapGet*
+
+%14*
+secure_form_url–
+Õ
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.phpE E(V
+$actualSecureUrl"__id*
+
+%15∫∑
+ß
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\GetHostedProSecureUrlTest.phpF F(A
+%16*HF
+Dmagento\paypalgraphql\model\resolver\guest\gethostedprosecureurltest*
+
+$expectedSecureUrl*
+
+$actualSecureUrl2assertequals*
+2BHF
+Dmagento\paypalgraphql\model\resolver\guest\gethostedprosecureurltest

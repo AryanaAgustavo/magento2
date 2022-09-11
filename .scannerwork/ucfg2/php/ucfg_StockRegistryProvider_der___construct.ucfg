@@ -1,0 +1,138 @@
+
+Amagento\cataloginventory\model\stockregistryprovider::__construct
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpX X("1*¹
+2
+StockRegistryProvider.php"–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpl l(
+implicit return*š$
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpc c(2ë
+è
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpX X(
+$stockRepository"__id*K
+I
+$stockRepository5magento\cataloginventory\api\stockrepositoryinterfaceç
+ä
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpX X(
+$stockFactory"__id*J
+H
+$stockFactory7magento\cataloginventory\api\data\stockinterfacefactory÷
+ô
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpX X(
+$stockItemRepository"__id*S
+Q
+$stockItemRepository9magento\cataloginventory\api\stockitemrepositoryinterfaceó
+ð
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpX X(
+$stockItemFactory"__id*R
+P
+$stockItemFactory;magento\cataloginventory\api\data\stockiteminterfacefactoryý
+ú
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpX X(
+$stockStatusRepository"__id*W
+U
+$stockStatusRepository;magento\cataloginventory\api\stockstatusrepositoryinterfaceù
+ö
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpX X(
+$stockStatusFactory"__id*V
+T
+$stockStatusFactory=magento\cataloginventory\api\data\stockstatusinterfacefactoryú
+÷
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpX X(
+$stockCriteriaFactory"__id*U
+S
+$stockCriteriaFactory:magento\cataloginventory\api\stockcriteriainterfacefactory†
+ƒ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpX X(
+$stockItemCriteriaFactory"__id*]
+[
+$stockItemCriteriaFactory>magento\cataloginventory\api\stockitemcriteriainterfacefactoryŒ
+‰
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpX X(
+$stockStatusCriteriaFactory"__id*a
+_
+$stockStatusCriteriaFactory@magento\cataloginventory\api\stockstatuscriteriainterfacefactoryí
+ê
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpc c(1K6
+4magento\cataloginventory\model\stockregistryprovider"
+stockRepository"__id*
+
+$stockRepositoryç
+ä
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpd d(+H6
+4magento\cataloginventory\model\stockregistryprovider"
+stockFactory"__id*
+
+$stockFactoryõ
+ò
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpe e(9O6
+4magento\cataloginventory\model\stockregistryprovider"
+stockItemRepository"__id*
+
+$stockItemRepositoryï
+ì
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpf f(3L6
+4magento\cataloginventory\model\stockregistryprovider"
+stockItemFactory"__id*
+
+$stockItemFactoryù
+ö
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpg g(=Q6
+4magento\cataloginventory\model\stockregistryprovider"
+stockStatusRepository"__id*
+
+$stockStatusRepositoryó
+ð
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phph h(7N6
+4magento\cataloginventory\model\stockregistryprovider"
+stockStatusFactory"__id*
+
+$stockStatusFactory÷
+ô
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpi i(;P6
+4magento\cataloginventory\model\stockregistryprovider"
+stockCriteriaFactory"__id*
+
+$stockCriteriaFactoryÿ
+ü
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpj j(CT6
+4magento\cataloginventory\model\stockregistryprovider"
+stockItemCriteriaFactory"__id*
+
+$stockItemCriteriaFactoryƒ
+€
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\StockRegistryProvider.phpk k(GV6
+4magento\cataloginventory\model\stockregistryprovider"
+stockStatusCriteriaFactory"__id*
+
+$stockStatusCriteriaFactory*
+2:I
+$stockRepository5magento\cataloginventory\api\stockrepositoryinterface:H
+$stockFactory7magento\cataloginventory\api\data\stockinterfacefactory:Q
+$stockItemRepository9magento\cataloginventory\api\stockitemrepositoryinterface:P
+$stockItemFactory;magento\cataloginventory\api\data\stockiteminterfacefactory:U
+$stockStatusRepository;magento\cataloginventory\api\stockstatusrepositoryinterface:T
+$stockStatusFactory=magento\cataloginventory\api\data\stockstatusinterfacefactory:S
+$stockCriteriaFactory:magento\cataloginventory\api\stockcriteriainterfacefactory:[
+$stockItemCriteriaFactory>magento\cataloginventory\api\stockitemcriteriainterfacefactory:_
+$stockStatusCriteriaFactory@magento\cataloginventory\api\stockstatuscriteriainterfacefactoryB86
+4magento\cataloginventory\model\stockregistryprovider

@@ -1,0 +1,84 @@
+
+smagento\configurableproduct\model\resourcemodel\product\type\configurable\attribute::getidbyproductidandattributeid°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable\Attribute.phpü ü(2"1*µ
+1°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable\Attribute.php° ™(
+í
+è
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable\Attribute.phpü ü(2
+
+$attribute"__id*U
+S
+
+$attributeEmagento\configurableproduct\model\product\type\configurable\attributeïí
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable\Attribute.php° °((
+%1*WU
+Smagento\configurableproduct\model\resourcemodel\product\type\configurable\attribute2getconnectionΩ∫
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable\Attribute.php° °(2
+%2*
+
+%12selectîë
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable\Attribute.php¢ ¢(!
+%3*WU
+Smagento\configurableproduct\model\resourcemodel\product\type\configurable\attribute2getmaintableñì
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable\Attribute.php£ £(#
+%4*WU
+Smagento\configurableproduct\model\resourcemodel\product\type\configurable\attribute2getidfieldnameÀ»
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable\Attribute.php° §(	
+%5*
+
+%2*
+
+%3*
+
+%42from‡›
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable\Attribute.php° ß(	
+%6*
+
+%5*
+product_id = ?*
+
+
+$productId2where‰·
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable\Attribute.php° ™(	
+%7*
+
+%6*
+attribute_id = ?*
+
+$attributeId2where¿
+Ω
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable\Attribute.php° ™(		
+$select"__id*
+
+%7ïí
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable\Attribute.php´ ´(%
+%8*WU
+Smagento\configurableproduct\model\resourcemodel\product\type\configurable\attribute2getconnectionÃ…
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable\Attribute.php´ ´(8
+%9*
+
+%8*
+	
+$select2fetchone"¨
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Type\Configurable\Attribute.php´ ´(9
+
+%9:S
+
+$attributeEmagento\configurableproduct\model\product\type\configurable\attribute:
+
+$productId:
+$attributeIdBWU
+Smagento\configurableproduct\model\resourcemodel\product\type\configurable\attribute

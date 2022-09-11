@@ -1,0 +1,82 @@
+
+\magento\customer\model\customermetadatatest::testgetallattributesmetadatawithcustomattributeê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerMetadataTest.phpÃ Ã(C"1* 
+2
+CustomerMetadataTest.php"®
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerMetadataTest.phpﬂ ﬂ(
+implicit return*é
+1ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerMetadataTest.phpŒ Œ(L‡
+›
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerMetadataTest.phpŒ! Œ(/
+%1"__id*<*:-
++magento\customer\model\customermetadatatest"	
+serviceæª
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerMetadataTest.phpŒ! Œ(K
+%2*
+
+%12getallattributesmetadataæ
+ª
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerMetadataTest.phpŒ Œ(K
+$allAttributesMetadata"__id*
+
+%2‡
+›
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerMetadataTest.php—" —(0
+%3"__id*<*:-
++magento\customer\model\customermetadatatest"	
+serviceæª
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerMetadataTest.php—" —(L
+%4*
+
+%32getallattributesmetadataø
+º
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerMetadataTest.php— —(L
+$allAttributesMetadata2"__id*
+
+%4Â‚
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerMetadataTest.php“ ÷(	
+%5*/-
++magento\customer\model\customermetadatatest*
+
+$allAttributesMetadata*
+
+$allAttributesMetadata2*OM
+KDifferent attribute metadata returned from the 2nd call of the same service2assertequals„
+‡
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerMetadataTest.phpŸ" Ÿ(3
+%6"__id*?*=-
++magento\customer\model\customermetadatatest"
+
+serviceTwoæª
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerMetadataTest.phpŸ" Ÿ(O
+%7*
+
+%62getallattributesmetadataø
+º
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerMetadataTest.phpŸ Ÿ(O
+$allAttributesMetadata3"__id*
+
+%7‘—
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerMetadataTest.php⁄ ﬁ(	
+%8*/-
++magento\customer\model\customermetadatatest*
+
+$allAttributesMetadata*
+
+$allAttributesMetadata3*><
+:Different attribute metadata returned from the 2nd service2assertequals*
+2B/-
++magento\customer\model\customermetadatatest

@@ -1,0 +1,85 @@
+
+\magento\catalog\model\resourcemodel\product\collectiontest::testaddissaleableattributetosortü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\ResourceModel\Product\CollectionTest.phpÌ Ì(4"1*”
+2
+CollectionTest.php"∑
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\ResourceModel\Product\CollectionTest.phpÚ Ú(
+implicit return*ù
+1ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\ResourceModel\Product\CollectionTest.phpÔ Ô(E”
+–
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\ResourceModel\Product\CollectionTest.phpÌ Ì(4
+$productSku"__id*
+
+$productSkustring…
+∆
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\ResourceModel\Product\CollectionTest.phpÌ Ì(4
+$order"__id*
+
+$orderstringÅ
+˛
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\ResourceModel\Product\CollectionTest.phpÔ Ô(
+%1"__id*N*L<
+:magento\catalog\model\resourcemodel\product\collectiontest"
+
+collection‰·
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\ResourceModel\Product\CollectionTest.phpÔ Ô(D
+%2*
+
+%1*
+is_saleable*
+
+
+$order2addattributetosortÅ
+˛
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\ResourceModel\Product\CollectionTest.php (0
+%3"__id*N*L<
+:magento\catalog\model\resourcemodel\product\collectiontest"
+
+collection∫∑
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\ResourceModel\Product\CollectionTest.php (9
+%4*
+
+%32countáÑ
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\ResourceModel\Product\CollectionTest.php (:
+%5*><
+:magento\catalog\model\resourcemodel\product\collectiontest*2*
+
+%42assertequalsÅ
+˛
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\ResourceModel\Product\CollectionTest.phpÒ) Ò(:
+%6"__id*N*L<
+:magento\catalog\model\resourcemodel\product\collectiontest"
+
+collection¡æ
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\ResourceModel\Product\CollectionTest.phpÒ) Ò(J
+%7*
+
+%62getfirstitemª∏
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\ResourceModel\Product\CollectionTest.phpÒ) Ò(T
+%8*
+
+%72getskuíè
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\ResourceModel\Product\CollectionTest.phpÒ Ò(U
+%9*><
+:magento\catalog\model\resourcemodel\product\collectiontest*
+
+$productSku*
+
+%82assertequals*
+2:
+$productSkustring:
+$orderstringB><
+:magento\catalog\model\resourcemodel\product\collectiontest

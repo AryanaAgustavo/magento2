@@ -1,0 +1,243 @@
+
+Bmagento\catalogrule\model\indexer\reindexrulegroupwebsite::execute„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpD D("1*‘
+2„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpL N(ã
+à
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpL L()
+%9"__id*K*I;
+9magento\catalogrule\model\indexer\reindexrulegroupwebsite"
+
+resourceè
+å
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpM M(#
+%10"__id*O*M;
+9magento\catalogrule\model\indexer\reindexrulegroupwebsite"
+tableSwapperÎË
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpM M(U
+%11*
+
+%10*
+catalogrule_group_website2getworkingtablename°­
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpL N(
+%12*
+
+%9*
+
+%112gettablename¨
+¥
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpL N(
+$indexTable"__id*
+
+%12ä
+á
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpO  O(/
+%13"__id*K*I;
+9magento\catalogrule\model\indexer\reindexrulegroupwebsite"
+
+resourceè
+å
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpP P(#
+%14"__id*O*M;
+9magento\catalogrule\model\indexer\reindexrulegroupwebsite"
+tableSwapperÈÅ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpP P(O
+%15*
+
+%14*
+catalogrule_product2getworkingtablename±®
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpO  Q(
+%16*
+
+%13*
+
+%152gettablename®
+«
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpO Q(
+$ruleProductTable"__id*
+
+%16*
+3*ˆ
+3„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpT T()»¸
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpT T((
+%17*
+
+$connection*
+
+$indexTable2deleteª§
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpU U('
+%18*
+
+$connection2select®«
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpU W(	
+%19*
+
+%18*
+true2distinctþ
+û
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpY Y(5
+%20"__id*e*c;
+9magento\catalogrule\model\indexer\reindexrulegroupwebsite"$
+"catalogRuleGroupWebsiteColumnsListÀ½
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpU Z(	
+%21*
+
+%19*
+
+$ruleProductTable*
+
+%202from‡
+„
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.php[ [(f
+%22"__concat*
+ >= from_time AND ((*0.
+, <= to_time AND to_time > 0) OR to_time = 0)*
+
+
+$timestamp*
+
+
+$timestampª§
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpU \(	
+%23*
+
+%21*
+
+%222where¤
+¡
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpU \(		
+$select"__id*
+
+%23þ
+û
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.php]8 ](a
+%24"__id*e*c;
+9magento\catalogrule\model\indexer\reindexrulegroupwebsite"$
+"catalogRuleGroupWebsiteColumnsListÊÇ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.php] ](b
+%25*
+	
+$select*
+
+$indexTable*
+
+%242insertfromselect£
+ 
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.php] ](b
+$query"__id*
+
+%25µ²
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.php^ ^("
+%26*
+
+$connection*
+
+
+$query2query"‘
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.php_ _(
+true*´
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpF F(7ã
+à
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpF F(%
+%1"__id*K*I;
+9magento\catalogrule\model\indexer\reindexrulegroupwebsite"
+
+resource§¤
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpF F(6
+%2*
+
+%12getconnection§
+¤
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpF F(6
+$connection"__id*
+
+%2ã
+à
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpG G($
+%3"__id*K*I;
+9magento\catalogrule\model\indexer\reindexrulegroupwebsite"
+
+dateTime¦£
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpG G(4
+%4*
+
+%32gmttimestamp¦
+£
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpG G(4
+
+$timestamp"__id*
+
+%4ã
+à
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpI I(%
+%5"__id*K*I;
+9magento\catalogrule\model\indexer\reindexrulegroupwebsite"
+
+resourceÅÂ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpI I(P
+%6*
+
+%5*
+catalogrule_group_website2gettablename§
+¤
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpI I(P
+$indexTable"__id*
+
+%6ã
+à
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpJ J(+
+%7"__id*K*I;
+9magento\catalogrule\model\indexer\reindexrulegroupwebsite"
+
+resource¿¼
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpJ J(P
+%8*
+
+%7*
+catalogrule_product2gettablename­
+ª
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\ReindexRuleGroupWebsite.phpJ J(P
+$ruleProductTable"__id*
+
+%8*
+2
+3:
+$useAdditionalTableB=;
+9magento\catalogrule\model\indexer\reindexrulegroupwebsite

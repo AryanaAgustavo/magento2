@@ -1,0 +1,204 @@
+
+Hmagento\newrelicreporting\model\observer\reportconcurrentadmins::execute‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.php> >("1*Ä
+2‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpA A(7ú
+÷
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpA A()
+%3"__id*[*YA
+?magento\newrelicreporting\model\observer\reportconcurrentadmins"
+backendAuthSession«¨
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpA A(7
+%4*
+
+%32
+isloggedin*
+3
+4*à$
+3‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpB B(=ú
+÷
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpB B(1
+%5"__id*[*YA
+?magento\newrelicreporting\model\observer\reportconcurrentadmins"
+backendAuthSession¨¥
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpB B(<
+%6*
+
+%52getuser¨
+¥
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpB B(<
+$user"__id*
+
+%6Ÿœ
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpC G(
+%7"$Array©¦
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpD D(*
+%8*	
+
+$user2getid¹
+¶
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpC G(
+%9"__mapSet*
+
+%7*
+id*
+
+%8°­
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpE" E(6
+%10*	
+
+$user2getusernameÁ
+¾
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpC G(
+%11"__mapSet*
+
+%7*
+
+username*
+
+%10±®
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpF F(3
+%12*	
+
+$user2getfirstname°­
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpF< F(P
+%13*	
+
+$user2getlastname»
+¸
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpF F(P
+%14"__concat*
+
+%12*
+ *
+
+%13½
+º
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpC G(
+%15"__mapSet*
+
+%7*
+name*
+
+%14¬
+©
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpC G(
+	$jsonData"__id*
+
+%7 
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpI L(
+%16"$ArrayÉ
+Æ
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpI L(
+%17"__mapSet*
+
+%16*
+type*
+admin_activityô
+ñ
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpK  K(2
+%18"__id*T*RA
+?magento\newrelicreporting\model\observer\reportconcurrentadmins"
+jsonEncoder¸µ
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpK  K(E
+%19*
+
+%18*
+
+	$jsonData2encodeÀ
+½
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpI L(
+%20"__mapSet*
+
+%16*
+
+action*
+
+%19®
+«
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpI L(
+
+$modelData"__id*
+
+%16õ
+ò
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpO O(1
+%21"__id*U*SA
+?magento\newrelicreporting\model\observer\reportconcurrentadmins"
+usersFactory©¦
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpO O(;
+%22*
+
+%212create¯
+¬
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpO O(;
+$usersModel"__id*
+
+%22Â¿
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpP P(0
+%23*
+
+$usersModel*
+
+
+$modelData2setdata¯¬
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpQ Q(#
+%24*
+
+$usersModel2save*
+4*Ç
+4
+ReportConcurrentAdmins.php"£
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.phpT T(
+implicit return*—
+1‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.php@ @(.Õ
+Ò
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.php> >(
+	$observer"__id*/
+-
+	$observer magento\framework\event\observerî
+ë
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.php@ @(
+%1"__id*O*MA
+?magento\newrelicreporting\model\observer\reportconcurrentadmins"
+config²¯
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentAdmins.php@ @(.
+%2*
+
+%12isnewrelicenabled*
+2
+4:-
+	$observer magento\framework\event\observerBCA
+?magento\newrelicreporting\model\observer\reportconcurrentadmins

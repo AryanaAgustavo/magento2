@@ -1,0 +1,68 @@
+
+>magento\config\model\config\source\email\template::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Source\Email\Template.php% %("1*©
+2
+Template.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Source\Email\Template.php/ /(
+implicit return*æ
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Source\Email\Template.php+ +(#Ç
+Ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Source\Email\Template.php% %(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryñ
+î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Source\Email\Template.php% %(
+$templatesFactory"__id*S
+Q
+$templatesFactory<magento\email\model\resourcemodel\template\collectionfactoryÎ
+Ë
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Source\Email\Template.php% %(
+$emailConfig"__id*5
+3
+$emailConfig#magento\email\model\template\config¢
+Ÿ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Source\Email\Template.php% %(
+$data"__id*
+
+$dataarrayô
+ñ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Source\Email\Template.php+ +("
+%1")magento\framework\dataobject::__construct*53
+1magento\config\model\config\source\email\template*	
+
+$dataâ
+ß
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Source\Email\Template.php, ,(,F3
+1magento\config\model\config\source\email\template"
+_coreRegistry"__id*
+
+$coreRegistryê
+ç
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Source\Email\Template.php- -(4J3
+1magento\config\model\config\source\email\template"
+_templatesFactory"__id*
+
+$templatesFactoryà
+Ý
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Source\Email\Template.php. .(*E3
+1magento\config\model\config\source\email\template"
+_emailConfig"__id*
+
+$emailConfig*
+2:+
+$coreRegistrymagento\framework\registry:Q
+$templatesFactory<magento\email\model\resourcemodel\template\collectionfactory:3
+$emailConfig#magento\email\model\template\config:
+$dataarrayB53
+1magento\config\model\config\source\email\template

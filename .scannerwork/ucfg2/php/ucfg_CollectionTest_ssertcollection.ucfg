@@ -1,0 +1,51 @@
+
+Omagento\customer\block\adminhtml\edit\tab\cart\collectiontest::assertcollection 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\Cart\CollectionTest.php` `(%"1*Ô
+2
+CollectionTest.php"¸
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\Cart\CollectionTest.phpd d(
+implicit return*Þ
+1 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\Cart\CollectionTest.phpb b(\ï
+ì
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\Cart\CollectionTest.php` `(%
+$collection"__id*2
+0
+$collection!magento\framework\data\collectionÐ
+Í
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\Cart\CollectionTest.php` `(%
+	$itemName"__id*
+
+	$itemNamestringÆÃ
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\Cart\CollectionTest.phpb b([
+%1*A?
+=magento\customer\block\adminhtml\edit\tab\cart\collectiontest*2*
+
+$collection*1/
+-Collection size does not match expected value2assertcountËÈ
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\Cart\CollectionTest.phpc' c(B
+%2*
+
+$collection2getfirstitem½º
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\Cart\CollectionTest.phpc' c(M
+%3*
+
+%22getname”‘
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\Cart\CollectionTest.phpc c(N
+%4*A?
+=magento\customer\block\adminhtml\edit\tab\cart\collectiontest*
+
+	$itemName*
+
+%32assertequals*
+2:0
+$collection!magento\framework\data\collection:
+	$itemNamestringBA?
+=magento\customer\block\adminhtml\edit\tab\cart\collectiontest

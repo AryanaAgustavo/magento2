@@ -1,0 +1,346 @@
+
+Jmagento\asynchronousoperations\model\massconsumerenvelopecallback::executeç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpf f("1*Ü
+2ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpq q(Hˇ
+¸
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpq q()
+%11"__id*]*[C
+Amagento\asynchronousoperations\model\massconsumerenvelopecallback"
+operationProcessor±Æ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpq3 q(F
+%12*
+
+
+$message2getbodyµ≤
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpq q(G
+%13*
+
+%11*
+
+%122process*
+4*Ô
+3ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phps s()ºπ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phps s((
+%14*
+
+
+$queue*
+
+
+$message2reject"ö
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpt t(
+void*È
+4ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpv v(*¡æ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpv v()
+%15*
+
+
+$queue*
+
+
+$message2acknowledge*
+5
+7
+8
+9
+12*›
+5ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpx x(*¡æ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpx x()
+%16*
+
+
+$queue*
+
+
+$message2acknowledge*
+12*€
+7ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.php{ |(hı
+Ú
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.php{ {(
+%17"__id*S*QC
+Amagento\asynchronousoperations\model\massconsumerenvelopecallback"
+
+resource≤Ø
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.php{ {(0
+%18*
+
+%172getconnectionı
+Ú
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.php| |(,
+%19"__id*S*QC
+Amagento\asynchronousoperations\model\massconsumerenvelopecallback"
+
+resource¡æ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.php| |(H
+%20*
+
+%19*
+
+queue_lock2gettablename¢ü
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.php|J |(f
+%21"$Array¨©
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.php|W |(e
+%22*	
+
+$lock2getid¬
+ø
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.php|J |(f
+%23"__mapSet*
+
+%21*
+
+id = ?*
+
+%22Ω∫
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.php{ |(g
+%24*
+
+%18*
+
+%20*
+
+%212delete*
+12*¬
+8ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.php (*¡æ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.php ()
+%25*
+
+
+$queue*
+
+
+$message2acknowledgeı
+Ú
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÄ Ä(
+%26"__id*Q*OC
+Amagento\asynchronousoperations\model\massconsumerenvelopecallback"
+logger∞≠
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÄ# Ä(3
+%27*
+
+$e2
+getmessage∑¥
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÄ Ä(4
+%28*
+
+%26*
+
+%272warning*
+12*ß
+9è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÇ Ç(>∞≠
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÇ, Ç(<
+%29*
+
+$e2
+getmessage“œ
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÇ Ç(=
+%30*
+
+
+$queue*
+
+
+$message*	
+false*
+
+%292reject*
+10
+12*Ó
+10è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÑ Ö(h˜
+Ù
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÑ Ñ(
+%31"__id*S*QC
+Amagento\asynchronousoperations\model\massconsumerenvelopecallback"
+
+resource¥±
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÑ Ñ(0
+%32*
+
+%312getconnection˜
+Ù
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÖ Ö(,
+%33"__id*S*QC
+Amagento\asynchronousoperations\model\massconsumerenvelopecallback"
+
+resource√¿
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÖ Ö(H
+%34*
+
+%33*
+
+queue_lock2gettablename§°
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÖJ Ö(f
+%35"$ArrayÆ´
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÖW Ö(e
+%36*	
+
+$lock2getidƒ
+¡
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÖJ Ö(f
+%37"__mapSet*
+
+%35*
+
+id = ?*
+
+%36øº
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpÑ Ö(g
+%38*
+
+%32*
+
+%34*
+
+%352delete*
+12*“
+1ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phph h(Â
+‚
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpf f(
+
+$message"__id*>
+<
+$message0magento\framework\messagequeue\envelopeinterfaceÒ
+Ó
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phph h(
+%1"__id*P*NC
+Amagento\asynchronousoperations\model\massconsumerenvelopecallback"
+queue´
+®
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phph h(
+$queue"__id*
+
+%1¶
+£
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpj j(
+$lock"__id* ∂≥
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpl l(2
+%2*
+
+
+$message2getpropertiesª
+∏
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpl l(@
+%3"__mapGet*
+
+%2*
+
+topic_nameØ
+¨
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpl l(@
+
+$topicName"__id*
+
+%3Ü
+É
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpm m(5
+%4"__id*e*cC
+Amagento\asynchronousoperations\model\massconsumerenvelopecallback"
+messageControllerDecorator˘
+ˆ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpmF m(Z
+%5"__id*X*VC
+Amagento\asynchronousoperations\model\massconsumerenvelopecallback"
+configuration≤Ø
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpmF m(m
+%6*
+
+%52getconsumernameΩ∫
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpm m(n
+%7*
+
+%4*
+
+
+$message*
+
+%62lock™
+ß
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpm m(n
+$lock"__id*
+
+%7˘
+ˆ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpo o(1
+%8"__id*X*VC
+Amagento\asynchronousoperations\model\massconsumerenvelopecallback"
+configuration∞≠
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpo o(B
+%9*
+
+%82gettopicnames≥
+∞
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpo o(B
+$allowedTopics"__id*
+
+%9Ã
+…
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpp p(4
+%10"in_array* *
+
+
+$topicName*
+
+$allowedTopics*
+2
+3*“
+12"
+ MassConsumerEnvelopeCallback.php"ß
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumerEnvelopeCallback.phpà à(
+implicit return:<
+$message0magento\framework\messagequeue\envelopeinterfaceBEC
+Amagento\asynchronousoperations\model\massconsumerenvelopecallback

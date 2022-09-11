@@ -1,0 +1,81 @@
+
+/magento\mysqlmq\model\driver\queue::__constructm
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MysqlMq\Model\Driver\Queue.php; ;("1*—
+2
+	Queue.php"„
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MysqlMq\Model\Driver\Queue.phpI I(
+implicit return*ä
+1m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MysqlMq\Model\Driver\Queue.phpC C(2É
+Æ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MysqlMq\Model\Driver\Queue.php; ;(
+$queueManagement"__id*;
+9
+$queueManagement%magento\mysqlmq\model\queuemanagementÒ
+Ï
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MysqlMq\Model\Driver\Queue.php; ;(
+$envelopeFactory"__id*D
+B
+$envelopeFactory.magento\framework\messagequeue\envelopefactory©
+¦
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MysqlMq\Model\Driver\Queue.php; ;(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÉ
+Æ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MysqlMq\Model\Driver\Queue.phpC C(19$
+"magento\mysqlmq\model\driver\queue"
+queueManagement"__id*
+
+$queueManagementÉ
+Æ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MysqlMq\Model\Driver\Queue.phpD D(19$
+"magento\mysqlmq\model\driver\queue"
+envelopeFactory"__id*
+
+$envelopeFactory½
+º
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MysqlMq\Model\Driver\Queue.phpE E(%3$
+"magento\mysqlmq\model\driver\queue"
+	queueName"__id*
+
+
+$queueName»
+¸
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MysqlMq\Model\Driver\Queue.phpF F(#2$
+"magento\mysqlmq\model\driver\queue"
+
+interval"__id*
+
+	$intervalÍ
+Ê
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MysqlMq\Model\Driver\Queue.phpG G(5;$
+"magento\mysqlmq\model\driver\queue"
+maxNumberOfTrials"__id*
+
+$maxNumberOfTrials·
+´
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MysqlMq\Model\Driver\Queue.phpH H(0$
+"magento\mysqlmq\model\driver\queue"
+logger"__id*
+	
+$logger*
+2:9
+$queueManagement%magento\mysqlmq\model\queuemanagement:B
+$envelopeFactory.magento\framework\messagequeue\envelopefactory:"
+$loggerpsr\log\loggerinterface:
+
+$queueName:
+	$interval:
+$maxNumberOfTrialsB&$
+"magento\mysqlmq\model\driver\queue

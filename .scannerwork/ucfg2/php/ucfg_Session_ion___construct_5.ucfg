@@ -1,0 +1,178 @@
+
+-magento\persistent\model\session::__constructk
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpn n("1*™
+2
+Session.php"„
+m
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.php† †(
+implicit return*µ#
+1k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.php} }((±
+®
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpn n(
+
+$context"__id*-
++
+$contextmagento\framework\model\context®
+«
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpn n(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÉ
+Æ
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpn n(
+$coreConfig"__id*B
+@
+$coreConfig1magento\framework\app\config\scopeconfiginterfaceº
+·
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpn n(
+$jsonHelper"__id*3
+1
+$jsonHelper"magento\framework\json\helper\data¾
+»
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpn n(
+$persistentData"__id*3
+1
+$persistentDatamagento\persistent\helper\dataÍ
+Ê
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpn n(
+$cookieManager"__id*C
+A
+$cookieManager/magento\framework\stdlib\cookiemanagerinterfaceã
+à
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpn n(
+$cookieMetadataFactory"__id*Q
+O
+$cookieMetadataFactory5magento\framework\stdlib\cookie\cookiemetadatafactoryÅ
+Â
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpn n(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceµ
+²
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpn n(
+$mathRandom"__id*.
+,
+$mathRandommagento\framework\math\randomÎ
+Ë
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpn n(
+$sessionConfig"__id*D
+B
+$sessionConfig0magento\framework\session\config\configinterfaceÊ
+Ç
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpn n(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceÔ
+Ñ
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpn n(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb‘
+Ž
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpn n(
+$data"__id*
+
+$dataarray»
+¸
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.php} }('2"
+ magento\persistent\model\session"
+
+jsonHelper"__id*
+
+$jsonHelperÄ
+Á
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.php~ ~(07"
+ magento\persistent\model\session"
+_persistentData"__id*
+
+$persistentData¼
+¹
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.php ((3"
+ magento\persistent\model\session"
+_coreConfig"__id*
+
+$coreConfigÄ
+Á
+m
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.php€ €(.6"
+ magento\persistent\model\session"
+_cookieManager"__id*
+
+$cookieManagerÔ
+Ñ
+m
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.php (>>"
+ magento\persistent\model\session"
+_cookieMetadataFactory"__id*
+
+$cookieMetadataFactoryÂ
+¿
+m
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.php‚ ‚(,5"
+ magento\persistent\model\session"
+_storeManager"__id*
+
+$storeManagerÃ
+À
+m
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.phpƒ ƒ(-5"
+ magento\persistent\model\session"
+sessionConfig"__id*
+
+$sessionConfig½
+º
+m
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.php„ „('2"
+ magento\persistent\model\session"
+
+mathRandom"__id*
+
+$mathRandom¢
+Ÿ
+m
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\Session.php… …(W
+%1"2magento\framework\model\abstractmodel::__construct*$"
+ magento\persistent\model\session*
+
+
+$context*
+
+	$registry*
+
+	$resource*
+
+$resourceCollection*	
+
+$data*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:@
+$coreConfig1magento\framework\app\config\scopeconfiginterface:1
+$jsonHelper"magento\framework\json\helper\data:1
+$persistentDatamagento\persistent\helper\data:A
+$cookieManager/magento\framework\stdlib\cookiemanagerinterface:O
+$cookieMetadataFactory5magento\framework\stdlib\cookie\cookiemetadatafactory::
+$storeManager)magento\store\model\storemanagerinterface:,
+$mathRandommagento\framework\math\random:B
+$sessionConfig0magento\framework\session\config\configinterface:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB$"
+ magento\persistent\model\session

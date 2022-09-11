@@ -1,0 +1,131 @@
+
+fmagento\graphql\quote\guest\allowguestcheckoutoptiontest::testcreateemptycartifguestcheckoutisdisabledž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpA A(@"1*à
+2"
+ AllowGuestCheckoutOptionTest.php"¶
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpR R(
+implicit return*Ä#
+1ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpC G(Ú
+×
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpC G(
+$query"__id*$"
+ mutation {
+  createEmptyCart
+}…‚
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpH H(2
+%1*<:
+8magento\graphql\quote\guest\allowguestcheckoutoptiontest*
+
+
+$query2graphqlmutation¿
+¼
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpH H(2
+	$response"__id*
+
+%1Ù
+Ö
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpJ J(=
+%2"Kmagento\graphql\quote\guest\allowguestcheckoutoptiontest::assertarrayhaskey*<":
+8magento\graphql\quote\guest\allowguestcheckoutoptiontest*
+createEmptyCart*
+
+	$responseØ
+Õ
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpK K(9
+%3"__mapGet*
+
+	$response*
+createEmptyCartº
+·
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpK K(:
+%4"Hmagento\graphql\quote\guest\allowguestcheckoutoptiontest::assertnotempty*<":
+8magento\graphql\quote\guest\allowguestcheckoutoptiontest*
+
+%3‡
+„
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpM M(/
+%5"__id*U*S:
+8magento\graphql\quote\guest\allowguestcheckoutoptiontest"
+guestCartRepositoryØ
+Õ
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpM5 M(Q
+%6"__mapGet*
+
+	$response*
+createEmptyCart¿¼
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpM M(R
+%7*
+
+%5*
+
+%62getÀ
+½
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpM M(R
+
+$guestCart"__id*
+
+%7Á¾
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpO O(/
+%8*
+
+
+$guestCart2getid¹
+¶
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpO O(0
+%9"Gmagento\graphql\quote\guest\allowguestcheckoutoptiontest::assertnotnull*<":
+8magento\graphql\quote\guest\allowguestcheckoutoptiontest*
+
+%8ÈÅ
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpP P(2
+%10*
+
+
+$guestCart2getcustomer»¸
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpP P(;
+%11*
+
+%102getid¸
+µ
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpP P(<
+%12"Dmagento\graphql\quote\guest\allowguestcheckoutoptiontest::assertnull*<":
+8magento\graphql\quote\guest\allowguestcheckoutoptiontest*
+
+%11ÅÂ
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpQ& Q(<
+%13*
+
+
+$guestCart2getstore½º
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpQ& Q(G
+%14*
+
+%132getcodeÇ
+Ä
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AllowGuestCheckoutOptionTest.phpQ Q(H
+%15"Fmagento\graphql\quote\guest\allowguestcheckoutoptiontest::assertequals*<":
+8magento\graphql\quote\guest\allowguestcheckoutoptiontest*	
+default*
+
+%14*
+2B<:
+8magento\graphql\quote\guest\allowguestcheckoutoptiontest

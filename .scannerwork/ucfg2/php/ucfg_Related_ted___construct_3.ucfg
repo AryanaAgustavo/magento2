@@ -1,0 +1,131 @@
+
+Jmagento\catalog\ui\dataprovider\product\form\modifier\related::__constructà
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.php{ {("1*∑
+2
+Related.php"¢
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.phpè è(
+implicit return*É 
+1ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.phpÜ Ü("ﬁ
+€
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.php{ {(
+
+$locator"__id*<
+:
+$locator.magento\catalog\model\locator\locatorinterface‘
+—
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.php{ {(
+$urlBuilder"__id*/
+-
+$urlBuildermagento\framework\urlinterface˛
+˚
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.php{ {(
+$productLinkRepository"__id*N
+L
+$productLinkRepository2magento\catalog\api\productlinkrepositoryinterfaceÚ
+Ô
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.php{ {(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterface‘
+—
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.php{ {(
+$imageHelper"__id*.
+,
+$imageHelpermagento\catalog\helper\image„
+‡
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.php{ {(	
+$status"__id*B
+@
+$status5magento\catalog\model\product\attribute\source\status˝
+˙
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.php{ {(
+$attributeSetRepository"__id*L
+J
+$attributeSetRepository/magento\eav\api\attributesetrepositoryinterfaceÚ
+Ô
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.phpÜ Ü(!L?
+=magento\catalog\ui\dataprovider\product\form\modifier\related"	
+locator"__id*
+
+
+$locator¯
+ı
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.phpá á('O?
+=magento\catalog\ui\dataprovider\product\form\modifier\related"
+
+urlBuilder"__id*
+
+$urlBuilderé
+ã
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.phpà à(=Z?
+=magento\catalog\ui\dataprovider\product\form\modifier\related"
+productLinkRepository"__id*
+
+$productLinkRepositoryÜ
+É
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.phpâ â(5V?
+=magento\catalog\ui\dataprovider\product\form\modifier\related"
+productRepository"__id*
+
+$productRepository˙
+˜
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.phpä ä()P?
+=magento\catalog\ui\dataprovider\product\form\modifier\related"
+imageHelper"__id*
+
+$imageHelper
+Ì
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.phpã ã(K?
+=magento\catalog\ui\dataprovider\product\form\modifier\related"
+status"__id*
+	
+$statusê
+ç
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.phpå å(?[?
+=magento\catalog\ui\dataprovider\product\form\modifier\related"
+attributeSetRepository"__id*
+
+$attributeSetRepositoryˆ
+Û
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.phpç ç(%N?
+=magento\catalog\ui\dataprovider\product\form\modifier\related"
+	scopeName"__id*
+
+
+$scopeName˙
+˜
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related.phpé é()P?
+=magento\catalog\ui\dataprovider\product\form\modifier\related"
+scopePrefix"__id*
+
+$scopePrefix*
+2::
+$locator.magento\catalog\model\locator\locatorinterface:-
+$urlBuildermagento\framework\urlinterface:L
+$productLinkRepository2magento\catalog\api\productlinkrepositoryinterface:D
+$productRepository.magento\catalog\api\productrepositoryinterface:,
+$imageHelpermagento\catalog\helper\image:@
+$status5magento\catalog\model\product\attribute\source\status:J
+$attributeSetRepository/magento\eav\api\attributesetrepositoryinterface:
+
+$scopeName:
+$scopePrefixBA?
+=magento\catalog\ui\dataprovider\product\form\modifier\related

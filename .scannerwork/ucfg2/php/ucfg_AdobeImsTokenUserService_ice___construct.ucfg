@@ -1,0 +1,135 @@
+
+Omagento\adminadobeims\model\authorization\adobeimstokenuserservice::__constructé
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.phpS S("1*Ã
+2
+AdobeImsTokenUserService.php"¶
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.phpe e(
+implicit return*» 
+1é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.php] ](*Í
+Á
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.phpS S(
+$tokenReader"__id*>
+<
+$tokenReader,magento\adobeimsapi\api\tokenreaderinterfaceÑ
+Å
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.phpS S(
+$imsWebapiRepository"__id*P
+N
+$imsWebapiRepository6magento\adminadobeims\api\imswebapirepositoryinterfaceÄ
+˝
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.phpS S(
+$imsWebapiFactory"__id*O
+M
+$imsWebapiFactory8magento\adminadobeims\api\data\imswebapiinterfacefactory⁄
+◊
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.phpS S(
+
+$adminUser"__id*0
+.
+
+$adminUser magento\adminadobeims\model\userÌ
+Í
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.phpS S(
+$isTokenValid"__id*@
+>
+$isTokenValid-magento\adobeimsapi\api\istokenvalidinterfaceÈ
+Ê
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.phpS S(
+
+$encryptor"__id*?
+=
+
+$encryptor/magento\framework\encryption\encryptorinterface‚
+ﬂ
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.phpS S(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetime·
+ﬁ
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.phpS S(
+
+$profile"__id*9
+7
+$profile+magento\adobeimsapi\api\getprofileinterfaceÉ
+Ä
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.php] ]()UD
+Bmagento\adminadobeims\model\authorization\adobeimstokenuserservice"
+tokenReader"__id*
+
+$tokenReaderç
+ä
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.php^ ^(3ZD
+Bmagento\adminadobeims\model\authorization\adobeimstokenuserservice"
+imsWebapiFactory"__id*
+
+$imsWebapiFactoryˇ
+¸
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.php_ _(%SD
+Bmagento\adminadobeims\model\authorization\adobeimstokenuserservice"
+	adminUser"__id*
+
+
+$adminUserÖ
+Ç
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.php` `(+VD
+Bmagento\adminadobeims\model\authorization\adobeimstokenuserservice"
+isTokenValid"__id*
+
+$isTokenValidì
+ê
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.phpa a(9]D
+Bmagento\adminadobeims\model\authorization\adobeimstokenuserservice"
+imsWebapiRepository"__id*
+
+$imsWebapiRepositoryˇ
+¸
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.phpb b(%SD
+Bmagento\adminadobeims\model\authorization\adobeimstokenuserservice"
+	encryptor"__id*
+
+
+$encryptor˝
+˙
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.phpc c(#RD
+Bmagento\adminadobeims\model\authorization\adobeimstokenuserservice"
+
+dateTime"__id*
+
+	$dateTime˚
+¯
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\Authorization\AdobeImsTokenUserService.phpd d(!QD
+Bmagento\adminadobeims\model\authorization\adobeimstokenuserservice"	
+profile"__id*
+
+
+$profile*
+2:<
+$tokenReader,magento\adobeimsapi\api\tokenreaderinterface:N
+$imsWebapiRepository6magento\adminadobeims\api\imswebapirepositoryinterface:M
+$imsWebapiFactory8magento\adminadobeims\api\data\imswebapiinterfacefactory:.
+
+$adminUser magento\adminadobeims\model\user:>
+$isTokenValid-magento\adobeimsapi\api\istokenvalidinterface:=
+
+$encryptor/magento\framework\encryption\encryptorinterface:7
+	$dateTime*magento\framework\stdlib\datetime\datetime:7
+$profile+magento\adobeimsapi\api\getprofileinterfaceBFD
+Bmagento\adminadobeims\model\authorization\adobeimstokenuserservice

@@ -1,0 +1,48 @@
+
+Tmagento\graphql\quote\customer\setbillingaddressoncarttest::getsetpaymentmethodquery¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetBillingAddressOnCartTest.phpŽ Ž(-"1*Ó	
+1¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetBillingAddressOnCartTest.php’ ¡(Ü
+Ù
+¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetBillingAddressOnCartTest.phpŽ Ž(-
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringÖ
+Ó
+¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetBillingAddressOnCartTest.phpŽ Ž(-
+$methodCode"__id*
+
+$methodCodestringÀ
+½
+¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetBillingAddressOnCartTest.php’ ¡(
+%1"__concat*CA
+?mutation {
+  setPaymentMethodOnCart(input: {
+      cart_id: "*1/
+-"
+      payment_method: {
+          code: "*ig
+e"
+      }
+  }) {
+    cart {
+      selected_payment_method {
+        code
+      }
+    }
+  }
+}*
+
+$maskedQuoteId*
+
+$methodCode"­
+¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetBillingAddressOnCartTest.php’ ¡(
+
+%1:
+$maskedQuoteIdstring:
+$methodCodestringB><
+:magento\graphql\quote\customer\setbillingaddressoncarttest

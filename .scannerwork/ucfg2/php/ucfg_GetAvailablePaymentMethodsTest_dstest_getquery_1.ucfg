@@ -1,0 +1,32 @@
+
+Gmagento\graphql\quote\customer\getavailablepaymentmethodstest::getquery¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetAvailablePaymentMethodsTest.php£ £("1*ÿ
+1¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetAvailablePaymentMethodsTest.php¥ ®(ß
+Ü
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetAvailablePaymentMethodsTest.php£ £(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstring¼
+¹
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetAvailablePaymentMethodsTest.php¥ ®(
+%1"__concat*
+{
+  cart(cart_id: "*QO
+M") {
+    available_payment_methods {
+      code
+      title
+    }
+  }
+}*
+
+$maskedQuoteId"°
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetAvailablePaymentMethodsTest.php¥ ®(
+
+%1:
+$maskedQuoteIdstringBA?
+=magento\graphql\quote\customer\getavailablepaymentmethodstest

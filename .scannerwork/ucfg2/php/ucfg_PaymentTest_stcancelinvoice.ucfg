@@ -1,0 +1,431 @@
+
+Bmagento\sales\test\unit\model\order\paymenttest::testcancelinvoice|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php” ”(%"1*¬
+2
+PaymentTest.php"“
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php³ ³(
+implicit return*†`
+1|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php– ›(
+Œ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php– ›(	
+%1"$Array°
+­
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php– ›(	
+%2"__mapSet*
+
+%1*
+amount_paid*2
+µ
+²
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php– ›(	
+%3"__mapSet*
+
+%1*
+base_amount_paid*2
+¶
+³
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php– ›(	
+%4"__mapSet*
+
+%1*
+shipping_captured*2»
+¸
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php– ›(	
+%5"__mapSet*
+
+%1*
+base_shipping_captured*2›
+˜
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php– ›(	
+
+$expects"__id*
+
+%1Ï
+Ì
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.phpœ œ((
+%6"__id*@*>1
+/magento\sales\test\unit\model\order\paymenttest"	
+payment©¦
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.phpœ œ(@
+%7*
+
+%6*
+amount_paid2getdataÐÍ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.phpœ œ(A
+%8*31
+/magento\sales\test\unit\model\order\paymenttest*
+
+%72
+assertnullÏ
+Ì
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php (
+%9"__id*@*>1
+/magento\sales\test\unit\model\order\paymenttest"	
+invoiceÃÀ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php  (-
+%10*31
+/magento\sales\test\unit\model\order\paymenttest2once¢Ÿ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php (.
+%11*
+
+%9*
+
+%102expects¬©
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php (G
+%12*
+
+%11*
+getGrandTotal2method±
+®
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.phpT (k
+%13"__mapGet*
+
+
+$expects*
+amount_paid¦£
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php (l
+%14*
+
+%12*
+
+%132
+willreturnÐ
+Í
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.phpž ž(
+%15"__id*@*>1
+/magento\sales\test\unit\model\order\paymenttest"	
+invoiceÃÀ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.phpž  ž(-
+%16*31
+/magento\sales\test\unit\model\order\paymenttest2once£ 
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.phpž ž(.
+%17*
+
+%15*
+
+%162expects°­
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.phpž ž(K
+%18*
+
+%17*
+getBaseGrandTotal2method¶
+³
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.phpŸ Ÿ((
+%19"__mapGet*
+
+
+$expects*
+base_amount_paid¦£
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.phpž  (	
+%20*
+
+%18*
+
+%192
+willreturnÐ
+Í
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¡ ¡(
+%21"__id*@*>1
+/magento\sales\test\unit\model\order\paymenttest"	
+invoiceÃÀ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¡  ¡(-
+%22*31
+/magento\sales\test\unit\model\order\paymenttest2once£ 
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¡ ¡(.
+%23*
+
+%21*
+
+%222expects°­
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¡ ¡(K
+%24*
+
+%23*
+getShippingAmount2method·
+´
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¢ ¢()
+%25"__mapGet*
+
+
+$expects*
+shipping_captured¦£
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¡ £(	
+%26*
+
+%24*
+
+%252
+willreturnÐ
+Í
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¤ ¤(
+%27"__id*@*>1
+/magento\sales\test\unit\model\order\paymenttest"	
+invoiceÃÀ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¤  ¤(-
+%28*31
+/magento\sales\test\unit\model\order\paymenttest2once£ 
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¤ ¤(.
+%29*
+
+%27*
+
+%282expects´±
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¤ ¤(O
+%30*
+
+%29*
+getBaseShippingAmount2method¼
+¹
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¥ ¥(.
+%31"__mapGet*
+
+
+$expects*
+base_shipping_captured¦£
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¤ ¦(	
+%32*
+
+%30*
+
+%312
+willreturnÙ
+Ö
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php§ §(
+%33"__id*I*G1
+/magento\sales\test\unit\model\order\paymenttest"
+eventManagerMockÃÀ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php§) §(6
+%34*31
+/magento\sales\test\unit\model\order\paymenttest2once£ 
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php§ §(7
+%35*
+
+%33*
+
+%342expects§¤
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php§ §(K
+%36*
+
+%35*
+
+dispatch2method
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php© ©(F
+%37"$ArrayÐ
+Í
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php© ©((
+%38"__id*@*>1
+/magento\sales\test\unit\model\order\paymenttest"	
+payment±
+®
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php© ©(F
+%39"__mapSet*
+
+%37*	
+payment*
+
+%38Ð
+Í
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php©7 ©(E
+%40"__id*@*>1
+/magento\sales\test\unit\model\order\paymenttest"	
+invoice±
+®
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php© ©(F
+%41"__mapSet*
+
+%37*	
+invoice*
+
+%40ÈÅ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php§ ª(	
+%42*
+
+%36*&$
+"sales_order_payment_cancel_invoice*
+
+%372withÐ
+Í
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php« «((
+%43"__id*@*>1
+/magento\sales\test\unit\model\order\paymenttest"	
+paymentÐ
+Í
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php«* «(8
+%44"__id*@*>1
+/magento\sales\test\unit\model\order\paymenttest"	
+paymentÐ
+Í
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php«H «(V
+%45"__id*@*>1
+/magento\sales\test\unit\model\order\paymenttest"	
+invoice©¦
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php«* «(W
+%46*
+
+%44*
+
+%452cancelinvoiceÛØ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php« «(X
+%47*31
+/magento\sales\test\unit\model\order\paymenttest*
+
+%43*
+
+%462
+assertsame±
+®
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¬! ¬(8
+%48"__mapGet*
+
+
+$expects*
+amount_paidÐ
+Í
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¬: ¬(H
+%49"__id*@*>1
+/magento\sales\test\unit\model\order\paymenttest"	
+payment«¨
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¬: ¬(`
+%50*
+
+%49*
+amount_paid2getdataØÕ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¬ ¬(a
+%51*31
+/magento\sales\test\unit\model\order\paymenttest* *
+
+%502assertequals¶
+³
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php­! ­(=
+%52"__mapGet*
+
+
+$expects*
+base_amount_paidÐ
+Í
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php­? ­(M
+%53"__id*@*>1
+/magento\sales\test\unit\model\order\paymenttest"	
+payment°­
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php­? ­(j
+%54*
+
+%53*
+base_amount_paid2getdataØÕ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php­ ­(k
+%55*31
+/magento\sales\test\unit\model\order\paymenttest* *
+
+%542assertequals·
+´
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php®! ®(>
+%56"__mapGet*
+
+
+$expects*
+shipping_capturedÐ
+Í
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php®@ ®(N
+%57"__id*@*>1
+/magento\sales\test\unit\model\order\paymenttest"	
+payment±®
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php®@ ®(l
+%58*
+
+%57*
+shipping_captured2getdataØÕ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php® ®(m
+%59*31
+/magento\sales\test\unit\model\order\paymenttest* *
+
+%582assertequals¼
+¹
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php° °(3
+%60"__mapGet*
+
+
+$expects*
+base_shipping_capturedÐ
+Í
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php± ±(
+%61"__id*@*>1
+/magento\sales\test\unit\model\order\paymenttest"	
+payment¶³
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php± ±(=
+%62*
+
+%61*
+base_shipping_captured2getdataØÕ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\PaymentTest.php¯ ²(	
+%63*31
+/magento\sales\test\unit\model\order\paymenttest* *
+
+%622assertequals*
+2B31
+/magento\sales\test\unit\model\order\paymenttest

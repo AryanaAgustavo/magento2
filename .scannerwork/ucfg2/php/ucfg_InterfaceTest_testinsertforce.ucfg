@@ -1,0 +1,99 @@
+
+;magento\framework\db\adapter\interfacetest::testinsertforce
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.phpü ü(#"1*Â
+2
+InterfaceTest.php"§
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php„ „(
+implicit return*¹
+1
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.phpþ þ(Zâ
+ß
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.phpþ þ(1
+%1"__id*?*=,
+*magento\framework\db\adapter\interfacetest"
+_connectioná
+Þ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.phpþ? þ(P
+%2"__id*>*<,
+*magento\framework\db\adapter\interfacetest"
+
+_tableNameÃÀ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.phpþ þ(X
+%3*
+
+%1*
+
+%2*	
+
+$data2insertforceçä
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.phpþ þ(Y
+%4*.,
+*magento\framework\db\adapter\interfacetest*2*
+
+%32assertequalsâ
+ß
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php€ €($
+%5"__id*?*=,
+*magento\framework\db\adapter\interfacetest"
+_connection«¨
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php€ €(.
+%6*
+
+%52selectá
+Þ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php€5 €(F
+%7"__id*>*<,
+*magento\framework\db\adapter\interfacetest"
+
+_tableName±®
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php€ €(G
+%8*
+
+%6*
+
+%72from®
+«
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php€ €(G	
+$select"__id*
+
+%8â
+ß
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php ($
+%9"__id*?*=,
+*magento\framework\db\adapter\interfacetest"
+_connection»¸
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php (7
+%10*
+
+%9*
+	
+$select2fetchrow¯
+¬
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.php (7	
+$result"__id*
+
+%10òï
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DB\Adapter\InterfaceTest.phpƒ ƒ(+
+%11*.,
+*magento\framework\db\adapter\interfacetest*	
+
+$data*
+	
+$result2assertequals*
+2:
+$dataB.,
+*magento\framework\db\adapter\interfacetest

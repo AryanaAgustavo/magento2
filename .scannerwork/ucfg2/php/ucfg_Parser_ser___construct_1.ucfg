@@ -1,0 +1,141 @@
+
+4magento\translation\model\inline\parser::__constructt
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php¤ ¤("1*Ÿ
+2
+
+Parser.php"‹
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php¸ ¸(
+implicit return*ì
+1t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php¯ ¯(,×
+Ô
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php¤ ¤(
+	$resource"__id*I
+G
+	$resource:magento\translation\model\resourcemodel\stringutilsfactoryÎ
+Ë
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php¤ ¤(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÁ
+¾
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php¤ ¤(
+$inputFilter"__id*0
+.
+$inputFilterlaminas\filter\filterinterface¸
+µ
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php¤ ¤(
+	$appState"__id**
+(
+	$appStatemagento\framework\app\stateÊ
+Ç
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php¤ ¤(
+	$appCache"__id*<
+:
+	$appCache-magento\framework\app\cache\typelistinterfaceÖ
+Ó
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php¤ ¤(
+$translateInline"__id*A
+?
+$translateInline+magento\framework\translate\inlineinterface´
+±
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php¤ ¤(
+
+$escaper"__id*'
+%
+$escapermagento\framework\escaperÒ
+Ï
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php¤ ¤(
+$cacheManager"__id*@
+>
+$cacheManager-magento\translation\model\inline\cachemanager´
+±
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php¤ ¤(
+$relatedCacheTypes"__id*
+
+$relatedCacheTypesarrayÏ
+Ì
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php¯ ¯(+?)
+'magento\translation\model\inline\parser"
+_resourceFactory"__id*
+
+	$resourceÐ
+Í
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php° °(,<)
+'magento\translation\model\inline\parser"
+_storeManager"__id*
+
+$storeManagerÎ
+Ë
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php± ±(*;)
+'magento\translation\model\inline\parser"
+_inputFilter"__id*
+
+$inputFilterÈ
+Å
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php² ²($8)
+'magento\translation\model\inline\parser"
+	_appState"__id*
+
+	$appStateÈ
+Å
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php³ ³($8)
+'magento\translation\model\inline\parser"
+	_appCache"__id*
+
+	$appCacheÖ
+Ó
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php´ ´(2?)
+'magento\translation\model\inline\parser"
+_translateInline"__id*
+
+$translateInlineÅ
+Â
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.phpµ µ(!6)
+'magento\translation\model\inline\parser"	
+escaper"__id*
+
+
+$escaperÏ
+Ì
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php¶ ¶(+;)
+'magento\translation\model\inline\parser"
+cacheManager"__id*
+
+$cacheManagerÙ
+Ö
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Translation\Model\Inline\Parser.php· ·(5@)
+'magento\translation\model\inline\parser"
+relatedCacheTypes"__id*
+
+$relatedCacheTypes*
+2:G
+	$resource:magento\translation\model\resourcemodel\stringutilsfactory::
+$storeManager)magento\store\model\storemanagerinterface:.
+$inputFilterlaminas\filter\filterinterface:(
+	$appStatemagento\framework\app\state::
+	$appCache-magento\framework\app\cache\typelistinterface:?
+$translateInline+magento\framework\translate\inlineinterface:%
+$escapermagento\framework\escaper:>
+$cacheManager-magento\translation\model\inline\cachemanager:
+$relatedCacheTypesarrayB+)
+'magento\translation\model\inline\parser

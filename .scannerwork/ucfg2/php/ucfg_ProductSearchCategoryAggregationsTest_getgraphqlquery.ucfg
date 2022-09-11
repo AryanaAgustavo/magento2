@@ -1,0 +1,51 @@
+
+Nmagento\graphql\catalog\productsearchcategoryaggregationstest::getgraphqlquery¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchCategoryAggregationsTest.php¿ ¿($"1*Ï
+
+1¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchCategoryAggregationsTest.phpÁ Ò(Ý
+Ú
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchCategoryAggregationsTest.php¿ ¿($
+$categoryList"__id*
+
+$categoryListstring÷
+ô
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchCategoryAggregationsTest.php¿ ¿($
+$includeDirectChildrenOnly"__id*&
+$
+$includeDirectChildrenOnlystring”
+‘
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchCategoryAggregationsTest.phpÁ Ò(
+%1"__concat*
+{
+  products(filter: *tr
+p) {
+      total_count
+       items { sku }
+    aggregations (filter: { category: {includeDirectChildrenOnly: *‘Ž
+‹}}) {
+      attribute_code
+      count
+      label
+      options {
+        count
+        label
+        value
+      }
+    }
+  }
+}*
+
+$categoryList*
+
+$includeDirectChildrenOnly"°
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchCategoryAggregationsTest.phpÁ Ò(
+
+%1:
+$categoryListstring:$
+$includeDirectChildrenOnlystringBA?
+=magento\graphql\catalog\productsearchcategoryaggregationstest

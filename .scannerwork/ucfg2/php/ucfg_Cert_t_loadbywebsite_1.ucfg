@@ -1,0 +1,143 @@
+
+6magento\paypal\model\resourcemodel\cert::loadbywebsiter
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpE E(!"1*—
+2r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpK K(Pòï
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpK7 K(N
+%7*
+	
+$object2getwebsiteid∑¥
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpK K(O
+%8*
+	
+$select*
+main_table.website_id =?*
+
+%72where*
+4*†
+3r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpM T(òï
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpO O('
+%9*
+	
+$object2getwebsiteidæª
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpM P(
+%10*
+	
+$select*" 
+main_table.website_id IN(0, ?)*
+
+%92whereÆ´
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpM R(
+%11*
+
+%10*
+main_table.website_id DESC2orderîë
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpM T(
+%12*
+
+%11*22limit*
+4*∫
+4r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpW W(/¶£
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpW W(.
+%13*
+
+$connection*
+	
+$select2fetchrowè
+å
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpW W(.
+$data"__id*
+
+%13*
+5
+6*û
+5r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpY Y($üú
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpY Y(#
+%14*
+	
+$object*	
+
+$data2setdata*
+6*¡
+6r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.php[ [(¨
+©
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.php[ [( 
+%15magento\paypal\model\cert"__id*
+	
+$object"ò
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.php[ [("
+ 
+%15magento\paypal\model\cert*¥
+1r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpG G(-∞
+≠
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpE E(!	
+$object"__id*&
+$
+$objectmagento\paypal\model\certπ∂
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpG G(,
+%1*+)
+'magento\paypal\model\resourcemodel\cert2getconnectionî
+ë
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpG G(,
+$connection"__id*
+
+%1ñì
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpH H('
+%2*
+
+$connection2selectÖÇ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpH. H(U
+%3"$Array∏µ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpH? H(T
+%4*+)
+'magento\paypal\model\resourcemodel\cert2getmaintableß
+§
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpH. H(U
+%5"__mapSet*
+
+%3*
+
+main_table*
+
+%4ìê
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpH H(V
+%6*
+
+%2*
+
+%32fromê
+ç
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Cert.phpH H(V	
+$select"__id*
+
+%6*
+2
+3:$
+$objectmagento\paypal\model\cert:
+$strictLoadB+)
+'magento\paypal\model\resourcemodel\cert

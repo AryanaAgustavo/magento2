@@ -1,0 +1,75 @@
+
+Emagento\graphql\quote\customer\setshippingmethodsoncarttest::getquery£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingMethodsOnCartTest.phpÓ Ó("1*î
+1£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingMethodsOnCartTest.phpØ ø(Ý
+Ú
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingMethodsOnCartTest.phpÓ Ó(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringç
+ä
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingMethodsOnCartTest.phpÓ Ó(
+$shippingMethodCode"__id*
+
+$shippingMethodCodestringé
+æ
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingMethodsOnCartTest.phpÓ Ó(
+$shippingCarrierCode"__id* 
+
+$shippingCarrierCodestringÛ
+Ø
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingMethodsOnCartTest.phpØ ø(
+%1"__concat*JH
+Fmutation {
+  setShippingMethodsOnCart(input:
+    {
+      cart_id: "*;9
+7",
+      shipping_methods: [{
+        carrier_code: "*
+"
+        method_code: "*°­
+ª"
+      }]
+    }) {
+    cart {
+      shipping_addresses {
+        selected_shipping_method {
+          carrier_code
+          method_code
+          carrier_title
+          method_title
+          amount {
+            value
+            currency
+          }
+        }
+        available_shipping_methods {
+          amount{
+            value
+          }
+          carrier_code
+        }
+      }
+    }
+  }
+}*
+
+$maskedQuoteId*
+
+$shippingCarrierCode*
+
+$shippingMethodCode"®
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingMethodsOnCartTest.phpØ ø(
+
+%1:
+$maskedQuoteIdstring:
+$shippingMethodCodestring:
+$shippingCarrierCodestringB?=
+;magento\graphql\quote\customer\setshippingmethodsoncarttest

@@ -1,0 +1,302 @@
+
+ymagento\checkout\api\guestshippinginformationmanagementtest::testsaveaddressinformationwithcustomercustomaddressattribute†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpá á(P"1*™
+2†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpó ó(S˝˙
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpó ó(R
+%17*
+
+$shippingAddress*#
+!
+$customerCustomAddressAttribute2setcustomattributes¸˘
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpò ò(Q
+%18*
+
+$billingAddress*#
+!
+$customerCustomAddressAttribute2setcustomattributes*
+3*‹&
+3†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpú ú(@â
+Ü
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpú ú(5
+%19"__id*T*R=
+;magento\checkout\api\guestshippinginformationmanagementtest"
+shippingFactoryæª
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpú ú(?
+%20*
+
+%192createÕ
+ 
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpú ú(?
+$shippingInformation"__id*
+
+%20ÔÏ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpù ù(@
+%21*
+
+$shippingInformation*
+
+$billingAddress2setbillingaddressÒÓ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpû û(B
+%22*
+
+$shippingInformation*
+
+$shippingAddress2setshippingaddressÏÈ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpü ü(?
+%23*
+
+$shippingInformation*
+
+flatrate2setshippingmethodcodeÌÍ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.php† †(@
+%24*
+
+$shippingInformation*
+
+flatrate2setshippingcarriercodeÖ
+Ç
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.php¢ ¢($
+%25"__id*P*N=
+;magento\checkout\api\guestshippinginformationmanagementtest"
+maskFactoryæª
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.php¢ ¢(.
+%26*
+
+%252create¿
+Ω
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.php¢ ¢(.	
+$idMask"__id*
+
+%26«ƒ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.php£ £(,
+%27*
+
+$currentQuote2getid◊‘
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.php£ £(9
+%28*
+	
+$idMask*
+
+%27*
+
+quote_id2loadÑ
+Å
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.php• •(+
+%29"__id*O*M=
+;magento\checkout\api\guestshippinginformationmanagementtest"
+
+management«ƒ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.php•D •(Z
+%30*
+	
+$idMask2getmaskedidÒÓ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.php• •(q
+%31*
+
+%29*
+
+%30*
+
+$shippingInformation2saveaddressinformation»
+≈
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.php• •(q
+$paymentDetails"__id*
+
+%31ìê
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.php¶ ¶(.
+%32*?=
+;magento\checkout\api\guestshippinginformationmanagementtest*
+
+$paymentDetails2assertnotemptyœÃ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpß ß(:
+%33*
+
+$currentQuote2getgrandtotalÕ 
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpß< ß(X
+%34*
+
+$paymentDetails2	gettotals√¿
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpß< ß(g
+%35*
+
+%342getsubtotaléã
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpß ß(h
+%36*?=
+;magento\checkout\api\guestshippinginformationmanagementtest*
+
+%33*
+
+%352assertequals*
+4*Ï
+4,
+*GuestShippingInformationManagementTest.php"∏
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.php® ®(
+implicit return*„'
+1†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpâ ã(Å
+˛
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpâ â( 
+%1"__id*M*K=
+;magento\checkout\api\guestshippinginformationmanagementtest"
+
+cartRepoá
+Ñ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpä ä(!
+%2"__id*S*Q=
+;magento\checkout\api\guestshippinginformationmanagementtest"
+searchCriteria‚ﬂ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpä ä(K
+%3*
+
+%2*
+reserved_order_id*
+
+test012	addfilterºπ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpä ä(U
+%4*
+
+%32create≈¬
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpâ ã(	
+%5*
+
+%1*
+
+%42getlistæª
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpâ ã(
+%6*
+
+%52getitemsæ
+ª
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpâ ã(
+$carts"__id*
+
+%6À
+»
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpå å()
+%7"__arrayRemove*
+
+
+$carts*: ≈
+¬
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpå å()
+$currentQuote"__id*
+
+%7Ö
+Ç
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpç ç(,
+%8"__id*Q*O=
+;magento\checkout\api\guestshippinginformationmanagementtest"
+customerRepoœÃ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpç ç(E
+%9*
+
+%8*
+JohnDoe@mail.com2get∆
+√
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpç ç(E
+$guestCustomer"__id*
+
+%9÷”
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpè* è(O
+%10*
+
+$guestCustomer2getcustomattributesÿ
+’
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpè è(O!
+$customerCustomAddressAttribute"__id*
+
+%10ÿ’
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpí í(E
+%11*
+
+$currentQuote2getextensionattributesŒÀ
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpí í(_
+%12*
+
+%112getshippingassignments∆
+√
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpí í(b
+%13"
+__arrayGet*
+
+%12*2 Ã
+…
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpí í(b
+$shippingAssignment"__id*
+
+%13”–
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpì ì(=
+%14*
+
+$shippingAssignment2getshipping¬ø
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpì ì(K
+%15*
+
+%142
+getaddress…
+∆
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpì ì(K
+$shippingAddress"__id*
+
+%15”–
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpî î(<
+%16*
+
+$currentQuote2getbillingaddress»
+≈
+†
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Api\GuestShippingInformationManagementTest.phpî î(<
+$billingAddress"__id*
+
+%16*
+2
+3B?=
+;magento\checkout\api\guestshippinginformationmanagementtest

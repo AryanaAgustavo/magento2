@@ -1,0 +1,43 @@
+
+>magento\adobeims\controller\adminhtml\user\logout::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\User\Logout.php' '("1*§
+2
+
+Logout.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\User\Logout.php- -(
+implicit return*é
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\User\Logout.php+ +(&Å
+Â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\User\Logout.php' '(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÈ
+Å
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\User\Logout.php' '(	
+$logOut"__id*4
+2
+$logOut'magento\adobeimsapi\api\logoutinterfaceõ
+ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\User\Logout.php+ +(%
+%1"'magento\backend\app\action::__construct*53
+1magento\adobeims\controller\adminhtml\user\logout*
+
+
+$contextÕ
+Ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\User\Logout.php, ,(?3
+1magento\adobeims\controller\adminhtml\user\logout"
+logout"__id*
+	
+$logOut*
+2:.
+$context"magento\backend\app\action\context:2
+$logOut'magento\adobeimsapi\api\logoutinterfaceB53
+1magento\adobeims\controller\adminhtml\user\logout

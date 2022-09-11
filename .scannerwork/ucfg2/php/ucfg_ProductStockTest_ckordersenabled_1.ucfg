@@ -1,0 +1,168 @@
+
+tmagento\catalogimportexport\model\import\producttest\productstocktest::testimportwithqtyzeroandwithbackordersenabled™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php⁄ ⁄(A"1*‡
+2
+ProductStockTest.php"¬
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpÊ Ê(
+implicit return*ã1
+1™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php‹ ‹(U «
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php‹ ‹(T
+%1*IG
+Emagento\catalogimportexport\model\import\producttest\productstocktest*;9
+7products_to_import_with_qty_zero_backorders_enabled.csv2
+importfileüú
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php› ›(4
+%2*IG
+Emagento\catalogimportexport\model\import\producttest\productstocktest*	
+simple12getproductbysku 
+«
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php› ›(4
+
+$product"__id*
+
+%2ö
+ó
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpﬁ ﬁ()
+%3"__id*\*ZG
+Emagento\catalogimportexport\model\import\producttest\productstocktest"
+stockRegistryÀ»
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpﬁ8 ﬁ(I
+%4*
+
+
+$product2getid⁄◊
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpﬁ ﬁ(M
+%5*
+
+%3*
+
+%4*22getstockitemÃ
+…
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpﬁ ﬁ(M
+
+$stockItem"__id*
+
+%5‘—
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpﬂ ﬂ(9
+%6*
+
+
+$stockItem2getisinstockùö
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpﬂ ﬂ(:
+%7*IG
+Emagento\catalogimportexport\model\import\producttest\productstocktest*2*
+
+%62assertequalsüú
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php‡ ‡(4
+%8*IG
+Emagento\catalogimportexport\model\import\producttest\productstocktest*	
+simple22getproductbysku 
+«
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php‡ ‡(4
+
+$product"__id*
+
+%8ö
+ó
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php· ·()
+%9"__id*\*ZG
+Emagento\catalogimportexport\model\import\producttest\productstocktest"
+stockRegistryÃ…
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php·8 ·(I
+%10*
+
+
+$product2getid‹Ÿ
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php· ·(M
+%11*
+
+%9*
+
+%10*22getstockitemÕ
+ 
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php· ·(M
+
+$stockItem"__id*
+
+%11’“
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php‚ ‚(9
+%12*
+
+
+$stockItem2getisinstocküú
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php‚ ‚(:
+%13*IG
+Emagento\catalogimportexport\model\import\producttest\productstocktest*2*
+
+%122assertequals†ù
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php„ „(4
+%14*IG
+Emagento\catalogimportexport\model\import\producttest\productstocktest*	
+simple32getproductbyskuÀ
+»
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php„ „(4
+
+$product"__id*
+
+%14õ
+ò
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php‰ ‰()
+%15"__id*\*ZG
+Emagento\catalogimportexport\model\import\producttest\productstocktest"
+stockRegistryÃ…
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php‰8 ‰(I
+%16*
+
+
+$product2getid›⁄
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php‰ ‰(M
+%17*
+
+%15*
+
+%16*22getstockitemÕ
+ 
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.php‰ ‰(M
+
+$stockItem"__id*
+
+%17’“
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpÂ Â(9
+%18*
+
+
+$stockItem2getisinstocküú
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductStockTest.phpÂ Â(:
+%19*IG
+Emagento\catalogimportexport\model\import\producttest\productstocktest*2*
+
+%182assertequals*
+2BIG
+Emagento\catalogimportexport\model\import\producttest\productstocktest

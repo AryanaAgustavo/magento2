@@ -1,0 +1,31 @@
+
+3magento\graphql\customer\getaddressestest::getquery‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\GetAddressesTest.php… …("1*¹
+1‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\GetAddressesTest.php‡ ™(ü
+ù
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\GetAddressesTest.php‡ ™(
+$query"__id*ÒÏ
+Ì{
+  customer {
+    id
+    addresses {
+      id
+      customer_id
+      region_id
+      country_id
+      telephone
+      postcode
+      city      
+      firstname
+      lastname
+    }
+   }
+}" 
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\GetAddressesTest.phpš š(
+
+
+$queryB-+
+)magento\graphql\customer\getaddressestest

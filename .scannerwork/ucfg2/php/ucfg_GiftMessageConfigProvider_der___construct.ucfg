@@ -1,0 +1,133 @@
+
+@magento\giftmessage\model\giftmessageconfigprovider::__construct~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpM M("1*¼
+2
+GiftMessageConfigProvider.php"•
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.php_ _(
+implicit return*­
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpW W(?É
+Æ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpM M(
+
+$context"__id*2
+0
+$context$magento\framework\app\helper\contextâ
+ß
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpM M(
+$cartRepository"__id*D
+B
+$cartRepository/magento\giftmessage\api\cartrepositoryinterfaceâ
+ß
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpM M(
+$itemRepository"__id*D
+B
+$itemRepository/magento\giftmessage\api\itemrepositoryinterfaceÓ
+Ð
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpM M(
+$checkoutSession"__id*4
+2
+$checkoutSessionmagento\checkout\model\sessionÏ
+Ì
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpM M(
+$httpContext"__id*4
+2
+$httpContext"magento\framework\app\http\contextØ
+Õ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpM M(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface×
+Ô
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpM M(
+$localeFormat"__id*;
+9
+$localeFormat(magento\framework\locale\formatinterfaceÈ
+Å
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpM M(
+
+$formKey"__id*1
+/
+$formKey#magento\framework\data\form\formkey§¤
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpW$ W(>
+%1*
+
+
+$context2getscopeconfigà
+Ý
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpW W(>M5
+3magento\giftmessage\model\giftmessageconfigprovider"
+scopeConfiguration"__id*
+
+%1é
+æ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpX X(/I5
+3magento\giftmessage\model\giftmessageconfigprovider"
+cartRepository"__id*
+
+$cartRepositoryé
+æ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpY Y(/I5
+3magento\giftmessage\model\giftmessageconfigprovider"
+itemRepository"__id*
+
+$itemRepositoryë
+è
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.phpZ Z(1J5
+3magento\giftmessage\model\giftmessageconfigprovider"
+checkoutSession"__id*
+
+$checkoutSessionã
+à
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.php[ [()F5
+3magento\giftmessage\model\giftmessageconfigprovider"
+httpContext"__id*
+
+$httpContextå
+â
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.php\ \(+G5
+3magento\giftmessage\model\giftmessageconfigprovider"
+storeManager"__id*
+
+$storeManagerå
+â
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.php] ](+G5
+3magento\giftmessage\model\giftmessageconfigprovider"
+localeFormat"__id*
+
+$localeFormatÛ
+Ø
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\GiftMessageConfigProvider.php^ ^(!B5
+3magento\giftmessage\model\giftmessageconfigprovider"	
+formKey"__id*
+
+
+$formKey*
+2:0
+$context$magento\framework\app\helper\context:B
+$cartRepository/magento\giftmessage\api\cartrepositoryinterface:B
+$itemRepository/magento\giftmessage\api\itemrepositoryinterface:2
+$checkoutSessionmagento\checkout\model\session:2
+$httpContext"magento\framework\app\http\context::
+$storeManager)magento\store\model\storemanagerinterface:9
+$localeFormat(magento\framework\locale\formatinterface:/
+$formKey#magento\framework\data\form\formkeyB75
+3magento\giftmessage\model\giftmessageconfigprovider

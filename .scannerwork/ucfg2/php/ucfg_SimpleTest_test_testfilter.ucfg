@@ -1,0 +1,89 @@
+
+Bmagento\framework\filter\test\unit\template\simpletest::testfilter…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php ("1*µ
+2
+SimpleTest.php"
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php! !(
+implicit return*ß
+1…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php (Sà
+Ý
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php (R
+	$template"__id*@>
+<My name is "{{first name}}" and my date of birth is {{dob}}.™–
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php (C
+%1"$Array½
+º
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php (C
+%2"__mapSet*
+
+%1*
+
+first name*
+User¾
+»
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php (C
+%3"__mapSet*
+
+%1*
+dob*
+Feb 29, 2000¤
+¡
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php (C	
+$values"__id*
+
+%1à
+Ý
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php (
+%4"__id*G*E8
+6magento\framework\filter\test\unit\template\simpletest"	
+_filter¯¬
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php ((
+%5*
+
+%4*
+	
+$values2setdataà
+Ý
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php ( 
+%6"__id*G*E8
+6magento\framework\filter\test\unit\template\simpletest"	
+_filter°­
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php (3
+%7*
+
+%6*
+
+	$template2filter¤
+¡
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php (3	
+$actual"__id*
+
+%7Û
+Ø
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php (M
+	$expected"__id*;9
+7My name is "User" and my date of birth is Feb 29, 2000.õò
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\Template\SimpleTest.php   (-
+%8*:8
+6magento\framework\filter\test\unit\template\simpletest*
+
+	$expected*
+	
+$actual2
+assertsame*
+2B:8
+6magento\framework\filter\test\unit\template\simpletest

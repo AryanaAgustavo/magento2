@@ -1,0 +1,50 @@
+
+Pmagento\reports\model\resourcemodel\review\product\collectiontest::testgetselect¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Model\ResourceModel\Review\Product\CollectionTest.php (!"1*Ø
+2
+CollectionTest.php"¼
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Model\ResourceModel\Review\Product\CollectionTest.php! !(
+implicit return*š
+1¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Model\ResourceModel\Review\Product\CollectionTest.php (:Ž
+‹
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Model\ResourceModel\Review\Product\CollectionTest.php (,
+%1"__id*V*TC
+Amagento\reports\model\resourcemodel\review\product\collectiontest"
+_collectionÃÀ
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Model\ResourceModel\Review\Product\CollectionTest.php (9
+%2*
+
+%12	getselectÑ
+Î
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Model\ResourceModel\Review\Product\CollectionTest.php (9	
+$select"__passthrough_cast*
+
+%2Ã
+À
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Model\ResourceModel\Review\Product\CollectionTest.php (U
+%3"__concat*QO
+M/SUM\(table_rating.percent\)\/COUNT\(table_rating.rating_id\) AS `avg_rating`*ig
+e[\s\S]+SUM\(table_rating.percent_approved\)\/COUNT\(table_rating.rating_id\) AS `avg_rating_approved`*IG
+E[\s\S]+LEFT JOIN `.*rating_option_vote_aggregated` AS `table_rating`/Ã
+À
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Model\ResourceModel\Review\Product\CollectionTest.php (U	
+$search"__id*
+
+%3±®
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Model\ResourceModel\Review\Product\CollectionTest.php   (?
+%4*EC
+Amagento\reports\model\resourcemodel\review\product\collectiontest*
+	
+$search*
+	
+$select2assertmatchesregularexpression*
+2BEC
+Amagento\reports\model\resourcemodel\review\product\collectiontest

@@ -1,0 +1,110 @@
+
+mmagento\configurableproduct\model\resourcemodel\product\indexer\price\basestockstatusselectprocessor::process∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php0 0("1*À
+2∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php4 4(b∫
+∑
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php4# 4(2
+%3"__id*v*tf
+dmagento\configurableproduct\model\resourcemodel\product\indexer\price\basestockstatusselectprocessor"
+
+resourceıÚ
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php4# 4(a
+%4*
+
+%3*!
+cataloginventory_stock_status2gettablename‹
+Ÿ
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php4 4(a
+$stockIndexTableName"__id*
+
+%4ƒ¡
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php6 6(?
+%5"$ArrayÅ
+˛
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php6 6(?
+%6"__mapSet*
+
+%5*
+child_stock_default*
+
+$stockIndexTableNameƒ¡
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php8 8(
+%7"$Arrayóî
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php5 9(
+%8*
+	
+$select*
+
+%5*1/
+-child_stock_default.product_id = l.product_id*
+
+%72	joininnerƒ¡
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php: :(@
+%9"$ArrayÉ
+Ä
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php: :(@
+%10"__mapSet*
+
+%9*
+parent_stock_default*
+
+$stockIndexTableName≈¬
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php< <(
+%11"$Arrayïí
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php5 =(
+%12*
+
+%8*
+
+%9*20
+.parent_stock_default.product_id = le.entity_id*
+
+%112	joininner†ù
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php5 ?(
+%13*
+
+%12*QO
+Mchild_stock_default.stock_status = 1 OR parent_stock_default.stock_status = 02where*
+3*˘
+3∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.phpB B("¿
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.phpB B(
+	
+$select*À
+1∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php3 3(2Ò
+Ó
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php0 0(	
+$select"__id*(
+&
+$selectmagento\framework\db\selectΩ
+∫
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php3 3(
+%1"__id*y*wf
+dmagento\configurableproduct\model\resourcemodel\product\indexer\price\basestockstatusselectprocessor"
+stockConfig÷”
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ConfigurableProduct\Model\ResourceModel\Product\Indexer\Price\BaseStockStatusSelectProcessor.php3 3(2
+%2*
+
+%12isshowoutofstock*
+2
+3:&
+$selectmagento\framework\db\selectBhf
+dmagento\configurableproduct\model\resourcemodel\product\indexer\price\basestockstatusselectprocessor

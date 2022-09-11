@@ -1,0 +1,122 @@
+
+>magento\catalog\model\layer\filter\dynamic\manual::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpA A("1*§
+2
+
+Manual.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpQ Q(
+implicit return*ý
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpJ J(&Ñ
+Î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpA A(
+
+$algorithm"__id*:
+8
+
+$algorithm*magento\framework\search\dynamic\algorithmÓ
+Ð
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpA A(
+$layerResolver"__id*8
+6
+$layerResolver$magento\catalog\model\layer\resolverÜ
+Ù
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpA A(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceÐ
+Í
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpA A(	
+$render"__id*<
+:
+$render/magento\catalog\model\layer\filter\price\renderÇ
+Ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpA A(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryÛ
+Ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpA A(
+	$resource"__id*E
+C
+	$resource6magento\catalog\model\resourcemodel\layer\filter\priceÍ
+Ê
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpA A(
+$range"__id*:
+8
+$range.magento\catalog\model\layer\filter\price\rangeÛ
+Ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpJ J(%B3
+1magento\catalog\model\layer\filter\dynamic\manual"
+	algorithm"__id*
+
+
+$algorithm 
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpK K(,
+%1*
+
+$layerResolver2getÏ
+Ì
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpK K(,>3
+1magento\catalog\model\layer\filter\dynamic\manual"
+layer"__id*
+
+%1ß
+Ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpL L()D3
+1magento\catalog\model\layer\filter\dynamic\manual"
+scopeConfig"__id*
+
+$scopeConfigÕ
+Ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpM M(?3
+1magento\catalog\model\layer\filter\dynamic\manual"
+render"__id*
+	
+$renderá
+Þ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpN N(+E3
+1magento\catalog\model\layer\filter\dynamic\manual"
+coreRegistry"__id*
+
+$coreRegistryÓ
+Ð
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpO O(>3
+1magento\catalog\model\layer\filter\dynamic\manual"
+range"__id*
+
+
+$rangeÙ
+Ö
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Dynamic\Manual.phpP P(#A3
+1magento\catalog\model\layer\filter\dynamic\manual"
+
+resource"__id*
+
+	$resource*
+2:8
+
+$algorithm*magento\framework\search\dynamic\algorithm:6
+$layerResolver$magento\catalog\model\layer\resolver:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface::
+$render/magento\catalog\model\layer\filter\price\render:+
+$coreRegistrymagento\framework\registry:C
+	$resource6magento\catalog\model\resourcemodel\layer\filter\price:8
+$range.magento\catalog\model\layer\filter\price\rangeB53
+1magento\catalog\model\layer\filter\dynamic\manual

@@ -1,0 +1,49 @@
+
+Gmagento\graphql\quote\customer\getspecifiedbillingaddresstest::getquery¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSpecifiedBillingAddressTest.phpœ œ("1*í
+1¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSpecifiedBillingAddressTest.phpž ¸(ß
+Ü
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSpecifiedBillingAddressTest.phpœ œ(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringª
+§
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSpecifiedBillingAddressTest.phpž ¸(
+%1"__concat*
+{
+  cart(cart_id: "*¾»
+¸") {
+    billing_address {
+      firstname
+      lastname
+      company
+      street
+      city
+      region
+      {
+        code
+        label
+      }
+      postcode
+      country
+      {
+        code
+        label
+      }
+      telephone
+      __typename
+      customer_notes
+    }
+  }
+}*
+
+$maskedQuoteId"°
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSpecifiedBillingAddressTest.phpž ¸(
+
+%1:
+$maskedQuoteIdstringBA?
+=magento\graphql\quote\customer\getspecifiedbillingaddresstest

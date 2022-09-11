@@ -1,0 +1,77 @@
+
+Cmagento\integration\setup\patch\data\upgradeoauthtoken::__constructÅ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\UpgradeOauthToken.php; ;("1*∏
+2
+UpgradeOauthToken.php"ô
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\UpgradeOauthToken.phpF F(
+implicit return*ä
+1Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\UpgradeOauthToken.phpB B(Bå
+â
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\UpgradeOauthToken.php; ;(
+$tokenCollectionFactory"__id*b
+`
+$tokenCollectionFactoryEmagento\integration\model\resourcemodel\oauth\token\collectionfactory”
+–
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\UpgradeOauthToken.php; ;(
+
+$encryptor"__id*6
+4
+
+$encryptor&magento\framework\encryption\encryptorÚ
+Ô
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\UpgradeOauthToken.php; ;(
+$tokenResourceModel"__id*L
+J
+$tokenResourceModel3magento\integration\model\resourcemodel\oauth\tokenæ
+ª
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\UpgradeOauthToken.php; ;(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface≤Ø
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\UpgradeOauthToken.phpB  B(A
+%1*
+
+$tokenCollectionFactory2create‰
+·
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\UpgradeOauthToken.phpB B(AM8
+6magento\integration\setup\patch\data\upgradeoauthtoken"
+tokenCollection"__id*
+
+%1Ê
+„
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\UpgradeOauthToken.phpC C(%G8
+6magento\integration\setup\patch\data\upgradeoauthtoken"
+	encryptor"__id*
+
+
+$encryptor¯
+ı
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\UpgradeOauthToken.phpD D(7P8
+6magento\integration\setup\patch\data\upgradeoauthtoken"
+tokenResourceModel"__id*
+
+$tokenResourceModel‡
+›
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\UpgradeOauthToken.phpE E(D8
+6magento\integration\setup\patch\data\upgradeoauthtoken"
+logger"__id*
+	
+$logger*
+2:`
+$tokenCollectionFactoryEmagento\integration\model\resourcemodel\oauth\token\collectionfactory:4
+
+$encryptor&magento\framework\encryption\encryptor:J
+$tokenResourceModel3magento\integration\model\resourcemodel\oauth\token:"
+$loggerpsr\log\loggerinterfaceB:8
+6magento\integration\setup\patch\data\upgradeoauthtoken

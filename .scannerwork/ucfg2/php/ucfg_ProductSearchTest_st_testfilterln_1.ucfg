@@ -1,0 +1,93 @@
+
+8magento\graphql\swatches\productsearchtest::testfilterlnê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Swatches\ProductSearchTest.php ( "1*«
+2
+ProductSearchTest.php"®
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Swatches\ProductSearchTest.phpP P(
+implicit return*Œ
+1ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Swatches\ProductSearchTest.php @(Ñ
+Å
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Swatches\ProductSearchTest.php @(
+$query"__id*€ÿ
+’{
+    products (
+        filter:{
+            sku:{
+                in:["simple1", "simple2", "simple3"]
+            }
+        }
+        pageSize: 4
+        currentPage: 1
+        sort: {
+            name: DESC
+        }
+    )
+    {
+        items {
+            sku
+        }
+        filters {
+            name
+            filter_items_count
+            request_var
+            filter_items {
+                label
+                value_string
+                items_count
+                ... on SwatchLayerFilterItemInterface {
+                    swatch_data {
+                        type
+                        value
+                    }
+                }
+            }
+        }
+    }
+}Ê„
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Swatches\ProductSearchTest.phpD D(/
+%1*.,
+*magento\graphql\swatches\productsearchtest*
+
+
+$query2graphqlquery±
+Æ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Swatches\ProductSearchTest.phpD D(/
+	$response"__id*
+
+%1√
+¿
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Swatches\ProductSearchTest.phpH H(!
+%2"__mapGet*
+
+	$response*
+
+products¶£
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Swatches\ProductSearchTest.phpF J(	
+%3*.,
+*magento\graphql\swatches\productsearchtest*	
+filters*
+
+%2*0.
+,Filters are missing in product query result.2assertarrayhaskeyÁ‰
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Swatches\ProductSearchTest.phpM M(.
+%4*.,
+*magento\graphql\swatches\productsearchtest2getexpectedfiltersdataset≥∞
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Swatches\ProductSearchTest.phpK O(	
+%5*.,
+*magento\graphql\swatches\productsearchtest*
+
+	$response*
+
+%4*?=
+;Returned filters data set does not match the expected value2assertfilters*
+2B.,
+*magento\graphql\swatches\productsearchtest

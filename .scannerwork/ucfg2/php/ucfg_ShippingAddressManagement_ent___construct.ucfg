@@ -1,0 +1,96 @@
+
+:magento\quote\model\shippingaddressmanagement::__constructx
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpA A("1*¶
+2
+ShippingAddressManagement.php"
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpO O(
+implicit return*Ä
+1x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpI I(2Ø
+Õ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpA A(
+$quoteRepository"__id*?
+=
+$quoteRepository)magento\quote\api\cartrepositoryinterfaceÚ
+×
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpA A(
+$addressValidator"__id*@
+>
+$addressValidator)magento\quote\model\quoteaddressvalidator´
+±
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpA A(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceâ
+ß
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpA A(
+$addressRepository"__id*G
+E
+$addressRepository/magento\customer\api\addressrepositoryinterfaceØ
+Õ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpA A(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceØ
+Õ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpA A(
+$totalsCollector"__id*?
+=
+$totalsCollector)magento\quote\model\quote\totalscollectorß
+Ü
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpI I(1D/
+-magento\quote\model\shippingaddressmanagement"
+quoteRepository"__id*
+
+$quoteRepositoryá
+Þ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpJ J(3E/
+-magento\quote\model\shippingaddressmanagement"
+addressValidator"__id*
+
+$addressValidatorÍ
+Ê
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpK K(;/
+-magento\quote\model\shippingaddressmanagement"
+logger"__id*
+	
+$loggerã
+à
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpL L(5F/
+-magento\quote\model\shippingaddressmanagement"
+addressRepository"__id*
+
+$addressRepository×
+Ô
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpM M()@/
+-magento\quote\model\shippingaddressmanagement"
+scopeConfig"__id*
+
+$scopeConfigß
+Ü
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ShippingAddressManagement.phpN N(1D/
+-magento\quote\model\shippingaddressmanagement"
+totalsCollector"__id*
+
+$totalsCollector*
+2:=
+$quoteRepository)magento\quote\api\cartrepositoryinterface:>
+$addressValidator)magento\quote\model\quoteaddressvalidator:"
+$loggerpsr\log\loggerinterface:E
+$addressRepository/magento\customer\api\addressrepositoryinterface:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:=
+$totalsCollector)magento\quote\model\quote\totalscollectorB1/
+-magento\quote\model\shippingaddressmanagement

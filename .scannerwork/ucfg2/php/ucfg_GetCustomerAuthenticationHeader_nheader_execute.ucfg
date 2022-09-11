@@ -1,0 +1,65 @@
+
+8magento\graphql\getcustomerauthenticationheader::execute•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GetCustomerAuthenticationHeader.php' '("1*­
+1•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GetCustomerAuthenticationHeader.php) )(c¿
+¼
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GetCustomerAuthenticationHeader.php' '(
+$email"__id*
+
+$emailstringÅ
+Â
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GetCustomerAuthenticationHeader.php' '(
+	$password"__id*
+
+	$passwordstringö
+ó
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GetCustomerAuthenticationHeader.php) )(4
+%1"__id*M*K1
+/magento\graphql\getcustomerauthenticationheader"
+customerTokenServiceßÜ
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GetCustomerAuthenticationHeader.php) )(b
+%2*
+
+%1*
+
+
+$email*
+
+	$password2createcustomeraccesstoken»
+¸
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GetCustomerAuthenticationHeader.php) )(b
+$customerToken"__id*
+
+%2©¦
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GetCustomerAuthenticationHeader.php* *(>
+%3"$ArrayÌ
+É
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GetCustomerAuthenticationHeader.php*# *(=
+%4"__concat*	
+Bearer *
+
+$customerTokenÎ
+Ë
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GetCustomerAuthenticationHeader.php* *(>
+%5"__mapSet*
+
+%3*
+Authorization*
+
+%4" 
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GetCustomerAuthenticationHeader.php* *(?
+
+%3:
+$emailstring:
+	$passwordstringB31
+/magento\graphql\getcustomerauthenticationheader

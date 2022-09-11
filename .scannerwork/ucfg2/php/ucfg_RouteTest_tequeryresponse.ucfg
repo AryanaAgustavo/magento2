@@ -1,0 +1,66 @@
+
+;magento\graphql\urlrewrite\routetest::getroutequeryresponse‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpÙ Ù()"1*ÿ
+1‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpÛ û(·
+´
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpÙ Ù()	
+$urlKey"__id*
+
+$urlKeystring„
+
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpÜ û(
+%1"__concat*
+{
+  route(url:"*½º
+·")
+  {
+    __typename
+    ...on SimpleProduct {
+      name
+      sku
+      relative_url
+      redirect_code
+      type
+    }
+    ...on CategoryTree {
+        name
+        uid
+        relative_url
+        redirect_code
+        type
+    }
+    ...on CmsPage {
+    	title
+        url_key
+        page_layout
+        content
+        content_heading
+        relative_url
+        redirect_code
+        type
+    }
+  }
+}*
+	
+$urlKey®
+«
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpÛ û(
+$routeQuery"__id*
+
+%1àİ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpü ü(/
+%2*(&
+$magento\graphql\urlrewrite\routetest*
+
+$routeQuery2graphqlquery"–
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpü ü(0
+
+%2:
+$urlKeystringB(&
+$magento\graphql\urlrewrite\routetest

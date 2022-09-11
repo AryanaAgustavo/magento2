@@ -1,0 +1,69 @@
+
+Lmagento\graphql\quote\customer\setofflineshippingmethodsoncarttest::getquery™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetOfflineShippingMethodsOnCartTest.phpá á("1*û
+1™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetOfflineShippingMethodsOnCartTest.phpå ¶(‰
+·
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetOfflineShippingMethodsOnCartTest.phpá á(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringÓ
+Î
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetOfflineShippingMethodsOnCartTest.phpá á(
+$shippingMethodCode"__id*
+
+$shippingMethodCodestring
+Ì
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetOfflineShippingMethodsOnCartTest.phpá á(
+$shippingCarrierCode"__id* 
+
+$shippingCarrierCodestringË
+Â
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetOfflineShippingMethodsOnCartTest.phpå ¶(
+%1"__concat*KI
+Gmutation {
+  setShippingMethodsOnCart(input: 
+    {
+      cart_id: "*<:
+8", 
+      shipping_methods: [{
+        carrier_code: "*
+"
+        method_code: "*¥±
+Æ"
+      }]
+    }) {
+    cart {
+      shipping_addresses {
+        selected_shipping_method {
+          carrier_code
+          method_code
+          carrier_title
+          method_title
+          amount {
+            value
+            currency
+          }
+        }
+      }
+    }
+  }
+}*
+
+$maskedQuoteId*
+
+$shippingCarrierCode*
+
+$shippingMethodCode"µ
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetOfflineShippingMethodsOnCartTest.phpå ¶(
+
+%1:
+$maskedQuoteIdstring:
+$shippingMethodCodestring:
+$shippingCarrierCodestringBFD
+Bmagento\graphql\quote\customer\setofflineshippingmethodsoncarttest

@@ -1,0 +1,684 @@
+
+7magento\framework\filesystem\io\file::_parsepermissionsu
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php© ©(("1*ë
+24u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¿2 ¿(5ç
+ä
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¿ ¿(5
+%6"__id*
+-*
+25*≥
+25u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¿5 ¿(5´
+®
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¿ ¿(
+%7"__mapSet*
+
+
+$owner*	
+execute*
+
+%6*
+26
+27*ë
+26u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¡) ¡(,ç
+ä
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¡ ¡(2
+%8"__id*
+r*
+28*ë
+27u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¡/ ¡(2ç
+ä
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¡ ¡(2
+%8"__id*
+-*
+28*±
+28u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¡2 ¡(2©
+¶
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¡ ¡(
+%10"__mapSet*
+
+
+$group*
+read*
+
+%8*
+29
+30*í
+29u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¬* ¬(-é
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¬ ¬(3
+%11"__id*
+w*
+31*í
+30u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¬0 ¬(3é
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¬ ¬(3
+%11"__id*
+-*
+31*≥
+31u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¬3 ¬(3´
+®
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¬ ¬(
+%12"__mapSet*
+
+
+$group*	
+write*
+
+%11*
+32
+33*í
+32u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php√, √(/é
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php√ √(5
+%13"__id*
+x*
+34*í
+33u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php√2 √(5é
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php√ √(5
+%13"__id*
+-*
+34*µ
+34u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php√5 √(5≠
+™
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php√ √(
+%14"__mapSet*
+
+
+$group*	
+execute*
+
+%13*
+35
+36*í
+35u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpƒ) ƒ(,é
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpƒ ƒ(2
+%15"__id*
+r*
+37*í
+36u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpƒ/ ƒ(2é
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpƒ ƒ(2
+%15"__id*
+-*
+37*≤
+37u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpƒ2 ƒ(2™
+ß
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpƒ ƒ(
+%17"__mapSet*
+
+
+$world*
+read*
+
+%15*
+38
+39*í
+38u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php≈* ≈(-é
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php≈ ≈(3
+%18"__id*
+w*
+40*í
+39u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php≈0 ≈(3é
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php≈ ≈(3
+%18"__id*
+-*
+40*≥
+40u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php≈3 ≈(3´
+®
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php≈ ≈(
+%19"__mapSet*
+
+
+$world*	
+write*
+
+%18*
+41
+42*í
+41u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php∆, ∆(/é
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php∆ ∆(5
+%20"__id*
+x*
+43*í
+42u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php∆2 ∆(5é
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php∆ ∆(5
+%20"__id*
+-*
+43*Ω
+43u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php∆5 ∆(5≠
+™
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php∆ ∆(
+%21"__mapSet*
+
+
+$world*	
+execute*
+
+%20*
+58
+49
+54
+44*¨
+44u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php   (E§
+°
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php    (1
+%22"__mapGet*
+
+
+$owner*	
+execute*
+46
+45*í
+45u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php ;  (>é
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php    (D
+%23"__id*
+s*
+47*í
+46u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php A  (Dé
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php    (D
+%23"__id*
+S*
+47*π
+47u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php D  (D≠
+™
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php   (
+%24"__mapSet*
+
+
+$owner*	
+execute*
+
+%23*
+58
+49
+54*¨
+49u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpÕ Õ(E§
+°
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpÕ  Õ(1
+%25"__mapGet*
+
+
+$group*	
+execute*
+50
+51*í
+50u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpÕ; Õ(>é
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpÕ  Õ(D
+%26"__id*
+s*
+52*í
+51u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpÕA Õ(Dé
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpÕ  Õ(D
+%26"__id*
+S*
+52*µ
+52u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpÕD Õ(D≠
+™
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpÕ Õ(
+%27"__mapSet*
+
+
+$group*	
+execute*
+
+%26*
+58
+54*ò
+10u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¥ ¥(ê
+ç
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¥ ¥(
+$type"__id*
+-*
+17
+18*¨
+54u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php– –(E§
+°
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php–  –(1
+%28"__mapGet*
+
+
+$world*	
+execute*
+55
+56*í
+55u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php–; –(>é
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php–  –(D
+%29"__id*
+t*
+57*ò
+12u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php∂ ∂(ê
+ç
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php∂ ∂(
+$type"__id*
+l*
+17
+18*í
+56u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php–A –(Dé
+ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php–  –(D
+%29"__id*
+T*
+57*±
+57u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php–D –(D≠
+™
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php– –(
+%30"__mapSet*
+
+
+$world*	
+execute*
+
+%29*
+58*ò
+14u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php∏ ∏(ê
+ç
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php∏ ∏(
+$type"__id*
+s*
+17
+18*ﬂ
+58u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php” ”(#¢
+ü
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php” ”("
+%31"sprintf* *
+%1s*	
+
+$typeè
+å
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php” ”("
+$s"__id*
+
+%31°
+û
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php‘# ‘(1
+%32"__mapGet*
+
+
+$owner*
+read¢
+ü
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php‘3 ‘(B
+%33"__mapGet*
+
+
+$owner*	
+write§
+°
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php‘D ‘(U
+%34"__mapGet*
+
+
+$owner*	
+execute∏
+µ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php‘ ‘(V
+%35"sprintf* *
+	%1s%1s%1s*
+
+%32*
+
+%33*
+
+%34ú
+ô
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php‘ ‘(V
+%36"__concat*
+
+$s*
+
+%35è
+å
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php‘ ‘(V
+$s"__id*
+
+%36°
+û
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php’# ’(1
+%37"__mapGet*
+
+
+$group*
+read¢
+ü
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php’3 ’(B
+%38"__mapGet*
+
+
+$group*	
+write§
+°
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php’D ’(U
+%39"__mapGet*
+
+
+$group*	
+execute∏
+µ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php’ ’(V
+%40"sprintf* *
+	%1s%1s%1s*
+
+%37*
+
+%38*
+
+%39ú
+ô
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php’ ’(V
+%41"__concat*
+
+$s*
+
+%40è
+å
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php’ ’(V
+$s"__id*
+
+%41°
+û
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php÷# ÷(1
+%42"__mapGet*
+
+
+$world*
+read¢
+ü
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php÷3 ÷(B
+%43"__mapGet*
+
+
+$world*	
+write§
+°
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php÷D ÷(U
+%44"__mapGet*
+
+
+$world*	
+execute∏
+µ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php÷ ÷(V
+%45"sprintf* *
+	%1s%1s%1s*
+
+%42*
+
+%43*
+
+%44ú
+ô
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php÷ ÷(V
+%46"__concat*
+
+$s*
+
+%45è
+å
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php÷ ÷(V
+$s"__id*
+
+%46ì
+ê
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php◊ ◊(
+%47"trim* *
+
+$s"Ä
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php◊ ◊(
+
+%47*ò
+15u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php∫ ∫(ê
+ç
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php∫ ∫(
+$type"__id*
+u*
+17
+18*ë
+17u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpæ) æ(,ç
+ä
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpæ æ(2
+%1"__id*
+r*
+19*ë
+18u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpæ/ æ(2ç
+ä
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpæ æ(2
+%1"__id*
+-*
+19*∞
+19u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpæ2 æ(2®
+•
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpæ æ(
+%3"__mapSet*
+
+
+$owner*
+read*
+
+%1*
+20
+21*˙
+1u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php´ ´(àÖ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpæ æ(
+%2"$Arrayí
+è
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpæ æ(
+$owner"__id*
+
+%2àÖ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¡ ¡(
+%9"$Arrayí
+è
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¡ ¡(
+$group"__id*
+
+%9âÜ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpƒ ƒ(
+%16"$Arrayì
+ê
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpƒ ƒ(
+$world"__id*
+
+%16*
+2
+14
+4
+15
+6
+8
+10
+12*ó
+2u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¨ ¨(ê
+ç
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¨ ¨(
+$type"__id*
+p*
+17
+18*ó
+4u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpÆ Æ(ê
+ç
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpÆ Æ(
+$type"__id*
+c*
+17
+18*ó
+6u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php∞ ∞(ê
+ç
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php∞ ∞(
+$type"__id*
+d*
+17
+18*ó
+8u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php≤ ≤(ê
+ç
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php≤ ≤(
+$type"__id*
+b*
+17
+18*ë
+20u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpø* ø(-ç
+ä
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpø ø(3
+%4"__id*
+w*
+22*ë
+21u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpø0 ø(3ç
+ä
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpø ø(3
+%4"__id*
+-*
+22*±
+22u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpø3 ø(3©
+¶
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.phpø ø(
+%5"__mapSet*
+
+
+$owner*	
+write*
+
+%4*
+24
+23*ë
+23u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¿, ¿(/ç
+ä
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filesystem\Io\File.php¿ ¿(5
+%6"__id*
+x*
+25:
+$modeB(&
+$magento\framework\filesystem\io\file

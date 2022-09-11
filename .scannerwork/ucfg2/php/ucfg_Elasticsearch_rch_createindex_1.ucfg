@@ -1,0 +1,65 @@
+
+>magento\elasticsearch7\model\client\elasticsearch::createindex~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch7\Model\Client\Elasticsearch.php· ·("1*°
+2
+Elasticsearch.php"•
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch7\Model\Client\Elasticsearch.php¿ ¿(
+implicit return*ý
+1~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch7\Model\Client\Elasticsearch.php¹ ¾(
+§
+¤
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch7\Model\Client\Elasticsearch.php· ·(
+$index"__id*
+
+$indexstring¬
+©
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch7\Model\Client\Elasticsearch.php· ·(
+	$settings"__id*
+
+	$settingsarrayØÕ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch7\Model\Client\Elasticsearch.php¹ ¹('
+%1*53
+1magento\elasticsearch7\model\client\elasticsearch2getelasticsearchclientš—
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch7\Model\Client\Elasticsearch.php¹ ¹(2
+%2*
+
+%12indices‘Ž
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch7\Model\Client\Elasticsearch.phpº ½(
+%3"$Array²
+¯
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch7\Model\Client\Elasticsearch.phpº ½(
+%4"__mapSet*
+
+%3*	
+index*
+
+
+$index´
+±
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch7\Model\Client\Elasticsearch.phpº ½(
+%5"__mapSet*
+
+%3*
+body*
+
+	$settings¡ž
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch7\Model\Client\Elasticsearch.php¹ ¾(	
+%6*
+
+%2*
+
+%32create*
+2:
+$indexstring:
+	$settingsarrayB53
+1magento\elasticsearch7\model\client\elasticsearch

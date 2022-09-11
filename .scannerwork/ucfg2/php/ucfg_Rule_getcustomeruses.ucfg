@@ -1,0 +1,113 @@
+
+;magento\salesrule\model\resourcemodel\rule::getcustomerusesw
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.phpÀ À(#"1*¨
+1w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.phpÕ Õ(-¥
+±
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.phpÀ À(#
+$rule"__id*'
+%
+$rulemagento\salesrule\model\rule¡æ
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.phpÕ Õ(,
+%1*.,
+*magento\salesrule\model\resourcemodel\rule2getconnectionô
+ñ
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.phpÕ Õ(,
+$connection"__id*
+
+%1õò
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.phpŒ Œ('
+%2*
+
+$connection2select‘—
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.phpœ œ(1
+%3*.,
+*magento\salesrule\model\resourcemodel\rule*
+salesrule_customer2gettableäá
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.php– –(!
+%4"$Array´
+®
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.php– –(!
+%5"__mapSet*
+
+%4*
+cnt*
+
+count(*)†ù
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.phpŒ —(	
+%6*
+
+%2*
+
+%3*
+
+%42from©¶
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.phpŒ ”(	
+%7*
+
+%6*
+rule_id = :rule_id2where±Æ
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.phpŒ ’(	
+%8*
+
+%7*
+customer_id = :customer_id2whereï
+í
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.phpŒ ’(		
+$select"__id*
+
+%8äá
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.php÷. ÷(o
+%9"$Arrayôñ
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.php÷= ÷(O
+%10*	
+
+$rule2	getruleid¨
+©
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.php÷. ÷(o
+%11"__mapSet*
+
+%9*
+
+:rule_id*
+
+%10∏
+µ
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.php÷. ÷(o
+%12"__mapSet*
+
+%9*
+:customer_id*
+
+$customerId≥∞
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.php÷ ÷(p
+%13*
+
+$connection*
+	
+$select*
+
+%92fetchone"Ç
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule.php÷ ÷(q
+
+%13:%
+$rulemagento\salesrule\model\rule:
+$customerIdB.,
+*magento\salesrule\model\resourcemodel\rule

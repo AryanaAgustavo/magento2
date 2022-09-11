@@ -1,0 +1,58 @@
+
+;magento\framework\filesystem\file\writetest::testlockunlockê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\File\WriteTest.php£ £(""1*ø
+2
+WriteTest.php"®
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\File\WriteTest.php™ ™(
+implicit return*Ç
+1ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\File\WriteTest.php• •(;ˆÛ
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\File\WriteTest.php• •(:
+%1*/-
++magento\framework\filesystem\file\writetest*
+
+locked.csv*
+w+2getfileinstance≠
+™
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\File\WriteTest.php• •(:
+$file"__id*
+
+%1≠™
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\File\WriteTest.php¶ ¶('
+%2*	
+
+$file2lock·ﬁ
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\File\WriteTest.php¶ ¶((
+%3*/-
++magento\framework\filesystem\file\writetest*
+
+%22
+asserttrueØ¨
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\File\WriteTest.phpß ß()
+%4*	
+
+$file2unlock·ﬁ
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\File\WriteTest.phpß ß(*
+%5*/-
++magento\framework\filesystem\file\writetest*
+
+%42
+asserttrueÆ´
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\File\WriteTest.php® ®(
+%6*	
+
+$file2close‡›
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\File\WriteTest.php© ©("
+%7*/-
++magento\framework\filesystem\file\writetest2removecurrentfile*
+2B/-
++magento\framework\filesystem\file\writetest

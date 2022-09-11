@@ -1,0 +1,36 @@
+
+9magento\graphql\sales\reorderoverlayproducttest::getquery—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderOverlayProductTest.php¸ ¸("1*©
+1—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderOverlayProductTest.phpº Î(	ä
+á
+—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderOverlayProductTest.php» Î(
+%1"__concat*-+
+)mutation {
+  reorderItems(orderNumber: "*óð
+í") {
+    userInputErrors {
+      path
+      code
+    }
+    cart {
+        email
+        total_quantity
+        items {
+            quantity
+            product {
+                sku
+            }
+        }
+      }
+    }
+}*
+
+$orderNumber"¢
+—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderOverlayProductTest.phpº Î(	
+
+%1:
+$orderNumberB31
+/magento\graphql\sales\reorderoverlayproducttest

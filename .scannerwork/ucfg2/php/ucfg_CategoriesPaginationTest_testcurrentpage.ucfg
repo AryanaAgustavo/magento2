@@ -1,0 +1,154 @@
+
+Qmagento\graphql\catalog\categoriesquery\categoriespaginationtest::testcurrentpage¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpW W(#"1*‰
+2
+CategoriesPaginationTest.php"æ
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpu u(
+implicit return*ó&
+1¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpY k(¥
+±
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpY k(
+$query"__id*ıÚ
+Ô{
+  categories(
+    filters: {name: {match: "Category"}}
+    pageSize: 3
+    currentPage: 3
+  ) {
+    total_count
+    page_info {
+      current_page
+      page_size
+      total_pages
+    }
+    items {
+      name
+    }
+  }
+}íè
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpm m(/
+%1*DB
+@magento\graphql\catalog\categoriesquery\categoriespaginationtest*
+
+
+$query2graphqlquery«
+ƒ
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpm m(/
+	$response"__id*
+
+%1€
+ÿ
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpn n(-
+%2"__mapGet*
+
+	$response*
+
+categoriesœ
+Ã
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpn n(6
+%3"__mapGet*
+
+%2*	
+items…
+∆
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpn n(6
+$categories"__id*
+
+%3úô
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpo o(*
+%4*DB
+@magento\graphql\catalog\categoriesquery\categoriespaginationtest*2*
+
+$categories2assertcount€
+ÿ
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpp p(6
+%5"__mapGet*
+
+	$response*
+
+categories’
+“
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpp p(E
+%6"__mapGet*
+
+%5*
+total_countîë
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpp p(F
+%7*DB
+@magento\graphql\catalog\categoriesquery\categoriespaginationtest*2*
+
+%62assertequals€
+ÿ
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpq q(+
+%8"__mapGet*
+
+	$response*
+
+categories”
+–
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpq q(8
+%9"__mapGet*
+
+%8*
+	page_info«
+ƒ
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpq q(8
+	$pageInfo"__id*
+
+%9ﬁ
+€
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpr r(8
+%10"__mapGet*
+
+	$pageInfo*
+current_pageñì
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpr r(9
+%11*DB
+@magento\graphql\catalog\categoriesquery\categoriespaginationtest*2*
+
+%102assertequals€
+ÿ
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phps s(5
+%12"__mapGet*
+
+	$pageInfo*
+	page_sizeñì
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phps s(6
+%13*DB
+@magento\graphql\catalog\categoriesquery\categoriespaginationtest*2*
+
+%122assertequals›
+⁄
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpt t(7
+%14"__mapGet*
+
+	$pageInfo*
+total_pagesñì
+¶
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoriesQuery\CategoriesPaginationTest.phpt t(8
+%15*DB
+@magento\graphql\catalog\categoriesquery\categoriespaginationtest*2*
+
+%142assertequals*
+2BDB
+@magento\graphql\catalog\categoriesquery\categoriespaginationtest

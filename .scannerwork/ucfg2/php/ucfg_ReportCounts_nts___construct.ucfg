@@ -1,0 +1,96 @@
+
+>magento\newrelicreporting\model\cron\reportcounts::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.php; ;("1*­
+2
+ReportCounts.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.phpI I(
+implicit return*¦
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.phpC C( Ç
+Ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.php; ;(	
+$config"__id*3
+1
+$config&magento\newrelicreporting\model\configå
+â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.php; ;(
+$productManagement"__id*F
+D
+$productManagement.magento\catalog\api\productmanagementinterface‡
+„
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.php; ;(
+$configurableManagement"__id*c
+a
+$configurableManagementFmagento\configurableproduct\api\configurableproductmanagementinterfaceè
+å
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.php; ;(
+$categoryManagement"__id*H
+F
+$categoryManagement/magento\catalog\api\categorymanagementinterfaceÜ
+Ù
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.php; ;(
+$countsFactory"__id*A
+?
+$countsFactory-magento\newrelicreporting\model\countsfactory‰
+†
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.php; ;(
+$countsCollectionFactory"__id*d
+b
+$countsCollectionFactoryFmagento\newrelicreporting\model\resourcemodel\counts\collectionfactoryÕ
+Ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.phpC C(?3
+1magento\newrelicreporting\model\cron\reportcounts"
+config"__id*
+	
+$configë
+è
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.phpD D(5J3
+1magento\newrelicreporting\model\cron\reportcounts"
+productManagement"__id*
+
+$productManagementõ
+ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.phpE E(?O3
+1magento\newrelicreporting\model\cron\reportcounts"
+configurableManagement"__id*
+
+$configurableManagementí
+ê
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.phpF F(7K3
+1magento\newrelicreporting\model\cron\reportcounts"
+categoryManagement"__id*
+
+$categoryManagementã
+à
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.phpG G(-F3
+1magento\newrelicreporting\model\cron\reportcounts"
+countsFactory"__id*
+
+$countsFactory÷
+ô
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportCounts.phpH H(AP3
+1magento\newrelicreporting\model\cron\reportcounts"
+countsCollectionFactory"__id*
+
+$countsCollectionFactory*
+2:1
+$config&magento\newrelicreporting\model\config:D
+$productManagement.magento\catalog\api\productmanagementinterface:a
+$configurableManagementFmagento\configurableproduct\api\configurableproductmanagementinterface:F
+$categoryManagement/magento\catalog\api\categorymanagementinterface:?
+$countsFactory-magento\newrelicreporting\model\countsfactory:b
+$countsCollectionFactoryFmagento\newrelicreporting\model\resourcemodel\counts\collectionfactoryB53
+1magento\newrelicreporting\model\cron\reportcounts

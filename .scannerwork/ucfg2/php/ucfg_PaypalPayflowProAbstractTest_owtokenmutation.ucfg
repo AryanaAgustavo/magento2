@@ -1,0 +1,42 @@
+
+Qmagento\paypalgraphql\paypalpayflowproabstracttest::getcreatepayflowtokenmutationó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\PaypalPayflowProAbstractTest.phpè è(4"1*∑
+1ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\PaypalPayflowProAbstractTest.phpí •(√
+¿
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\PaypalPayflowProAbstractTest.phpè è(4	
+$cartId"__id*
+
+$cartIdstring¨
+©
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\PaypalPayflowProAbstractTest.phpí •(
+%1"__concat*GE
+Cmutation {
+  createPayflowProToken(
+    input: {
+      cart_id:"*¶£
+†",
+      urls: {
+        cancel_url: "paypal/transparent/cancel/"
+        error_url: "paypal/transparent/error/"
+        return_url: "paypal/transparent/response/"
+      }
+    }
+  ) {
+    response_message
+    result
+    result_code
+    secure_token
+    secure_token_id
+  }
+}*
+	
+$cartId"¢
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\PaypalPayflowProAbstractTest.phpí •(
+
+%1:
+$cartIdstringB64
+2magento\paypalgraphql\paypalpayflowproabstracttest

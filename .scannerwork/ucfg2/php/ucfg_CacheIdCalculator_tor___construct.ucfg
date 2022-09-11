@@ -1,0 +1,100 @@
+
+Amagento\graphqlcache\model\cacheid\cacheidcalculator::__construct
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpD D("1*µ
+2
+CacheIdCalculator.php"–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpR R(
+implicit return*æ
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpL L( »
+¸
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpD D(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceç
+ä
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpD D(
+$contextFactory"__id*H
+F
+$contextFactory3magento\graphql\model\query\contextfactoryinterfaceÞ
+Û
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpD D(
+$deploymentConfig"__id*=
+;
+$deploymentConfig&magento\framework\app\deploymentconfig×
+Ô
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpD D(
+
+$envWriter"__id*=
+;
+
+$envWriter-magento\framework\app\deploymentconfig\writerÁ
+¾
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpD D(	
+$random"__id**
+(
+$randommagento\framework\math\random¿
+¼
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpD D(
+$idFactorProviders"__id*
+
+$idFactorProvidersarrayÛ
+Ø
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpL L(B6
+4magento\graphqlcache\model\cacheid\cacheidcalculator"
+logger"__id*
+	
+$loggerë
+è
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpM M(/J6
+4magento\graphqlcache\model\cacheid\cacheidcalculator"
+contextFactory"__id*
+
+$contextFactoryï
+ì
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpN N(3L6
+4magento\graphqlcache\model\cacheid\cacheidcalculator"
+deploymentConfig"__id*
+
+$deploymentConfigá
+Þ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpO O(%E6
+4magento\graphqlcache\model\cacheid\cacheidcalculator"
+	envWriter"__id*
+
+
+$envWriterÛ
+Ø
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpP P(B6
+4magento\graphqlcache\model\cacheid\cacheidcalculator"
+random"__id*
+	
+$randomñ
+î
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GraphQlCache\Model\CacheId\CacheIdCalculator.phpQ Q(5M6
+4magento\graphqlcache\model\cacheid\cacheidcalculator"
+idFactorProviders"__id*
+
+$idFactorProviders*
+2:"
+$loggerpsr\log\loggerinterface:F
+$contextFactory3magento\graphql\model\query\contextfactoryinterface:;
+$deploymentConfig&magento\framework\app\deploymentconfig:;
+
+$envWriter-magento\framework\app\deploymentconfig\writer:(
+$randommagento\framework\math\random:
+$idFactorProvidersarrayB86
+4magento\graphqlcache\model\cacheid\cacheidcalculator

@@ -1,0 +1,79 @@
+
+7magento\sendfriend\controller\product\send::__constructu
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Send.php ("1*ž
+2
+
+Send.php"Œ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Send.php- -(
+implicit return*ø
+1u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Send.php% %(0À
+½
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Send.php (
+
+$context"__id*2
+0
+$context$magento\framework\app\action\contextÀ
+½
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Send.php (
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryÛ
+Ø
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Send.php (
+$formKeyValidator"__id*D
+B
+$formKeyValidator-magento\framework\data\form\formkey\validatorÅ
+Â
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Send.php (
+$sendFriend"__id*4
+2
+$sendFriend#magento\sendfriend\model\sendfriendÞ
+Û
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Send.php (
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceÇ
+Ä
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Send.php (
+$catalogSession"__id*2
+0
+$catalogSessionmagento\catalog\model\session×
+Ô
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Send.php% %(/@,
+*magento\sendfriend\controller\product\send"
+catalogSession"__id*
+
+$catalogSessionÅ
+Â
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Send.php& ,(	
+%1"2magento\sendfriend\controller\product::__construct*.,
+*magento\sendfriend\controller\product\send*
+
+
+$context*
+
+$coreRegistry*
+
+$formKeyValidator*
+
+$sendFriend*
+
+$productRepository*
+2:0
+$context$magento\framework\app\action\context:+
+$coreRegistrymagento\framework\registry:B
+$formKeyValidator-magento\framework\data\form\formkey\validator:2
+$sendFriend#magento\sendfriend\model\sendfriend:D
+$productRepository.magento\catalog\api\productrepositoryinterface:0
+$catalogSessionmagento\catalog\model\sessionB.,
+*magento\sendfriend\controller\product\send

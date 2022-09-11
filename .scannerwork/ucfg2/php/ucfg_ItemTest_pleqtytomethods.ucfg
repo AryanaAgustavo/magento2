@@ -1,0 +1,90 @@
+
+Gmagento\sales\test\unit\model\order\itemtest::testgetsimpleqtytomethodsy
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\ItemTest.phpˇ ˇ(-"1*¶
+2
+ItemTest.php"ê
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\ItemTest.phpÑ Ñ(
+implicit return*Ü
+1y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\ItemTest.phpÅ Å((•
+¢
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\ItemTest.phpˇ ˇ(-
+
+$options"__id*
+
+$optionsarray«
+ƒ
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\ItemTest.phpÅ Å(
+%1"__id*;*9.
+,magento\sales\test\unit\model\order\itemtest"
+model£†
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\ItemTest.phpÅ Å('
+%2*
+
+%1*
+
+
+$options2setdata«
+ƒ
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\ItemTest.phpÇ Ç(&
+%3"__id*;*9.
+,magento\sales\test\unit\model\order\itemtest"
+model†ù
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\ItemTest.phpÇ Ç(<
+%4*
+
+%32getsimpleqtytoship∞
+≠
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\ItemTest.phpÇ> Ç(X
+%5"__mapGet*
+
+$expectedResult*	
+to_ship“œ
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\ItemTest.phpÇ Ç(Y
+%6*0.
+,magento\sales\test\unit\model\order\itemtest*
+
+%4*
+
+%52
+assertsame«
+ƒ
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\ItemTest.phpÉ É(&
+%7"__id*;*9.
+,magento\sales\test\unit\model\order\itemtest"
+modelùö
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\ItemTest.phpÉ É(9
+%8*
+
+%72getqtytoinvoice≥
+∞
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\ItemTest.phpÉ; É(X
+%9"__mapGet*
+
+$expectedResult*
+
+to_invoice”–
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\ItemTest.phpÉ É(Y
+%10*0.
+,magento\sales\test\unit\model\order\itemtest*
+
+%8*
+
+%92
+assertsame*
+2:
+$optionsarray:
+$expectedResultB0.
+,magento\sales\test\unit\model\order\itemtest

@@ -1,0 +1,49 @@
+
+Hmagento\graphql\quote\customer\getspecifiedshippingaddresstest::getquery¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSpecifiedShippingAddressTest.php ("1*ö
+1¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSpecifiedShippingAddressTest.phpŸ ¹(à
+Ý
+¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSpecifiedShippingAddressTest.php (
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstring°
+­
+¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSpecifiedShippingAddressTest.phpŸ ¹(
+%1"__concat*
+{
+  cart(cart_id: "*ÃÀ
+½") {
+    shipping_addresses {
+      firstname
+      lastname
+      company
+      street
+      city
+      region 
+      {
+        code
+        label
+      }
+      postcode
+      country 
+      {
+        code
+        label
+      }
+      telephone
+      __typename
+      customer_notes
+    }
+  }
+}*
+
+$maskedQuoteId"±
+¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSpecifiedShippingAddressTest.phpŸ ¹(
+
+%1:
+$maskedQuoteIdstringBB@
+>magento\graphql\quote\customer\getspecifiedshippingaddresstest

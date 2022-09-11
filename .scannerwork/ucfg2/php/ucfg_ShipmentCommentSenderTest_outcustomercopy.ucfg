@@ -1,0 +1,443 @@
+
+kmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest::testsendtruewithoutcustomercopyñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.php@ @(3"1*’
+2
+ShipmentCommentSenderTest.php"Æ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpp p(
+implicit return*µw
+1ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpB B(-â
+Ü
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpB B(,
+%1"__id*_*]L
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest"
+addressMockΩ
+∫
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpB B(,
+$billingAddress"__id*
+
+%1¿
+Ω
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpC C(!
+
+$comment"__id*
+comment_test∆
+√
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpD D('
+$customerName"__id*
+Test Customer 
+«
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpE E(+
+$frontendStatusLabel"__id*
+
+ProcessingΩ
+∫
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpF F(
+$isNotVirtual"__id*
+trueá
+Ñ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpH H(
+%2"__id*]*[L
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest"
+	orderMock¯ı
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpH" H(/
+%3*NL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest2onceª∏
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpH H(0
+%4*
+
+%2*
+
+%32expects «
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpH I(*
+%5*
+
+%4*
+getCustomerIsGuest2method¡æ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpH J(
+%6*
+
+%5*	
+false2
+willreturnöó
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpK K(1
+%7*NL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest*
+
+$billingAddress2stepaddressformatì
+ê
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpM M($
+%8"__id*i*gL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest"
+identityContainerMock¯ı
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpM. M(;
+%9*NL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest2onceºπ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpM M(<
+%10*
+
+%8*
+
+%92expects√¿
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpM N(!
+%11*
+
+%10*
+	isEnabled2method¬ø
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpM O(
+%12*
+
+%11*
+true2
+willreturnà
+Ö
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpP P(
+%13"__id*]*[L
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest"
+	orderMock¯ı
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpP" P(.
+%14*NL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest2anyæª
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpP P(/
+%15*
+
+%13*
+
+%142expects…∆
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpP Q('
+%16*
+
+%15*
+getCustomerName2methodÀ»
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpP R('
+%17*
+
+%16*
+
+$customerName2
+willreturnà
+Ö
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpS S(
+%18"__id*]*[L
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest"
+	orderMock¯ı
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpS" S(.
+%19*NL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest2anyæª
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpS S(/
+%20*
+
+%18*
+
+%192expects…∆
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpS T('
+%21*
+
+%20*
+getIsNotVirtual2methodÀ»
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpS U('
+%22*
+
+%21*
+
+$isNotVirtual2
+willreturnà
+Ö
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpV V(
+%23"__id*]*[L
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest"
+	orderMock˘ˆ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpV" V(/
+%24*NL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest2onceæª
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpV V(0
+%25*
+
+%23*
+
+%242expects–Õ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpV W(.
+%26*
+
+%25*
+getFrontendStatusLabel2method“œ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpV X(.
+%27*
+
+%26*
+
+$frontendStatusLabel2
+willreturnî
+ë
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpY Y($
+%28"__id*i*gL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest"
+templateContainerMock˘ˆ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpY. Y(;
+%29*NL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest2onceæª
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpY Y(<
+%30*
+
+%28*
+
+%292expects…∆
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpY Z('
+%31*
+
+%30*
+setTemplateVars2method´®
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.php\ i(
+%32"$Arrayà
+Ö
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.php] ](/
+%33"__id*]*[L
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest"
+	orderMock 
+«
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.php\ i(
+%34"__mapSet*
+
+%32*	
+order*
+
+%33ã
+à
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.php^" ^(5
+%35"__id*`*^L
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest"
+shipmentMockÕ
+ 
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.php\ i(
+%36"__mapSet*
+
+%32*
+
+shipment*
+
+%35ÿ
+’
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.php\ i(
+%37"__mapSet*
+
+%32*	
+billing*
+
+$billingAddress—
+Œ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.php\ i(
+%38"__mapSet*
+
+%32*	
+comment*
+
+
+$commentà
+Ö
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpa a(/
+%39"__id*]*[L
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest"
+	storeMock 
+«
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.php\ i(
+%40"__mapSet*
+
+%32*	
+store*
+
+%39⁄
+◊
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.php\ i(
+%41"__mapSet*
+
+%32*
+formattedShippingAddress*2Ÿ
+÷
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.php\ i(
+%42"__mapSet*
+
+%32*
+formattedBillingAddress*2´®
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpd$ h(
+%43"$Array‹
+Ÿ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpd$ h(
+%44"__mapSet*
+
+%43*
+customer_name*
+
+$customerNameÎ
+Ë
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpd$ h(
+%45"__mapSet*
+
+%43*
+frontend_status_label*
+
+$frontendStatusLabel›
+⁄
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpd$ h(
+%46"__mapSet*
+
+%43*
+is_not_virtual*
+
+$isNotVirtualœ
+Ã
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.php\ i(
+%47"__mapSet*
+
+%32*
+
+order_data*
+
+%43ª∏
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpY j(
+%48*
+
+%31*
+
+%322withä
+á
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpk k(
+%49"__id*_*]L
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest"
+appEmulator˘ˆ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpk$ k(1
+%50*NL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest2onceæª
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpk k(2
+%51*
+
+%49*
+
+%502expects”–
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpk k(W
+%52*
+
+%51*
+startEnvironmentEmulation2methodä
+á
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpl l(
+%53"__id*_*]L
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest"
+appEmulator˘ˆ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpl$ l(1
+%54*NL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest2onceæª
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpl l(2
+%55*
+
+%53*
+
+%542expects“œ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpl l(V
+%56*
+
+%55*
+stopEnvironmentEmulation2methodåâ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpm m((
+%57*NL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest2stepsendwithoutsendcopyÖ
+Ç
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpn n(
+%58"__id*Z*XL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest"
+senderã
+à
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpn& n(9
+%59"__id*`*^L
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest"
+shipmentMock”–
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpn n(J
+%60*
+
+%58*
+
+%59*
+true*
+
+
+$comment2send∂
+≥
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpn n(J	
+$result"__id*
+
+%60åâ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Email\Sender\ShipmentCommentSenderTest.phpo o("
+%61*NL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest*
+	
+$result2
+asserttrue*
+2BNL
+Jmagento\sales\test\unit\model\order\email\sender\shipmentcommentsendertest

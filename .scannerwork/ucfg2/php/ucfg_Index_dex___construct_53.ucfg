@@ -1,0 +1,101 @@
+
+5magento\captcha\controller\refresh\index::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.php: :("1*ù
+2
+	Index.php"ä
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpH H(
+implicit return*ù
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpB B(&æ
+ª
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.php: :(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\context¿
+Ω
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.php: :(
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterface—
+Œ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.php: :(
+$jsonFactory"__id*A
+?
+$jsonFactory/magento\framework\controller\result\jsonfactory¡
+æ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.php: :(
+$captchaHelper"__id*/
+-
+$captchaHelpermagento\captcha\helper\dataæ
+ª
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.php: :(	
+$layout"__id*3
+1
+$layout&magento\framework\view\layoutinterfaceÀ
+»
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.php: :(
+$serializer"__id*<
+:
+$serializer+magento\framework\serialize\serializer\jsonÏ
+È
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpB B(%
+%1"0magento\framework\app\action\action::__construct*,*
+(magento\captcha\controller\refresh\index*
+
+
+$context≈
+¬
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpC C(!7*
+(magento\captcha\controller\refresh\index"	
+request"__id*
+
+
+$request”
+–
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpD D(/A*
+(magento\captcha\controller\refresh\index"
+jsonResultFactory"__id*
+
+$jsonFactory—
+Œ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpE E(-=*
+(magento\captcha\controller\refresh\index"
+captchaHelper"__id*
+
+$captchaHelper√
+¿
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpF F(6*
+(magento\captcha\controller\refresh\index"
+layout"__id*
+	
+$layoutÀ
+»
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Controller\Refresh\Index.phpG G(':*
+(magento\captcha\controller\refresh\index"
+
+serializer"__id*
+
+$serializer*
+2:0
+$context$magento\framework\app\action\context:2
+$request&magento\framework\app\requestinterface:?
+$jsonFactory/magento\framework\controller\result\jsonfactory:-
+$captchaHelpermagento\captcha\helper\data:1
+$layout&magento\framework\view\layoutinterface::
+$serializer+magento\framework\serialize\serializer\jsonB,*
+(magento\captcha\controller\refresh\index

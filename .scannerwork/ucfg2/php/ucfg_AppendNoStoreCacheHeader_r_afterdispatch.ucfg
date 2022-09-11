@@ -1,0 +1,38 @@
+
+@magento\pagecache\plugin\appendnostorecacheheader::afterdispatch|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Plugin\AppendNoStoreCacheHeader.php (!"1*ø
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Plugin\AppendNoStoreCacheHeader.php (:×
+Ô
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Plugin\AppendNoStoreCacheHeader.php (!
+$controller"__id*?
+=
+$controller.magento\framework\app\frontcontrollerinterfaceÑ
+Î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Plugin\AppendNoStoreCacheHeader.php (!
+	$response"__id*;
+9
+	$response,magento\framework\app\response\httpinterfaceÂ¿
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Plugin\AppendNoStoreCacheHeader.php (9
+%1*
+
+	$response*
+Cache-Control*
+
+no-store2	setheaderÊ
+Ç
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Plugin\AppendNoStoreCacheHeader.php (2
+%2,magento\framework\app\response\httpinterface"__id*
+
+	$response"´
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Plugin\AppendNoStoreCacheHeader.php (4
+2
+%2,magento\framework\app\response\httpinterface:=
+$controller.magento\framework\app\frontcontrollerinterface:9
+	$response,magento\framework\app\response\httpinterfaceB53
+1magento\pagecache\plugin\appendnostorecacheheader

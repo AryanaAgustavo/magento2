@@ -1,0 +1,103 @@
+
+*magento\cms\model\blockrepository::getlistn
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.php§ §("1*”
+1n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.phpª ª(>Ä
+Á
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.php§ §(
+	$criteria"__id*<
+:
+	$criteria-magento\framework\api\searchcriteriainterfaceÂ
+¿
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.phpª ª(3
+%1"__id*A*?#
+!magento\cms\model\blockrepository"
+blockCollectionFactory‰†
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.phpª ª(=
+%2*
+
+%12create
+
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.phpª ª(=
+$collection"__id*
+
+%2¿
+¼
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.php¬ ¬("
+%3"__id*>*<#
+!magento\cms\model\blockrepository"
+collectionProcessorª§
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.php¬ ¬(C
+%4*
+
+%3*
+
+	$criteria*
+
+$collection2processÀ
+½
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.php¯ ¯(4
+%5"__id*?*=#
+!magento\cms\model\blockrepository"
+searchResultsFactory‰†
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.php¯ ¯(>
+%6*
+
+%52create“
+
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.php¯ ¯(>
+$searchResults"__id*
+
+%6¯¬
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.php° °(4
+%7*
+
+$searchResults*
+
+	$criteria2setsearchcriteria”‘
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.php±! ±(8
+%8*
+
+$collection2getitemsŸœ
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.php± ±(9
+%9*
+
+$searchResults*
+
+%82setitems”‘
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.php²& ²(<
+%10*
+
+$collection2getsize¦£
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.php² ²(=
+%11*
+
+$searchResults*
+
+%102settotalcountÆ
+Ã
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.php³ ³(7
+%120magento\cms\api\data\blocksearchresultsinterface"__id*
+
+$searchResults"«
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\BlockRepository.php³ ³(9
+7
+%120magento\cms\api\data\blocksearchresultsinterface::
+	$criteria-magento\framework\api\searchcriteriainterfaceB%#
+!magento\cms\model\blockrepository

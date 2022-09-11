@@ -1,0 +1,70 @@
+
+>magento\cmsurlrewrite\plugin\cms\model\store\view::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsUrlRewrite\Plugin\Cms\Model\Store\View.php7 7("1*¥
+2
+
+View.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsUrlRewrite\Plugin\Cms\Model\Store\View.phpA A(
+implicit return*æ
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsUrlRewrite\Plugin\Cms\Model\Store\View.php= =((Õ
+Ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsUrlRewrite\Plugin\Cms\Model\Store\View.php7 7(
+$urlPersist"__id*=
+;
+$urlPersist,magento\urlrewrite\model\urlpersistinterfaceê
+ç
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsUrlRewrite\Plugin\Cms\Model\Store\View.php7 7(
+$searchCriteriaBuilder"__id*G
+E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilderØ
+Õ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsUrlRewrite\Plugin\Cms\Model\Store\View.php7 7(
+$pageRepository"__id*<
+:
+$pageRepository'magento\cms\api\pagerepositoryinterfaceÿ
+ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsUrlRewrite\Plugin\Cms\Model\Store\View.php7 7(
+$cmsPageUrlRewriteGenerator"__id*W
+U
+$cmsPageUrlRewriteGenerator6magento\cmsurlrewrite\model\cmspageurlrewritegeneratorÝ
+Ú
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsUrlRewrite\Plugin\Cms\Model\Store\View.php= =('C3
+1magento\cmsurlrewrite\plugin\cms\model\store\view"
+
+urlPersist"__id*
+
+$urlPersistó
+ð
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsUrlRewrite\Plugin\Cms\Model\Store\View.php> >(=N3
+1magento\cmsurlrewrite\plugin\cms\model\store\view"
+searchCriteriaBuilder"__id*
+
+$searchCriteriaBuilderå
+â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsUrlRewrite\Plugin\Cms\Model\Store\View.php? ?(/G3
+1magento\cmsurlrewrite\plugin\cms\model\store\view"
+pageRepository"__id*
+
+$pageRepositoryý
+ú
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsUrlRewrite\Plugin\Cms\Model\Store\View.php@ @(GS3
+1magento\cmsurlrewrite\plugin\cms\model\store\view"
+cmsPageUrlRewriteGenerator"__id*
+
+$cmsPageUrlRewriteGenerator*
+2:;
+$urlPersist,magento\urlrewrite\model\urlpersistinterface:E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilder::
+$pageRepository'magento\cms\api\pagerepositoryinterface:U
+$cmsPageUrlRewriteGenerator6magento\cmsurlrewrite\model\cmspageurlrewritegeneratorB53
+1magento\cmsurlrewrite\plugin\cms\model\store\view

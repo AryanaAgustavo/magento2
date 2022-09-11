@@ -1,0 +1,128 @@
+
+5magento\wishlist\controller\index\plugin::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.phpO O("1*ž
+2
+
+Plugin.php"Š
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.phpa a(
+implicit return*ª
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.phpY Y(2È
+Å
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.phpO O(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionå
+â
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.phpO O(
+$authenticationState"__id*M
+K
+$authenticationState3magento\wishlist\model\authenticationstateinterfaceÉ
+Æ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.phpO O(	
+$config"__id*>
+<
+$config1magento\framework\app\config\scopeconfiginterfaceÐ
+Í
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.phpO O(
+$redirector"__id*A
+?
+$redirector0magento\framework\app\response\redirectinterfaceÒ
+Ï
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.phpO O(
+$messageManager"__id*?
+=
+$messageManager*magento\framework\message\managerinterfaceÍ
+Ê
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.phpO O(
+$dataSerializer"__id*:
+8
+$dataSerializer%magento\wishlist\model\dataserializer½
+º
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.phpO O(
+
+$formKey"__id*1
+/
+$formKey#magento\framework\data\form\formkeyÙ
+Ö
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.phpO O(
+$formKeyValidator"__id*D
+B
+$formKeyValidator-magento\framework\data\form\formkey\validatorÕ
+Ò
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.phpY Y(1?*
+(magento\wishlist\controller\index\plugin"
+customerSession"__id*
+
+$customerSessionÝ
+Ú
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.phpZ Z(9C*
+(magento\wishlist\controller\index\plugin"
+authenticationState"__id*
+
+$authenticationStateÃ
+À
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.php[ [(6*
+(magento\wishlist\controller\index\plugin"
+config"__id*
+	
+$configË
+È
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.php\ \(':*
+(magento\wishlist\controller\index\plugin"
+
+redirector"__id*
+
+$redirectorÓ
+Ð
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.php] ](/>*
+(magento\wishlist\controller\index\plugin"
+messageManager"__id*
+
+$messageManagerÓ
+Ð
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.php^ ^(/>*
+(magento\wishlist\controller\index\plugin"
+dataSerializer"__id*
+
+$dataSerializerÅ
+Â
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.php_ _(!7*
+(magento\wishlist\controller\index\plugin"	
+formKey"__id*
+
+
+$formKey×
+Ô
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\Plugin.php` `(3@*
+(magento\wishlist\controller\index\plugin"
+formKeyValidator"__id*
+
+$formKeyValidator*
+2:2
+$customerSessionmagento\customer\model\session:K
+$authenticationState3magento\wishlist\model\authenticationstateinterface:<
+$config1magento\framework\app\config\scopeconfiginterface:?
+$redirector0magento\framework\app\response\redirectinterface:=
+$messageManager*magento\framework\message\managerinterface:8
+$dataSerializer%magento\wishlist\model\dataserializer:/
+$formKey#magento\framework\data\form\formkey:B
+$formKeyValidator-magento\framework\data\form\formkey\validatorB,*
+(magento\wishlist\controller\index\plugin

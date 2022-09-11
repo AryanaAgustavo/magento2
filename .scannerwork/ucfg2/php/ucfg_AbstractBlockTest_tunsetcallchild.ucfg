@@ -1,0 +1,104 @@
+
+Dmagento\framework\view\element\abstractblocktest::testunsetcallchild•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÓ Ó(&"1*Ì
+2
+AbstractBlockTest.php"­
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÜ Ü(
+implicit return*‚
+1•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÕ Õ(I‡„
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÕ Õ(H
+%1*42
+0magento\framework\view\element\abstractblocktest*
+
+parent*
+
+parent2_createblockwithlayout¹
+¶
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÕ Õ(H
+$blockParent"__id*
+
+%1‡„
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÖ Ö(B
+%2*42
+0magento\framework\view\element\abstractblocktest*
+
+block1*
+
+block12_createblockwithlayout³
+°
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÖ Ö(B
+$block"__id*
+
+%2ÅÂ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.php× ×("
+%3*
+
+
+$block*
+true2setsomevalueÕÒ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpØ Ø(0
+%4*
+
+$blockParent*
+
+block1*
+
+
+$block2setchildÎË
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÙ" Ù(G
+%5*
+
+$blockParent*
+
+block12getchildblock÷ô
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÙ Ù(H
+%6*42
+0magento\framework\view\element\abstractblocktest*
+
+
+$block*
+
+%52
+assertsame©¦
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÚE Ú(G
+%7"$Arrayóð
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÚ Ú(H
+%8*
+
+$blockParent*
+
+block1*
+getSomeValue*
+true*
+
+%72unsetcallchildÎË
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÛ% Û(J
+%9*
+
+$blockParent*
+
+block12getchildblockûø
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Element\AbstractBlockTest.phpÛ Û(K
+%10*42
+0magento\framework\view\element\abstractblocktest*
+
+
+$block*
+
+%92assertnotsame*
+2B42
+0magento\framework\view\element\abstractblocktest

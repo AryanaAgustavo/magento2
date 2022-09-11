@@ -1,0 +1,91 @@
+
+Gmagento\graphql\cataloggraphql\productsearchtest::testsearchsuggestions–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.phpX X()"1*Í
+2
+ProductSearchTest.php"®
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.php_ _(
+implicit return*Æ
+1–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.phpZ Z(8÷ô
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.phpZ Z(7
+%1*42
+0magento\graphql\cataloggraphql\productsearchtest2getsearchquerywithsuggestions´
+±
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.phpZ Z(7
+$query"__id*
+
+%1òï
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.php[ [(/
+%2*42
+0magento\graphql\cataloggraphql\productsearchtest*
+
+
+$query2graphqlquery·
+´
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.php[ [(/
+	$response"__id*
+
+%2É
+Æ
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.php\ \(3
+%3"__mapGet*
+
+	$response*
+
+productsðí
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.php\ \(4
+%4*42
+0magento\graphql\cataloggraphql\productsearchtest*
+
+%32assertnotemptyÉ
+Æ
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.php] ](0
+%5"__mapGet*
+
+	$response*
+
+products¿
+¼
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.php] ](9
+%6"__mapGet*
+
+%5*	
+itemsíê
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.php] ](:
+%7*42
+0magento\graphql\cataloggraphql\productsearchtest*
+
+%62assertemptyÉ
+Æ
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.php^ ^(3
+%8"__mapGet*
+
+	$response*
+
+productsÅ
+Â
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.php^ ^(B
+%9"__mapGet*
+
+%8*
+suggestionsñî
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.php^ ^(C
+%10*42
+0magento\graphql\cataloggraphql\productsearchtest*
+
+%92assertnotempty*
+2B42
+0magento\graphql\cataloggraphql\productsearchtest

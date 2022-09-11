@@ -1,0 +1,174 @@
+
+Bmagento\quote\model\quotemanagementtest::testassigncustomertoquoteã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpô ô(-"1*ƒ
+2
+QuoteManagementTest.php"£
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.php£ £(
+implicit return*∂)
+1ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpõ õ(K‚
+ﬂ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpõ õ(-
+%1"__id*C*A)
+'magento\quote\model\quotemanagementtest"
+customerRepositoryæª
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpõ õ(J
+%2*
+
+%1*
+customer@example.com2get¨
+©
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpõ õ(J
+	$customer"__id*
+
+%2È
+Ê
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpú ú(1
+%3"__id*J*H)
+'magento\quote\model\quotemanagementtest"
+getQuoteByReservedOrderId‹Ÿ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpú ú(l
+%4*
+
+%3*20
+.test_order_with_simple_product_without_address2execute©
+¶
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpú ú(l
+$quote"__id*
+
+%4ﬁ
+€
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpù ù('
+%5"__id*?*=)
+'magento\quote\model\quotemanagementtest"
+cartManagement™ß
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpù8 ù(G
+%6*
+
+
+$quote2getid≠™
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpùI ù([
+%7*
+
+	$customer2getid≤Ø
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpù] ù(t
+%8*
+
+	$customer2
+getstoreid«ƒ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpù ù(u
+%9*
+
+%5*
+
+%6*
+
+%7*
+
+%82assigncustomer™
+ß
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpù ù(u	
+$result"__id*
+
+%9ﬁ€
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpû û("
+%10*+)
+'magento\quote\model\quotemanagementtest*
+	
+$result2
+asserttrueﬂ
+‹
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpü ü(.
+%11"__id*?*=)
+'magento\quote\model\quotemanagementtest"
+cartManagementÆ´
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpüC ü(U
+%12*
+
+	$customer2getidæª
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpü ü(V
+%13*
+
+%11*
+
+%122getcartforcustomer≤
+Ø
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.phpü ü(V
+$customerQuote"__id*
+
+%13´®
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.php† †(+
+%14*
+
+
+$quote2getid≥∞
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.php†- †(D
+%15*
+
+$customerQuote2getidÂ‚
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.php† †(E
+%16*+)
+'magento\quote\model\quotemanagementtest*
+
+%14*
+
+%152assertequalsÆ´
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.php° °(.
+%17*
+
+	$customer2getidª∏
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.php°0 °(O
+%18*
+
+$customerQuote2getcustomeridÂ‚
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.php° °(P
+%19*+)
+'magento\quote\model\quotemanagementtest*
+
+%17*
+
+%182assertequals±Æ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.php¢ ¢(1
+%20*
+
+	$customer2getemailæª
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.php¢3 ¢(U
+%21*
+
+$customerQuote2getcustomeremailÂ‚
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteManagementTest.php¢ ¢(V
+%22*+)
+'magento\quote\model\quotemanagementtest*
+
+%20*
+
+%212assertequals*
+2B+)
+'magento\quote\model\quotemanagementtest

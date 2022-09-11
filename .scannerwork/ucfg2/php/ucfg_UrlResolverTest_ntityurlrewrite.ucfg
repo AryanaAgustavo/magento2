@@ -1,0 +1,63 @@
+
+Kmagento\graphql\urlrewrite\urlresolvertest::testnonexistententityurlrewriteê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\UrlResolverTest.php% %(3"1*≈
+2
+UrlResolverTest.php"®
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\UrlResolverTest.php: :(
+implicit return*¸
+1ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\UrlResolverTest.php' '(+√
+¿
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\UrlResolverTest.php' '(*
+
+$urlPath"__id*
+non-exist-entity.html¶
+£
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\UrlResolverTest.php) 4(
+%1"__concat*
+{
+  urlResolver(url:"*TR
+P")
+  {
+   id
+   entity_uid
+   relative_url
+   type
+   redirectCode
+  }
+}*
+
+
+$urlPathÆ
+´
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\UrlResolverTest.php) 4(
+$query"__id*
+
+%1Ê
+„
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\UrlResolverTest.php7 7(E
+%2"__concat*0.
+,No such entity found with matching URL key: *
+
+
+$urlPathÏÈ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\UrlResolverTest.php6 8(	
+%3*.,
+*magento\graphql\urlrewrite\urlresolvertest*
+
+%22expectexceptionmessageÊ„
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\UrlResolverTest.php9 9(#
+%4*.,
+*magento\graphql\urlrewrite\urlresolvertest*
+
+
+$query2graphqlquery*
+2B.,
+*magento\graphql\urlrewrite\urlresolvertest

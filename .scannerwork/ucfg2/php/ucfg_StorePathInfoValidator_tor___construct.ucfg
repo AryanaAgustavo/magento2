@@ -1,0 +1,69 @@
+
+=magento\store\app\request\storepathinfovalidator::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\Request\StorePathInfoValidator.php4 4("1*¶
+2
+StorePathInfoValidator.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\Request\StorePathInfoValidator.php> >(
+implicit return*÷
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\Request\StorePathInfoValidator.php: :( Ñ
+Î
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\Request\StorePathInfoValidator.php4 4(	
+$config"__id*>
+<
+$config1magento\framework\app\config\scopeconfiginterfaceÜ
+Ù
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\Request\StorePathInfoValidator.php4 4(
+$storeRepository"__id*@
+>
+$storeRepository*magento\store\api\storerepositoryinterfaceÊ
+Ç
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\Request\StorePathInfoValidator.php4 4(
+	$pathInfo"__id*5
+3
+	$pathInfo&magento\framework\app\request\pathinfoé
+æ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\Request\StorePathInfoValidator.php4 4(
+$storeCodeValidator"__id*J
+H
+$storeCodeValidator1magento\store\model\validation\storecodevalidatorÓ
+Ð
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\Request\StorePathInfoValidator.php: :(>2
+0magento\store\app\request\storepathinfovalidator"
+config"__id*
+	
+$configå
+â
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\Request\StorePathInfoValidator.php; ;(1G2
+0magento\store\app\request\storepathinfovalidator"
+storeRepository"__id*
+
+$storeRepository×
+Ô
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\Request\StorePathInfoValidator.php< <(#@2
+0magento\store\app\request\storepathinfovalidator"
+
+pathInfo"__id*
+
+	$pathInfoë
+è
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\Request\StorePathInfoValidator.php= =(7J2
+0magento\store\app\request\storepathinfovalidator"
+storeCodeValidator"__id*
+
+$storeCodeValidator*
+2:<
+$config1magento\framework\app\config\scopeconfiginterface:>
+$storeRepository*magento\store\api\storerepositoryinterface:3
+	$pathInfo&magento\framework\app\request\pathinfo:H
+$storeCodeValidator1magento\store\model\validation\storecodevalidatorB42
+0magento\store\app\request\storepathinfovalidator

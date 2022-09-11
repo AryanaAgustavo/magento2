@@ -1,0 +1,97 @@
+
+9magento\security\model\userexpirationmanager::__constructw
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpB B("1*±
+2
+UserExpirationManager.php"é
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpP P(
+implicit return*å
+1w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpJ J($»
+≈
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpB B(
+$authSession"__id*4
+2
+$authSession"magento\backend\model\auth\session“
+œ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpB B(
+$securityConfig"__id*;
+9
+$securityConfig&magento\security\model\configinterfaceô
+ñ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpB B($
+"$adminSessionInfoCollectionFactory"__id*o
+m
+"$adminSessionInfoCollectionFactoryGmagento\security\model\resourcemodel\adminsessioninfo\collectionfactoryì
+ê
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpB B("
+ $userExpirationCollectionFactory"__id*k
+i
+ $userExpirationCollectionFactoryEmagento\security\model\resourcemodel\userexpiration\collectionfactoryÒ
+Ó
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpB B(
+$userCollectionFactory"__id*S
+Q
+$userCollectionFactory7magento\user\model\resourcemodel\user\collectionfactory 
+«
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpB B(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetimeœ
+Ã
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpJ J(#<.
+,magento\security\model\userexpirationmanager"
+
+dateTime"__id*
+
+	$dateTime€
+ÿ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpK K(/B.
+,magento\security\model\userexpirationmanager"
+securityConfig"__id*
+
+$securityConfigÅ
+˛
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpL L(UU.
+,magento\security\model\userexpirationmanager"#
+!adminSessionInfoCollectionFactory"__id*&
+$
+"$adminSessionInfoCollectionFactory’
+“
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpM M()?.
+,magento\security\model\userexpirationmanager"
+authSession"__id*
+
+$authSession˝
+˙
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpN N(QS.
+,magento\security\model\userexpirationmanager"!
+userExpirationCollectionFactory"__id*$
+"
+ $userExpirationCollectionFactoryÈ
+Ê
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\UserExpirationManager.phpO O(=I.
+,magento\security\model\userexpirationmanager"
+userCollectionFactory"__id*
+
+$userCollectionFactory*
+2:2
+$authSession"magento\backend\model\auth\session:9
+$securityConfig&magento\security\model\configinterface:m
+"$adminSessionInfoCollectionFactoryGmagento\security\model\resourcemodel\adminsessioninfo\collectionfactory:i
+ $userExpirationCollectionFactoryEmagento\security\model\resourcemodel\userexpiration\collectionfactory:Q
+$userCollectionFactory7magento\user\model\resourcemodel\user\collectionfactory:7
+	$dateTime*magento\framework\stdlib\datetime\datetimeB0.
+,magento\security\model\userexpirationmanager

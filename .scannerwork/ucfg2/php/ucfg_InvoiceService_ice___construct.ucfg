@@ -1,0 +1,126 @@
+
+7magento\sales\model\service\invoiceservice::__constructu
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.phpM M("1*¨
+2
+InvoiceService.php"Œ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.php_ _(
+implicit return*â
+1u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.phpW W((Î
+Ë
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.phpM M(
+$repository"__id*=
+;
+$repository,magento\sales\api\invoicerepositoryinterfaceã
+à
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.phpM M(
+$commentRepository"__id*K
+I
+$commentRepository3magento\sales\api\invoicecommentrepositoryinterface×
+Ô
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.phpM M(
+$criteriaBuilder"__id*A
+?
+$criteriaBuilder+magento\framework\api\searchcriteriabuilderË
+È
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.phpM M(
+$filterBuilder"__id*7
+5
+$filterBuilder#magento\framework\api\filterbuilderÇ
+Ä
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.phpM M(
+	$notifier"__id*8
+6
+	$notifier)magento\sales\model\order\invoicenotifierÖ
+Ó
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.phpM M(
+$orderRepository"__id*@
+>
+$orderRepository*magento\sales\api\orderrepositoryinterfaceË
+È
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.phpM M(
+$orderConverter"__id*6
+4
+$orderConverter!magento\sales\model\convert\orderÍ
+Ê
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.phpM M(
+$serializer"__id*<
+:
+$serializer+magento\framework\serialize\serializer\jsonÏ
+Ì
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.phpW W('<,
+*magento\sales\model\service\invoiceservice"
+
+repository"__id*
+
+$repositoryÝ
+Ú
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.phpX X(5C,
+*magento\sales\model\service\invoiceservice"
+commentRepository"__id*
+
+$commentRepositoryÙ
+Ö
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.phpY Y(1A,
+*magento\sales\model\service\invoiceservice"
+criteriaBuilder"__id*
+
+$criteriaBuilderÕ
+Ò
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.phpZ Z(-?,
+*magento\sales\model\service\invoiceservice"
+filterBuilder"__id*
+
+$filterBuilderÒ
+Ï
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.php[ [(*A,
+*magento\sales\model\service\invoiceservice"
+invoiceNotifier"__id*
+
+	$notifierÙ
+Ö
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.php\ \(1A,
+*magento\sales\model\service\invoiceservice"
+orderRepository"__id*
+
+$orderRepository×
+Ô
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.php] ](/@,
+*magento\sales\model\service\invoiceservice"
+orderConverter"__id*
+
+$orderConverterÏ
+Ì
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\InvoiceService.php^ ^('<,
+*magento\sales\model\service\invoiceservice"
+
+serializer"__id*
+
+$serializer*
+2:;
+$repository,magento\sales\api\invoicerepositoryinterface:I
+$commentRepository3magento\sales\api\invoicecommentrepositoryinterface:?
+$criteriaBuilder+magento\framework\api\searchcriteriabuilder:5
+$filterBuilder#magento\framework\api\filterbuilder:6
+	$notifier)magento\sales\model\order\invoicenotifier:>
+$orderRepository*magento\sales\api\orderrepositoryinterface:4
+$orderConverter!magento\sales\model\convert\order::
+$serializer+magento\framework\serialize\serializer\jsonB.,
+*magento\sales\model\service\invoiceservice

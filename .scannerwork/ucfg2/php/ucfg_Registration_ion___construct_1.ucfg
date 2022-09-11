@@ -1,0 +1,121 @@
+
+0magento\checkout\block\registration::__constructn
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.php9 9("1*Ÿ
+2
+Registration.php"…
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.phpJ J(
+implicit return*ñ
+1n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.phpC C(2Ä
+Á
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.php9 9(
+
+$context"__id*=
+;
+$context/magento\framework\view\element\template\contextÃ
+À
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.php9 9(
+$checkoutSession"__id*4
+2
+$checkoutSessionmagento\checkout\model\sessionÃ
+À
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.php9 9(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÂ
+¿
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.php9 9(
+$registration"__id*6
+4
+$registration#magento\customer\model\registrationØ
+Õ
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.php9 9(
+$accountManagement"__id*G
+E
+$accountManagement/magento\customer\api\accountmanagementinterfaceÏ
+Ì
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.php9 9(
+$orderRepository"__id*@
+>
+$orderRepository*magento\sales\api\orderrepositoryinterfaceÒ
+Ï
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.php9 9(
+$addressValidator"__id*B
+@
+$addressValidator+magento\sales\model\order\address\validator”
+‘
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.php9 9(
+$data"__id*
+
+$dataarrayË
+È
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.phpC C(1:%
+#magento\checkout\block\registration"
+checkoutSession"__id*
+
+$checkoutSessionË
+È
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.phpD D(1:%
+#magento\checkout\block\registration"
+customerSession"__id*
+
+$customerSessionÅ
+Â
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.phpE E(+7%
+#magento\checkout\block\registration"
+registration"__id*
+
+$registrationÏ
+Ì
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.phpF F(5<%
+#magento\checkout\block\registration"
+accountManagement"__id*
+
+$accountManagementË
+È
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.phpG G(1:%
+#magento\checkout\block\registration"
+orderRepository"__id*
+
+$orderRepositoryÍ
+Ê
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.phpH H(3;%
+#magento\checkout\block\registration"
+addressValidator"__id*
+
+$addressValidatorñ
+î
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Registration.phpI I(,
+%1"4magento\framework\view\element\template::__construct*'%
+#magento\checkout\block\registration*
+
+
+$context*	
+
+$data*
+2:;
+$context/magento\framework\view\element\template\context:2
+$checkoutSessionmagento\checkout\model\session:2
+$customerSessionmagento\customer\model\session:4
+$registration#magento\customer\model\registration:E
+$accountManagement/magento\customer\api\accountmanagementinterface:>
+$orderRepository*magento\sales\api\orderrepositoryinterface:@
+$addressValidator+magento\sales\model\order\address\validator:
+$dataarrayB'%
+#magento\checkout\block\registration

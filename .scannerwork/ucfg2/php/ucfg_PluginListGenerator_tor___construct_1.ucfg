@@ -1,0 +1,143 @@
+
+?magento\framework\interception\pluginlistgenerator::__constructÅ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.php{ {("1*º
+2
+PluginListGenerator.php"õ
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.phpè è(
+implicit return*ë!
+1É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.phpÜ Ü( œ
+Ã
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.php{ {(	
+$reader"__id*5
+3
+$reader(magento\framework\config\readerinterfaceÿ
+’
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.php{ {(
+$scopeConfig"__id*9
+7
+$scopeConfig'magento\framework\config\scopeinterfaceÁ
+‰
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.php{ {(
+	$omConfig"__id*K
+I
+	$omConfig<magento\framework\interception\objectmanager\configinterfaceﬂ
+‹
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.php{ {(
+
+$relations"__id*B
+@
+
+$relations2magento\framework\objectmanager\relationsinterface„
+‡
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.php{ {(
+$definitions"__id*D
+B
+$definitions2magento\framework\interception\definitioninterfaceÓ
+Î
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.php{ {(
+$classDefinitions"__id*J
+H
+$classDefinitions3magento\framework\objectmanager\definitioninterfaceæ
+ª
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.php{ {(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface„
+‡
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.php{ {(
+$directoryList"__id*B
+@
+$directoryList.magento\framework\app\filesystem\directorylist∆
+√
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.php{ {(
+$scopePriorityScheme"__id*
+
+$scopePrioritySchemearrayﬁ
+€
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.phpÜ Ü(@4
+2magento\framework\interception\pluginlistgenerator"
+reader"__id*
+	
+$readerË
+Â
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.phpá á()E4
+2magento\framework\interception\pluginlistgenerator"
+scopeConfig"__id*
+
+$scopeConfig‚
+ﬂ
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.phpà à(#B4
+2magento\framework\interception\pluginlistgenerator"
+
+omConfig"__id*
+
+	$omConfig‰
+·
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.phpâ â(%C4
+2magento\framework\interception\pluginlistgenerator"
+	relations"__id*
+
+
+$relationsË
+Â
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.phpä ä()E4
+2magento\framework\interception\pluginlistgenerator"
+definitions"__id*
+
+$definitionsÚ
+Ô
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.phpã ã(3J4
+2magento\framework\interception\pluginlistgenerator"
+classDefinitions"__id*
+
+$classDefinitionsﬁ
+€
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.phpå å(@4
+2magento\framework\interception\pluginlistgenerator"
+logger"__id*
+	
+$loggerÏ
+È
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.phpç ç(-G4
+2magento\framework\interception\pluginlistgenerator"
+directoryList"__id*
+
+$directoryList¯
+ı
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\PluginListGenerator.phpé é(9M4
+2magento\framework\interception\pluginlistgenerator"
+scopePriorityScheme"__id*
+
+$scopePriorityScheme*
+2:3
+$reader(magento\framework\config\readerinterface:7
+$scopeConfig'magento\framework\config\scopeinterface:I
+	$omConfig<magento\framework\interception\objectmanager\configinterface:@
+
+$relations2magento\framework\objectmanager\relationsinterface:B
+$definitions2magento\framework\interception\definitioninterface:H
+$classDefinitions3magento\framework\objectmanager\definitioninterface:"
+$loggerpsr\log\loggerinterface:@
+$directoryList.magento\framework\app\filesystem\directorylist:
+$scopePrioritySchemearrayB64
+2magento\framework\interception\pluginlistgenerator

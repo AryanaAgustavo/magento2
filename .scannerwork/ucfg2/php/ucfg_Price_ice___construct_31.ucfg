@@ -1,0 +1,69 @@
+
+2magento\checkout\block\shipping\price::__constructp
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Shipping\Price.php# #("1*š
+2
+	Price.php"‡
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Shipping\Price.php, ,(
+implicit return*µ
+1p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Shipping\Price.php* *(.Æ
+Ã
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Shipping\Price.php# #(
+
+$context"__id*=
+;
+$context/magento\framework\view\element\template\contextÅ
+Â
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Shipping\Price.php# #(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÅ
+Â
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Shipping\Price.php# #(
+$checkoutSession"__id*4
+2
+$checkoutSessionmagento\checkout\model\sessionÓ
+Ð
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Shipping\Price.php# #(
+$priceCurrency"__id*D
+B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterface–
+“
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Shipping\Price.php# #(
+$data"__id*
+
+$dataarrayË
+È
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Shipping\Price.php* *(-:'
+%magento\checkout\block\shipping\price"
+priceCurrency"__id*
+
+$priceCurrency¢
+Ÿ
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Block\Shipping\Price.php+ +(P
+%1"5magento\checkout\block\cart\abstractcart::__construct*)'
+%magento\checkout\block\shipping\price*
+
+
+$context*
+
+$customerSession*
+
+$checkoutSession*	
+
+$data*
+2:;
+$context/magento\framework\view\element\template\context:2
+$customerSessionmagento\customer\model\session:2
+$checkoutSessionmagento\checkout\model\session:B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterface:
+$dataarrayB)'
+%magento\checkout\block\shipping\price

@@ -1,0 +1,84 @@
+
+Cmagento\paypal\block\adminhtml\settlement\details\form::__constructÅ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Settlement\Details\Form.php ("1*´
+2
+
+Form.php"ô
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Settlement\Details\Form.php* *(
+implicit return*Å
+1Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Settlement\Details\Form.php' '()œ
+Ã
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Settlement\Details\Form.php (
+
+$context"__id*4
+2
+$context&magento\backend\block\template\context≈
+¬
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Settlement\Details\Form.php (
+	$registry"__id*)
+'
+	$registrymagento\framework\registry”
+–
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Settlement\Details\Form.php (
+$formFactory"__id*4
+2
+$formFactory"magento\framework\data\formfactory’
+“
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Settlement\Details\Form.php (
+$settlement"__id*7
+5
+$settlement&magento\paypal\model\report\settlement·
+ﬁ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Settlement\Details\Form.php (
+$localeCurrency"__id*?
+=
+$localeCurrency*magento\framework\locale\currencyinterface®
+•
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Settlement\Details\Form.php (
+$data"__id*
+
+$dataarrayÈ
+Ê
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Settlement\Details\Form.php' '((I8
+6magento\paypal\block\adminhtml\settlement\details\form"
+_settlement"__id*
+
+$settlementÒ
+Ó
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Settlement\Details\Form.php( ((0M8
+6magento\paypal\block\adminhtml\settlement\details\form"
+_localeCurrency"__id*
+
+$localeCurrencyª
+∏
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Settlement\Details\Form.php) )(E
+%1"6magento\backend\block\widget\form\generic::__construct*:8
+6magento\paypal\block\adminhtml\settlement\details\form*
+
+
+$context*
+
+	$registry*
+
+$formFactory*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:'
+	$registrymagento\framework\registry:2
+$formFactory"magento\framework\data\formfactory:5
+$settlement&magento\paypal\model\report\settlement:=
+$localeCurrency*magento\framework\locale\currencyinterface:
+$dataarrayB:8
+6magento\paypal\block\adminhtml\settlement\details\form

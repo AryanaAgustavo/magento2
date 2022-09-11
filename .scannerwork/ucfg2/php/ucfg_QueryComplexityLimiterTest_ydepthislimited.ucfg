@@ -1,0 +1,84 @@
+
+Mmagento\graphql\framework\querycomplexitylimitertest::testquerydepthislimitedú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Framework\QueryComplexityLimiterTest.phpû û(+"1*‹
+2 
+QueryComplexityLimiterTest.php"¥
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Framework\QueryComplexityLimiterTest.php‹ ‹(
+implicit return*˙
+1ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Framework\QueryComplexityLimiterTest.php† Ÿ(Ë
+Â
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Framework\QueryComplexityLimiterTest.php† Ÿ(
+$query"__id*≥∞
+≠{
+  category(id: 2) {
+    products {
+      items {
+        name
+        categories {
+          products {
+            items {
+              media_gallery_entries {
+                file
+              }
+              categories {
+                products {
+                  items {
+                    categories {
+                      products {
+                        items {
+                          categories {
+                            products {
+                              items {
+                                categories {
+                                  products {
+                                    items {
+                                      categories {
+                                        products {
+                                          items {
+                                            categories {
+                                              products {
+                                                items {
+                                                  name
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}Ê
+„
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Framework\QueryComplexityLimiterTest.php⁄ ⁄(X
+%1"Smagento\graphql\framework\querycomplexitylimitertest::expectexceptionmessagematches*8"6
+4magento\graphql\framework\querycomplexitylimitertest*-+
+)/Max query depth should be 20 but got 23/¸˘
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Framework\QueryComplexityLimiterTest.php€ €(#
+%2*86
+4magento\graphql\framework\querycomplexitylimitertest*
+
+
+$query2graphqlquery*
+2B86
+4magento\graphql\framework\querycomplexitylimitertest

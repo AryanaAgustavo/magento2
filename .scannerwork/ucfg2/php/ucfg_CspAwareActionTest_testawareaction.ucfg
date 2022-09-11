@@ -1,0 +1,69 @@
+
+/magento\csp\cspawareactiontest::testawareaction€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspAwareActionTest.php (#"1*¸
+2
+CspAwareActionTest.php"˜
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspAwareActionTest.php* *(
+implicit return*Ó
+1€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspAwareActionTest.php   (.¼¹
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspAwareActionTest.php   (
+%1*" 
+magento\csp\cspawareactiontest2
+getrequest¨¥
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspAwareActionTest.php   (-
+%2*
+
+%1*
+GET2	setmethodÑÎ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspAwareActionTest.php! !(,
+%3*" 
+magento\csp\cspawareactiontest*
+csputil/csp/aware2dispatch½º
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspAwareActionTest.php" "(&
+%4*" 
+magento\csp\cspawareactiontest2getresponse¼¹
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspAwareActionTest.php" "(L
+%5*
+
+%4*
+Content-Security-Policy2	getheaderŸ
+œ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspAwareActionTest.php" "(L	
+$header"__id*
+
+%5ÍÊ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspAwareActionTest.php# #(&
+%6*" 
+magento\csp\cspawareactiontest*
+	
+$header2assertnotemptyŒ
+‰
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspAwareActionTest.php& '(T
+%7"__concat*-+
+)script-src https://controller.magento.com*EC
+A \'self\' \'sha256-H4RRnauTM2X2Xg/z9zkno1crqhsaY3uKKu97uwmnXXE=\'¨¥
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspAwareActionTest.php( (($
+%8*
+	
+$header2getfieldvalueÜÙ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspAwareActionTest.php% )(	
+%9*" 
+magento\csp\cspawareactiontest*
+
+%7*
+
+%82assertstringcontainsstring*
+2B" 
+magento\csp\cspawareactiontest

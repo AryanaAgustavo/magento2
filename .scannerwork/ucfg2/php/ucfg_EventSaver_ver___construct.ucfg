@@ -1,0 +1,69 @@
+
+0magento\reports\observer\eventsaver::__constructn
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\EventSaver.php' '("1*ù
+2
+EventSaver.php"Ö
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\EventSaver.php1 1(
+implicit return*Æ
+1n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\EventSaver.php- -(-»
+≈
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\EventSaver.php' '(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface≥
+∞
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\EventSaver.php' '(
+$event"__id*.
+,
+$event"magento\reports\model\eventfactory√
+¿
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\EventSaver.php' '(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\session√
+¿
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\EventSaver.php' '(
+$customerVisitor"__id*4
+2
+$customerVisitormagento\customer\model\visitor∆
+√
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\EventSaver.php- -(,8%
+#magento\reports\observer\eventsaver"
+_storeManager"__id*
+
+$storeManagerø
+º
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\EventSaver.php. .(%8%
+#magento\reports\observer\eventsaver"
+_eventFactory"__id*
+
+
+$eventÃ
+…
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\EventSaver.php/ /(2;%
+#magento\reports\observer\eventsaver"
+_customerSession"__id*
+
+$customerSessionÃ
+…
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\EventSaver.php0 0(2;%
+#magento\reports\observer\eventsaver"
+_customerVisitor"__id*
+
+$customerVisitor*
+2::
+$storeManager)magento\store\model\storemanagerinterface:,
+$event"magento\reports\model\eventfactory:2
+$customerSessionmagento\customer\model\session:2
+$customerVisitormagento\customer\model\visitorB'%
+#magento\reports\observer\eventsaver

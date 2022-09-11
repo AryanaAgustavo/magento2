@@ -1,0 +1,61 @@
+
+6magento\framework\app\response\http::setprivateheaderst
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.phpñ ñ(%"3"4*•
+
+3t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.phpõ õ(2‘—
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.phpõ õ(1
+%1*'%
+#magento\framework\app\response\http*
+
+pragma*	
+cache*
+true2	setheader™
+ß
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.phpú* ú(D
+%2"__concat*
+private, max-age=*
+
+$ttlÿ’
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.phpú ú(K
+%3*'%
+#magento\framework\app\response\http*
+cache-control*
+
+%2*
+true2	setheader®
+•
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.phpù? ù(V
+%4"__concat*
++*
+
+$ttl*
+
+ seconds≈¬
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.phpù$ ù(W
+%5*'%
+#magento\framework\app\response\http*
+
+%42getexpirationheader“œ
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.phpù ù(^
+%6*'%
+#magento\framework\app\response\http*	
+expires*
+
+%5*
+true2	setheader*
+4*ù
+4
+
+Http.php"ã
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.phpû û(
+implicit return:
+$ttlB'%
+#magento\framework\app\response\http

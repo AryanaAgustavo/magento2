@@ -1,0 +1,82 @@
+
+?magento\framework\filesystem\directory\writetest::testwritefile•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpã ã(!"1*Ä
+2
+WriteTest.php"­
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpê ê(
+implicit return*«
+1•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpå å(G†ƒ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpå å(F
+%1*42
+0magento\framework\filesystem\directory\writetest*
+writeFileDir*2ÿ2getdirectoryinstance·
+´
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpå å(F
+
+$directory"__id*
+
+%1ÕÒ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpæ æ(.
+%2*
+
+
+$directory*	
+
+$path*
+
+
+$content2	writefileÆÃ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpç& ç(A
+%3*
+
+
+$directory*	
+
+$path2readfileûø
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpç ç(B
+%4*42
+0magento\framework\filesystem\directory\writetest*
+
+
+$content*
+
+%32assertequalsÚ×
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpè è(3
+%5*
+
+
+$directory*	
+
+$path*
+
+$extraContent2	writefileÆÃ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpé+ é(F
+%6*
+
+
+$directory*	
+
+$path2readfile€ý
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpé é(G
+%7*42
+0magento\framework\filesystem\directory\writetest*
+
+$extraContent*
+
+%62assertequals*
+2:
+$path:
+
+$content:
+$extraContentB42
+0magento\framework\filesystem\directory\writetest

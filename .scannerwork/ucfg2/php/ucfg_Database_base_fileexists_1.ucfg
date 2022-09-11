@@ -1,0 +1,115 @@
+
+Jmagento\mediastorage\model\resourcemodel\file\storage\database::fileexists‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php‰ ‰("1*³
+1‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php‹ ‹(-êç
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php‹ ‹(,
+%1*B@
+>magento\mediastorage\model\resourcemodel\file\storage\database2getconnection®
+«
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php‹ ‹(,
+$connection"__id*
+
+%1°­
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php ('
+%2*
+
+$connection2selectŸœ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.phpŽ Ž(*
+%3"$Arrayéæ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.phpŽ Ž()
+%4*B@
+>magento\mediastorage\model\resourcemodel\file\storage\database2getmaintable¸
+µ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.phpŽ Ž(*
+%5"__mapSet*
+
+%3*
+e*
+
+%4­ª
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php (	
+%6*
+
+%2*
+
+%32fromÇÄ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php ’(	
+%7*
+
+%6*
+filename = ?*
+
+	$filename2whereŸœ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php“: “(J
+%8"$Array½
+º
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php“: “(J
+%9"__mapSet*
+
+%8*
+seq*	
+
+$pathÕÒ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php“ “(K
+%10*
+
+$connection*
+	directory*
+
+%82preparesqlcondition°­
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php ”(	
+%11*
+
+%7*
+
+%102where®«
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php –(	
+%12*
+
+%11*22limit«
+¨
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php –(		
+$select"__id*
+
+%12À½
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php˜ ˜(.
+%13*
+
+$connection*
+	
+$select2fetchrow©
+¦
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php˜ ˜(.
+$data"__id*
+
+%13¶
+³
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php™ ™(
+%14"__sanitizing_cast*	
+
+$data"—
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\ResourceModel\File\Storage\Database.php™ ™(
+
+%14:
+	$filename:
+$pathBB@
+>magento\mediastorage\model\resourcemodel\file\storage\database

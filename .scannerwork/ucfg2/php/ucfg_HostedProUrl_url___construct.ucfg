@@ -1,0 +1,40 @@
+
+>magento\paypalgraphql\model\resolver\hostedprourl::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\HostedProUrl.php& &("1*­
+2
+HostedProUrl.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\HostedProUrl.php, ,(
+implicit return*ó
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\HostedProUrl.php* *(@ô
+ñ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\HostedProUrl.php& &(
+$maskedQuoteIdToQuoteId"__id*P
+N
+$maskedQuoteIdToQuoteId3magento\quote\model\maskedquoteidtoquoteidinterfaceƒ
+€
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\HostedProUrl.php& &(
+$orderCollectionFactory"__id*_
+]
+$orderCollectionFactoryBmagento\sales\model\resourcemodel\order\collectionfactoryinterfaceõ
+ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\HostedProUrl.php* *(?O3
+1magento\paypalgraphql\model\resolver\hostedprourl"
+maskedQuoteIdToQuoteId"__id*
+
+$maskedQuoteIdToQuoteIdõ
+ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PaypalGraphQl\Model\Resolver\HostedProUrl.php+ +(?O3
+1magento\paypalgraphql\model\resolver\hostedprourl"
+orderCollectionFactory"__id*
+
+$orderCollectionFactory*
+2:N
+$maskedQuoteIdToQuoteId3magento\quote\model\maskedquoteidtoquoteidinterface:]
+$orderCollectionFactoryBmagento\sales\model\resourcemodel\order\collectionfactoryinterfaceB53
+1magento\paypalgraphql\model\resolver\hostedprourl

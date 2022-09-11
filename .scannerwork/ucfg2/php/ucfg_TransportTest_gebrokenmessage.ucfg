@@ -1,0 +1,78 @@
+
+Lmagento\framework\mail\test\unit\transporttest::testsendmessagebrokenmessage}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mail\Test\Unit\TransportTest.php6 6(0"1*¯
+2
+TransportTest.php"”
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mail\Test\Unit\TransportTest.php> >(
+implicit return*¯
+1}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mail\Test\Unit\TransportTest.php8 8(uÃÀ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mail\Test\Unit\TransportTest.php8 8(t
+
+$exception"1laminas\mail\transport\exception\runtimeexception¥
+¢
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mail\Test\Unit\TransportTest.php8 8(t
+%1">laminas\mail\transport\exception\runtimeexception::__construct*
+
+
+$exception*KI
+GInvalid email; contains no at least one of "To", "Cc", and "Bcc" headerÒ
+Ï
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mail\Test\Unit\TransportTest.php9 9(
+%2"__id*B*@0
+.magento\framework\mail\test\unit\transporttest"
+
+loggerMockò
+ï
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mail\Test\Unit\TransportTest.php9# 9(/
+%3"4magento\framework\mail\test\unit\transporttest::once*2"0
+.magento\framework\mail\test\unit\transporttest¡ž
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mail\Test\Unit\TransportTest.php9 9(0
+%4*
+
+%2*
+
+%32expects£ 
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mail\Test\Unit\TransportTest.php9 9(A
+%5*
+
+%4*	
+error2method¦£
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mail\Test\Unit\TransportTest.php9 9(S
+%6*
+
+%5*
+
+
+$exception2withüù
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mail\Test\Unit\TransportTest.php: :(K
+%7*20
+.magento\framework\mail\test\unit\transporttest*-+
+)Magento\Framework\Exception\MailException2expectexception†ƒ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mail\Test\Unit\TransportTest.php; ;(U
+%8*20
+.magento\framework\mail\test\unit\transporttest*0.
+,Unable to send mail. Please try again later.2expectexceptionmessageÑ
+Î
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mail\Test\Unit\TransportTest.php= =(
+%9"__id*A*?0
+.magento\framework\mail\test\unit\transporttest"
+	transportž›
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mail\Test\Unit\TransportTest.php= =('
+%10*
+
+%92sendmessage*
+2B20
+.magento\framework\mail\test\unit\transporttest

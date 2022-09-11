@@ -1,0 +1,110 @@
+
+:magento\sales\model\service\creditmemoservice::__constructx
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.phpO O("1*Æ
+2
+CreditmemoService.php"è
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.php_ _(
+implicit return*á
+1x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.phpX X(<Ë
+Â
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.phpO O(
+$creditmemoRepository"__id*J
+H
+$creditmemoRepository/magento\sales\api\creditmemorepositoryinterface˝
+˙
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.phpO O(
+$creditmemoCommentRepository"__id*X
+V
+$creditmemoCommentRepository6magento\sales\api\creditmemocommentrepositoryinterfaceÊ
+„
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.phpO O(
+$searchCriteriaBuilder"__id*G
+E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilderŒ
+À
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.phpO O(
+$filterBuilder"__id*7
+5
+$filterBuilder#magento\framework\api\filterbuilder·
+ﬁ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.phpO O(
+$creditmemoNotifier"__id*E
+C
+$creditmemoNotifier,magento\sales\model\order\creditmemonotifier€
+ÿ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.phpO O(
+$priceCurrency"__id*D
+B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterface—
+Œ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.phpO O(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceÈ
+Ê
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.phpX X(;I/
+-magento\sales\model\service\creditmemoservice"
+creditmemoRepository"__id*
+
+$creditmemoRepositoryÌ
+Í
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.phpY Y(?F/
+-magento\sales\model\service\creditmemoservice"
+commentRepository"__id* 
+
+$creditmemoCommentRepositoryÎ
+Ë
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.phpZ Z(=J/
+-magento\sales\model\service\creditmemoservice"
+searchCriteriaBuilder"__id*
+
+$searchCriteriaBuilder€
+ÿ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.php[ [(-B/
+-magento\sales\model\service\creditmemoservice"
+filterBuilder"__id*
+
+$filterBuilderÂ
+‚
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.php\ \(7G/
+-magento\sales\model\service\creditmemoservice"
+creditmemoNotifier"__id*
+
+$creditmemoNotifier€
+ÿ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.php] ](-B/
+-magento\sales\model\service\creditmemoservice"
+priceCurrency"__id*
+
+$priceCurrencyŸ
+÷
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\CreditmemoService.php^ ^(+A/
+-magento\sales\model\service\creditmemoservice"
+eventManager"__id*
+
+$eventManager*
+2:H
+$creditmemoRepository/magento\sales\api\creditmemorepositoryinterface:V
+$creditmemoCommentRepository6magento\sales\api\creditmemocommentrepositoryinterface:E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilder:5
+$filterBuilder#magento\framework\api\filterbuilder:C
+$creditmemoNotifier,magento\sales\model\order\creditmemonotifier:B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterface:9
+$eventManager(magento\framework\event\managerinterfaceB1/
+-magento\sales\model\service\creditmemoservice

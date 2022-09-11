@@ -1,0 +1,77 @@
+
+Omagento\sales\model\resourcemodel\report\invoiced\collection\order::__constructŽ
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Invoiced\Collection\Order.php% %("1*¹
+2
+	Order.php"¦
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Invoiced\Collection\Order.php/ /(
+implicit return*Ž
+1Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Invoiced\Collection\Order.php- -(;ñ
+î
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Invoiced\Collection\Order.php% %(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryË
+È
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Invoiced\Collection\Order.php% %(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceý
+ú
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Invoiced\Collection\Order.php% %(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceè
+å
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Invoiced\Collection\Order.php% %(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceà
+Ý
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Invoiced\Collection\Order.php% %(
+	$resource"__id*7
+5
+	$resource(magento\sales\model\resourcemodel\reporté
+æ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Invoiced\Collection\Order.php% %(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceÔÑ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Invoiced\Collection\Order.php- -(:
+%1*
+
+	$resource*#!
+sales_invoiced_aggregated_order2initŸ
+œ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Invoiced\Collection\Order.php. .(k
+%2"Smagento\sales\model\resourcemodel\report\collection\abstractcollection::__construct*FD
+Bmagento\sales\model\resourcemodel\report\invoiced\collection\order*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+	$resource*
+
+$connection*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:5
+	$resource(magento\sales\model\resourcemodel\report:<
+$connection-magento\framework\db\adapter\adapterinterfaceBFD
+Bmagento\sales\model\resourcemodel\report\invoiced\collection\order

@@ -1,0 +1,67 @@
+
+Vmagento\catalog\model\category\authorizationtest::testauthorizationwithwrongcategoryid“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\AuthorizationTest.phpN N(8"1*Ê
+2
+AuthorizationTest.php"«
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\AuthorizationTest.phpT T(
+implicit return*ò
+1“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\AuthorizationTest.phpP P($¼
+¹
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\AuthorizationTest.phpP P(#
+$wrongCategoryId"__id*2Žªö§¤
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\AuthorizationTest.phpQ2 Q(S
+%1"$ArrayÖ
+Ó
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\AuthorizationTest.phpQ2 Q(S
+%2"__mapSet*
+
+%1*
+	entity_id*
+
+$wrongCategoryIdõò
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\AuthorizationTest.phpQ Q(T
+%3*42
+0magento\catalog\model\category\authorizationtest*
+
+%12createcategorywithdata´
+±
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\AuthorizationTest.phpQ Q(T
+	$category"__id*
+
+%3´
+±
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\AuthorizationTest.phpR% R(_
+%4">magento\framework\exception\nosuchentityexception::singlefield*5"3
+1magento\framework\exception\nosuchentityexception*
+id*
+
+$wrongCategoryIdôñ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\AuthorizationTest.phpR R(`
+%5*42
+0magento\catalog\model\category\authorizationtest*
+
+%42expectexceptionobjectæ
+ã
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\AuthorizationTest.phpS S(
+%6"__id*?*=2
+0magento\catalog\model\category\authorizationtest"
+modelÉÆ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Category\AuthorizationTest.phpS S(2
+%7*
+
+%6*
+
+	$category2authorizesavingof*
+2B42
+0magento\catalog\model\category\authorizationtest

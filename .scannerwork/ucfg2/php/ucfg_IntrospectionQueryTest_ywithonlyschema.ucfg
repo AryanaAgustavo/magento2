@@ -1,0 +1,158 @@
+
+Lmagento\graphql\introspectionquerytest::testintrospectionquerywithonlyschemaå
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.php? ?(8"1* 
+2
+IntrospectionQueryTest.php"¶
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpê ê(
+implicit return*¿
+1å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpA d(›
+⁄
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpA d(
+$query"__id*∏µ
+≤ {
+  __schema {
+    queryType { name }
+    types{
+      ...FullType
+    }
+    }
+  }
+fragment FullType on __Type{
+  name
+  kind
+  fields(includeDeprecated:true){
+    name
+    args{
+      ...InputValue
+    }
+         }
+    }
+    
+fragment TypeRef on __Type {
+  kind
+  name
+  ofType{
+    kind
+    name
+  }
+}
+fragment InputValue on __InputValue {
+  name
+  description
+  type { ...TypeRef }
+  defaultValue
+}ﬁ€
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpe- e(H
+%1**(
+&magento\graphql\introspectionquerytest*
+
+
+$query2graphqlqueryÌÍ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpe e(I
+%2**(
+&magento\graphql\introspectionquerytest*
+
+__schema*
+
+%12assertarrayhaskeyﬁ€
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpf f(/
+%3**(
+&magento\graphql\introspectionquerytest*
+
+
+$query2graphqlquery≠
+™
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpf f(/
+	$response"__id*
+
+%3ˆ
+Û
+ç
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phph ã(
+$query"__id*–Õ
+ query IntrospectionQuery {
+  __schema {
+    queryType { name }
+    types{
+      ...FullType
+    }
+    }
+  }
+fragment FullType on __Type{
+  name
+  kind
+  fields(includeDeprecated:true){
+    name
+    args{
+      ...InputValue
+    }
+         }
+    }
+    
+fragment TypeRef on __Type {
+  kind
+  name
+  ofType{
+    kind
+    name
+  }
+}
+fragment InputValue on __InputValue {
+  name
+  description
+  type { ...TypeRef }
+  defaultValue
+}‡›
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpå- å(H
+%4**(
+&magento\graphql\introspectionquerytest*
+
+
+$query2graphqlqueryÔÏ
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpå å(I
+%5**(
+&magento\graphql\introspectionquerytest*
+
+__schema*
+
+%42assertarrayhaskey‡›
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpç ç(5
+%6**(
+&magento\graphql\introspectionquerytest*
+
+
+$query2graphqlqueryµ
+≤
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpç ç(5
+$responseFields"__id*
+
+%6Ä˝
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpé é(?
+%7**(
+&magento\graphql\introspectionquerytest*
+
+	$response*
+
+$responseFields2assertresponsefields¯ı
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.phpè è(7
+%8**(
+&magento\graphql\introspectionquerytest*
+
+$responseFields*
+
+	$response2assertequals*
+2B*(
+&magento\graphql\introspectionquerytest

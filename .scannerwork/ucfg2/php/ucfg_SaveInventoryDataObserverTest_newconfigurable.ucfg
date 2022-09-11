@@ -1,0 +1,100 @@
+
+lmagento\cataloginventory\observer\saveinventorydataobservertest::testautochangingisinstockfornewconfigurable¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpk k(?"1*Â
+2#
+!SaveInventoryDataObserverTest.php"∫
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpt t(
+implicit return*´
+1¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpm m(7á
+Ñ
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpm m(
+%1"__id*Q*OA
+?magento\cataloginventory\observer\saveinventorydataobservertest"
+
+fixtures∆√
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpm m(,
+%2*
+
+%1*	
+conf12getæª
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpm m(6
+%3*
+
+%22getskuæ
+ª
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpm m(6
+$sku"__id*
+
+%3ê
+ç
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpo o(1
+%4"__id*Z*XA
+?magento\cataloginventory\observer\saveinventorydataobservertest"
+productRepository≈¬
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpo o(<
+%5*
+
+%4*
+
+$sku2get»
+≈
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpo o(<
+$parentProduct"__id*
+
+%5í
+è
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpp" p(<
+%6"__id*\*ZA
+?magento\cataloginventory\observer\saveinventorydataobservertest"
+stockItemRepository⁄◊
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpq q(4
+%7*
+
+$parentProduct2getextensionattributesƒ¡
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpq q(D
+%8*
+
+%72getstockitem¡æ
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpq q(Q
+%9*
+
+%82	getitemidƒ¡
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpp" r(	
+%10*
+
+%6*
+
+%92get“
+œ
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phpp r(	
+$parentProductStockItem"__id*
+
+%10⁄◊
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phps s(B
+%11*
+
+$parentProductStockItem2getisinstockäá
+¢
+óC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Observer\SaveInventoryDataObserverTest.phps s(C
+%12*CA
+?magento\cataloginventory\observer\saveinventorydataobservertest*
+
+%112assertfalse*
+2BCA
+?magento\cataloginventory\observer\saveinventorydataobservertest

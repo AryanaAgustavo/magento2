@@ -1,0 +1,149 @@
+
+Qmagento\catalog\model\resourcemodel\mediaimagedeleteprocessor::deleteproductimageŠ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.php€ €('"1*Ë
+2Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.phpŠ Š(Kó
+ð
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.phpŠ Š(%
+%6"__id*U*S?
+=magento\catalog\model\resourcemodel\mediaimagedeleteprocessor"
+productGallery®«
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.phpŠ5 Š(I
+%7*
+
+
+$image2
+getvalueidµ²
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.phpŠ Š(J
+%8*
+
+%6*
+
+%72deletegalleryó
+ð
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.php‹ ‹(%
+%9"__id*U*S?
+=magento\catalog\model\resourcemodel\mediaimagedeleteprocessor"
+imageProcessorÊÇ
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.php‹ ‹(H
+%10*
+
+%9*
+
+
+$product*
+
+
+$imageFile2removeimageŽ‹
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.phpŒ Œ(A
+%11*A?
+=magento\catalog\model\resourcemodel\mediaimagedeleteprocessor*
+
+
+$imageFile*
+
+	$filePath2deletephysicalimage*
+3
+5*¹
+3Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.phpŽ Ž(,ì
+é
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.phpŽ Ž(
+%12"__id*M*K?
+=magento\catalog\model\resourcemodel\mediaimagedeleteprocessor"
+logger²¯
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.phpŽ Ž(+
+%13*
+
+%12*
+
+$e2critical*
+5*É
+5
+MediaImageDeleteProcessor.php"¢
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.php‘ ‘(
+implicit return*ú
+1Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.php… …(>Ê
+Ç
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.php€ €('
+$image"__id*(
+&
+$imagemagento\framework\dataobjectÛ
+Ø
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.php€ €('
+
+$product"__id*7
+5
+$product)magento\catalog\api\data\productinterface¼
+¹
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.php€ €('
+
+$imageFile"__id*
+
+
+$imageFilestringð
+í
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.php… …()
+%1"__id*R*P?
+=magento\catalog\model\resourcemodel\mediaimagedeleteprocessor"
+imageConfig°­
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.php… …(=
+%2*
+
+%12getbasemediapath®
+«
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.php… …(=
+$catalogPath"__id*
+
+%2Â
+¿
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.php† †(-
+%3"__concat*
+
+$catalogPath*
+
+
+$imageFile«
+¨
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.php† †(-
+	$filePath"__id*
+
+%3ó
+ð
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.phpˆ ˆ(!
+%4"__id*U*S?
+=magento\catalog\model\resourcemodel\mediaimagedeleteprocessor"
+mediaDirectoryµ²
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MediaImageDeleteProcessor.phpˆ ˆ(4
+%5*
+
+%4*
+
+	$filePath2isfile*
+2
+5:&
+$imagemagento\framework\dataobject:5
+$product)magento\catalog\api\data\productinterface:
+
+$imageFilestringBA?
+=magento\catalog\model\resourcemodel\mediaimagedeleteprocessor

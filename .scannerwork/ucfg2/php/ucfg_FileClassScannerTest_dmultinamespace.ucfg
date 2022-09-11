@@ -1,0 +1,90 @@
+
+emagento\setup\test\unit\module\di\code\reader\fileclassscannertest::testgetclassnameandmultinamespaceè
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpW W(5"1*…
+2
+FileClassScannerTest.php"ß
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpt t(
+implicit return*Ò
+1è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpY Y(1˘ˆ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpY Y(0
+%1*FD
+Bmagento\setup\test\unit\module\di\code\reader\fileclassscannertest2getscannermockobjectØ
+¨
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpY Y(0
+
+$scanner"__id*
+
+%1≠
+™
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpZ Z(&
+%2"Hmagento\setup\test\unit\module\di\code\reader\fileclassscannertest::once*F"D
+Bmagento\setup\test\unit\module\di\code\reader\fileclassscannertest∫∑
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpZ Z('
+%3*
+
+
+$scanner*
+
+%22expects¿Ω
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpZ [('
+%4*
+
+%3*
+getFileContents2methodÏ
+È
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.php] n(
+%5"__id*»≈
+¬<?php
+
+namespace This\Is\My\Ns;
+
+class ThisIsMyTest {
+
+    public function __construct()
+    {
+        \This\Is\Another\Ns::class;
+    }
+
+    public function test()
+    {
+
+    }
+}∑¥
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpZ o(
+%6*
+
+%4*
+
+%52
+willreturn∑¥
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpr r(*
+%7*
+
+
+$scanner2getclassnameÆ
+´
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpr r(*	
+$result"__id*
+
+%7‚
+ﬂ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phps s(A
+%8"Pmagento\setup\test\unit\module\di\code\reader\fileclassscannertest::assertequals*F"D
+Bmagento\setup\test\unit\module\di\code\reader\fileclassscannertest*
+This\Is\My\Ns\ThisIsMyTest*
+	
+$result*
+2BFD
+Bmagento\setup\test\unit\module\di\code\reader\fileclassscannertest

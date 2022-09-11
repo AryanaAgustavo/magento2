@@ -1,0 +1,360 @@
+
+9magento\review\model\resourcemodel\rating\option::addvote}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpÇ Ç("1*î
+2}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpé é(KŸ
+÷
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpé! é(6
+%14"__id*H*F2
+0magento\review\model\resourcemodel\rating\option"
+_remoteAddress§°
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpé! é(J
+%15*
+
+%142getremoteaddress∂
+≥
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpé é(
+%16"__mapSet*	
+
+$data*
+	remote_ip*
+
+%15Ÿ
+÷
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpè& è(;
+%17"__id*H*F2
+0magento\review\model\resourcemodel\rating\option"
+_remoteAddressÆ´
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpè& è(S
+%18*
+
+%17*
+true2getremoteaddressª
+∏
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpè è(#
+%19"__mapSet*	
+
+$data*
+remote_ip_long*
+
+%18€
+ÿ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpê# ê(:
+%20"__id*J*H2
+0magento\review\model\resourcemodel\rating\option"
+_customerSession°û
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpê# ê(K
+%21*
+
+%202getcustomerid∏
+µ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpê ê( 
+%22"__mapSet*	
+
+$data*
+customer_id*
+
+%21®•
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpë' ë(B
+%23*
+	
+$option2getentitypkvalueº
+π
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpë ë($
+%24"__mapSet*	
+
+$data*
+entity_pk_value*
+
+%23£†
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpí! í(7
+%25*
+	
+$option2getratingid∂
+≥
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpí í(
+%26"__mapSet*	
+
+$data*
+	rating_id*
+
+%25*
+3*ﬂ
+3}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpï ï((¨©
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpï ï('
+%27*
+
+$connection2begintransaction£†
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpó ó(&
+%28*
+	
+$option2getdoupdate*
+4
+5*¸
+4}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpò ò(pëé
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpò ò(o
+%29"$Array°û
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpò/ ò(C
+%30*
+	
+$option2	getvoteid∂
+≥
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpò ò(o
+%31"__mapSet*
+
+%29*
+vote_id = ?*
+
+%30£†
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpòX ò(n
+%32*
+	
+$option2getreviewid∏
+µ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpò ò(o
+%33"__mapSet*
+
+%29*
+review_id = ?*
+
+%32ü
+ú
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpò ò(o
+
+$condition"__id*
+
+%29€
+ÿ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpô$ ô(;
+%34"__id*J*H2
+0magento\review\model\resourcemodel\rating\option"
+_ratingVoteTable∆√
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpô ô(O
+%35*
+
+$connection*
+
+%34*	
+
+$data*
+
+
+$condition2update◊‘
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpö ö()
+%36*42
+0magento\review\model\resourcemodel\rating\option*
+	
+$option2	aggregate*
+6*∑
+
+5}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpú ú(D€
+ÿ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpú$ ú(;
+%37"__id*J*H2
+0magento\review\model\resourcemodel\rating\option"
+_ratingVoteTable∂≥
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpú ú(C
+%38*
+
+$connection*
+
+%37*	
+
+$data2insert€
+ÿ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpù= ù(T
+%39"__id*J*H2
+0magento\review\model\resourcemodel\rating\option"
+_ratingVoteTable±Æ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpù# ù(U
+%40*
+
+$connection*
+
+%392lastinsertid™ß
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpù ù(V
+%41*
+	
+$option*
+
+%402	setvoteid◊‘
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpû û()
+%42*42
+0magento\review\model\resourcemodel\rating\option*
+	
+$option2	aggregate*
+6*≥
+6}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.php† †("¢ü
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.php† †(!
+%43*
+
+$connection2commit*
+
+7
+8
+10*Ø
+7}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.php¢ ¢($§°
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.php¢ ¢(#
+%44*
+
+$connection2rollback*
+10*∫
+8}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.php• •("µ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.php• •(42
+0magento\review\model\resourcemodel\rating\option*©
+10
+
+Option.php"î
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.php¶ ¶(
+implicit return*†
+1}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpÑ Ñ(-ƒ
+¡
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpÇ Ç(	
+$option"__id*/
+-
+$option"magento\review\model\rating\optionÕ 
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpÑ Ñ(,
+%1*42
+0magento\review\model\resourcemodel\rating\option2getconnectionü
+ú
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpÑ Ñ(,
+$connection"__id*
+
+%1úô
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpÖ* Ö(:
+%2*
+	
+$option2getid‘—
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpÖ Ö(;
+%3*42
+0magento\review\model\resourcemodel\rating\option*
+
+%22loaddatabyidü
+ú
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpÖ Ö(;
+$optionData"__id*
+
+%3êç
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpÜ ã(	
+%4"$Arrayúô
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpá á(+
+%5*
+	
+$option2getid±
+Æ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpÜ ã(	
+%6"__mapSet*
+
+%4*
+	option_id*
+
+%5¢ü
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpà à(1
+%7*
+	
+$option2getreviewid±
+Æ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpÜ ã(	
+%8"__mapSet*
+
+%4*
+	review_id*
+
+%7Æ
+´
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpâ â(-
+%9"__mapGet*
+
+$optionData*	
+value¨
+©
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpÜ ã(	
+%10"__mapSet*
+
+%4*	
+percent* Ø
+¨
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpä ä(+
+%11"__mapGet*
+
+$optionData*	
+valueØ
+¨
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpÜ ã(	
+%12"__mapSet*
+
+%4*	
+value*
+
+%11ô
+ñ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpÜ ã(	
+$data"__id*
+
+%4£†
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpç ç(#
+%13*
+	
+$option2getdoupdate*
+2
+3:-
+$option"magento\review\model\rating\optionB42
+0magento\review\model\resourcemodel\rating\option

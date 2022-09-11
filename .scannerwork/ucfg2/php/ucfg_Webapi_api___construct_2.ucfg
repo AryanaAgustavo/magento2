@@ -1,0 +1,128 @@
+
+\magento\integration\block\adminhtml\integration\activate\permissions\tab\webapi::__constructõ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpA A("1*«
+2
+
+Webapi.php"≥
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpR R(
+implicit return*º 
+1õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpL L(-È
+Ê
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpA A(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\contextﬂ
+‹
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpA A(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÌ
+Í
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpA A(
+$formFactory"__id*4
+2
+$formFactory"magento\framework\data\formfactoryÔ
+Ï
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpA A(
+$rootResource"__id*5
+3
+$rootResource"magento\framework\acl\rootresourceà
+Ö
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpA A(
+$resourceProvider"__id*J
+H
+$resourceProvider3magento\framework\acl\aclresource\providerinterfaceÚ
+Ô
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpA A(
+$integrationData"__id*5
+3
+$integrationDatamagento\integration\helper\data·
+ﬁ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpA A(
+
+$encoder"__id*,
+*
+$encodermagento\framework\json\encoderå
+â
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpA A(
+$integrationService"__id*L
+J
+$integrationService3magento\integration\api\integrationserviceinterface¬
+ø
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpA A(
+$data"__id*
+
+$dataarray†
+ù
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpL L(,dQ
+Omagento\integration\block\adminhtml\integration\activate\permissions\tab\webapi"
+_rootResource"__id*
+
+$rootResource®
+•
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpM M(4hQ
+Omagento\integration\block\adminhtml\integration\activate\permissions\tab\webapi"
+_resourceProvider"__id*
+
+$resourceProvider¶
+£
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpN N(2gQ
+Omagento\integration\block\adminhtml\integration\activate\permissions\tab\webapi"
+_integrationData"__id*
+
+$integrationDataï
+í
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpO O(!^Q
+Omagento\integration\block\adminhtml\integration\activate\permissions\tab\webapi"	
+encoder"__id*
+
+
+$encoder´
+®
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpP P(7iQ
+Omagento\integration\block\adminhtml\integration\activate\permissions\tab\webapi"
+integrationService"__id*
+
+$integrationServiceÓ
+Î
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Block\Adminhtml\Integration\Activate\Permissions\Tab\Webapi.phpQ Q(E
+%1"6magento\backend\block\widget\form\generic::__construct*SQ
+Omagento\integration\block\adminhtml\integration\activate\permissions\tab\webapi*
+
+
+$context*
+
+	$registry*
+
+$formFactory*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:'
+	$registrymagento\framework\registry:2
+$formFactory"magento\framework\data\formfactory:3
+$rootResource"magento\framework\acl\rootresource:H
+$resourceProvider3magento\framework\acl\aclresource\providerinterface:3
+$integrationDatamagento\integration\helper\data:*
+$encodermagento\framework\json\encoder:J
+$integrationService3magento\integration\api\integrationserviceinterface:
+$dataarrayBSQ
+Omagento\integration\block\adminhtml\integration\activate\permissions\tab\webapi

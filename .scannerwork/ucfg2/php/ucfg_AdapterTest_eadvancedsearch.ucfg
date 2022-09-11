@@ -1,0 +1,124 @@
+
+Imagento\elasticsearch\searchadapter\adaptertest::testsimpleadvancedsearchî
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpÖ Ö(,"1*≈
+2
+AdapterTest.php"¨
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpì ì(
+implicit return*Å
+1î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpã ã(>Ô
+Ï
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpã ã(
+%1"__id*G*E1
+/magento\elasticsearch\searchadapter\adaptertest"
+requestBuilderŒÀ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpã ã(=
+%2*
+
+%1*
+
+name_query*
+
+
+$nameQuery2bindÔ
+Ï
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpå å(
+%3"__id*G*E1
+/magento\elasticsearch\searchadapter\adaptertest"
+requestBuilder‹Ÿ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpå å(K
+%4*
+
+%3*
+description_query*
+
+$descriptionQuery2bindÔ
+Ï
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpç ç(
+%5"__id*G*E1
+/magento\elasticsearch\searchadapter\adaptertest"
+requestBuilder∆
+√
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpç: ç(N
+%6"__mapGet*
+
+$rangeFilter*
+fromŒÀ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpç ç(O
+%7*
+
+%5*
+request.from_price*
+
+%62bindÔ
+Ï
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpé é(
+%8"__id*G*E1
+/magento\elasticsearch\searchadapter\adaptertest"
+requestBuilderƒ
+¡
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpé8 é(J
+%9"__mapGet*
+
+$rangeFilter*
+toÕ 
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpé é(K
+%10*
+
+%8*
+request.to_price*
+
+%92bind
+Ì
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpè è(
+%11"__id*G*E1
+/magento\elasticsearch\searchadapter\adaptertest"
+requestBuilder‘—
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpè è(E
+%12*
+
+%11*
+advanced_search_test2setrequestname‰·
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpë ë(.
+%13*31
+/magento\elasticsearch\searchadapter\adaptertest2executequeryª
+∏
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpë ë(.
+$queryResponse"__id*
+
+%13ºπ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpí3 í(J
+%14*
+
+$queryResponse2countàÖ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\SearchAdapter\AdapterTest.phpí í(K
+%15*31
+/magento\elasticsearch\searchadapter\adaptertest*
+
+$expectedRecordsCount*
+
+%142assertequals*
+2:
+
+$nameQuery:
+$descriptionQuery:
+$rangeFilter:
+$expectedRecordsCountB31
+/magento\elasticsearch\searchadapter\adaptertest

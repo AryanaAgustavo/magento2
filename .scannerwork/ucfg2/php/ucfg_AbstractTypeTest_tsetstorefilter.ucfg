@@ -1,0 +1,95 @@
+
+Jmagento\catalog\model\product\type\abstracttypetest::testgetsetstorefilterò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpç ç()"1*Œ
+2
+AbstractTypeTest.php"∞
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpî î(
+implicit return*ã
+1ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpè è($»≈
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpè è(#
+
+$product"magento\framework\dataobject›
+⁄
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpè è(#
+%1")magento\framework\dataobject::__construct*
+
+
+$productÔ
+Ï
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpê ê('
+%2"__id*C*A5
+3magento\catalog\model\product\type\abstracttypetest"
+_model «
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpê ê(A
+%3*
+
+%2*
+
+
+$product2getstorefilterÒÓ
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpê ê(B
+%4*75
+3magento\catalog\model\product\type\abstracttypetest*
+
+%32
+assertnull≤Ø
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpë ë(
+$store"stdclass«
+ƒ
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpë ë(
+%5"stdclass::__construct*
+
+
+$storeÔ
+Ï
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpí í(
+%6"__id*C*A5
+3magento\catalog\model\product\type\abstracttypetest"
+_model÷”
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpí í(7
+%7*
+
+%6*
+
+
+$store*
+
+
+$product2setstorefilterÔ
+Ï
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpì" ì(/
+%8"__id*C*A5
+3magento\catalog\model\product\type\abstracttypetest"
+_model «
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpì" ì(I
+%9*
+
+%8*
+
+
+$product2getstorefilter˛˚
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Type\AbstractTypeTest.phpì ì(J
+%10*75
+3magento\catalog\model\product\type\abstracttypetest*
+
+
+$store*
+
+%92
+assertsame*
+2B75
+3magento\catalog\model\product\type\abstracttypetest

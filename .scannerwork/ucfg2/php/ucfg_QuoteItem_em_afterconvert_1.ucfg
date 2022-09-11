@@ -1,0 +1,92 @@
+
+8magento\giftmessage\model\plugin\quoteitem::afterconvertu
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\Plugin\QuoteItem.php& &( "1*…
+1u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\Plugin\QuoteItem.php, ,(]Æ
+Ã
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\Plugin\QuoteItem.php& &( 
+
+$subject"__id*8
+6
+$subject*magento\quote\model\quote\item\toorderitemÉ
+Æ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\Plugin\QuoteItem.php& &( 
+
+$orderItem"__id*9
+7
+
+$orderItem)magento\sales\api\data\orderiteminterfaceÁ
+¾
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\Plugin\QuoteItem.php& &( 
+$item"__id*6
+4
+$item+magento\quote\model\quote\item\abstractitemÃ
+À
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\Plugin\QuoteItem.php, ,(%
+%1"__id*;*9,
+*magento\giftmessage\model\plugin\quoteitem"	
+_helper—”
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\Plugin\QuoteItem.php,H ,([
+%2*	
+
+$item2
+getstoreid¸µ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\Plugin\QuoteItem.php, ,(\
+%3*
+
+%1*
+item*	
+
+$item*
+
+%22ismessagesallowed˜
+•
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\Plugin\QuoteItem.php, ,(\
+$isAvailable"__id*
+
+%3š
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\Plugin\QuoteItem.php.% .(>
+%4*	
+
+$item2getgiftmessageidª§
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\Plugin\QuoteItem.php. .(?
+%5*
+
+
+$orderItem*
+
+%42setgiftmessageid»¸
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\Plugin\QuoteItem.php/ /(9
+%6*
+
+
+$orderItem*
+
+$isAvailable2setgiftmessageavailableÁ
+¾
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\Plugin\QuoteItem.php0 0(/
+%7)magento\sales\api\data\orderiteminterface"__id*
+
+
+$orderItem"ª
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\Plugin\QuoteItem.php0 0(1
+/
+%7)magento\sales\api\data\orderiteminterface:6
+$subject*magento\quote\model\quote\item\toorderitem:7
+
+$orderItem)magento\sales\api\data\orderiteminterface:4
+$item+magento\quote\model\quote\item\abstractitem:
+$additionalB.,
+*magento\giftmessage\model\plugin\quoteitem

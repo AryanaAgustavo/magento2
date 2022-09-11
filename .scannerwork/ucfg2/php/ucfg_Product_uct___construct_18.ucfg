@@ -1,0 +1,182 @@
+
+.magento\review\controller\product::__constructl
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpp p("1*š
+2
+Product.php"…
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.php‹ ‹(
+implicit return*´&
+1l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.php~ ~(,·
+´
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpp p(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\context·
+´
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpp p(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryÁ
+¾
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpp p(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionØ
+Õ
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpp p(
+$categoryRepository"__id*H
+F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface¨
+¥
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpp p(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÕ
+Ò
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpp p(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceÁ
+¾
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpp p(
+$reviewFactory"__id*6
+4
+$reviewFactory"magento\review\model\reviewfactoryÁ
+¾
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpp p(
+$ratingFactory"__id*6
+4
+$ratingFactory"magento\review\model\ratingfactory»
+¸
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpp p(
+$catalogDesign"__id*0
+.
+$catalogDesignmagento\catalog\model\designÀ
+½
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpp p(
+$reviewSession"__id*5
+3
+$reviewSession!magento\framework\session\genericÆ
+Ã
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpp p(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÒ
+Ï
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpp p(
+$formKeyValidator"__id*D
+B
+$formKeyValidator-magento\framework\data\form\formkey\validatorÁ
+¾
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.php~ ~(+5#
+!magento\review\controller\product"
+storeManager"__id*
+
+$storeManagerÁ
+¾
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.php (+5#
+!magento\review\controller\product"
+coreRegistry"__id*
+
+$coreRegistryÉ
+Æ
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.php€ €(18#
+!magento\review\controller\product"
+customerSession"__id*
+
+$customerSessionÅ
+Â
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.php (-6#
+!magento\review\controller\product"
+reviewSession"__id*
+
+$reviewSessionÏ
+Ì
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.php‚ ‚(7;#
+!magento\review\controller\product"
+categoryRepository"__id*
+
+$categoryRepository·
+´
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpƒ ƒ(/#
+!magento\review\controller\product"
+logger"__id*
+	
+$loggerÍ
+Ê
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.php„ „(5:#
+!magento\review\controller\product"
+productRepository"__id*
+
+$productRepositoryÅ
+Â
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.php… …(-6#
+!magento\review\controller\product"
+reviewFactory"__id*
+
+$reviewFactoryÅ
+Â
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.php† †(-6#
+!magento\review\controller\product"
+ratingFactory"__id*
+
+$ratingFactoryÅ
+Â
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.php‡ ‡(-6#
+!magento\review\controller\product"
+catalogDesign"__id*
+
+$catalogDesignË
+È
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpˆ ˆ(39#
+!magento\review\controller\product"
+formKeyValidator"__id*
+
+$formKeyValidatorà
+Ý
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Product.phpŠ Š(%
+%1"0magento\framework\app\action\action::__construct*%#
+!magento\review\controller\product*
+
+
+$context*
+2:0
+$context$magento\framework\app\action\context:+
+$coreRegistrymagento\framework\registry:2
+$customerSessionmagento\customer\model\session:F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface:"
+$loggerpsr\log\loggerinterface:D
+$productRepository.magento\catalog\api\productrepositoryinterface:4
+$reviewFactory"magento\review\model\reviewfactory:4
+$ratingFactory"magento\review\model\ratingfactory:.
+$catalogDesignmagento\catalog\model\design:3
+$reviewSession!magento\framework\session\generic::
+$storeManager)magento\store\model\storemanagerinterface:B
+$formKeyValidator-magento\framework\data\form\formkey\validatorB%#
+!magento\review\controller\product

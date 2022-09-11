@@ -1,0 +1,129 @@
+
+Vmagento\framework\webapi\test\unit\rest\request\deserializer\jsontest::testdeserialize•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpF F(#"1*Ã
+2
+JsonTest.php"­
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.php\ \(
+implicit return* !
+1•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpI I(j‡
+„
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpI I(i
+$inputEncodedJson"__id*OM
+K{"key1":"test1","key2":"test2","array":{"test01":"some1","test02":"some2"}}©¦
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpJ N(	
+%1"$ArrayÈ
+Å
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpJ N(	
+%2"__mapSet*
+
+%1*
+key1*	
+test1È
+Å
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpJ N(	
+%3"__mapSet*
+
+%1*
+key2*	
+test2©¦
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpM M(A
+%4"$ArrayÊ
+Ç
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpM M(A
+%5"__mapSet*
+
+%4*
+
+test01*	
+some1Ê
+Ç
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpM M(A
+%6"__mapSet*
+
+%4*
+
+test02*	
+some2Æ
+Ã
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpJ N(	
+%7"__mapSet*
+
+%1*	
+array*
+
+%4Á
+¾
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpJ N(	
+$expectedDecodedJson"__id*
+
+%1†
+ƒ
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpO O(
+%8"__id*]*[G
+Emagento\framework\webapi\test\unit\rest\request\deserializer\jsontest"
+serializerMockñî
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpO' O(3
+%9*IG
+Emagento\framework\webapi\test\unit\rest\request\deserializer\jsontest2any»¸
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpO O(4
+%10*
+
+%8*
+
+%92expectsÄÁ
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpO P(#
+%11*
+
+%10*
+unserialize2methodÝ
+Ú
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpR T(
+%12"__declareFunction*¥¢
+Ÿ__sonar_lambda_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.php_82_16ÈÅ
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpO U(
+%13*
+
+%11*
+
+%122willreturncallbackŠ
+‡
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpY Y($
+%14"__id*`*^G
+Emagento\framework\webapi\test\unit\rest\request\deserializer\jsontest"
+_jsonDeserializerÏÌ
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpY Y(D
+%15*
+
+%14*
+
+$inputEncodedJson2deserializeÒÏ
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\JsonTest.phpW [(	
+%16*IG
+Emagento\framework\webapi\test\unit\rest\request\deserializer\jsontest*
+
+$expectedDecodedJson*
+
+%15*20
+.Deserialization from JSON to array is invalid.2assertequals*
+2BIG
+Emagento\framework\webapi\test\unit\rest\request\deserializer\jsontest

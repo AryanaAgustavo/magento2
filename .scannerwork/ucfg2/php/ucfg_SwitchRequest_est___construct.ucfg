@@ -1,0 +1,87 @@
+
+9magento\store\controller\store\switchrequest::__constructw
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchRequest.php6 6("1*©
+2
+SwitchRequest.php"Ž
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchRequest.phpB B(
+implicit return*ü
+1w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchRequest.php= =(&Â
+¿
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchRequest.php6 6(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\context¼
+¹
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchRequest.php6 6(
+
+$session"__id*,
+*
+$sessionmagento\customer\model\sessionä
+á
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchRequest.php6 6(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceÙ
+Ö
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchRequest.php6 6(
+$hashGenerator"__id*C
+A
+$hashGenerator/magento\store\model\storeswitcher\hashgeneratorÊ
+Ç
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchRequest.php6 6(
+$urlDecoder"__id*7
+5
+$urlDecoder&magento\framework\url\decoderinterfaceô
+ñ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchRequest.php= =(%
+%1"0magento\framework\app\action\action::__construct*0.
+,magento\store\controller\store\switchrequest*
+
+
+$contextÕ
+Ò
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchRequest.php> >()C.
+,magento\store\controller\store\switchrequest"
+customerSession"__id*
+
+
+$sessionã
+à
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchRequest.php? ?(7F.
+,magento\store\controller\store\switchrequest"
+customerRepository"__id*
+
+$customerRepositoryÙ
+Ö
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchRequest.php@ @(-A.
+,magento\store\controller\store\switchrequest"
+hashGenerator"__id*
+
+$hashGeneratorÓ
+Ð
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchRequest.phpA A('>.
+,magento\store\controller\store\switchrequest"
+
+urlDecoder"__id*
+
+$urlDecoder*
+2:0
+$context$magento\framework\app\action\context:*
+$sessionmagento\customer\model\session:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:A
+$hashGenerator/magento\store\model\storeswitcher\hashgenerator:5
+$urlDecoder&magento\framework\url\decoderinterfaceB0.
+,magento\store\controller\store\switchrequest

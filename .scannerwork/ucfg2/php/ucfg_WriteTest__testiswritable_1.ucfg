@@ -1,0 +1,60 @@
+
+@magento\framework\filesystem\directory\writetest::testiswritable•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpû û(""1*Ä
+2
+WriteTest.php"­
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php (
+implicit return*Ÿ
+1•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpı ı(Bş
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpı ı(A
+%1*42
+0magento\framework\filesystem\directory\writetest*	
+newDir1*2ÿ2getdirectoryinstance·
+´
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpı ı(A
+
+$directory"__id*
+
+%1Â¿
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpş ş(!
+%2*
+
+
+$directory*
+bar2createÓĞ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpÿ ÿ(E
+%3*
+
+
+$directory*
+not_existing_dir2
+iswritableìé
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpÿ ÿ(F
+%4*42
+0magento\framework\filesystem\directory\writetest*
+
+%32assertfalseÆÃ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php€ €(7
+%5*
+
+
+$directory*
+bar2
+iswritableëè
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.php€ €(8
+%6*42
+0magento\framework\filesystem\directory\writetest*
+
+%52
+asserttrue*
+2B42
+0magento\framework\filesystem\directory\writetest

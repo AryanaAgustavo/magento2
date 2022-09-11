@@ -1,0 +1,68 @@
+
+>magento\sales\model\order\shipment\itemrepository::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment\ItemRepository.php. .("1*¯
+2
+ItemRepository.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment\ItemRepository.php8 8(
+implicit return*ò
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment\ItemRepository.php4 4(,â
+ß
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment\ItemRepository.php. .(
+$itemResource"__id*H
+F
+$itemResource5magento\sales\model\spi\shipmentitemresourceinterfaceÞ
+Û
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment\ItemRepository.php. .(
+$itemFactory"__id*E
+C
+$itemFactory3magento\sales\api\data\shipmentiteminterfacefactoryú
+÷
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment\ItemRepository.php. .(
+$searchResultFactory"__id*Y
+W
+$searchResultFactory?magento\sales\api\data\shipmentitemsearchresultinterfacefactoryü
+ù
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment\ItemRepository.php. .(
+$collectionProcessor"__id*[
+Y
+$collectionProcessorAmagento\framework\api\searchcriteria\collectionprocessorinterfaceá
+Þ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment\ItemRepository.php4 4(+E3
+1magento\sales\model\order\shipment\itemrepository"
+itemResource"__id*
+
+$itemResourceß
+Ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment\ItemRepository.php5 5()D3
+1magento\sales\model\order\shipment\itemrepository"
+itemFactory"__id*
+
+$itemFactoryï
+ì
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment\ItemRepository.php6 6(9L3
+1magento\sales\model\order\shipment\itemrepository"
+searchResultFactory"__id*
+
+$searchResultFactoryï
+ì
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment\ItemRepository.php7 7(9L3
+1magento\sales\model\order\shipment\itemrepository"
+collectionProcessor"__id*
+
+$collectionProcessor*
+2:F
+$itemResource5magento\sales\model\spi\shipmentitemresourceinterface:C
+$itemFactory3magento\sales\api\data\shipmentiteminterfacefactory:W
+$searchResultFactory?magento\sales\api\data\shipmentitemsearchresultinterfacefactory:Y
+$collectionProcessorAmagento\framework\api\searchcriteria\collectionprocessorinterfaceB53
+1magento\sales\model\order\shipment\itemrepository

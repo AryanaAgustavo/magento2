@@ -1,0 +1,69 @@
+
+cmagento\catalogurlrewrite\plugin\catalog\model\product\updateproductwebsiteurlrewrites::__construct¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Plugin\Catalog\Model\Product\UpdateProductWebsiteUrlRewrites.php2 2("1*ç
+2%
+#UpdateProductWebsiteUrlRewrites.php"º
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Plugin\Catalog\Model\Product\UpdateProductWebsiteUrlRewrites.php< <(
+implicit return*å
+1¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Plugin\Catalog\Model\Product\UpdateProductWebsiteUrlRewrites.php8 8((ü
+ù
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Plugin\Catalog\Model\Product\UpdateProductWebsiteUrlRewrites.php2 2(
+$urlPersist"__id*=
+;
+$urlPersist,magento\urlrewrite\model\urlpersistinterface©
+¦
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Plugin\Catalog\Model\Product\UpdateProductWebsiteUrlRewrites.php2 2(
+$productCollectionFactory"__id*\
+Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactoryœ
+™
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Plugin\Catalog\Model\Product\UpdateProductWebsiteUrlRewrites.php2 2(
+$appendRewrites"__id*Y
+W
+$appendRewritesDmagento\catalogurlrewrite\model\products\appendurlrewritestoproducts‘
+Ž
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Plugin\Catalog\Model\Product\UpdateProductWebsiteUrlRewrites.php2 2(
+$getStoresList"__id*O
+M
+$getStoresList;magento\store\model\storeresolver\getstoreslistbywebsiteids©
+¦
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Plugin\Catalog\Model\Product\UpdateProductWebsiteUrlRewrites.php8 8('hX
+Vmagento\catalogurlrewrite\plugin\catalog\model\product\updateproductwebsiteurlrewrites"
+
+urlPersist"__id*
+
+$urlPersistÅ
+Â
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Plugin\Catalog\Model\Product\UpdateProductWebsiteUrlRewrites.php9 9(CvX
+Vmagento\catalogurlrewrite\plugin\catalog\model\product\updateproductwebsiteurlrewrites"
+productCollectionFactory"__id*
+
+$productCollectionFactory±
+®
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Plugin\Catalog\Model\Product\UpdateProductWebsiteUrlRewrites.php: :(/lX
+Vmagento\catalogurlrewrite\plugin\catalog\model\product\updateproductwebsiteurlrewrites"
+appendRewrites"__id*
+
+$appendRewrites¯
+¬
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Plugin\Catalog\Model\Product\UpdateProductWebsiteUrlRewrites.php; ;(-kX
+Vmagento\catalogurlrewrite\plugin\catalog\model\product\updateproductwebsiteurlrewrites"
+getStoresList"__id*
+
+$getStoresList*
+2:;
+$urlPersist,magento\urlrewrite\model\urlpersistinterface:Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactory:W
+$appendRewritesDmagento\catalogurlrewrite\model\products\appendurlrewritestoproducts:M
+$getStoresList;magento\store\model\storeresolver\getstoreslistbywebsiteidsBZX
+Vmagento\catalogurlrewrite\plugin\catalog\model\product\updateproductwebsiteurlrewrites

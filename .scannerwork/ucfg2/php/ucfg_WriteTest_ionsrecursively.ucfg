@@ -1,0 +1,60 @@
+
+Rmagento\framework\filesystem\directory\writetest::testchangepermissionsrecursivelyï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpñ ñ(4"1*ƒ
+2
+WriteTest.php"≠
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpû û(
+implicit return*Ì
+1ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpò ò(BÅ˛
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpò ò(A
+%1*42
+0magento\framework\filesystem\directory\writetest*	
+newDir1*2ˇ2getdirectoryinstance∑
+¥
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpò ò(A
+
+$directory"__id*
+
+%1Õ 
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpô ô(,
+%2*
+
+
+$directory*
+test_directory2create⁄◊
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpö ö(9
+%3*
+
+
+$directory*
+test_directory/subdirectory2create˝˙
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpõ õ(Z
+%4*
+
+
+$directory*-+
+)test_directory/subdirectory/test_file.txt*
+Test Content2	writefileÒÓ
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpù ù(`
+%5*
+
+
+$directory*
+test_directory*2ˇ*2§2changepermissionsrecursivelyÎË
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpù ù(a
+%6*42
+0magento\framework\filesystem\directory\writetest*
+
+%52
+asserttrue*
+2B42
+0magento\framework\filesystem\directory\writetest

@@ -1,0 +1,165 @@
+
+smagento\catalog\model\resourcemodel\product\indexer\price\compositeproductrelationscalculator::getmaxrelationscount©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php   (("1*¯.
+1©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php" "(>³
+°
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php" "(,
+%1"__id*v*t_
+]magento\catalog\model\resourcemodel\product\indexer\price\compositeproductrelationscalculator"
+indexerResourceÌÉ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php" "(=
+%2*
+
+%12getconnectionÌ
+É
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php" "(=
+$connection"__id*
+
+%2ÎË
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php# #(/
+%3*
+
+$connection2selectÐ
+Í
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php# #(/
+$relationSelect"__id*
+
+%3½º
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php% %(X
+%4"$Array³
+°
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php% %(1
+%5"__id*v*t_
+]magento\catalog\model\resourcemodel\product\indexer\price\compositeproductrelationscalculator"
+indexerResourceåâ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php% %(W
+%6*
+
+%5*
+catalog_product_relation2gettableÝ
+Ú
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php% %(X
+%7"__mapSet*
+
+%4*
+
+relation*
+
+%6½º
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php& &(F
+%8"$ArrayÃÀ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php& &(E
+%9"zend_db_expr÷
+ô
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php& &(E
+%10"zend_db_expr::__construct*
+
+%9*
+count(relation.child_id)Û
+Ø
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php& &(F
+%11"__mapSet*
+
+%8*	
+count*
+
+%9áÞ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php$ '(	
+%12*
+
+$relationSelect*
+
+%4*
+
+%82fromáÞ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php( ((+
+%13*
+
+$relationSelect*
+	parent_id2groupÏÌ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php* *(*
+%14*
+
+$connection2selectÌ
+É
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php* *(*
+
+$maxSelect"__id*
+
+%14¾»
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php, ,(,
+%15"$Arrayí
+ê
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php, ,(,
+%16"__mapSet*
+
+%15*
+	max_value*
+
+$relationSelect¾»
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php- -(8
+%17"$ArrayÄÁ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php- -(7
+%18"zend_db_exprê
+ç
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php- -(7
+%19"zend_db_expr::__construct*
+
+%18*
+
+MAX(count)Ý
+Ú
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php- -(8
+%20"__mapSet*
+
+%17*	
+count*
+
+%18ÞÛ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php+ .(	
+%21*
+
+
+$maxSelect*
+
+%15*
+
+%172fromáÞ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php/ /(0
+%22*
+
+$connection*
+
+
+$maxSelect2fetchone"µ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CompositeProductRelationsCalculator.php/ /(1
+
+%22Ba_
+]magento\catalog\model\resourcemodel\product\indexer\price\compositeproductrelationscalculator

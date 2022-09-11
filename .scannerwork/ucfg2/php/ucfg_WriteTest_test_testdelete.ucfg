@@ -1,0 +1,71 @@
+
+<magento\framework\filesystem\directory\writetest::testdelete“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpj j("1*Â
+2
+WriteTest.php"«
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpq q(
+implicit return*Æ
+1“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpl l(Aþû
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpl l(@
+%1*42
+0magento\framework\filesystem\directory\writetest*
+
+newDir*2ÿ2getdirectoryinstanceµ
+²
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpl l(@
+
+$directory"__id*
+
+%1Â¿
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpm m(!
+%2*
+
+
+$directory*	
+
+$path2createÃÀ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpn n(4
+%3*
+
+
+$directory*	
+
+$path2isexistéæ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpn n(5
+%4*42
+0magento\framework\filesystem\directory\writetest*
+
+%32
+asserttrueÂ¿
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpo o(!
+%5*
+
+
+$directory*	
+
+$path2deleteÃÀ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpp p(5
+%6*
+
+
+$directory*	
+
+$path2isexistêç
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filesystem\Directory\WriteTest.phpp p(6
+%7*42
+0magento\framework\filesystem\directory\writetest*
+
+%62assertfalse*
+2:
+$pathB42
+0magento\framework\filesystem\directory\writetest

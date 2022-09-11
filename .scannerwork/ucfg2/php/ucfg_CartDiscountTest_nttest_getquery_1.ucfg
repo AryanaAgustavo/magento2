@@ -1,0 +1,37 @@
+
+9magento\graphql\quote\customer\cartdiscounttest::getqueryï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CartDiscountTest.php] ]("1*Ç
+1ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CartDiscountTest.php_ m(œ
+Ã
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CartDiscountTest.php] ](
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringÔ
+Ï
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CartDiscountTest.php_ m(
+%1"__concat*
+{
+  cart(cart_id: "*ìê
+ç") {
+    prices {
+      discount {
+        label
+        amount {
+          value
+          currency
+        }
+      }
+    }
+  }
+}*
+
+$maskedQuoteId"†
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CartDiscountTest.php_ m(
+
+%1:
+$maskedQuoteIdstringB31
+/magento\graphql\quote\customer\cartdiscounttest

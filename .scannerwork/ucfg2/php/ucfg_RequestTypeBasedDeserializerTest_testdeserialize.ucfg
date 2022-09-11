@@ -1,0 +1,119 @@
+
+emagento\catalog\test\unit\model\product\webapi\rest\requesttypebaseddeserializertest::testdeserialize†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.php; ;(#"1*Ê
+2&
+$RequestTypeBasedDeserializerTest.php"∏
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.phpH H(
+implicit return*¨
+1†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.phpA B('»
+≈
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.php; ;(#
+$body"__id*
+
+$bodystring÷
+”
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.php; ;(#
+$contentType"__id*
+
+$contentTypestringç
+ä
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.php; ;(#
+$deserializer"__id*N
+L
+$deserializer;magento\framework\webapi\rest\request\deserializerinterface€
+ÿ
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.php; ;(#
+$expectedResult"__id*
+
+$expectedResultarrayù
+ö
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.phpA A(
+%1"__id*i*gV
+Tmagento\catalog\test\unit\model\product\webapi\rest\requesttypebaseddeserializertest"
+requestMock–Õ
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.phpA A(4
+%2*
+
+%1*
+getContentType2method“œ
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.phpA B(&
+%3*
+
+%2*
+
+$contentType2
+willreturn®
+•
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.phpC C(%
+%4"__id*t*rV
+Tmagento\catalog\test\unit\model\product\webapi\rest\requesttypebaseddeserializertest"
+deserializeFactoryMockãà
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.phpC/ C(;
+%5*XV
+Tmagento\catalog\test\unit\model\product\webapi\rest\requesttypebaseddeserializertest2any≈¬
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.phpC C(<
+%6*
+
+%4*
+
+%52expects≈¬
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.phpC D(
+%7*
+
+%6*
+get2methodÃ…
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.phpC E( 
+%8*
+
+%7*
+
+$contentType2with”–
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.phpC F('
+%9*
+
+%8*
+
+$deserializer2
+willreturnØ
+¨
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.phpG- G(P
+%10"__id*z*xV
+Tmagento\catalog\test\unit\model\product\webapi\rest\requesttypebaseddeserializertest"
+requestTypeBasedDeserializerŒÀ
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.phpG- G(d
+%11*
+
+%10*	
+
+$body2deserialize≥∞
+†
+ïC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\Rest\RequestTypeBasedDeserializerTest.phpG G(e
+%12*XV
+Tmagento\catalog\test\unit\model\product\webapi\rest\requesttypebaseddeserializertest*
+
+$expectedResult*
+
+%112assertequals*
+2:
+$bodystring:
+$contentTypestring:L
+$deserializer;magento\framework\webapi\rest\request\deserializerinterface:
+$expectedResultarrayBXV
+Tmagento\catalog\test\unit\model\product\webapi\rest\requesttypebaseddeserializertest

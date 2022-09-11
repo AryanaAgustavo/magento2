@@ -1,0 +1,80 @@
+
+Gmagento\checkout\block\cart\crossselltest::testdisplaycrosssellproductså
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Block\Cart\CrosssellTest.phpz z(0"1*¡
+2
+CrosssellTest.php"¶
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Block\Cart\CrosssellTest.phpÖ Ö(
+implicit return*Ë
+1å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Block\Cart\CrosssellTest.php| |(7≥
+∞
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Block\Cart\CrosssellTest.phpz z(0
+$data"__id*
+
+$dataarray¡
+æ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Block\Cart\CrosssellTest.php| |(5
+%1"__mapGet*	
+
+$data*
+updateProductsﬂ‹
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Block\Cart\CrosssellTest.php| |(6
+%2*-+
+)magento\checkout\block\cart\crossselltest*
+
+%12updateproducts„
+‡
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Block\Cart\CrosssellTest.php}& }(=
+%3"__id*C*A+
+)magento\checkout\block\cart\crossselltest"
+existingProductsÈÊ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Block\Cart\CrosssellTest.php} }(>
+%4*-+
+)magento\checkout\block\cart\crossselltest*
+
+simple*
+
+%32linkproductsäá
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Block\Cart\CrosssellTest.php~ ~(W
+%5*-+
+)magento\checkout\block\cart\crossselltest*20
+.test_order_with_simple_product_without_address2getblockitems™
+ß
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Block\Cart\CrosssellTest.php~ ~(W
+$items"__id*
+
+%5…
+∆
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Block\Cart\CrosssellTest.phpÅ Å()
+%6"__mapGet*	
+
+$data*
+expectedProductLinksÂ‚
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Block\Cart\CrosssellTest.phpÇ Ç()
+%7*-+
+)magento\checkout\block\cart\crossselltest*
+
+
+$items2getactuallinks≤Ø
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Block\Cart\CrosssellTest.phpÄ Ñ(	
+%8*-+
+)magento\checkout\block\cart\crossselltest*
+
+%6*
+
+%7*IG
+EExpected cross-sell products do not match actual cross-sell products!2assertequals*
+2:
+$dataarrayB-+
+)magento\checkout\block\cart\crossselltest

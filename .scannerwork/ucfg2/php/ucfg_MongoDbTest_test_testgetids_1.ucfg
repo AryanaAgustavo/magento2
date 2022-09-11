@@ -1,0 +1,93 @@
+
+Amagento\framework\cache\test\unit\backend\mongodbtest::testgetidsÑ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php. .("1*µ
+2
+MongoDbTest.php"ú
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php4 4(
+implicit return*≈
+1Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php0 0(+©
+¶
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php. .(
+$ids"__id*
+
+$idsarray≥
+∞
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php. .(
+	$expected"__id*
+
+	$expectedarray§°
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php0 0(*	
+$result"arrayiterator√
+¿
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php0 0(*
+%1"arrayiterator::__construct*
+	
+$result*
+
+$ids‚
+ﬂ
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php1 1(
+%2"__id*J*H7
+5magento\framework\cache\test\unit\backend\mongodbtest"
+_collection—Œ
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php1$ 1(1
+%3*97
+5magento\framework\cache\test\unit\backend\mongodbtest2once©¶
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php1 1(2
+%4*
+
+%2*
+
+%32expects™ß
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php1 1(B
+%5*
+
+%4*
+find2method±Æ
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php1 1(W
+%6*
+
+%5*
+	
+$result2
+willreturn›
+⁄
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php2 2(
+%7"__id*E*C7
+5magento\framework\cache\test\unit\backend\mongodbtest"
+_model†ù
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php2 2()
+%8*
+
+%72getids£
+†
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php2 2()	
+$actual"__id*
+
+%8ıÚ
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Cache\Test\Unit\Backend\MongoDbTest.php3 3(/
+%9*97
+5magento\framework\cache\test\unit\backend\mongodbtest*
+
+	$expected*
+	
+$actual2assertequals*
+2:
+$idsarray:
+	$expectedarrayB97
+5magento\framework\cache\test\unit\backend\mongodbtest

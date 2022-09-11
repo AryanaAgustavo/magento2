@@ -1,0 +1,50 @@
+
+@magento\graphql\quote\cartpromotionstest::getcartitempricesqueryê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\CartPromotionsTest.php’ ’(+"1*∂
+1ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\CartPromotionsTest.php◊ Ú(º
+π
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\CartPromotionsTest.php’ ’(+	
+$cartId"__id*
+
+$cartIdstring¿
+Ω
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\CartPromotionsTest.php◊ Ú(
+%1"__concat*
+{
+  cart(cart_id:"*ÒÓ
+Î"){
+    items{
+      quantity
+      prices{
+        row_total{
+          value
+        }
+        row_total_including_tax{
+          value
+        }
+        total_item_discount{value}
+        discounts{
+          amount{value}
+          label
+        }
+      }
+      }
+    prices{
+      discounts{
+        amount{value}
+      }
+    }
+  }
+}
+*
+	
+$cartId"õ
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\CartPromotionsTest.php◊ Ú(
+
+%1:
+$cartIdstringB,*
+(magento\graphql\quote\cartpromotionstest

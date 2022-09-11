@@ -1,0 +1,72 @@
+
+8magento\adminadobeims\model\flushusertokens::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\FlushUserTokens.php1 1("1*ª
+2
+FlushUserTokens.php"
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\FlushUserTokens.php; ;(
+implicit return*¯
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\FlushUserTokens.php7 7(:ë
+è
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\FlushUserTokens.php1 1(
+$imsWebapiRepository"__id*P
+N
+$imsWebapiRepository6magento\adminadobeims\api\imswebapirepositoryinterfaceÕ
+Ò
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\FlushUserTokens.php1 1(
+$userContext"__id*B
+@
+$userContext0magento\authorization\model\usercontextinterfaceÂ
+¿
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\FlushUserTokens.php1 1(	
+$logOut"__id*4
+2
+$logOut'magento\adobeimsapi\api\logoutinterfaceÇ
+Ä
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\FlushUserTokens.php1 1(
+
+$encryptor"__id*6
+4
+
+$encryptor&magento\framework\encryption\encryptorã
+à
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\FlushUserTokens.php7 7(9F-
++magento\adminadobeims\model\flushusertokens"
+imsWebapiRepository"__id*
+
+$imsWebapiRepositoryÓ
+Ð
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\FlushUserTokens.php8 8()>-
++magento\adminadobeims\model\flushusertokens"
+userContext"__id*
+
+$userContextÉ
+Æ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\FlushUserTokens.php9 9(9-
++magento\adminadobeims\model\flushusertokens"
+logOut"__id*
+	
+$logOutÏ
+Ì
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminAdobeIms\Model\FlushUserTokens.php: :(%<-
++magento\adminadobeims\model\flushusertokens"
+	encryptor"__id*
+
+
+$encryptor*
+2:N
+$imsWebapiRepository6magento\adminadobeims\api\imswebapirepositoryinterface:@
+$userContext0magento\authorization\model\usercontextinterface:2
+$logOut'magento\adobeimsapi\api\logoutinterface:4
+
+$encryptor&magento\framework\encryption\encryptorB/-
++magento\adminadobeims\model\flushusertokens

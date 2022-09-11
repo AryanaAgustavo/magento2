@@ -1,0 +1,111 @@
+
+@magento\mediacontentcatalog\observer\categorydelete::__construct~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpJ J("1*±
+2
+CategoryDelete.php"ï
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpZ Z(
+implicit return*ë
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpS S(DÑ
+Å
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpJ J(
+$extractAssetsFromContent"__id*\
+Z
+$extractAssetsFromContent=magento\mediacontentapi\api\extractassetsfromcontentinterface„
+‡
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpJ J(
+$getContent"__id*I
+G
+$getContent8magento\mediacontentapi\model\getentitycontentsinterfaceÅ
+˛
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpJ J(
+$deleteContentAssetLinks"__id*Z
+X
+$deleteContentAssetLinks<magento\mediacontentapi\api\deletecontentassetlinksinterfaceÉ
+Ä
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpJ J(
+$contentIdentityFactory"__id*]
+[
+$contentIdentityFactory@magento\mediacontentapi\api\data\contentidentityinterfacefactoryÜ
+É
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpJ J(
+$contentAssetLinkFactory"__id*_
+]
+$contentAssetLinkFactoryAmagento\mediacontentapi\api\data\contentassetlinkinterfacefactory«
+ƒ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpJ J(	
+$config"__id*1
+/
+$config$magento\mediacontentapi\model\config®
+•
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpJ J(	
+$fields"__id*
+
+$fieldsarray˝
+˙
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpS S(CS5
+3magento\mediacontentcatalog\observer\categorydelete"
+extractAssetsFromContent"__id*
+
+$extractAssetsFromContent·
+ﬁ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpT T('E5
+3magento\mediacontentcatalog\observer\categorydelete"
+
+getContent"__id*
+
+$getContentŸ
+÷
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpU U(A5
+3magento\mediacontentcatalog\observer\categorydelete"
+config"__id*
+	
+$config˚
+¯
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpV V(AR5
+3magento\mediacontentcatalog\observer\categorydelete"
+deleteContentAssetLinks"__id*
+
+$deleteContentAssetLinks˚
+¯
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpW W(AR5
+3magento\mediacontentcatalog\observer\categorydelete"
+contentAssetLinkFactory"__id*
+
+$contentAssetLinkFactory˘
+ˆ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpX X(?Q5
+3magento\mediacontentcatalog\observer\categorydelete"
+contentIdentityFactory"__id*
+
+$contentIdentityFactoryŸ
+÷
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\CategoryDelete.phpY Y(A5
+3magento\mediacontentcatalog\observer\categorydelete"
+fields"__id*
+	
+$fields*
+2:Z
+$extractAssetsFromContent=magento\mediacontentapi\api\extractassetsfromcontentinterface:G
+$getContent8magento\mediacontentapi\model\getentitycontentsinterface:X
+$deleteContentAssetLinks<magento\mediacontentapi\api\deletecontentassetlinksinterface:[
+$contentIdentityFactory@magento\mediacontentapi\api\data\contentidentityinterfacefactory:]
+$contentAssetLinkFactoryAmagento\mediacontentapi\api\data\contentassetlinkinterfacefactory:/
+$config$magento\mediacontentapi\model\config:
+$fieldsarrayB75
+3magento\mediacontentcatalog\observer\categorydelete

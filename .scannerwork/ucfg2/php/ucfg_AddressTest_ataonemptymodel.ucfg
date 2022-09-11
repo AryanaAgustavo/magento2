@@ -1,0 +1,128 @@
+
+Emagento\customer\model\addresstest::testupdatedatasetdataonemptymodelÑ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php (5"1*µ
+2
+AddressTest.php"ú
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php- -(
+implicit return*à
+1Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php" &(#“
+œ
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php" "(,
+%1"__id*:*8$
+"magento\customer\model\addresstest"
+addressFactory†ù
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php" "(6
+%2*
+
+%12create•¢
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php" #(
+%3*
+
+%2*22setid¨©
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php" $(
+%4*
+
+%3*	
+CityX2setcity≤Ø
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php" %($
+%5*
+
+%4*
+
+CompanyX2
+setcompany∞≠
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php" &("
+%6*
+
+%5*	
+777772setpostcode®
+•
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php" &("
+$addressData"__id*
+
+%6–
+Õ
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php' '(*
+%7"__id*8*6$
+"magento\customer\model\addresstest"
+addressModel∂≥
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php' '(D
+%8*
+
+%7*
+
+$addressData2
+updatedata¶£
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php' '(T
+%9*
+
+%82getdatamodel®
+•
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php' '(T
+$addressData"__id*
+
+%9™ß
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php) )(4
+%10*
+
+$addressData2getid÷”
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php) )(5
+%11*&$
+"magento\customer\model\addresstest*2*
+
+%102assertequals¨©
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php*% *(<
+%12*
+
+$addressData2getcity€ÿ
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php* *(=
+%13*&$
+"magento\customer\model\addresstest*	
+CityX*
+
+%122assertequalsØ¨
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php+( +(B
+%14*
+
+$addressData2
+getcompanyﬁ€
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php+ +(C
+%15*&$
+"magento\customer\model\addresstest*
+
+CompanyX*
+
+%142assertequals∞≠
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php,% ,(@
+%16*
+
+$addressData2getpostcode€ÿ
+Ñ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressTest.php, ,(A
+%17*&$
+"magento\customer\model\addresstest*	
+77777*
+
+%162assertequals*
+2B&$
+"magento\customer\model\addresstest

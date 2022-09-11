@@ -1,0 +1,75 @@
+
+7magento\framework\amqp\topology\queueinstaller::install}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\QueueInstaller.php ("1*∞
+2
+QueueInstaller.php"î
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\QueueInstaller.php# #(
+implicit return*Ñ
+1}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\QueueInstaller.php "(
+¬
+ø
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\QueueInstaller.php (
+
+$channel"__id*,
+*
+$channelphpamqplib\channel\amqpchannelÁ
+‰
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\QueueInstaller.php (
+$queue"__id*S
+Q
+$queueGmagento\framework\messagequeue\topology\config\queueconfigiteminterfaceùö
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\QueueInstaller.php (
+%1*
+
+
+$queue2getnameüú
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\QueueInstaller.php (
+%2*
+
+
+$queue2	isdurable¢ü
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\QueueInstaller.php ("
+%3*
+
+
+$queue2isautodelete¢ü
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\QueueInstaller.php!$ !(:
+%4*
+
+
+$queue2getarguments÷”
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\QueueInstaller.php! !(;
+%5*20
+.magento\framework\amqp\topology\queueinstaller*
+
+%42processargumentsÊ„
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\QueueInstaller.php "(	
+%6*
+
+
+$channel*
+
+%1*	
+false*
+
+%2*	
+false*
+
+%3*	
+false*
+
+%52queue_declare*
+2:*
+$channelphpamqplib\channel\amqpchannel:Q
+$queueGmagento\framework\messagequeue\topology\config\queueconfigiteminterfaceB20
+.magento\framework\amqp\topology\queueinstaller

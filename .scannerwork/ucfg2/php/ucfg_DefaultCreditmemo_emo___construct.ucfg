@@ -1,0 +1,107 @@
+
+Mmagento\sales\model\order\pdf\items\creditmemo\defaultcreditmemo::__constructŒ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Items\Creditmemo\DefaultCreditmemo.php! !("1*Ã
+2
+DefaultCreditmemo.php"¤
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Items\Creditmemo\DefaultCreditmemo.php7 7(
+implicit return*ã
+1Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Items\Creditmemo\DefaultCreditmemo.php, ,( Ó
+Ð
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Items\Creditmemo\DefaultCreditmemo.php! !(
+
+$context"__id*-
++
+$contextmagento\framework\model\contextÐ
+Í
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Items\Creditmemo\DefaultCreditmemo.php! !(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryË
+È
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Items\Creditmemo\DefaultCreditmemo.php! !(
+
+$taxData"__id*%
+#
+$taxDatamagento\tax\helper\dataÖ
+Ó
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Items\Creditmemo\DefaultCreditmemo.php! !(
+$filesystem"__id*-
++
+$filesystemmagento\framework\filesystemæ
+ã
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Items\Creditmemo\DefaultCreditmemo.php! !(
+$filterManager"__id*:
+8
+$filterManager&magento\framework\filter\filtermanagerÖ
+Ó
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Items\Creditmemo\DefaultCreditmemo.php! !(	
+$string"__id*1
+/
+$string$magento\framework\stdlib\stringutilsì
+é
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Items\Creditmemo\DefaultCreditmemo.php! !(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceö
+ó
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Items\Creditmemo\DefaultCreditmemo.php! !(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb³
+°
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Items\Creditmemo\DefaultCreditmemo.php! !(
+$data"__id*
+
+$dataarrayõ
+ò
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Items\Creditmemo\DefaultCreditmemo.php, ,(NB
+@magento\sales\model\order\pdf\items\creditmemo\defaultcreditmemo"
+string"__id*
+	
+$string¡
+ž
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Items\Creditmemo\DefaultCreditmemo.php- 6(	
+%1">magento\sales\model\order\pdf\items\abstractitems::__construct*DB
+@magento\sales\model\order\pdf\items\creditmemo\defaultcreditmemo*
+
+
+$context*
+
+	$registry*
+
+
+$taxData*
+
+$filesystem*
+
+$filterManager*
+
+	$resource*
+
+$resourceCollection*	
+
+$data*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:#
+$taxDatamagento\tax\helper\data:+
+$filesystemmagento\framework\filesystem:8
+$filterManager&magento\framework\filter\filtermanager:/
+$string$magento\framework\stdlib\stringutils:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayBDB
+@magento\sales\model\order\pdf\items\creditmemo\defaultcreditmemo

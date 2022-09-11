@@ -1,0 +1,153 @@
+
+Fmagento\sales\controller\adminhtml\order\creditmemoloader::__construct„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpW W("1*º
+2
+CreditmemoLoader.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpm m(
+implicit return*ª&
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpc c(<õ
+ò
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpW W(
+$creditmemoRepository"__id*J
+H
+$creditmemoRepository/magento\sales\api\creditmemorepositoryinterfaceë
+è
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpW W(
+$creditmemoFactory"__id*C
+A
+$creditmemoFactory+magento\sales\model\order\creditmemofactoryÖ
+Ó
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpW W(
+$orderFactory"__id*3
+1
+$orderFactory magento\sales\model\orderfactoryì
+é
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpW W(
+$invoiceRepository"__id*D
+B
+$invoiceRepository,magento\sales\api\invoicerepositoryinterfaceÞ
+Û
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpW W(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterface×
+Ô
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpW W(
+$backendSession"__id*2
+0
+$backendSessionmagento\backend\model\sessionä
+á
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpW W(
+$messageManager"__id*?
+=
+$messageManager*magento\framework\message\managerinterfaceÈ
+Å
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpW W(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryú
+÷
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpW W(
+$stockConfiguration"__id*Q
+O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterface«
+¨
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpW W(
+$data"__id*
+
+$dataarray‚
+ÿ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpc c(;U;
+9magento\sales\controller\adminhtml\order\creditmemoloader"
+creditmemoRepository"__id*
+
+$creditmemoRepositoryü
+ù
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpd d(5R;
+9magento\sales\controller\adminhtml\order\creditmemoloader"
+creditmemoFactory"__id*
+
+$creditmemoFactoryò
+ï
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpe e(+M;
+9magento\sales\controller\adminhtml\order\creditmemoloader"
+orderFactory"__id*
+
+$orderFactoryü
+ù
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpf f(5R;
+9magento\sales\controller\adminhtml\order\creditmemoloader"
+invoiceRepository"__id*
+
+$invoiceRepositoryò
+ï
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpg g(+M;
+9magento\sales\controller\adminhtml\order\creditmemoloader"
+eventManager"__id*
+
+$eventManagerö
+ó
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phph h(/O;
+9magento\sales\controller\adminhtml\order\creditmemoloader"
+backendSession"__id*
+
+$backendSessionö
+ó
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpi i(/O;
+9magento\sales\controller\adminhtml\order\creditmemoloader"
+messageManager"__id*
+
+$messageManagerê
+ç
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpj j(#I;
+9magento\sales\controller\adminhtml\order\creditmemoloader"
+
+registry"__id*
+
+	$registryþ
+û
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpk k(7S;
+9magento\sales\controller\adminhtml\order\creditmemoloader"
+stockConfiguration"__id*
+
+$stockConfiguration…
+‚
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CreditmemoLoader.phpl l("
+%1")magento\framework\dataobject::__construct*=;
+9magento\sales\controller\adminhtml\order\creditmemoloader*	
+
+$data*
+2:H
+$creditmemoRepository/magento\sales\api\creditmemorepositoryinterface:A
+$creditmemoFactory+magento\sales\model\order\creditmemofactory:1
+$orderFactory magento\sales\model\orderfactory:B
+$invoiceRepository,magento\sales\api\invoicerepositoryinterface:9
+$eventManager(magento\framework\event\managerinterface:0
+$backendSessionmagento\backend\model\session:=
+$messageManager*magento\framework\message\managerinterface:'
+	$registrymagento\framework\registry:O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterface:
+$dataarrayB=;
+9magento\sales\controller\adminhtml\order\creditmemoloader

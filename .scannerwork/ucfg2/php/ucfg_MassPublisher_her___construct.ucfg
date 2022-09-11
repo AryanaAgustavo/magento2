@@ -1,0 +1,96 @@
+
+?magento\asynchronousoperations\model\masspublisher::__construct}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpA A("1*¯
+2
+MassPublisher.php"”
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpO O(
+implicit return*£
+1}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpI I(8ð
+í
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpA A(
+$exchangeRepository"__id*O
+M
+$exchangeRepository6magento\framework\messagequeue\bulk\exchangerepositoryâ
+ß
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpA A(
+$envelopeFactory"__id*D
+B
+$envelopeFactory.magento\framework\messagequeue\envelopefactoryß
+Ü
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpA A(
+$messageEncoder"__id*B
+@
+$messageEncoder-magento\framework\messagequeue\messageencoderå
+â
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpA A(
+$messageValidator"__id*F
+D
+$messageValidator/magento\framework\messagequeue\messagevalidatorì
+é
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpA A(
+$publisherConfig"__id*N
+L
+$publisherConfig8magento\framework\messagequeue\publisher\configinterfaceô
+ñ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpA A(
+$messageIdGenerator"__id*S
+Q
+$messageIdGenerator:magento\framework\messagequeue\messageidgeneratorinterfaceï
+ì
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpI I(7L4
+2magento\asynchronousoperations\model\masspublisher"
+exchangeRepository"__id*
+
+$exchangeRepositoryé
+æ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpJ J(1I4
+2magento\asynchronousoperations\model\masspublisher"
+envelopeFactory"__id*
+
+$envelopeFactoryç
+ä
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpK K(/H4
+2magento\asynchronousoperations\model\masspublisher"
+messageEncoder"__id*
+
+$messageEncoderë
+è
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpL L(3J4
+2magento\asynchronousoperations\model\masspublisher"
+messageValidator"__id*
+
+$messageValidatoré
+æ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpM M(1I4
+2magento\asynchronousoperations\model\masspublisher"
+publisherConfig"__id*
+
+$publisherConfigï
+ì
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassPublisher.phpN N(7L4
+2magento\asynchronousoperations\model\masspublisher"
+messageIdGenerator"__id*
+
+$messageIdGenerator*
+2:M
+$exchangeRepository6magento\framework\messagequeue\bulk\exchangerepository:B
+$envelopeFactory.magento\framework\messagequeue\envelopefactory:@
+$messageEncoder-magento\framework\messagequeue\messageencoder:D
+$messageValidator/magento\framework\messagequeue\messagevalidator:L
+$publisherConfig8magento\framework\messagequeue\publisher\configinterface:Q
+$messageIdGenerator:magento\framework\messagequeue\messageidgeneratorinterfaceB64
+2magento\asynchronousoperations\model\masspublisher

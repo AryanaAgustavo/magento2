@@ -1,0 +1,64 @@
+
+>magento\graphql\introspectionquerytest::testintrospectionqueryå
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.php (*"1*»
+2
+IntrospectionQueryTest.php"§
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.php9 9(
+implicit return*‡	
+1å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.php 7(ı
+Ú
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.php 7(
+$query"__id*–Õ
+ query IntrospectionQuery {
+  __schema {
+    queryType { name }
+    types{
+      ...FullType
+    }
+    }
+  }
+fragment FullType on __Type{
+  name
+  kind
+  fields(includeDeprecated:true){
+    name
+    args{
+      ...InputValue
+    }
+         }
+    }
+    
+fragment TypeRef on __Type {
+  kind
+  name
+  ofType{
+    kind
+    name
+  }
+}
+fragment InputValue on __InputValue {
+  name
+  description
+  type { ...TypeRef }
+  defaultValue
+}ﬁ€
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.php8- 8(H
+%1**(
+&magento\graphql\introspectionquerytest*
+
+
+$query2graphqlqueryÌÍ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\IntrospectionQueryTest.php8 8(I
+%2**(
+&magento\graphql\introspectionquerytest*
+
+__schema*
+
+%12assertarrayhaskey*
+2B*(
+&magento\graphql\introspectionquerytest

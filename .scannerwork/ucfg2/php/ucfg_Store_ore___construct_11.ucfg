@@ -1,0 +1,84 @@
+
+>magento\backend\controller\adminhtml\system\store::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Controller\Adminhtml\System\Store.php9 9("1*¦
+2
+	Store.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Controller\Adminhtml\System\Store.phpE E(
+implicit return*è
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Controller\Adminhtml\System\Store.php@ @(-Å
+Â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Controller\Adminhtml\System\Store.php9 9(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÇ
+Ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Controller\Adminhtml\System\Store.php9 9(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryÕ
+Ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Controller\Adminhtml\System\Store.php9 9(
+$filterManager"__id*:
+8
+$filterManager&magento\framework\filter\filtermanagerí
+ê
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Controller\Adminhtml\System\Store.php9 9(
+$resultForwardFactory"__id*K
+I
+$resultForwardFactory0magento\backend\model\view\result\forwardfactoryà
+Ý
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Controller\Adminhtml\System\Store.php9 9(
+$resultPageFactory"__id*A
+?
+$resultPageFactory)magento\framework\view\result\pagefactoryâ
+ß
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Controller\Adminhtml\System\Store.php@ @(,F3
+1magento\backend\controller\adminhtml\system\store"
+_coreRegistry"__id*
+
+$coreRegistryã
+à
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Controller\Adminhtml\System\Store.phpA A(-F3
+1magento\backend\controller\adminhtml\system\store"
+filterManager"__id*
+
+$filterManagerõ
+ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Controller\Adminhtml\System\Store.phpB B(%
+%1"'magento\backend\app\action::__construct*53
+1magento\backend\controller\adminhtml\system\store*
+
+
+$contextñ
+î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Controller\Adminhtml\System\Store.phpC C(;M3
+1magento\backend\controller\adminhtml\system\store"
+resultForwardFactory"__id*
+
+$resultForwardFactoryë
+è
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Controller\Adminhtml\System\Store.phpD D(5J3
+1magento\backend\controller\adminhtml\system\store"
+resultPageFactory"__id*
+
+$resultPageFactory*
+2:.
+$context"magento\backend\app\action\context:+
+$coreRegistrymagento\framework\registry:8
+$filterManager&magento\framework\filter\filtermanager:I
+$resultForwardFactory0magento\backend\model\view\result\forwardfactory:?
+$resultPageFactory)magento\framework\view\result\pagefactoryB53
+1magento\backend\controller\adminhtml\system\store

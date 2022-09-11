@@ -1,0 +1,143 @@
+
+Smagento\framework\test\unit\dataobjecttest::testgetdatausingmethodwithoutunderscore{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¶ ¶(;"1*®
+2
+DataObjectTest.php"’
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.phpÀ À(
+implicit return*þ
+1{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¸ ¸(6Ì
+É
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¸ ¸(
+%1"__id*>*<,
+*magento\framework\test\unit\dataobjecttest"
+
+dataObject®«
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¸ ¸(5
+%2*
+
+%1*	
+key_1*
+
+value12setdataÌ
+É
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¹ ¹(+
+%3"__id*>*<,
+*magento\framework\test\unit\dataobjecttest"
+
+dataObject¢Ÿ
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¹ ¹(=
+%4*
+
+%3*	
+key_12hasdataÊÇ
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¹ ¹(>
+%5*.,
+*magento\framework\test\unit\dataobjecttest*
+
+%42
+asserttrueÌ
+É
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.phpº& º(7
+%6"__id*>*<,
+*magento\framework\test\unit\dataobjecttest"
+
+dataObject­ª
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.phpº& º(T
+%7*
+
+%6*	
+key_12getdatausingmethodØÕ
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.phpº º(U
+%8*.,
+*magento\framework\test\unit\dataobjecttest*
+
+value1*
+
+%72assertequalsÌ
+É
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¼ ¼(
+%9"__id*>*<,
+*magento\framework\test\unit\dataobjecttest"
+
+dataObject®«
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¼ ¼(4
+%10*
+
+%9*
+key2*
+
+value22setdataÍ
+Ê
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php½& ½(7
+%11"__id*>*<,
+*magento\framework\test\unit\dataobjecttest"
+
+dataObject£ 
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php½& ½(H
+%12*
+
+%11*
+key22getdataÚ×
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php½ ½(I
+%13*.,
+*magento\framework\test\unit\dataobjecttest*
+
+value2*
+
+%122assertequalsÍ
+Ê
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¾ ¾(+
+%14"__id*>*<,
+*magento\framework\test\unit\dataobjecttest"
+
+dataObject™–
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¾ ¾(6
+%15*
+
+%142getkey2ÌÉ
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¾ ¾(7
+%16*.,
+*magento\framework\test\unit\dataobjecttest*
+
+%152
+assertnullÍ
+Ê
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¿ ¿(+
+%17"__id*>*<,
+*magento\framework\test\unit\dataobjecttest"
+
+dataObject®«
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¿ ¿(G
+%18*
+
+%17*
+key22getdatausingmethodÌÉ
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\DataObjectTest.php¿ ¿(H
+%19*.,
+*magento\framework\test\unit\dataobjecttest*
+
+%182
+assertnull*
+2B.,
+*magento\framework\test\unit\dataobjecttest

@@ -1,0 +1,73 @@
+
+7magento\graphql\quote\customer\carttotalstest::getquery•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CartTotalsTest.phpò ò("1*‡
+1•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CartTotalsTest.phpô ¦(Ï
+Ì
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CartTotalsTest.phpò ò(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringô
+ñ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CartTotalsTest.phpô ¦(
+%1"__concat*
+{
+  cart(cart_id: "*˜•
+’") {
+    items {
+      prices {
+        price {
+          value
+          currency
+        }
+        price_including_tax {
+          value
+          currency
+        }
+        row_total {
+          value
+          currency
+        }
+        row_total_including_tax {
+          value
+          currency
+        }
+      }
+    }
+    prices {
+      grand_total {
+        value
+        currency
+      }
+      subtotal_including_tax {
+        value
+        currency
+      }
+      subtotal_excluding_tax {
+        value
+        currency
+      }
+      subtotal_with_discount_excluding_tax {
+        value
+        currency
+      }
+      applied_taxes {
+        label
+        amount {
+          value
+          currency
+        }
+      }
+    }
+  }
+}*
+
+$maskedQuoteId" 
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CartTotalsTest.phpô ¦(
+
+%1:
+$maskedQuoteIdstringB1/
+-magento\graphql\quote\customer\carttotalstest

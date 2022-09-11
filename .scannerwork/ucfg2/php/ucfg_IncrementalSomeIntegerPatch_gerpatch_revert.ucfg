@@ -1,0 +1,164 @@
+
+Xmagento\testsetupdeclarationmodule3\setup\patch\data\incrementalsomeintegerpatch::revertÀ
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpD D("1*
+2!
+IncrementalSomeIntegerPatch.php"Ø
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpO O(
+implicit return*¶+
+1À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpF F(>À
+½
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpF F(,
+%1"__id*l*jR
+Pmagento\testsetupdeclarationmodule3\setup\patch\data\incrementalsomeintegerpatch"
+resourceConnectionãà
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpF F(=
+%2*
+
+%12getconnectionà
+Ý
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpF F(=
+
+$adapter"__id*
+
+%2âß
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpG G($
+%3*
+
+
+$adapter2select÷ô
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpG G(C
+%4*
+
+%3*
+
+test_table*	
+varchar2fromõò
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpG H((
+%5*
+
+%4*
+`smallint` = ?*22whereß
+Ü
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpG H((	
+$select"__id*
+
+%5ñî
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpI I(.
+%6*
+
+
+$adapter*
+	
+$select2fetchoneà
+Ý
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpI I(.
+
+$varchar"__id*
+
+%6âß
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpJ J('
+%7*
+
+
+$adapter2select†ƒ
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpJ J(U
+%8*
+
+%7*
+reference_table*
+for_patch_testing2fromøõ
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpJ K(+
+%9*
+
+%8*
+`tinyint_ref` = ?*22whereâ
+ß
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpJ K(+
+
+$refSelect"__id*
+
+%9õò
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpL L(2
+%10*
+
+
+$adapter*
+
+
+$refSelect2fetchoneâ
+ß
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpL L(2
+	$varchar2"__id*
+
+%10ÕÒ
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpM' M(M
+%11"$Arrayï
+ì
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpM; M(L
+%12"__concat*
+
+
+$varchar*
+_refü
+ù
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpM' M(M
+%13"__mapSet*
+
+%11*
+`varchar` = ?*
+
+%12üù
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpM M(N
+%14*
+
+
+$adapter*
+
+test_table*
+
+%112deleteÕÒ
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpN' N(E
+%15"$Array‚
+ÿ
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpN' N(E
+%16"__mapSet*
+
+%15*
+`varchar` = ?*
+
+	$varchar2üù
+À
+µC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\IncrementalSomeIntegerPatch.phpN N(F
+%17*
+
+
+$adapter*
+
+test_table*
+
+%152delete*
+2BTR
+Pmagento\testsetupdeclarationmodule3\setup\patch\data\incrementalsomeintegerpatch

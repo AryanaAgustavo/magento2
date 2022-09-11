@@ -1,0 +1,85 @@
+
+Tmagento\adminnotification\model\resourcemodel\system\message\collection::__construct“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\System\Message\Collection.php% %("1*Ã
+2
+Collection.php"«
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\System\Message\Collection.php0 0(
+implicit return*ð
+1“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\System\Message\Collection.php. .(+ö
+ó
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\System\Message\Collection.php% %(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÐ
+Í
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\System\Message\Collection.php% %(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface‚
+ÿ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\System\Message\Collection.php% %(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceí
+ê
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\System\Message\Collection.php% %(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceí
+ê
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\System\Message\Collection.php% %(
+$messageList"__id*<
+:
+$messageList*magento\framework\notification\messagelistî
+ë
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\System\Message\Collection.php% %(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceð
+í
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\System\Message\Collection.php% %(
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbŽ
+‹
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\System\Message\Collection.php. .(*[I
+Gmagento\adminnotification\model\resourcemodel\system\message\collection"
+_messageList"__id*
+
+$messageList©
+¦
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Model\ResourceModel\System\Message\Collection.php/ /(k
+%1"Smagento\framework\model\resourcemodel\db\collection\abstractcollection::__construct*KI
+Gmagento\adminnotification\model\resourcemodel\system\message\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$connection*
+
+	$resource*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface::
+$messageList*magento\framework\notification\messagelist:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbBKI
+Gmagento\adminnotification\model\resourcemodel\system\message\collection

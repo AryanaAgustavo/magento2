@@ -1,0 +1,752 @@
+
+Xmagento\customer\test\unit\model\resourcemodel\address\relationtest::testprocessrelationè
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php0 0('"1*∞%
+5è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpr r(∞
+≠
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpr r(
+$customerId"__id*2ÙÒ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phps' s(8
+%74*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest*22exactly≈¬
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phps s(9
+%75*
+
+$customerResource*
+
+%742expects¿Ω
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phps s(R
+%76*
+
+%75*
+getConnection2method∆√
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phps s(o
+%77*
+
+%76*
+
+$connectionMock2
+willreturnÍÁ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpt$ t(0
+%78*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest2any¬ø
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpt t(1
+%79*
+
+$customerModel*
+
+%782expects∏µ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpt t(B
+%80*
+
+%79*	
+getId2method∑¥
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpt t(Q
+%81*
+
+%80*22
+willreturn…
+∆
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpu u(5
+%82"__concat*
+entity_id = *
+
+$customerIdµ
+≤
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpu u(5
+$conditionSql"__id*
+
+%82ÎË
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpv% v(2
+%83*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest2once√¿
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpv v(3
+%84*
+
+$connectionMock*
+
+%832expectsºπ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpv v(H
+%85*
+
+%84*
+	quoteInto2methodœÃ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpv w(4
+%86*
+
+%85*
+entity_id = ?*
+
+$customerId2withƒ¡
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpv x(+
+%87*
+
+%86*
+
+$conditionSql2
+willreturnÎË
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpy' y(4
+%88*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest2once≈¬
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpy y(5
+%89*
+
+$customerResource*
+
+%882expectsª∏
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpy y(I
+%90*
+
+%89*
+
+getTable2method¿Ω
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpy z()
+%91*
+
+%90*
+customer_entity2with∆√
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpy {(/
+%92*
+
+%91*
+customer_entity2
+willreturn§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php| |(
+%93"$Array±
+Æ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php| |(
+	$toUpdate"__id*
+
+%93*	
+6
+8
+9*˙
+6è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php~ ~(:⁄
+◊
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php~ ~(,
+%94"__mapSet*
+
+	$toUpdate*
+default_billing*
+
+
+$addressId*
+8
+9*¸
+8ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpÅ Å(;›
+⁄
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpÅ Å(-
+%95"__mapSet*
+
+	$toUpdate*
+default_shipping*
+
+
+$addressId*
+9*˙
+9ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpÉ á(ÌÍ
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpÉ% É(2
+%96*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest2once≈¬
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpÉ É(3
+%97*
+
+$connectionMock*
+
+%962expectsª∏
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpÉ É(E
+%98*
+
+%97*
+
+update2method‰·
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpÉ á(
+%99*
+
+%98*
+customer_entity*
+
+	$toUpdate*
+
+$conditionSql2with*
+10*¶
+10ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpâ â(B¸
+˘
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpâ â(!
+%100"__id*U*SE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest"
+
+relationÕ 
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpâ â(A
+%101*
+
+%100*
+
+$addressModel2processrelation≤
+Ø
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpâ â(A	
+$result"__id*
+
+%101Å˛
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpä ä("
+%102*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest*
+	
+$result2
+assertnull*
+11*ƒ
+11
+RelationTest.php"©
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpã ã(
+implicit return*∞{
+1è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php2 A(¯ı
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php2 2(=
+%1*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest* 2getmockbuilder£†
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php3 3(h
+%2"$ArrayÃ
+…
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php3 3(h
+%3"
+__arraySet*
+
+%2*2 *
+getIsDefaultBillingœ
+Ã
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php3 3(h
+%4"
+__arraySet*
+
+%2*2*
+getIsDefaultShipping◊
+‘
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php3 3(h
+%5"
+__arraySet*
+
+%2*2* 
+getIsCustomerSaveTransaction∑¥
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php2 3(i
+%6*
+
+%1*
+
+%22
+addmethods£†
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php5 >(
+%7"$Array¡
+æ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php5 >(
+%8"
+__arraySet*
+
+%7*2 *
+
+__wakeup¿
+Ω
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php5 >(
+%9"
+__arraySet*
+
+%7*2*	
+getIdÀ
+»
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php5 >(
+%10"
+__arraySet*
+
+%7*2*
+getEntityTypeId 
+«
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php5 >(
+%11"
+__arraySet*
+
+%7*2*
+hasDataChangesŒ
+À
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php5 >(
+%12"
+__arraySet*
+
+%7*2*
+validateBeforeSave∆
+√
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php5 >(
+%13"
+__arraySet*
+
+%7*2*
+
+beforeSave≈
+¬
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php5 >(
+%14"
+__arraySet*
+
+%7*2*
+	afterSave…
+∆
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php5 >(
+%15"
+__arraySet*
+
+%7*2*
+isSaveAllowedπ∂
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php2 ?(
+%16*
+
+%6*
+
+%72onlymethods¡æ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php2 @(*
+%17*
+
+%162disableoriginalconstructorÆ´
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php2 A(
+%18*
+
+%172getmockµ
+≤
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php2 A(
+$addressModel"__id*
+
+%18˘ˆ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpB B(?
+%19*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest* 2getmockbuilder§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpC C(D
+%20"$ArrayÃ
+…
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpC C(D
+%21"
+__arraySet*
+
+%20*2 *
+setDefaultBillingœ
+Ã
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpC C(D
+%22"
+__arraySet*
+
+%20*2*
+setDefaultShipping∫∑
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpB C(E
+%23*
+
+%19*
+
+%202
+addmethods§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpE M(
+%24"$Array√
+¿
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpE M(
+%25"
+__arraySet*
+
+%24*2 *
+
+__wakeup¡
+æ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpE M(
+%26"
+__arraySet*
+
+%24*2*
+save¡
+æ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpE M(
+%27"
+__arraySet*
+
+%24*2*
+load»
+≈
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpE M(
+%28"
+__arraySet*
+
+%24*2*
+getResource¬
+ø
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpE M(
+%29"
+__arraySet*
+
+%24*2*	
+getId÷
+”
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpE M(
+%30"
+__arraySet*
+
+%24*2*
+getDefaultShippingAddress’
+“
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpE M(
+%31"
+__arraySet*
+
+%24*2*
+getDefaultBillingAddressª∏
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpB N(
+%32*
+
+%23*
+
+%242onlymethods¡æ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpB O(*
+%33*
+
+%322disableoriginalconstructorÆ´
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpB P(
+%34*
+
+%332getmock∂
+≥
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpB P(
+$customerModel"__id*
+
+%34§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpS S(
+%35"$Array§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpX X()
+%36"$Array»
+≈
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpX X()
+%37"
+__arraySet*
+
+%36*2 *
+getConnection≈
+¬
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpX X()
+%38"
+__arraySet*
+
+%36*2*
+
+getTable∏µ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpQ Y(	
+%39*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest* *
+
+%35* *	
+false*	
+false*
+true*
+
+%362getmockforabstractclassπ
+∂
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpQ Y(	
+$customerResource"__id*
+
+%39§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.php\ \(
+%40"$Array§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpa a(#
+%41"$Array¡
+æ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpa a(#
+%42"
+__arraySet*
+
+%41*2 *
+
+update∆
+√
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpa a(#
+%43"
+__arraySet*
+
+%41*2*
+	quoteInto∏µ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpZ b(	
+%44*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest* *
+
+%40* *	
+false*	
+false*
+true*
+
+%412getmockforabstractclass∑
+¥
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpZ b(	
+$connectionMock"__id*
+
+%44ÍÁ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpc  c(,
+%45*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest2any¬ø
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpc c(-
+%46*
+
+$customerModel*
+
+%452expectsæª
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpc c(D
+%47*
+
+%46*
+getResource2method»≈
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpc c(c
+%48*
+
+%47*
+
+$customerResource2
+willreturnÍÁ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpd d(+
+%49*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest2any¡æ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpd d(,
+%50*
+
+$addressModel*
+
+%492expects∏µ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpd d(=
+%51*
+
+%50*	
+getId2method¡æ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpd d(U
+%52*
+
+%51*
+
+
+$addressId2
+willreturnÍÁ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpe e(+
+%53*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest2any¡æ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpe e(,
+%54*
+
+$addressModel*
+
+%532expects«ƒ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpe e(L
+%55*
+
+%54*
+getIsDefaultShipping2method…∆
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpe e(l
+%56*
+
+%55*
+
+$isDefaultShipping2
+willreturnÍÁ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpf f(+
+%57*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest2any¡æ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpf f(,
+%58*
+
+$addressModel*
+
+%572expects∆√
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpf f(K
+%59*
+
+%58*
+getIsDefaultBilling2method»≈
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpf f(j
+%60*
+
+%59*
+
+$isDefaultBilling2
+willreturnÍÁ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpg g(+
+%61*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest2any¡æ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpg g(,
+%62*
+
+$addressModel*
+
+%612expectsœÃ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpg g(T
+%63*
+
+%62* 
+getIsCustomerSaveTransaction2methodºπ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpg g(g
+%64*
+
+%63*	
+false2
+willreturnÍÁ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpi  i(,
+%65*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest2any¬ø
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpi i(-
+%66*
+
+$customerModel*
+
+%652expects∑¥
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpi j(
+%67*
+
+%66*
+load2methodµ≤
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpi k(
+%68*
+
+%672willreturnselfÑ
+Å
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpm m("
+%69"__id*`*^E
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest"
+customerFactoryMockÍÁ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpm, m(8
+%70*GE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest2any∑¥
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpm m(9
+%71*
+
+%69*
+
+%702expectsπ∂
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpm n(
+%72*
+
+%71*
+
+create2method≈¬
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Test\Unit\Model\ResourceModel\Address\RelationTest.phpm o((
+%73*
+
+%72*
+
+$customerModel2
+willreturn*
+5
+10:
+
+$addressId:
+$isDefaultBilling:
+$isDefaultShippingBGE
+Cmagento\customer\test\unit\model\resourcemodel\address\relationtest

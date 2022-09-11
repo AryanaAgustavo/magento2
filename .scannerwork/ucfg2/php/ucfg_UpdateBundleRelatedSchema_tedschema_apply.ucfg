@@ -1,0 +1,787 @@
+
+Bmagento\bundle\setup\patch\schema\updatebundlerelatedschema::apply†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php& &("1*Ú(
+13†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpq }()ë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpq q($
+%77"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpq q(5
+%78*
+
+%772getconnection¤¡
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpq q(?
+%79*
+
+%782select›˜
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phps s(+
+%80"$ArrayÅ
+Â
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phps s(+
+%81"__mapSet*
+
+%80*
+
+prices*
+
+$tmpTableName›˜
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpt t(
+%82"$Array´±
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpq u(
+%83*
+
+%79*
+
+%80*
+
+%822from›˜
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpv z(
+%84"$Arrayë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpw$ w(6
+%85"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetupÌÉ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpw$ y(
+%86*
+
+%85*$"
+ catalog_product_bundle_selection2gettable¿
+¼
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpv z(
+%87"__mapSet*
+
+%84*
+
+selections*
+
+%86›˜
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php| |(
+%88"$Arrayëè
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpq }(
+%89*
+
+%83*
+
+%84*1/
+-prices.selection_id = selections.selection_id*
+
+%882joinleft»¸
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpq }((
+%90*
+
+%89*
+
+$columnsToSelect2columns¦
+£
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpq }((	
+$select"__id*
+
+%90ë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php (
+%91"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php (+
+%92*
+
+%912getconnectioní
+ê
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php€ €(
+%93"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup­ª
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php€ €(/
+%94*
+
+%932getconnectionÍÊ
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php€ €(V
+%95*
+
+%94*
+	
+$select*
+
+
+$tableName2insertfromselect­ª
+‡
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php (	
+%96*
+
+%92*
+
+%952queryí
+ê
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpƒ ƒ(
+%97"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup­ª
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpƒ ƒ(+
+%98*
+
+%972getconnection¼¹
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpƒ ƒ(E
+%99*
+
+%98*
+
+$tmpTableName2	droptableî
+ë
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php… …(
+%100"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetupª§
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php… …(&
+%101*
+
+%1002endsetup*
+14*È
+14
+UpdateBundleRelatedSchema.php" 
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php† †(
+implicit return*ª>
+1†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php( (()ê
+ç
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php( ((
+%1"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup¦£
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php( (((
+%2*
+
+%12
+startsetupê
+ç
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php* *('
+%3"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetupÍÊ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php* *(X
+%4*
+
+%3*'%
+#catalog_product_bundle_option_value2gettable¨
+¥
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php* *(X
+
+$tableName"__id*
+
+%4ê
+ç
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php, ,($
+%5"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup©¦
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php, ,(5
+%6*
+
+%52getconnection¢Ÿ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php, ,(?
+%7*
+
+%62selectš—
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php. .((
+%8"$ArrayÀ
+½
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php. .((
+%9"__mapSet*
+
+%8*
+
+values*
+
+
+$tableName›˜
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php/ /(
+%10"$Arrayº
+·
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php/ /(
+%11"
+__arraySet*
+
+%10*2 *
+
+value_id²¯
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php, 0(
+%12*
+
+%7*
+
+%8*
+
+%102from›˜
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php1 5(
+%13"$Arrayë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php2! 2(3
+%14"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetupÉÆ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php2! 4(
+%15*
+
+%14*!
+catalog_product_bundle_option2gettable¼
+¹
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php1 5(
+%16"__mapSet*
+
+%13*	
+options*
+
+%15›˜
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php7 7(4
+%17"$ArrayÌ
+É
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php7 7(4
+%18"__mapSet*
+
+%17*
+parent_product_id*
+	parent_idâß
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php, 8(
+%19*
+
+%12*
+
+%13*(&
+$values.option_id = options.option_id*
+
+%172joinleft¦
+£
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php, 8(	
+$select"__id*
+
+%19ë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php: :(
+%20"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php: :(+
+%21*
+
+%202getconnectionë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php; ;(
+%22"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php; ;(/
+%23*
+
+%222getconnection›˜
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php> >(1
+%24"$Arrayº
+·
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php> >(1
+%25"
+__arraySet*
+
+%24*2 *
+
+value_idÅ
+Â
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php> >(1
+%26"
+__arraySet*
+
+%24*2*
+parent_product_idØÕ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php; @(
+%27*
+
+%23*
+	
+$select*
+
+
+$tableName*
+
+%24* 2insertfromselect¬©
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php: A(	
+%28*
+
+%21*
+
+%272queryë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpD D('
+%29"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetupÒÏ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpD F(	
+%30*
+
+%29**(
+&catalog_product_bundle_selection_price2gettable©
+¦
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpD F(	
+
+$tableName"__id*
+
+%30ë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpG G(*
+%31"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetupÖÓ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpG I(	
+%32*
+
+%31*.,
+*catalog_product_bundle_selection_price_tmp2gettable¬
+©
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpG I(	
+$tmpTableName"__id*
+
+%32ë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpK K(1
+%33"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpK K(B
+%34*
+
+%332getconnection¼¹
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpK K(^
+%35*
+
+%34*
+
+
+$tableName2getforeignkeys³
+°
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpK K(^
+$existingForeignKeys"__id*
+
+%35*
+2*Õ
+2†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpM M(%¾
+»
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpM O(	
+$key"
+__arrayGet*
+
+$existingForeignKeys* *
+3
+4*ß
+3†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpN N(eë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpN N(
+%36"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpN N(/
+%37*
+
+%362getconnection·
+´
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpN@ N(R
+%38"__mapGet*
+
+$key*
+
+TABLE_NAME´
+±
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpNT N(c
+%39"__mapGet*
+
+$key*	
+FK_NAME¾»
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpN N(d
+%40*
+
+%37*
+
+%38*
+
+%392dropforeignkey*
+2*Ò
+
+4†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpQ S(
+ë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpQ Q(
+%41"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpQ Q(+
+%42*
+
+%412getconnectionë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpR R(
+%43"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpR R(/
+%44*
+
+%432getconnectionÑÎ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpR R(\
+%45*
+
+%44*
+
+
+$tableName*
+
+$tmpTableName2createtablebyddl²¯
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpQ S(	
+%46*
+
+%42*
+
+%452createtable*
+5*Õ
+5†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpU U(%¾
+»
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpU ^(	
+$key"
+__arrayGet*
+
+$existingForeignKeys* *
+6
+7*ó
+6†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpV ](ë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpV V(
+%47"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpV V(/
+%48*
+
+%472getconnection´
+±
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpW W(
+%49"__mapGet*
+
+$key*	
+FK_NAME·
+´
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpX X("
+%50"__mapGet*
+
+$key*
+
+TABLE_NAME¸
+µ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpY Y(#
+%51"__mapGet*
+
+$key*
+COLUMN_NAME»
+¸
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpZ Z(&
+%52"__mapGet*
+
+$key*
+REF_TABLE_NAME¼
+¹
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php[ [('
+%53"__mapGet*
+
+$key*
+REF_COLUMN_NAME¶
+³
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php\ \(!
+%54"__mapGet*
+
+$key*
+	ON_DELETEáÞ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpV ](
+%55*
+
+%48*
+
+%49*
+
+%50*
+
+%51*
+
+%52*
+
+%53*
+
+%542addforeignkey*
+5*ç
+7†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php` e(
+ë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php` `(
+%56"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php` `(+
+%57*
+
+%562getconnectionë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpa a(
+%58"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpa a(/
+%59*
+
+%582getconnectionë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpb b("
+%60"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpb b(3
+%61*
+
+%602getconnection¤¡
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpb b(=
+%62*
+
+%612select²¯
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpb b(O
+%63*
+
+%62*
+
+
+$tableName2fromÊÇ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpa d(
+%64*
+
+%59*
+
+%63*
+
+$tmpTableName2insertfromselect¬©
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.php` e(	
+%65*
+
+%57*
+
+%642queryë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpg g(
+%66"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpg g(+
+%67*
+
+%662getconnection»¸
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpg g(F
+%68*
+
+%67*
+
+
+$tableName2truncatetable›˜
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpi i(
+%69"$Array¯
+¬
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpi i(
+$columnsToSelect"__id*
+
+%69*
+8*¥
+8†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpk k(Rë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpk k(#
+%70"__id*P*N=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema"
+schemaSetup«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpk k(4
+%71*
+
+%702getconnection¾»
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpk k(R
+%72*
+
+%71*
+
+$tmpTableName2describetable°
+­
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpk o(		
+$column"
+__arrayGet*
+
+%72* *
+13
+9*Ô
+9†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpl l(_»
+¸
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpl l(+
+%73"__mapGet*
+	
+$column*
+COLUMN_NAME*
+10
+11*Ã
+10†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phplE l(R­
+ª
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpl l(^
+$alias"__id*
+selections.*
+12*¿
+11†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phplU l(^©
+¦
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpl l(^
+$alias"__id*	
+prices.*
+12*Ê
+12†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpl^ l(^»
+¸
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpn* n(@
+%74"__mapGet*
+	
+$column*
+COLUMN_NAME²
+¯
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpn! n(@
+%75"__concat*
+
+
+$alias*
+
+%74Â
+¿
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Setup\Patch\Schema\UpdateBundleRelatedSchema.phpn n(
+%76"
+__arrayAdd*
+
+$columnsToSelect*: *
+
+%75*
+8B?=
+;magento\bundle\setup\patch\schema\updatebundlerelatedschema

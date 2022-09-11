@@ -1,0 +1,139 @@
+
+pmagento\downloadable\test\unit\model\sample\contentvalidatortest::testisvalidthrowsexceptionifsortorderisinvalidå
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.php_ _(B"1*∆
+2
+ContentValidatorTest.php"§
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpk k(
+implicit return*Ì"
+1å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpa a(Müú
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpa a(L
+%1*DB
+@magento\downloadable\test\unit\model\sample\contentvalidatortest*.,
+*Magento\Framework\Exception\InputException2expectexception¢ü
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpb b(O
+%2*DB
+@magento\downloadable\test\unit\model\sample\contentvalidatortest**(
+&Sort order must be a positive integer.2expectexceptionmessage†ù
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpc g(	
+%3"$Array¿
+Ω
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpc g(	
+%4"__mapSet*
+
+%3*	
+title*	
+Title 
+«
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpc g(	
+%5"__mapSet*
+
+%3*
+
+sort_order*
+
+
+$sortOrder≈
+¬
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpc g(	
+%6"__mapSet*
+
+%3*
+sample_type*
+file∂
+≥
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpc g(	
+$sampleContentData"__id*
+
+%3˚
+¯
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phph h( 
+%7"__id*[*YB
+@magento\downloadable\test\unit\model\sample\contentvalidatortest"
+fileValidatorMock„‡
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phph* h(6
+%8*DB
+@magento\downloadable\test\unit\model\sample\contentvalidatortest2any±Æ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phph h(7
+%9*
+
+%7*
+
+%82expects∂≥
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phph h(J
+%10*
+
+%9*	
+isValid2method∏µ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phph h(\
+%11*
+
+%10*
+true2
+willreturn˚
+¯
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpi i(
+%12"__id*Z*XB
+@magento\downloadable\test\unit\model\sample\contentvalidatortest"
+urlValidatorMock‰·
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpi) i(5
+%13*DB
+@magento\downloadable\test\unit\model\sample\contentvalidatortest2any¥±
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpi i(6
+%14*
+
+%12*
+
+%132expects∑¥
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpi i(I
+%15*
+
+%14*	
+isValid2method∏µ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpi i([
+%16*
+
+%15*
+true2
+willreturnÙ
+Ò
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpj j(
+%17"__id*S*QB
+@magento\downloadable\test\unit\model\sample\contentvalidatortest"
+	validatorçä
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpj" j(Q
+%18*DB
+@magento\downloadable\test\unit\model\sample\contentvalidatortest*
+
+$sampleContentData2getsamplecontentmock¥±
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Sample\ContentValidatorTest.phpj j(R
+%19*
+
+%17*
+
+%182isvalid*
+2:
+
+$sortOrderBDB
+@magento\downloadable\test\unit\model\sample\contentvalidatortest

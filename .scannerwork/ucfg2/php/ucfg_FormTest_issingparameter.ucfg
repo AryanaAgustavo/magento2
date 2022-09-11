@@ -1,0 +1,109 @@
+
+^magento\email\test\unit\viewmodel\template\preview\formtest::testgetformfieldsmissingparameter†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpJ J(5"1*´
+2
+FormTest.php"ž
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpW W(
+implicit return*™
+1†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpL L(Qº
+·
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpJ J(5
+$httpMethod"__id*
+
+$httpMethodstring¹
+¶
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpJ J(5
+$httpParams"__id*
+
+$httpParamsarray˜•
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpL L(P
+%1*?=
+;magento\email\test\unit\viewmodel\template\preview\formtest*20
+.Magento\Framework\Exception\LocalizedException2expectexception‹ˆ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpM M(C
+%2*?=
+;magento\email\test\unit\viewmodel\template\preview\formtest*
+Missing expected parameter2expectexceptionmessageê
+ç
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpN N(
+%3"__id*P*N=
+;magento\email\test\unit\viewmodel\template\preview\formtest"
+requestMockÙÖ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpN$ N(1
+%4*?=
+;magento\email\test\unit\viewmodel\template\preview\formtest2once«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpN N(2
+%5*
+
+%3*
+
+%42expects±®
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpN O(!
+%6*
+
+%5*
+	getMethod2method·´
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpN P(%
+%7*
+
+%6*
+
+$httpMethod2
+willreturnê
+ç
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpR R(
+%8"__id*P*N=
+;magento\email\test\unit\viewmodel\template\preview\formtest"
+requestMockÙÖ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpR$ R(1
+%9*?=
+;magento\email\test\unit\viewmodel\template\preview\formtest2once¬©
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpR R(2
+%10*
+
+%8*
+
+%92expects²¯
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpR S( 
+%11*
+
+%10*
+
+getParam2method¼¹
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpR T((
+%12*
+
+%11*
+
+$httpParams2willreturnmapä
+á
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpV V(
+%13"__id*I*G=
+;magento\email\test\unit\viewmodel\template\preview\formtest"
+form«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Test\Unit\ViewModel\Template\Preview\FormTest.phpV V($
+%14*
+
+%132getformfields*
+2:
+$httpMethodstring:
+$httpParamsarrayB?=
+;magento\email\test\unit\viewmodel\template\preview\formtest

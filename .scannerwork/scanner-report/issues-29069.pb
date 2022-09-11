@@ -1,5 +1,0 @@
-L
-phpS53322Using http protocol is insecure. Use https instead 2// %L
-phpS53322Using http protocol is insecure. Use https instead 2//' CL
-phpS53322Using http protocol is insecure. Use https instead 2== %L
-phpS53322Using http protocol is insecure. Use https instead 2==' C

@@ -1,0 +1,148 @@
+
+Hmagento\sales\model\resourcemodel\order\customer\collection::__construct†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.php7 7("1*¶
+2
+Collection.php"ž
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.phpW W(
+implicit return*µ
+1†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.phpG G(,é
+æ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.php7 7(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÃ
+À
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.php7 7(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceõ
+ò
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.php7 7(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceà
+Ý
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.php7 7(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceÊ
+Ç
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.php7 7(
+
+$eavConfig"__id*(
+&
+
+$eavConfigmagento\eav\model\configØ
+Õ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.php7 7(
+	$resource"__id*7
+5
+	$resource(magento\framework\app\resourceconnectionß
+Ü
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.php7 7(
+$eavEntityFactory"__id*6
+4
+$eavEntityFactorymagento\eav\model\entityfactoryâ
+ß
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.php7 7(
+$resourceHelper"__id*;
+9
+$resourceHelper&magento\eav\model\resourcemodel\helperì
+é
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.php7 7(
+$universalFactory"__id*C
+A
+$universalFactory,magento\framework\validator\universalfactoryü
+ù
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.php7 7(
+$entitySnapshot"__id*U
+S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshotä
+á
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.php7 7(
+$fieldsetConfig"__id*=
+;
+$fieldsetConfig(magento\framework\dataobject\copy\configá
+Þ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.php7 7(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceá
+Þ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.php7 7(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceö
+ó
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.phpG G(+O=
+;magento\sales\model\resourcemodel\order\customer\collection"
+storeManager"__id*
+
+$storeManager
+Œ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Customer\Collection.phpH V(	
+%1"Emagento\customer\model\resourcemodel\customer\collection::__construct*?=
+;magento\sales\model\resourcemodel\order\customer\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+
+$eavConfig*
+
+	$resource*
+
+$eavEntityFactory*
+
+$resourceHelper*
+
+$universalFactory*
+
+$entitySnapshot*
+
+$fieldsetConfig*
+
+$connection*
+
+
+$modelName*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:&
+
+$eavConfigmagento\eav\model\config:5
+	$resource(magento\framework\app\resourceconnection:4
+$eavEntityFactorymagento\eav\model\entityfactory:9
+$resourceHelper&magento\eav\model\resourcemodel\helper:A
+$universalFactory,magento\framework\validator\universalfactory:S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshot:;
+$fieldsetConfig(magento\framework\dataobject\copy\config::
+$storeManager)magento\store\model\storemanagerinterface:<
+$connection-magento\framework\db\adapter\adapterinterface:
+
+$modelNameB?=
+;magento\sales\model\resourcemodel\order\customer\collection

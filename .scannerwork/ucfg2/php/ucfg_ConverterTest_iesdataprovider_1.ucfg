@@ -1,0 +1,93 @@
+
+emagento\framework\indexer\test\unit\config\convertertest::convertwithcirculardependenciesdataproviderá
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Indexer\Test\Unit\Config\ConverterTest.phpw w(?"1*Õ
+1à
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Indexer\Test\Unit\Config\ConverterTest.phpy ä(
+úô
+à
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Indexer\Test\Unit\Config\ConverterTest.phpy ä(	
+%1"$Arrayúô
+à
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Indexer\Test\Unit\Config\ConverterTest.phpz8 Ä(
+%2"$Arrayú
+ô
+á
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Indexer\Test\Unit\Config\ConverterTest.php{ ~(!
+%3"__concat*20
+.<?xml version="1.0" encoding="UTF-8"?><config>*\Z
+X<indexer id="indexer_1"><dependencies><indexer id="indexer_2"/></dependencies></indexer>*\Z
+X<indexer id="indexer_2"><dependencies><indexer id="indexer_1"/></dependencies></indexer>*
+	</config>º
+π
+à
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Indexer\Test\Unit\Config\ConverterTest.phpz8 Ä(
+%4"__mapSet*
+
+%2*
+
+inputXML*
+
+%3Å
+˛
+à
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Indexer\Test\Unit\Config\ConverterTest.phpz8 Ä(
+%5"__mapSet*
+
+%2*
+exceptionMessage*CA
+?Circular dependency references from 'indexer_2' to 'indexer_1'.⁄
+◊
+à
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Indexer\Test\Unit\Config\ConverterTest.phpy ä(	
+%6"__mapSet*
+
+%1**(
+&Circular dependency on the first level*
+
+%2ùö
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Indexer\Test\Unit\Config\ConverterTest.phpÅC â(
+%7"$Array⁄
+◊
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Indexer\Test\Unit\Config\ConverterTest.phpÇ á(!
+%8"__concat*20
+.<?xml version="1.0" encoding="UTF-8"?><config>*\Z
+X<indexer id="indexer_1"><dependencies><indexer id="indexer_2"/></dependencies></indexer>*\Z
+X<indexer id="indexer_2"><dependencies><indexer id="indexer_3"/></dependencies></indexer>*\Z
+X<indexer id="indexer_3"><dependencies><indexer id="indexer_4"/></dependencies></indexer>*\Z
+X<indexer id="indexer_4"><dependencies><indexer id="indexer_1"/></dependencies></indexer>*
+	</config>Ω
+∫
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Indexer\Test\Unit\Config\ConverterTest.phpÅC â(
+%9"__mapSet*
+
+%7*
+
+inputXML*
+
+%8É
+Ä
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Indexer\Test\Unit\Config\ConverterTest.phpÅC â(
+%10"__mapSet*
+
+%7*
+exceptionMessage*CA
+?Circular dependency references from 'indexer_4' to 'indexer_1'.Ê
+„
+à
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Indexer\Test\Unit\Config\ConverterTest.phpy ä(	
+%11"__mapSet*
+
+%1*53
+1Circular dependency a deeper than the first level*
+
+%7"ì
+à
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Indexer\Test\Unit\Config\ConverterTest.phpy ä(
+
+
+%1B<:
+8magento\framework\indexer\test\unit\config\convertertest

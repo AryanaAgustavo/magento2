@@ -1,0 +1,139 @@
+
+Nmagento\setup\test\unit\model\adminaccounttest::testsaveexceptionemailnotmatch|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpâ â(2"1*±
+2
+AdminAccountTest.php"“
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpò ò(
+implicit return* 
+1|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpä ä(,ÛØ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpä ä(+
+%1*20
+.magento\setup\test\unit\model\adminaccounttest*
+	Exception2expectexception•’
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpå å(e
+%2*20
+.magento\setup\test\unit\model\adminaccounttest*@>
+<An existing user has the given username but different email.2expectexceptionmessageŒ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpæ é(	
+%3"$ArrayÀ
+½
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpæ é(	
+%4"__mapSet*
+
+%3*	
+email*
+another.email@test.com²
+¯
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpæ é(	
+%5"__mapSet*
+
+%3*
+
+username*	
+admin¤
+¡
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpæ é(	
+$existingUserData"__id*
+
+%3Ð
+Í
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpë ë(
+%6"__id*A*?0
+.magento\setup\test\unit\model\adminaccounttest"
+	dbAdapterÊÇ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpë" ë(3
+%7*20
+.magento\setup\test\unit\model\adminaccounttest*22exactly 
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpë ë(4
+%8*
+
+%6*
+
+%72expects¥¢
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpë ì( 
+%9*
+
+%8*
+
+fetchRow2method³°
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpë ì(?
+%10*
+
+%9*
+
+$existingUserData2
+willreturnÑ
+Î
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpî î(
+%11"__id*A*?0
+.magento\setup\test\unit\model\adminaccounttest"
+	dbAdapterÃÀ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpî" î(0
+%12*20
+.magento\setup\test\unit\model\adminaccounttest2never£ 
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpî î(1
+%13*
+
+%11*
+
+%122expects¥¢
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpî î(C
+%14*
+
+%13*
+
+update2methodÑ
+Î
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpï ï(
+%15"__id*A*?0
+.magento\setup\test\unit\model\adminaccounttest"
+	dbAdapterÃÀ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpï" ï(0
+%16*20
+.magento\setup\test\unit\model\adminaccounttest2never£ 
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpï ï(1
+%17*
+
+%15*
+
+%162expects¥¢
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpï ï(C
+%18*
+
+%17*
+
+insert2methodÔ
+Ñ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpñ ñ(
+%19"__id*D*B0
+.magento\setup\test\unit\model\adminaccounttest"
+adminAccount—”
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Model\AdminAccountTest.phpñ ñ(#
+%20*
+
+%192save*
+2B20
+.magento\setup\test\unit\model\adminaccounttest

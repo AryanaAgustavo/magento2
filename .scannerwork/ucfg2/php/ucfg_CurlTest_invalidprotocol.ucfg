@@ -1,0 +1,37 @@
+
+Emagento\framework\http\test\unit\client\curltest::testinvalidprotocol
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Test\Unit\Client\CurlTest.php ('"1*¬
+2
+CurlTest.php"–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Test\Unit\Client\CurlTest.php (
+implicit return*Ë	
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Test\Unit\Client\CurlTest.php (,àÝ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Test\Unit\Client\CurlTest.php (+
+%1*42
+0magento\framework\http\test\unit\client\curltest*
+	Exception2expectexceptionŸœ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Test\Unit\Client\CurlTest.php (j
+%2*42
+0magento\framework\http\test\unit\client\curltest*><
+:/Protocol .?telnet.? not supported or disabled in libcurl/2expectexceptionmessagematches³°
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Test\Unit\Client\CurlTest.php (	
+$client""magento\framework\http\client\curlÈ
+Å
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Test\Unit\Client\CurlTest.php (
+%3"/magento\framework\http\client\curl::__construct*
+	
+$client¹¶
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Test\Unit\Client\CurlTest.php (/
+%4*
+	
+$client*
+telnet://127.0.0.1/test2get*
+2B42
+0magento\framework\http\test\unit\client\curltest

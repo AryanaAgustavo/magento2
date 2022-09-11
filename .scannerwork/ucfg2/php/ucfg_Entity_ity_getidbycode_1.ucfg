@@ -1,0 +1,77 @@
+
+=magento\review\model\resourcemodel\rating\entity::getidbycode{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Entity.php ("1*∆
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Entity.php! !(-À»
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Entity.php! !(,
+%1*42
+0magento\review\model\resourcemodel\rating\entity2getconnectionù
+ö
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Entity.php! !(,
+$connection"__id*
+
+%1üú
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Entity.php# #('
+%2*
+
+$connection2selectŸ÷
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Entity.php$ $(,
+%3*42
+0magento\review\model\resourcemodel\rating\entity*
+rating_entity2gettableÃ…
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Entity.php% %(#
+%4*42
+0magento\review\model\resourcemodel\rating\entity2getidfieldname§°
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Entity.php# &(	
+%5*
+
+%2*
+
+%3*
+
+%42fromµ≤
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Entity.php# ((	
+%6*
+
+%5*
+entity_code = :entity_code2whereô
+ñ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Entity.php# ((		
+$select"__id*
+
+%6éã
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Entity.php). )(M
+%7"$Arrayª
+∏
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Entity.php). )(M
+%8"__mapSet*
+
+%7*
+:entity_code*
+
+$entityCode∂≥
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Entity.php) )(N
+%9*
+
+$connection*
+	
+$select*
+
+%72fetchone"Ö
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Entity.php) )(O
+
+%9:
+$entityCodeB42
+0magento\review\model\resourcemodel\rating\entity

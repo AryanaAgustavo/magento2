@@ -1,0 +1,49 @@
+
+Emagento\cms\block\adminhtml\block\widget\chooser::getrowclickcallback{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Block\Adminhtml\Block\Widget\Chooser.phpa a('"1*ì
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Block\Adminhtml\Block\Widget\Chooser.phpc c(*√¿
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Block\Adminhtml\Block\Widget\Chooser.phpc c()
+%1*42
+0magento\cms\block\adminhtml\block\widget\chooser2getid¢
+ü
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Block\Adminhtml\Block\Widget\Chooser.phpc c()
+$chooserJsObject"__id*
+
+%1Ñ
+Å
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Block\Adminhtml\Block\Widget\Chooser.phpd s(	
+%2"__concat*†ù
+ö
+            function (grid, event) {
+                var trElement = Event.findElement(event, "tr");
+                var blockId = trElement.down("td").innerHTML.replace(/^\s+|\s+$/g,"");
+                var blockTitle = trElement.down("td").next().innerHTML;
+                *
+
+$chooserJsObject*0.
+,.setElementValue(blockId);
+                *
+
+$chooserJsObject*31
+/.setElementLabel(blockTitle);
+                *
+
+$chooserJsObject*&$
+".close();
+            }
+        ï
+í
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Block\Adminhtml\Block\Widget\Chooser.phpd s(	
+$js"__id*
+
+%2"Ü
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Block\Adminhtml\Block\Widget\Chooser.phpt t(
+
+$jsB42
+0magento\cms\block\adminhtml\block\widget\chooser

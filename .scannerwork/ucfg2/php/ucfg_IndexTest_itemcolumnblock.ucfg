@@ -1,0 +1,71 @@
+
+@magento\wishlist\controller\index\indextest::testitemcolumnblockŽ
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Controller\Index\IndexTest.php> >('"1*½
+2
+IndexTest.php"¦
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Controller\Index\IndexTest.phpQ Q(
+implicit return*Ï
+1Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Controller\Index\IndexTest.php@ @(1æ
+ã
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Controller\Index\IndexTest.php@ @(
+%1"__id*D*B-
++magento\wishlist\controller\index\indextest"
+customerSession·´
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Controller\Index\IndexTest.php@ @(0
+%2*
+
+%1*22setcustomeridïì
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Controller\Index\IndexTest.phpA A(/
+%3*/-
++magento\wishlist\controller\index\indextest*
+wishlist/index/index2dispatchØÕ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Controller\Index\IndexTest.phpB B($
+%4*/-
++magento\wishlist\controller\index\indextest2getresponse«¨
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Controller\Index\IndexTest.phpB B(/
+%5*
+
+%42getbody«
+¨
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Controller\Index\IndexTest.phpB B(/
+$body"__id*
+
+%5Õ
+Ò
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Controller\Index\IndexTest.phpE H(
+%6"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*HF
+D//img[contains(@src, "small_image.jpg") and @alt = "Simple Product"]*	
+
+$bodyçä
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Controller\Index\IndexTest.phpC I(	
+%7*/-
++magento\wishlist\controller\index\indextest*2*
+
+%62assertequals»
+¸
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Controller\Index\IndexTest.phpL O(
+%8"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*.,
+*//textarea[contains(@name, "description")]*	
+
+$bodyçä
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Controller\Index\IndexTest.phpJ P(	
+%9*/-
++magento\wishlist\controller\index\indextest*2*
+
+%82assertequals*
+2B/-
++magento\wishlist\controller\index\indextest

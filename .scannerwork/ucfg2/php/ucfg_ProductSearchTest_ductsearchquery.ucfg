@@ -1,0 +1,48 @@
+
+Gmagento\graphql\cataloggraphql\productsearchtest::getproductsearchquery–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.phpA A(*"1*¾	
+1–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.phpC R(Ì
+É
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.phpA A(*
+$productName"__id*
+
+$productNamestringÊ
+Ç
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.phpA A(*
+$productSku"__id*
+
+$productSkustringß
+Ü
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.phpC R(
+%1"__concat*&$
+"{
+  products(filter: {sku: {eq: "*
+"}}, search: "*ÑÎ
+Ë", sort: {}, pageSize: 200, currentPage: 1) {
+    total_count
+    page_info {
+        total_pages
+        current_page
+        page_size
+    }
+    items {
+        name
+        sku
+    }
+  }
+}*
+
+$productSku*
+
+$productName"¡
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\ProductSearchTest.phpC R(
+
+%1:
+$productNamestring:
+$productSkustringB42
+0magento\graphql\cataloggraphql\productsearchtest

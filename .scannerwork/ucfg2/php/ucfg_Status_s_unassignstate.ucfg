@@ -1,0 +1,190 @@
+
+=magento\sales\model\resourcemodel\order\status::unassignstate{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php£ £(!"1*ã
+2{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php∞ ∞(DŸ÷
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php∞$ ∞(C
+%10*20
+.magento\sales\model\resourcemodel\order\status*
+
+
+$state2getstatusbystate§
+°
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php∞ ∞(C
+$newDefaultStatus"__id*
+
+%10*
+3
+4*Ø
+3{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php≤ π( «
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php≤ ≤(*
+%11*20
+.magento\sales\model\resourcemodel\order\status2getconnection—
+Œ
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php≥ ≥()
+%12"__id*B*@0
+.magento\sales\model\resourcemodel\order\status"
+
+stateTableèå
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php¥ ¥(+
+%13"$Array∞
+≠
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php¥ ¥(+
+%14"__mapSet*
+
+%13*
+
+is_default*2èå
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.phpµ ∏(
+%15"$Arrayµ
+≤
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.phpµ ∏(
+%16"__mapSet*
+
+%15*
+	state = ?*
+
+
+$state¡
+æ
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.phpµ ∏(
+%17"__mapSet*
+
+%15*
+
+status = ?*
+
+$newDefaultStatus≥∞
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php≤ π(
+%18*
+
+%11*
+
+%12*
+
+%13*
+
+%152update*
+4*Û
+4{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.phpº º(- «
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.phpº º("
+%19*20
+.magento\sales\model\resourcemodel\order\status2getconnectionòï
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.phpº º(,
+%20*
+
+%192commit*	
+5
+6
+8*Ô
+5{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.phpæ æ(/ «
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.phpæ æ("
+%21*20
+.magento\sales\model\resourcemodel\order\status2getconnectionöó
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.phpæ æ(.
+%22*
+
+%212rollback*
+8*¥
+6{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php¬ ¬("±
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php¬ ¬(20
+.magento\sales\model\resourcemodel\order\status*¶
+8
+
+Status.php"í
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php√ √(
+implicit return*Õ
+1{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php• •(3…∆
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php• •(
+%1*20
+.magento\sales\model\resourcemodel\order\status2getconnection†ù
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php• •(2
+%2*
+
+%12begintransactionËÂ
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.phpß ß(I
+%3*20
+.magento\sales\model\resourcemodel\order\status*
+
+
+$state*
+	
+$status2checkisstatedefault°
+û
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.phpß ß(I
+$isStateDefault"__id*
+
+%3…∆
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php® ®("
+%4*20
+.magento\sales\model\resourcemodel\order\status2getconnection–
+Õ
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php© ©(!
+%5"__id*B*@0
+.magento\sales\model\resourcemodel\order\status"
+
+stateTableéã
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php™ ≠(
+%6"$Array≥
+∞
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php™ ≠(
+%7"__mapSet*
+
+%6*
+	state = ?*
+
+
+$stateµ
+≤
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php™ ≠(
+%8"__mapSet*
+
+%6*
+
+status = ?*
+	
+$status¶£
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Status.php® Æ(
+%9*
+
+%4*
+
+%5*
+
+%62delete*
+2
+4:	
+$status:
+$stateB20
+.magento\sales\model\resourcemodel\order\status

@@ -1,0 +1,79 @@
+
+8magento\customer\block\account\registerlink::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\RegisterLink.php+ +("1*§
+2
+RegisterLink.php"
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\RegisterLink.php6 6(
+implicit return*Ò
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\RegisterLink.php2 2(-Ì
+É
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\RegisterLink.php+ +(
+
+$context"__id*=
+;
+$context/magento\framework\view\element\template\contextÇ
+Ä
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\RegisterLink.php+ +(
+$httpContext"__id*4
+2
+$httpContext"magento\framework\app\http\contextÊ
+Ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\RegisterLink.php+ +(
+$registration"__id*6
+4
+$registration#magento\customer\model\registration¿
+¼
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\RegisterLink.php+ +(
+$customerUrl"__id*,
+*
+$customerUrlmagento\customer\model\urlœ
+™
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\RegisterLink.php+ +(
+$data"__id*
+
+$dataarray‚
+ÿ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\RegisterLink.php2 2(,
+%1"5magento\framework\view\element\html\link::__construct*/-
++magento\customer\block\account\registerlink*
+
+
+$context*	
+
+$dataÓ
+Ð
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\RegisterLink.php3 3()>-
++magento\customer\block\account\registerlink"
+httpContext"__id*
+
+$httpContextÖ
+Ó
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\RegisterLink.php4 4(,@-
++magento\customer\block\account\registerlink"
+_registration"__id*
+
+$registrationÔ
+Ñ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\RegisterLink.php5 5(*?-
++magento\customer\block\account\registerlink"
+_customerUrl"__id*
+
+$customerUrl*
+2:;
+$context/magento\framework\view\element\template\context:2
+$httpContext"magento\framework\app\http\context:4
+$registration#magento\customer\model\registration:*
+$customerUrlmagento\customer\model\url:
+$dataarrayB/-
++magento\customer\block\account\registerlink

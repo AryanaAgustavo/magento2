@@ -1,0 +1,72 @@
+
+^magento\catalog\block\product\listproduct\productincategoriesviewtest::testcategoryproductview®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ListProduct\ProductInCategoriesViewTest.phpD D(+"1*È
+2!
+ProductInCategoriesViewTest.php"¿
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ListProduct\ProductInCategoriesViewTest.phpK K(
+implicit return*¶
+1®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ListProduct\ProductInCategoriesViewTest.phpF F(2œ
+Ã
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ListProduct\ProductInCategoriesViewTest.phpD D(+
+$data"__id*
+
+$dataarray“
+œ
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ListProduct\ProductInCategoriesViewTest.phpF F()
+%1"__mapGet*	
+
+$data*
+sku°û
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ListProduct\ProductInCategoriesViewTest.phpF F(1
+%2*IG
+Emagento\catalog\block\product\listproduct\productincategoriesviewtest*
+
+%1*	
+
+$data2updateproduct§°
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ListProduct\ProductInCategoriesViewTest.phpG G(>
+%3*IG
+Emagento\catalog\block\product\listproduct\productincategoriesviewtest*2Õ2getcategoryproductcollectionÀ
+»
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ListProduct\ProductInCategoriesViewTest.phpG G(>
+$collection"__id*
+
+%3ŒÀ
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ListProduct\ProductInCategoriesViewTest.phpI I(5
+%4*
+
+$collection2getsizeõò
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ListProduct\ProductInCategoriesViewTest.phpI I(6
+%5*IG
+Emagento\catalog\block\product\listproduct\productincategoriesviewtest*2*
+
+%42assertequals”–
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ListProduct\ProductInCategoriesViewTest.phpJ) J(D
+%6*
+
+$collection2getfirstitemƒ¡
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ListProduct\ProductInCategoriesViewTest.phpJ) J(N
+%7*
+
+%62getsku§°
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ListProduct\ProductInCategoriesViewTest.phpJ J(O
+%8*IG
+Emagento\catalog\block\product\listproduct\productincategoriesviewtest*
+	simple333*
+
+%72assertequals*
+2:
+$dataarrayBIG
+Emagento\catalog\block\product\listproduct\productincategoriesviewtest

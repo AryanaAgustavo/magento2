@@ -1,0 +1,407 @@
+
+Rmagento\graphql\framework\querycomplexitylimitertest::testquerycomplexityislimitedö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Framework\QueryComplexityLimiterTest.php (0"1*‹
+2 
+QueryComplexityLimiterTest.php"¥
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Framework\QueryComplexityLimiterTest.phpô ô(
+implicit return*ﬁ
+1õ
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Framework\QueryComplexityLimiterTest.php î(√y
+¿y
+õ
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Framework\QueryComplexityLimiterTest.php î(
+$query"__id*èxåx
+âx{
+  category(id: 2) {
+    products {
+      items {
+        name
+        nameAlias: name
+        ...configurableFields
+        ... on BundleProduct {
+          items {
+            options {
+              uid
+              label
+            }
+          }
+        }
+        categories {
+          id
+          position
+          level
+          url_key
+          url_path
+          product_count
+          breadcrumbs {
+            category_id
+            category_name
+            category_url_key
+          }
+          products {
+            items {
+              media_gallery_entries {
+                file
+              }
+              name
+              special_to_date
+              tier_price
+              manufacturer
+              thumbnail {
+                url
+                label
+              }
+              sku
+              image {
+                url
+                label
+              }
+              canonical_url
+              categories {
+                id
+                position
+                level
+                url_key
+                url_path
+                product_count
+                breadcrumbs {
+                  category_id
+                  category_name
+                  category_url_key
+                }
+                products {
+                  items {
+                    name
+                    special_to_date
+                    thumbnail {
+                      url
+                      label
+                    }
+                    tier_price
+                    manufacturer
+                    sku
+                    image {
+                      url
+                      label
+                    }
+                    canonical_url
+                    media_gallery_entries {
+                      position
+                      id
+                      types
+                    }
+                    categories {
+                      id
+                      position
+                      level
+                      url_key
+                      url_path
+                      product_count
+                      breadcrumbs {
+                        category_id
+                        category_name
+                        category_url_key
+                      }
+                      products {
+                        items {
+                          name
+                          special_to_date
+                          tier_price
+                          manufacturer
+                          thumbnail {
+                            url
+                            label
+                          }
+                          sku
+                          image {
+                            url
+                            label
+                          }
+                          canonical_url
+                          categories {
+                            id
+                            position
+                            level
+                            url_key
+                            url_path
+                            product_count
+                            breadcrumbs {
+                              category_id
+                              category_name
+                              category_url_key
+                            }
+                            products {
+                              items {
+                                name
+                                special_to_date
+                                tier_price
+                                manufacturer
+                                sku
+                                image {
+                                  url
+                                  label
+                                }
+                                canonical_url
+                                categories {
+                                  id
+                                  position
+                                  level
+                                  url_key
+                                  url_path
+                                  product_count
+                                  breadcrumbs {
+                                    category_id
+                                    category_name
+                                    category_url_key
+                                  }
+                                  products {
+                                    items {
+                                      name
+                                      special_to_date
+                                      price {
+                                        minimalPrice {
+                                          amount {
+                                            value
+                                            currency
+                                          }
+                                        }
+                                        maximalPrice {
+                                          amount {
+                                            value
+                                            currency
+                                          }
+                                        }
+                                        regularPrice {
+                                          amount {
+                                            value
+                                            currency
+                                          }
+                                        }
+                                      }
+                                      tier_price
+                                      special_price
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_prices {
+                                        customer_group_id
+                                        qty
+                                        percentage_value
+                                        website_id
+                                      }
+                                      tier_price
+                                      manufacturer
+                                      sku
+                                      image {
+                                        url
+                                        label
+                                      }
+                                      thumbnail {
+                                        url
+                                        label
+                                      }
+                                      canonical_url
+                                      categories {
+                                        id
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        position
+                                        level
+                                        url_key
+                                        url_path
+                                        product_count
+                                        default_sort_by
+                                        breadcrumbs {
+                                          category_id
+                                          category_name
+                                          category_url_key
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+fragment configurableFields on ConfigurableProduct {
+  variants {
+    attributes {
+      uid
+      code
+      label
+    }
+  }
+}Ì
+Í
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Framework\QueryComplexityLimiterTest.phpñ ñ(_
+%1"Smagento\graphql\framework\querycomplexitylimitertest::expectexceptionmessagematches*8"6
+4magento\graphql\framework\querycomplexitylimitertest*42
+0/Max query complexity should be 300 but got 302/ˇ¸
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Framework\QueryComplexityLimiterTest.phpò ò(&
+%2*86
+4magento\graphql\framework\querycomplexitylimitertest*
+
+
+$query2graphqlmutation*
+2B86
+4magento\graphql\framework\querycomplexitylimitertest

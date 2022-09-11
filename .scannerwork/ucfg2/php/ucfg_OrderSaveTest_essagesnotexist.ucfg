@@ -1,0 +1,224 @@
+
+]magento\giftmessage\test\unit\model\plugin\ordersavetest::testaftersaveifgiftmessagesnotexistÖ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpÜ Ü(7"1*∏
+2
+OrderSaveTest.php"ù
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpù ù(
+implicit return*Å:
+1Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpà à(Tóî
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpà à(S
+%1*<:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest*53
+1Magento\Framework\Exception\CouldNotSaveException2expectexception≠™
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpâ â(i
+%2*<:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest*DB
+@The gift message couldn\'t be added to the "Test message" order.2expectexceptionmessage£
+†
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpã ã(
+
+$orderId"__id*2‰
+·
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpå å(
+%3"__id*K*I:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest"
+	orderMock’“
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpå" å(/
+%4*<:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest2once™ß
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpå å(0
+%5*
+
+%3*
+
+%42expects≤Ø
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpå å(G
+%6*
+
+%5*
+getEntityId2method≥∞
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpå å(]
+%7*
+
+%6*
+
+
+$orderId2
+willreturn‰
+·
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpç ç(
+%8"__id*K*I:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest"
+	orderMock’“
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpé é(#
+%9*<:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest2once´®
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpç é($
+%10*
+
+%8*
+
+%92expectsøº
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpç è(.
+%11*
+
+%10*
+getExtensionAttributes2methodÓ
+Î
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpê ê(2
+%12"__id*T*R:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest"
+orderExtensionMock∞≠
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpç ê(3
+%13*
+
+%11*
+
+%122
+willreturnÓ
+Î
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpë ë(!
+%14"__id*T*R:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest"
+orderExtensionMockﬂ‹
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpí í('
+%15*<:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest*22exactly≠™
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpë í((
+%16*
+
+%14*
+
+%152expects∑¥
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpë ì(&
+%17*
+
+%16*
+getGiftMessage2methodÎ
+Ë
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpî î(/
+%18"__id*Q*O:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest"
+giftMessageMock∞≠
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpë î(0
+%19*
+
+%17*
+
+%182
+willreturn˙
+˜
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpï ï(-
+%20"__id*`*^:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest" 
+giftMessageOrderRepositoryMock÷”
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpñ ñ(#
+%21*<:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest2once≠™
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpï ñ($
+%22*
+
+%20*
+
+%212expects≠™
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpï ó(
+%23*
+
+%22*
+save2methodùö
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpò! ò(?
+%24"	exception≈
+¬
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpò! ò(?
+%25"exception::__construct*
+
+%24*
+Test message∏µ
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpï ò(@
+%26*
+
+%23*
+
+%242willthrowexceptionÂ
+‚
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpõ õ(
+%27"__id*K*I:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest"
+	orderMock◊‘
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpõ" õ(0
+%28*<:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest2never≠™
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpõ õ(1
+%29*
+
+%27*
+
+%282expects±Æ
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpõ õ(E
+%30*
+
+%29*
+
+getItems2method‚
+ﬂ
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpú ú(
+%31"__id*H*F:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest"
+pluginÔ
+Ï
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpú! ú(;
+%32"__id*U*S:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest"
+orderRepositoryMockÂ
+‚
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpú= ú(M
+%33"__id*K*I:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest"
+	orderMock∏µ
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Test\Unit\Model\Plugin\OrderSaveTest.phpú ú(N
+%34*
+
+%31*
+
+%32*
+
+%332	aftersave*
+2B<:
+8magento\giftmessage\test\unit\model\plugin\ordersavetest

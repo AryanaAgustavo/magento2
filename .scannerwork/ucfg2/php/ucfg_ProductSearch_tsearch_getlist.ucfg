@@ -1,0 +1,218 @@
+
+Rmagento\cataloggraphql\model\resolver\products\dataprovider\productsearch::getlistï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpe e("1*√:
+1ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpl l(9¯
+ı
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpe e(
+$searchCriteria"__id*B
+@
+$searchCriteria-magento\framework\api\searchcriteriainterface˘
+ˆ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpe e(
+$searchResult"__id*E
+C
+$searchResult2magento\framework\api\search\searchresultinterface»
+≈
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpe e(
+$attributes"__id*
+
+$attributesarrayÈ
+Ê
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpe e(
+
+$context"__id*:
+8
+$context,magento\graphql\model\query\contextinterfaceç
+ä
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpl l(.
+%1"__id*d*bK
+Imagento\cataloggraphql\model\resolver\products\dataprovider\productsearch"
+collectionFactory±Æ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpl l(8
+%2*
+
+%12create∏
+µ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpl l(8
+$collection"__id*
+
+%2ë
+é
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpo' o(C
+%3"__id*h*fK
+Imagento\cataloggraphql\model\resolver\products\dataprovider\productsearch"
+searchCriteriaBuilder≈¬
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpo' o([
+%4*
+
+%3*
+
+$searchCriteria2build…
+∆
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpo o([
+$searchCriteriaForCollection"__id*
+
+%4•¢
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpt t(B
+%5*MK
+Imagento\cataloggraphql\model\resolver\products\dataprovider\productsearch* 
+
+$searchCriteriaForCollection2getsortorderarrayµ≤
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpq u(	
+%6*MK
+Imagento\cataloggraphql\model\resolver\products\dataprovider\productsearch*
+
+$searchResult*
+
+$collection*
+
+%52getsearchresultsapplier∞≠
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpq u(
+%7*
+
+%62applyﬂ‹
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpw w(:
+%8*
+
+$collection*
+search_resut_applied*
+true2setflagî
+ë
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpy# y(B
+%9"__id*k*iK
+Imagento\cataloggraphql\model\resolver\products\dataprovider\productsearch"
+catalogProductVisibilityøº
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpy# y(Y
+%10*
+
+%92getvisibleinsiteidsÀ»
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpy y(Z
+%11*
+
+$collection*
+
+%102setvisibilityì
+ê
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpz z(%
+%12"__id*i*gK
+Imagento\cataloggraphql\model\resolver\products\dataprovider\productsearch"
+collectionPreProcessorÜÉ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpz z(p
+%13*
+
+%12*
+
+$collection* 
+
+$searchCriteriaForCollection*
+
+$attributes*
+
+
+$context2processπ∂
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.php{ {(
+%14*
+
+$collection2loadî
+ë
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.php| |(&
+%15"__id*j*hK
+Imagento\cataloggraphql\model\resolver\products\dataprovider\productsearch"
+collectionPostProcessor‰·
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.php| |(S
+%16*
+
+%15*
+
+$collection*
+
+$attributes*
+
+
+$context2processë
+é
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.php~ ~(4
+%17"__id*g*eK
+Imagento\cataloggraphql\model\resolver\products\dataprovider\productsearch"
+searchResultsFactory≥∞
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.php~ ~(>
+%18*
+
+%172createº
+π
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.php~ ~(>
+$searchResults"__id*
+
+%18ÎË
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.php (G
+%19*
+
+$searchResults* 
+
+$searchCriteriaForCollection2setsearchcriteriaøº
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpÄ! Ä(8
+%20*
+
+$collection2getitemsÀ»
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpÄ Ä(9
+%21*
+
+$searchResults*
+
+%202setitemsæª
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpÅ& Å(<
+%22*
+
+$collection2getsize–Õ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpÅ Å(=
+%23*
+
+$searchResults*
+
+%222settotalcountÏ
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpÇ Ç(3
+%24,magento\framework\api\searchresultsinterface"__id*
+
+$searchResults"—
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Products\DataProvider\ProductSearch.phpÇ Ç(5
+3
+%24,magento\framework\api\searchresultsinterface:@
+$searchCriteria-magento\framework\api\searchcriteriainterface:C
+$searchResult2magento\framework\api\search\searchresultinterface:
+$attributesarray:8
+$context,magento\graphql\model\query\contextinterfaceBMK
+Imagento\cataloggraphql\model\resolver\products\dataprovider\productsearch

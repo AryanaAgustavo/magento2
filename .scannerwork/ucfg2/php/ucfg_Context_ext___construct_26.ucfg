@@ -1,0 +1,349 @@
+
+1magento\backend\block\widget\context::__constructo
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O("1*ù
+2
+Context.php"à
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpñ ñ(
+implicit return*“<
+1p
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpr í(
+º
+π
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterface∫
+∑
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(	
+$layout"__id*3
+1
+$layout&magento\framework\view\layoutinterface»
+≈
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterface∫
+∑
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$urlBuilder"__id*/
+-
+$urlBuildermagento\framework\urlinterface∂
+≥
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$cache"__id*0
+.
+$cache$magento\framework\app\cacheinterface∫
+∑
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(	
+$design"__id*3
+1
+$design&magento\framework\view\designinterface∑
+¥
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+
+$session"__id*/
+-
+$session!magento\framework\session\genericÃ
+…
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$sidResolver"__id*@
+>
+$sidResolver.magento\framework\session\sidresolverinterfaceœ
+Ã
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface¡
+æ
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+
+$assetRepo"__id*7
+5
+
+$assetRepo'magento\framework\view\asset\repository¬
+ø
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$viewConfig"__id*7
+5
+$viewConfig&magento\framework\view\configinterface∆
+√
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$cacheState"__id*;
+9
+$cacheState*magento\framework\app\cache\stateinterface´
+®
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceØ
+¨
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+
+$escaper"__id*'
+%
+$escapermagento\framework\escaper»
+≈
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$filterManager"__id*:
+8
+$filterManager&magento\framework\filter\filtermanagerœ
+Ã
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface€
+ÿ
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$inlineTranslation"__id*I
+G
+$inlineTranslation1magento\framework\translate\inline\stateinterface∏
+µ
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$filesystem"__id*-
++
+$filesystemmagento\framework\filesystem≈
+¬
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$viewFileSystem"__id*6
+4
+$viewFileSystem!magento\framework\view\filesystem≈
+¬
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$enginePool"__id*:
+8
+$enginePool)magento\framework\view\templateenginepool≥
+∞
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+	$appState"__id**
+(
+	$appStatemagento\framework\app\state…
+∆
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceæ
+ª
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$pageConfig"__id*3
+1
+$pageConfig"magento\framework\view\page\configÕ
+ 
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+	$resolver"__id*D
+B
+	$resolver5magento\framework\view\element\template\file\resolver–
+Õ
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+
+$validator"__id*F
+D
+
+$validator6magento\framework\view\element\template\file\validator 
+«
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$authorization"__id*<
+:
+$authorization(magento\framework\authorizationinterface¡
+æ
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$backendSession"__id*2
+0
+$backendSessionmagento\backend\model\sessionπ
+∂
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$mathRandom"__id*.
+,
+$mathRandommagento\framework\math\randomπ
+∂
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+
+$formKey"__id*1
+/
+$formKey#magento\framework\data\form\formkey¿
+Ω
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$nameBuilder"__id*4
+2
+$nameBuilder"magento\framework\code\namebuilder 
+«
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+$buttonList"__id*?
+=
+$buttonList.magento\backend\block\widget\button\buttonlist 
+«
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+
+$toolbar"__id*B
+@
+$toolbar4magento\backend\block\widget\button\toolbarinterface»
+≈
+o
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpO O(
+
+$lockQuery"__id*>
+<
+
+$lockQuery.magento\framework\cache\lockguardedcacheloader·
+ﬁ
+p
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpr í(	
+%1"3magento\backend\block\template\context::__construct*(&
+$magento\backend\block\widget\context*
+
+
+$request*
+	
+$layout*
+
+$eventManager*
+
+$urlBuilder*
+
+
+$cache*
+	
+$design*
+
+
+$session*
+
+$sidResolver*
+
+$scopeConfig*
+
+
+$assetRepo*
+
+$viewConfig*
+
+$cacheState*
+	
+$logger*
+
+
+$escaper*
+
+$filterManager*
+
+$localeDate*
+
+$inlineTranslation*
+
+$filesystem*
+
+$viewFileSystem*
+
+$enginePool*
+
+	$appState*
+
+$storeManager*
+
+$pageConfig*
+
+	$resolver*
+
+
+$validator*
+
+$authorization*
+
+$backendSession*
+
+$mathRandom*
+
+
+$formKey*
+
+$nameBuilder*
+
+
+$lockQuery≈
+¬
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpî î('6&
+$magento\backend\block\widget\context"
+
+buttonList"__id*
+
+$buttonList≈
+¬
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Widget\Context.phpï ï('9&
+$magento\backend\block\widget\context"
+buttonToolbar"__id*
+
+
+$toolbar*
+2:2
+$request&magento\framework\app\requestinterface:1
+$layout&magento\framework\view\layoutinterface:9
+$eventManager(magento\framework\event\managerinterface:-
+$urlBuildermagento\framework\urlinterface:.
+$cache$magento\framework\app\cacheinterface:1
+$design&magento\framework\view\designinterface:-
+$session!magento\framework\session\generic:>
+$sidResolver.magento\framework\session\sidresolverinterface:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:5
+
+$assetRepo'magento\framework\view\asset\repository:5
+$viewConfig&magento\framework\view\configinterface:9
+$cacheState*magento\framework\app\cache\stateinterface:"
+$loggerpsr\log\loggerinterface:%
+$escapermagento\framework\escaper:8
+$filterManager&magento\framework\filter\filtermanager:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:G
+$inlineTranslation1magento\framework\translate\inline\stateinterface:+
+$filesystemmagento\framework\filesystem:4
+$viewFileSystem!magento\framework\view\filesystem:8
+$enginePool)magento\framework\view\templateenginepool:(
+	$appStatemagento\framework\app\state::
+$storeManager)magento\store\model\storemanagerinterface:1
+$pageConfig"magento\framework\view\page\config:B
+	$resolver5magento\framework\view\element\template\file\resolver:D
+
+$validator6magento\framework\view\element\template\file\validator::
+$authorization(magento\framework\authorizationinterface:0
+$backendSessionmagento\backend\model\session:,
+$mathRandommagento\framework\math\random:/
+$formKey#magento\framework\data\form\formkey:2
+$nameBuilder"magento\framework\code\namebuilder:=
+$buttonList.magento\backend\block\widget\button\buttonlist:@
+$toolbar4magento\backend\block\widget\button\toolbarinterface:<
+
+$lockQuery.magento\framework\cache\lockguardedcacheloaderB(&
+$magento\backend\block\widget\context

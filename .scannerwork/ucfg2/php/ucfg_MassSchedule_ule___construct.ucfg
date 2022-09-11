@@ -1,0 +1,142 @@
+
+>magento\asynchronousoperations\model\massschedule::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpX X("1*­
+2
+MassSchedule.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpl l(
+implicit return*ž"
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpc c(2ê
+ç
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpX X(
+$identityService"__id*M
+K
+$identityService7magento\framework\dataobject\identitygeneratorinterface‹
+ˆ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpX X(
+$itemStatusInterfaceFactory"__id*c
+a
+$itemStatusInterfaceFactoryBmagento\asynchronousoperations\api\data\itemstatusinterfacefactory‚
+ÿ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpX X(
+$asyncResponseFactory"__id*`
+^
+$asyncResponseFactoryEmagento\asynchronousoperations\api\data\asyncresponseinterfacefactoryß
+Ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpX X(
+$bulkManagement"__id*C
+A
+$bulkManagement.magento\framework\bulk\bulkmanagementinterface¸
+µ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpX X(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceü
+ù
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpX X(
+$operationRepository"__id*[
+Y
+$operationRepositoryAmagento\asynchronousoperations\model\operationrepositoryinterfaceÛ
+Ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpX X(
+$userContext"__id*B
+@
+$userContext0magento\authorization\model\usercontextinterfaceÍ
+Ê
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpX X(
+
+$encryptor"__id*6
+4
+
+$encryptor&magento\framework\encryption\encryptorƒ
+€
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpX X(
+$saveMultipleOperations"__id*_
+]
+$saveMultipleOperationsBmagento\asynchronousoperations\api\savemultipleoperationsinterfaceç
+ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpc c(1H3
+1magento\asynchronousoperations\model\massschedule"
+identityService"__id*
+
+$identityServiceý
+ú
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpd d(GS3
+1magento\asynchronousoperations\model\massschedule"
+itemStatusInterfaceFactory"__id*
+
+$itemStatusInterfaceFactoryñ
+î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpe e(;M3
+1magento\asynchronousoperations\model\massschedule"
+asyncResponseFactory"__id*
+
+$asyncResponseFactoryå
+â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpf f(/G3
+1magento\asynchronousoperations\model\massschedule"
+bulkManagement"__id*
+
+$bulkManagementÕ
+Ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpg g(?3
+1magento\asynchronousoperations\model\massschedule"
+logger"__id*
+	
+$loggerï
+ì
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phph h(9L3
+1magento\asynchronousoperations\model\massschedule"
+operationRepository"__id*
+
+$operationRepositoryß
+Ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpi i()D3
+1magento\asynchronousoperations\model\massschedule"
+userContext"__id*
+
+$userContextÛ
+Ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpj j(%B3
+1magento\asynchronousoperations\model\massschedule"
+	encryptor"__id*
+
+
+$encryptorõ
+ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassSchedule.phpk k(?O3
+1magento\asynchronousoperations\model\massschedule"
+saveMultipleOperations"__id*
+
+$saveMultipleOperations*
+2:K
+$identityService7magento\framework\dataobject\identitygeneratorinterface:a
+$itemStatusInterfaceFactoryBmagento\asynchronousoperations\api\data\itemstatusinterfacefactory:^
+$asyncResponseFactoryEmagento\asynchronousoperations\api\data\asyncresponseinterfacefactory:A
+$bulkManagement.magento\framework\bulk\bulkmanagementinterface:"
+$loggerpsr\log\loggerinterface:Y
+$operationRepositoryAmagento\asynchronousoperations\model\operationrepositoryinterface:@
+$userContext0magento\authorization\model\usercontextinterface:4
+
+$encryptor&magento\framework\encryption\encryptor:]
+$saveMultipleOperationsBmagento\asynchronousoperations\api\savemultipleoperationsinterfaceB53
+1magento\asynchronousoperations\model\massschedule

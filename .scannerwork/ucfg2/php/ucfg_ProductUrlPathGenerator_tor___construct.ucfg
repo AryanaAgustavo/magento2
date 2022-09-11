@@ -1,0 +1,68 @@
+
+Dmagento\catalogurlrewrite\model\producturlpathgenerator::__construct‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\ProductUrlPathGenerator.php9 9("1*¿
+2
+ProductUrlPathGenerator.php"š
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\ProductUrlPathGenerator.phpC C(
+implicit return*­
+1‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\ProductUrlPathGenerator.php? ?(,Ý
+Ú
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\ProductUrlPathGenerator.php9 9(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceã
+à
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\ProductUrlPathGenerator.php9 9(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface„
+
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\ProductUrlPathGenerator.php9 9(
+$categoryUrlPathGenerator"__id*W
+U
+$categoryUrlPathGenerator8magento\catalogurlrewrite\model\categoryurlpathgeneratorì
+é
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\ProductUrlPathGenerator.php9 9(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceî
+ë
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\ProductUrlPathGenerator.php? ?(+K9
+7magento\catalogurlrewrite\model\producturlpathgenerator"
+storeManager"__id*
+
+$storeManagerì
+é
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\ProductUrlPathGenerator.php@ @()J9
+7magento\catalogurlrewrite\model\producturlpathgenerator"
+scopeConfig"__id*
+
+$scopeConfig†
+ƒ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\ProductUrlPathGenerator.phpA A(CW9
+7magento\catalogurlrewrite\model\producturlpathgenerator"
+categoryUrlPathGenerator"__id*
+
+$categoryUrlPathGeneratorø
+õ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\ProductUrlPathGenerator.phpB B(5P9
+7magento\catalogurlrewrite\model\producturlpathgenerator"
+productRepository"__id*
+
+$productRepository*
+2::
+$storeManager)magento\store\model\storemanagerinterface:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:U
+$categoryUrlPathGenerator8magento\catalogurlrewrite\model\categoryurlpathgenerator:D
+$productRepository.magento\catalog\api\productrepositoryinterfaceB;9
+7magento\catalogurlrewrite\model\producturlpathgenerator

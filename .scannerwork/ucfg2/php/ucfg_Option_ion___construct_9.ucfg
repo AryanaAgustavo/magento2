@@ -1,0 +1,74 @@
+
+=magento\review\model\resourcemodel\rating\option::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.php^ ^("1*¦
+2
+
+Option.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpi i(
+implicit return*×
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpe e(3Ò
+Ï
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.php^ ^(
+
+$context"__id*>
+<
+$context0magento\framework\model\resourcemodel\db\contextÐ
+Í
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.php^ ^(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionä
+á
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.php^ ^(
+$ratingOptionVoteF"__id*F
+D
+$ratingOptionVoteF.magento\review\model\rating\option\votefactoryá
+Þ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.php^ ^(
+$remoteAddress"__id*G
+E
+$remoteAddress3magento\framework\http\phpenvironment\remoteaddressæ
+ã
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpe e(2H2
+0magento\review\model\resourcemodel\rating\option"
+_customerSession"__id*
+
+$customerSessionê
+ç
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpf f(6J2
+0magento\review\model\resourcemodel\rating\option"
+_ratingOptionVoteF"__id*
+
+$ratingOptionVoteFâ
+ß
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phpg g(.F2
+0magento\review\model\resourcemodel\rating\option"
+_remoteAddress"__id*
+
+$remoteAddress¡
+ž
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Rating\Option.phph h(6
+%1"@magento\framework\model\resourcemodel\db\abstractdb::__construct*42
+0magento\review\model\resourcemodel\rating\option*
+
+
+$context*
+
+$connectionName*
+2:<
+$context0magento\framework\model\resourcemodel\db\context:2
+$customerSessionmagento\customer\model\session:D
+$ratingOptionVoteF.magento\review\model\rating\option\votefactory:E
+$remoteAddress3magento\framework\http\phpenvironment\remoteaddress:
+$connectionNameB42
+0magento\review\model\resourcemodel\rating\option

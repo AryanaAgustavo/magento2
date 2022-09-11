@@ -1,0 +1,42 @@
+
+6magento\framework\app\response\http::setnocacheheaderst
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.php¶ ¶(%"1*ù
+2
+
+Http.php"ã
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.php´ ´(
+implicit return*Å
+1t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.php® ®(5◊‘
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.php® ®(4
+%1*'%
+#magento\framework\app\response\http*
+
+pragma*
+
+no-cache*
+true2	setheaderÑÅ
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.php© ©(a
+%2*'%
+#magento\framework\app\response\http*
+cache-control*20
+.no-store, no-cache, must-revalidate, max-age=0*
+true2	setheader «
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.php™$ ™(I
+%3*'%
+#magento\framework\app\response\http*	
+-1 year2getexpirationheader“œ
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Response\Http.php™ ™(P
+%4*'%
+#magento\framework\app\response\http*	
+expires*
+
+%3*
+true2	setheader*
+2B'%
+#magento\framework\app\response\http

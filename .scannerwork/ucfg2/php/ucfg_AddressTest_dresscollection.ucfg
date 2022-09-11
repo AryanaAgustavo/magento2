@@ -1,0 +1,121 @@
+
+Umagento\sales\block\adminhtml\order\create\form\addresstest::testgetaddresscollectionû
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpF F(,"1*œ
+2
+AddressTest.php"∂
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpQ Q(
+implicit return*Ù
+1û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpH H(-Å˛
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpH H(,
+%1*?=
+;magento\sales\block\adminhtml\order\create\form\addresstest*
+base2
+getwebsiteæ
+ª
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpH H(,
+
+$website"__id*
+
+%1øº
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpID I(U
+%2*
+
+
+$website2getid≈
+¬
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpI? I(U
+%3"__sanitizing_cast*
+
+%2öó
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpI I(V
+%4*?=
+;magento\sales\block\adminhtml\order\create\form\addresstest*
+customer@example.com*
+
+%32getcustomerø
+º
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpI I(V
+	$customer"__id*
+
+%4«ƒ
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpJ J(.
+%5*
+
+	$customer2getaddresses¿
+Ω
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpJ J(.
+
+$addresses"__id*
+
+%5É
+Ä
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpK K(
+%6"__id*Q*O=
+;magento\sales\block\adminhtml\order\create\form\addresstest"
+quoteSessionÕ 
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpK K(4
+%7*
+
+%6*
+getCustomerId2method¿Ω
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpL L(+
+%8*
+
+	$customer2getid∆√
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpK L(,
+%9*
+
+%7*
+
+%82
+willreturn˝
+˙
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpN N(
+%10"__id*J*H=
+;magento\sales\block\adminhtml\order\create\form\addresstest"
+block «
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpN N(6
+%11*
+
+%102getaddresscollectionæ
+ª
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpN N(6	
+$actual"__id*
+
+%11∆
+√
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpO O(%
+%12"Kmagento\sales\block\adminhtml\order\create\form\addresstest::assertnotempty*?"=
+;magento\sales\block\adminhtml\order\create\form\addresstest*
+	
+$actual‘
+—
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Create\Form\AddressTest.phpP P(/
+%13"Imagento\sales\block\adminhtml\order\create\form\addresstest::assertequals*?"=
+;magento\sales\block\adminhtml\order\create\form\addresstest*
+
+
+$addresses*
+	
+$actual*
+2B?=
+;magento\sales\block\adminhtml\order\create\form\addresstest

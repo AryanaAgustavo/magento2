@@ -1,0 +1,61 @@
+
+Bmagento\reports\block\adminhtml\product\lowstock\grid::__construct€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Product\Lowstock\Grid.php% %("1*ª
+2
+
+Grid.php"˜
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Product\Lowstock\Grid.php- -(
+implicit return*ø
+1€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Product\Lowstock\Grid.php+ +(5Î
+Ë
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Product\Lowstock\Grid.php% %(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\contextÏ
+Ì
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Product\Lowstock\Grid.php% %(
+$backendHelper"__id*/
+-
+$backendHelpermagento\backend\helper\data€
+ý
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Product\Lowstock\Grid.php% %(
+$lowstocksFactory"__id*]
+[
+$lowstocksFactoryFmagento\reports\model\resourcemodel\product\lowstock\collectionfactory§
+¤
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Product\Lowstock\Grid.php% %(
+$data"__id*
+
+$dataarrayó
+ð
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Product\Lowstock\Grid.php+ +(4N7
+5magento\reports\block\adminhtml\product\lowstock\grid"
+_lowstocksFactory"__id*
+
+$lowstocksFactory¤
+¡
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Product\Lowstock\Grid.php, ,(<
+%1".magento\backend\block\widget\grid::__construct*97
+5magento\reports\block\adminhtml\product\lowstock\grid*
+
+
+$context*
+
+$backendHelper*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:-
+$backendHelpermagento\backend\helper\data:[
+$lowstocksFactoryFmagento\reports\model\resourcemodel\product\lowstock\collectionfactory:
+$dataarrayB97
+5magento\reports\block\adminhtml\product\lowstock\grid

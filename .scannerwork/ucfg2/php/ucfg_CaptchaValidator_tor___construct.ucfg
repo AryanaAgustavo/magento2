@@ -1,0 +1,68 @@
+
+6magento\sendfriend\model\captchavalidator::__constructt
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Model\CaptchaValidator.php4 4("1*©
+2
+CaptchaValidator.php"‹
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Model\CaptchaValidator.php> >(
+implicit return*Ó
+1t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Model\CaptchaValidator.php: :(.Â
+¿
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Model\CaptchaValidator.php4 4(
+$captchaHelper"__id*/
+-
+$captchaHelpermagento\captcha\helper\dataå
+â
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Model\CaptchaValidator.php4 4(
+$captchaStringResolver"__id*J
+H
+$captchaStringResolver.magento\captcha\observer\captchastringresolverÓ
+Ð
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Model\CaptchaValidator.php4 4(
+$currentUser"__id*B
+@
+$currentUser0magento\authorization\model\usercontextinterfaceá
+Þ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Model\CaptchaValidator.php4 4(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceÓ
+Ð
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Model\CaptchaValidator.php: :(->+
+)magento\sendfriend\model\captchavalidator"
+captchaHelper"__id*
+
+$captchaHelperã
+à
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Model\CaptchaValidator.php; ;(=F+
+)magento\sendfriend\model\captchavalidator"
+captchaStringResolver"__id*
+
+$captchaStringResolverÏ
+Ì
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Model\CaptchaValidator.php< <()<+
+)magento\sendfriend\model\captchavalidator"
+currentUser"__id*
+
+$currentUserÝ
+Ú
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Model\CaptchaValidator.php= =(7C+
+)magento\sendfriend\model\captchavalidator"
+customerRepository"__id*
+
+$customerRepository*
+2:-
+$captchaHelpermagento\captcha\helper\data:H
+$captchaStringResolver.magento\captcha\observer\captchastringresolver:@
+$currentUser0magento\authorization\model\usercontextinterface:G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceB-+
+)magento\sendfriend\model\captchavalidator

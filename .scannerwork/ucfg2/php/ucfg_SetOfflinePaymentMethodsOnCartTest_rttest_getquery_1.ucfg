@@ -1,0 +1,49 @@
+
+Kmagento\graphql\quote\customer\setofflinepaymentmethodsoncarttest::getquery©
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetOfflinePaymentMethodsOnCartTest.php• •("1*ü	
+1©
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetOfflinePaymentMethodsOnCartTest.php™ ©(ã
+à
+©
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetOfflinePaymentMethodsOnCartTest.php• •(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringÝ
+Ú
+©
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetOfflinePaymentMethodsOnCartTest.php• •(
+$methodCode"__id*
+
+$methodCodestringÍ
+Ê
+©
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetOfflinePaymentMethodsOnCartTest.php™ ©(
+%1"__concat*A?
+=mutation {
+  setPaymentMethodOnCart(input: {
+    cart_id: "*,*
+(",
+    payment_method: {
+      code: "*vt
+r"
+    }
+  }) {
+    cart {
+      selected_payment_method {
+        code
+        title
+      }
+    }
+  }
+}*
+
+$maskedQuoteId*
+
+$methodCode"´
+©
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetOfflinePaymentMethodsOnCartTest.php™ ©(
+
+%1:
+$maskedQuoteIdstring:
+$methodCodestringBEC
+Amagento\graphql\quote\customer\setofflinepaymentmethodsoncarttest

@@ -1,0 +1,61 @@
+
+Emagento\graphql\urlrewrite\routetest::testnonexistententityurlrewrite‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpÀ À(3"1*º
+2
+RouteTest.php"£
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpÓ Ó(
+implicit return*²
+1‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpÂ Â(+¾
+»
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpÂ Â(*
+
+$urlPath"__id*
+non-exist-entity.html†
+ƒ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpÄ Í(
+%1"__concat*
+{
+  route(url:"*?=
+;")
+  {
+   relative_url
+   type
+   redirect_code
+  }
+}*
+
+
+$urlPath©
+¦
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpÄ Í(
+$query"__id*
+
+%1á
+Þ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpÐ Ð(E
+%2"__concat*0.
+,No such entity found with matching URL key: *
+
+
+$urlPatháÞ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpÏ Ñ(	
+%3*(&
+$magento\graphql\urlrewrite\routetest*
+
+%22expectexceptionmessageÛØ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\UrlRewrite\RouteTest.phpÒ Ò(#
+%4*(&
+$magento\graphql\urlrewrite\routetest*
+
+
+$query2graphqlquery*
+2B(&
+$magento\graphql\urlrewrite\routetest

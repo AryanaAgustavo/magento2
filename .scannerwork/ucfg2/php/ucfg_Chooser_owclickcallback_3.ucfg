@@ -1,0 +1,64 @@
+
+Kmagento\catalog\block\adminhtml\product\widget\chooser::getrowclickcallbackƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Widget\Chooser.phpŸ Ÿ('"1*ê
+2ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Widget\Chooser.php¢ ¢(.ÒÏ
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Widget\Chooser.php¢ ¢(-
+%2*:8
+6magento\catalog\block\adminhtml\product\widget\chooser2getid«
+¨
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Widget\Chooser.php¢ ¢(-
+$chooserJsObject"__id*
+
+%2Ê
+Ç
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Widget\Chooser.php£ º(
+%3"__concat*ÈÅ
+Â
+                function (grid, event) {
+                    var trElement = Event.findElement(event, "tr");
+                    var productId = trElement.down("td").innerHTML;
+                    var productName = trElement.down("td").next().next().innerHTML;
+                    var optionLabel = productName;
+                    var optionValue = "product/" + productId.replace(/^\s+|\s+$/g,"");
+                    if (grid.categoryId) {
+                        optionValue += "/" + grid.categoryId;
+                    }
+                    if (grid.categoryName) {
+                        optionLabel = grid.categoryName + " / " + optionLabel;
+                    }
+                    *
+
+$chooserJsObject*86
+4.setElementValue(optionValue);
+                    *
+
+$chooserJsObject*86
+4.setElementLabel(optionLabel);
+                    *
+
+$chooserJsObject*.,
+*.close();
+                }
+            "Ž
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Widget\Chooser.php£ º(
+
+%3*°
+3
+Chooser.php"›
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Widget\Chooser.php¼ ¼(
+implicit return*ñ
+1ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Widget\Chooser.php¡ ¡(&ÝÚ
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Widget\Chooser.php¡ ¡(&
+%1*:8
+6magento\catalog\block\adminhtml\product\widget\chooser2getusemassaction*
+2
+3B:8
+6magento\catalog\block\adminhtml\product\widget\chooser

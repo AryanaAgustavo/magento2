@@ -1,0 +1,98 @@
+
+Imagento\graphql\quote\addsimpleproducttocartendtoendtest::getproductquery 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\AddSimpleProductToCartEndToEndTest.php„ „($"1*ý
+1 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\AddSimpleProductToCartEndToEndTest.php† Ñ(Æ
+Ã
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\AddSimpleProductToCartEndToEndTest.php„ „($
+$sku"__id*
+
+$skustringÝ
+Ú
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\AddSimpleProductToCartEndToEndTest.php† Ñ(
+%1"__concat*!
+query {
+  products(search: "*÷ô
+ñ") {
+    items {
+      sku
+
+      ... on CustomizableProductInterface {
+        options {
+          option_id
+          title
+
+          ... on CustomizableRadioOption {
+            option_id
+            selected_option: value {
+              option_type_id
+              uid
+            }
+          }
+
+          ... on CustomizableDropDownOption {
+            option_id
+            selected_option: value {
+              option_type_id
+              uid
+            }
+          }
+
+          ... on CustomizableMultipleOption {
+            option_id
+            selected_option: value {
+              option_type_id
+              uid
+            }
+          }
+
+          ... on CustomizableCheckboxOption {
+            option_id
+            selected_option: value {
+              option_type_id
+              uid
+            }
+          }
+
+          ... on CustomizableAreaOption {
+            option_id
+            entered_option: value {
+              uid
+            }
+          }
+
+          ... on CustomizableFieldOption {
+            option_id
+            entered_option: value {
+              uid
+            }
+          }
+
+          ... on CustomizableFileOption {
+            option_id
+            entered_option: value {
+              uid
+            }
+          }
+
+          ... on CustomizableDateOption {
+            option_id
+            entered_option: value {
+              uid
+            }
+          }
+        }
+      }
+    }
+  }
+}*
+
+$sku"«
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\AddSimpleProductToCartEndToEndTest.php† Ñ(
+
+%1:
+$skustringB<:
+8magento\graphql\quote\addsimpleproducttocartendtoendtest

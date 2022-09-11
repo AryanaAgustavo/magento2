@@ -1,0 +1,86 @@
+
+>magento\customer\model\layout\depersonalizeplugin::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Layout\DepersonalizePlugin.phpC C("1*´
+2
+DepersonalizePlugin.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Layout\DepersonalizePlugin.phpO O(
+implicit return*¹
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Layout\DepersonalizePlugin.phpJ J(<é
+æ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Layout\DepersonalizePlugin.phpC C(
+$depersonalizeChecker"__id*G
+E
+$depersonalizeChecker,magento\pagecache\model\depersonalizecheckerÔ
+Ñ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Layout\DepersonalizePlugin.phpC C(
+
+$session"__id*?
+=
+$session1magento\framework\session\sessionmanagerinterfaceÑ
+Î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Layout\DepersonalizePlugin.phpC C(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÙ
+Ö
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Layout\DepersonalizePlugin.phpC C(
+$customerFactory"__id*<
+:
+$customerFactory&magento\customer\model\customerfactoryÁ
+¾
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Layout\DepersonalizePlugin.phpC C(
+
+$visitor"__id*,
+*
+$visitormagento\customer\model\visitorñ
+î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Layout\DepersonalizePlugin.phpJ J(;M3
+1magento\customer\model\layout\depersonalizeplugin"
+depersonalizeChecker"__id*
+
+$depersonalizeChecker×
+Ô
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Layout\DepersonalizePlugin.phpK K(!@3
+1magento\customer\model\layout\depersonalizeplugin"	
+session"__id*
+
+
+$sessionç
+ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Layout\DepersonalizePlugin.phpL L(1H3
+1magento\customer\model\layout\depersonalizeplugin"
+customerSession"__id*
+
+$customerSessionç
+ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Layout\DepersonalizePlugin.phpM M(1H3
+1magento\customer\model\layout\depersonalizeplugin"
+customerFactory"__id*
+
+$customerFactory×
+Ô
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Layout\DepersonalizePlugin.phpN N(!@3
+1magento\customer\model\layout\depersonalizeplugin"	
+visitor"__id*
+
+
+$visitor*
+2:E
+$depersonalizeChecker,magento\pagecache\model\depersonalizechecker:=
+$session1magento\framework\session\sessionmanagerinterface:2
+$customerSessionmagento\customer\model\session::
+$customerFactory&magento\customer\model\customerfactory:*
+$visitormagento\customer\model\visitorB53
+1magento\customer\model\layout\depersonalizeplugin

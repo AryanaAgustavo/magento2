@@ -1,0 +1,167 @@
+
+7magento\framework\setup\patch\patchapplier::__constructy
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpg g("1*™
+2
+PatchApplier.php"ê
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.php (
+implicit return*√'
+1y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpt t(<Ÿ
+÷
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpg g(
+$dataPatchReader"__id*?
+=
+$dataPatchReader)magento\framework\setup\patch\patchreader›
+⁄
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpg g(
+$schemaPatchReader"__id*A
+?
+$schemaPatchReader)magento\framework\setup\patch\patchreaderÏ
+È
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpg g(
+$patchRegistryFactory"__id*M
+K
+$patchRegistryFactory2magento\framework\setup\patch\patchregistryfactoryﬁ
+€
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpg g(
+$resourceConnection"__id*A
+?
+$resourceConnection(magento\framework\app\resourceconnection˛
+˚
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpg g(
+$patchBackwardCompatability"__id*Y
+W
+$patchBackwardCompatability8magento\framework\setup\patch\patchbackwardcompatability‘
+—
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpg g(
+$patchHistory"__id*=
+;
+$patchHistory*magento\framework\setup\patch\patchhistory‘
+—
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpg g(
+$patchFactory"__id*=
+;
+$patchFactory*magento\framework\setup\patch\patchfactory‘
+—
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpg g(
+$objectManager"__id*<
+:
+$objectManager(magento\framework\objectmanagerinterface‘
+—
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpg g(
+$schemaSetup"__id*>
+<
+$schemaSetup,magento\framework\setup\schemasetupinterface‡
+›
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpg g(
+$moduleDataSetup"__id*F
+D
+$moduleDataSetup0magento\framework\setup\moduledatasetupinterface…
+∆
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpg g(
+$moduleList"__id*4
+2
+$moduleList#magento\framework\module\modulelistÁ
+‰
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpt t(;F,
+*magento\framework\setup\patch\patchapplier"
+patchRegistryFactory"__id*
+
+$patchRegistryFactory›
+⁄
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpu u(1A,
+*magento\framework\setup\patch\patchapplier"
+dataPatchReader"__id*
+
+$dataPatchReader·
+ﬁ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpv v(5C,
+*magento\framework\setup\patch\patchapplier"
+schemaPatchReader"__id*
+
+$schemaPatchReader„
+‡
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpw w(7D,
+*magento\framework\setup\patch\patchapplier"
+resourceConnection"__id*
+
+$resourceConnection◊
+‘
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpx x(+>,
+*magento\framework\setup\patch\patchapplier"
+patchHistory"__id*
+
+$patchHistory◊
+‘
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpy y(+>,
+*magento\framework\setup\patch\patchapplier"
+patchFactory"__id*
+
+$patchFactory’
+“
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.phpz z()=,
+*magento\framework\setup\patch\patchapplier"
+schemaSetup"__id*
+
+$schemaSetup›
+⁄
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.php{ {(1A,
+*magento\framework\setup\patch\patchapplier"
+moduleDataSetup"__id*
+
+$moduleDataSetupŸ
+÷
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.php| |(-?,
+*magento\framework\setup\patch\patchapplier"
+objectManager"__id*
+
+$objectManagerÛ
+
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.php} }(GL,
+*magento\framework\setup\patch\patchapplier"
+patchBackwardCompatability"__id*
+
+$patchBackwardCompatability”
+–
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Patch\PatchApplier.php~ ~('<,
+*magento\framework\setup\patch\patchapplier"
+
+moduleList"__id*
+
+$moduleList*
+2:=
+$dataPatchReader)magento\framework\setup\patch\patchreader:?
+$schemaPatchReader)magento\framework\setup\patch\patchreader:K
+$patchRegistryFactory2magento\framework\setup\patch\patchregistryfactory:?
+$resourceConnection(magento\framework\app\resourceconnection:W
+$patchBackwardCompatability8magento\framework\setup\patch\patchbackwardcompatability:;
+$patchHistory*magento\framework\setup\patch\patchhistory:;
+$patchFactory*magento\framework\setup\patch\patchfactory::
+$objectManager(magento\framework\objectmanagerinterface:<
+$schemaSetup,magento\framework\setup\schemasetupinterface:D
+$moduleDataSetup0magento\framework\setup\moduledatasetupinterface:2
+$moduleList#magento\framework\module\modulelistB.,
+*magento\framework\setup\patch\patchapplier

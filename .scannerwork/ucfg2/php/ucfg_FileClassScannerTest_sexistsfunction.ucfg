@@ -1,0 +1,83 @@
+
+gmagento\setup\test\unit\module\di\code\reader\fileclassscannertest::testfilecontainsclassexistsfunction‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.php® ®(7"1*Ë
+2
+FileClassScannerTest.php"©
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpÅ Å(
+implicit return*â
+1‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.php° °(1ûø
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.php° °(0
+%1*FD
+Bmagento\setup\test\unit\module\di\code\reader\fileclassscannertest2getscannermockobject±
+®
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.php° °(0
+
+$scanner"__id*
+
+%1¯
+¬
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.php± ±(&
+%2"Hmagento\setup\test\unit\module\di\code\reader\fileclassscannertest::once*F"D
+Bmagento\setup\test\unit\module\di\code\reader\fileclassscannertest¼¹
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.php± ±('
+%3*
+
+
+$scanner*
+
+%22expectsÂ¿
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.php± ²('
+%4*
+
+%3*
+getFileContents2methodê
+ç
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.php´ ¿(
+%5"__id*ÄÁ
+¾<?php
+
+namespace This\Is\My\Ns;
+
+if (false) {
+    class ThisIsMyTest {}
+}
+
+class_exists(\This\Is\My\Ns\ThisIsMySecondTest::class);
+trigger_error('This class is does not supported');¹¶
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.php± À(
+%6*
+
+%4*
+
+%52
+willreturn¹¶
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpÃ Ã(*
+%7*
+
+
+$scanner2getclassname°
+­
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpÃ Ã(*	
+$result"__id*
+
+%7Ã
+À
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Module\Di\Code\Reader\FileClassScannerTest.phpÄ Ä("
+%8"Omagento\setup\test\unit\module\di\code\reader\fileclassscannertest::assertempty*F"D
+Bmagento\setup\test\unit\module\di\code\reader\fileclassscannertest*
+	
+$result*
+2BFD
+Bmagento\setup\test\unit\module\di\code\reader\fileclassscannertest

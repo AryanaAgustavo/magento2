@@ -1,0 +1,62 @@
+
+zmagento\framework\data\test\unit\form\element\editablemultiselecttest::testgetelementhtmlrendersdataattributeswhendisabled•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Data\Test\Unit\Form\Element\EditablemultiselectTest.phpD D(G"1*Ò
+2
+EditablemultiselectTest.php"­
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Data\Test\Unit\Form\Element\EditablemultiselectTest.phpK K(
+implicit return*„
+1•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Data\Test\Unit\Form\Element\EditablemultiselectTest.phpF F()þ
+û
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Data\Test\Unit\Form\Element\EditablemultiselectTest.phpF F(
+%1"__id*U*SG
+Emagento\framework\data\test\unit\form\element\editablemultiselecttest"
+_modelÀ½
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Data\Test\Unit\Form\Element\EditablemultiselectTest.phpF F((
+%2*
+
+%1*
+true2setdisabledþ
+û
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Data\Test\Unit\Form\Element\EditablemultiselectTest.phpG G($
+%3"__id*U*SG
+Emagento\framework\data\test\unit\form\element\editablemultiselecttest"
+_model¹¶
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Data\Test\Unit\Form\Element\EditablemultiselectTest.phpG G(6
+%4*
+
+%32getelementhtml¹
+¶
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Data\Test\Unit\Form\Element\EditablemultiselectTest.phpG G(6
+$elementHtml"__id*
+
+%4³°
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Data\Test\Unit\Form\Element\EditablemultiselectTest.phpH H(N
+%5*IG
+Emagento\framework\data\test\unit\form\element\editablemultiselecttest*
+disabled="disabled"*
+
+$elementHtml2assertstringcontainsstring¶³
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Data\Test\Unit\Form\Element\EditablemultiselectTest.phpI I(Q
+%6*IG
+Emagento\framework\data\test\unit\form\element\editablemultiselecttest*
+data-is-removable="no"*
+
+$elementHtml2assertstringcontainsstringµ²
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Data\Test\Unit\Form\Element\EditablemultiselectTest.phpJ J(P
+%7*IG
+Emagento\framework\data\test\unit\form\element\editablemultiselecttest*
+data-is-editable="no"*
+
+$elementHtml2assertstringcontainsstring*
+2BIG
+Emagento\framework\data\test\unit\form\element\editablemultiselecttest

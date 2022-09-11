@@ -1,0 +1,272 @@
+
+?magento\backend\block\dashboard\orders\grid::_preparecollectionv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpD D()"1*¶
+13v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpZ Z(2±®
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpZ Z(1
+%31*
+
+$collection*
+true2addrevenuetoselect*
+14*Æ
+14v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.php] ](*ÓÐ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.php] ]()
+%32*/-
++magento\backend\block\dashboard\orders\grid*
+
+$collection2setcollectioní
+ê
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.php_ _(+
+%33"8magento\backend\block\dashboard\grid::_preparecollection*/-
++magento\backend\block\dashboard\orders\grid"
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.php_ _(,
+
+%33*þ
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpF F(@Ì
+É
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpF F("
+%1"__id*C*A-
++magento\backend\block\dashboard\orders\grid"
+_moduleManager©¦
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpF F(@
+%2*
+
+%1*
+Magento_Reports2	isenabled*
+2
+3*§
+2v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpG G("©
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpG G(/-
++magento\backend\block\dashboard\orders\grid*·
+
+3v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpI K(Ð
+Í
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpI I(/
+%3"__id*G*E-
++magento\backend\block\dashboard\orders\grid"
+_collectionFactory‘Ž
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpI I(9
+%4*
+
+%32create›˜
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpI I(M
+%5*
+
+%42additemcountexpr©¦
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpI K(	
+%6*
+
+%5*
+
+customer2joincustomername›˜
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpI K(
+%7*
+
+%62orderbycreatedat˜
+•
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpI K(
+$collection"__id*
+
+%7ÇÄ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpM M($
+%8*/-
++magento\backend\block\dashboard\orders\grid*	
+store2getparam*
+4
+6*Ï
+4v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpM( M(BÉÆ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpM( M(B
+%9*/-
++magento\backend\block\dashboard\orders\grid*	
+website2getparam*
+5
+6*Ï
+5v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpMF M(^ÈÅ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpMF M(^
+%10*/-
++magento\backend\block\dashboard\orders\grid*	
+group2getparam*
+13
+6*Î
+6v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpN N((ÈÅ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpN N((
+%11*/-
++magento\backend\block\dashboard\orders\grid*	
+store2getparam*
+7
+8*
+7v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpO O(XÈÅ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpO> O(V
+%12*/-
++magento\backend\block\dashboard\orders\grid*	
+store2getparamÀ½
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpO O(W
+%13*
+
+$collection*
+
+store_id*
+
+%122addattributetofilter*
+12*Ñ
+8v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpP P(0ÊÇ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpP P(0
+%14*/-
++magento\backend\block\dashboard\orders\grid*	
+website2getparam*
+9
+10*ô
+9v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpQ Q(hÌ
+É
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpQ Q(0
+%15"__id*B*@-
++magento\backend\block\dashboard\orders\grid"
+_storeManagerÊÇ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpQ= Q(W
+%16*/-
++magento\backend\block\dashboard\orders\grid*	
+website2getparam 
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpQ Q(X
+%17*
+
+%15*
+
+%162
+getwebsite˜•
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpQ Q(g
+%18*
+
+%172getstoreids—
+”
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpQ Q(g
+	$storeIds"__id*
+
+%18Š‡
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpR> R(Q
+%19"$Array¬
+©
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpR> R(Q
+%20"__mapSet*
+
+%19*
+in*
+
+	$storeIdsÀ½
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpR R(R
+%21*
+
+$collection*
+
+store_id*
+
+%192addattributetofilter*
+12*Ñ
+10v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpS S(.ÈÅ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpS S(.
+%22*/-
++magento\backend\block\dashboard\orders\grid*	
+group2getparam*
+11
+12*ñ
+11v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpT T(dÌ
+É
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpT T(0
+%23"__id*B*@-
++magento\backend\block\dashboard\orders\grid"
+_storeManagerÈÅ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpT; T(S
+%24*/-
++magento\backend\block\dashboard\orders\grid*	
+group2getparamž›
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpT T(T
+%25*
+
+%23*
+
+%242getgroup˜•
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpT T(c
+%26*
+
+%252getstoreids—
+”
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpT T(c
+	$storeIds"__id*
+
+%26Š‡
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpU> U(Q
+%27"$Array¬
+©
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpU> U(Q
+%28"__mapSet*
+
+%27*
+in*
+
+	$storeIdsÀ½
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpU U(R
+%29*
+
+$collection*
+
+store_id*
+
+%272addattributetofilter*
+12*¬
+12v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpX X(.§¤
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Block\Dashboard\Orders\Grid.phpX X(-
+%30*
+
+$collection2addrevenuetoselect*
+14B/-
++magento\backend\block\dashboard\orders\grid

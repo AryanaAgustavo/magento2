@@ -1,0 +1,47 @@
+
+=magento\graphql\catalog\productinmultiplestorestest::getquery™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductInMultipleStoresTest.phpZ Z("1*Ø
+
+1™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductInMultipleStoresTest.php\ s(Í
+Ê
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductInMultipleStoresTest.phpZ Z(
+$productSku"__id*
+
+$productSkustring¿
+¼
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductInMultipleStoresTest.php\ s(
+%1"__concat*86
+4        {
+            products(filter: {sku: {eq: "*Â¿
+¼"}})
+            {
+                items {
+                    id
+                    name
+                    price {
+                        minimalPrice {
+                            amount {
+                                value
+                                currency
+                            }
+                        }
+                    }
+                    sku
+                    type_id
+                    ... on PhysicalProductInterface {
+                        weight
+                    }
+                }
+            }
+        }*
+
+$productSku"¤
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductInMultipleStoresTest.php\ s(
+
+%1:
+$productSkustringB75
+3magento\graphql\catalog\productinmultiplestorestest

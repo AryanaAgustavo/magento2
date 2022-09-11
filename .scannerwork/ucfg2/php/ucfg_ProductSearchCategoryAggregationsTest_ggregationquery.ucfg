@@ -1,0 +1,57 @@
+
+Rmagento\graphql\catalog\productsearchcategoryaggregationstest::getaggregationquery¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchCategoryAggregationsTest.php‡ ‡(("1*š
+1¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchCategoryAggregationsTest.php‰ µ(¹
+¶
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchCategoryAggregationsTest.php‰ µ(
+%1"__id*ÿü
+ùquery {
+  products(filter: { category_id: { eq: "3" } }) {
+    total_count
+
+    aggregations {
+      attribute_code
+
+      label
+
+      count
+
+      options {
+        count
+
+        label
+
+        value
+      }
+    }
+
+    items {
+      name
+
+      sku
+
+      price_range {
+        minimum_price {
+          regular_price {
+            value
+
+            currency
+          }
+        }
+      }
+    }
+
+    page_info {
+      page_size
+
+      current_page
+    }
+  }
+}"°
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchCategoryAggregationsTest.php‰ µ(
+
+%1BA?
+=magento\graphql\catalog\productsearchcategoryaggregationstest

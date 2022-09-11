@@ -1,0 +1,82 @@
+
+:magento\giftmessage\model\orderitemrepository::__constructx
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\OrderItemRepository.phpD D("1*∞
+2
+OrderItemRepository.php"è
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\OrderItemRepository.phpP P(
+implicit return*Î
+1x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\OrderItemRepository.phpK K(,…
+∆
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\OrderItemRepository.phpD D(
+$orderFactory"__id*3
+1
+$orderFactory magento\sales\model\orderfactory“
+œ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\OrderItemRepository.phpD D(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface◊
+‘
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\OrderItemRepository.phpD D(
+$giftMessageSaveModel"__id*9
+7
+$giftMessageSaveModelmagento\giftmessage\model\saveø
+º
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\OrderItemRepository.phpD D(	
+$helper"__id*/
+-
+$helper"magento\giftmessage\helper\message’
+“
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\OrderItemRepository.phpD D(
+$messageFactory"__id*=
+;
+$messageFactory(magento\giftmessage\model\messagefactoryŸ
+÷
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\OrderItemRepository.phpK K(+A/
+-magento\giftmessage\model\orderitemrepository"
+orderFactory"__id*
+
+$orderFactoryÈ
+Ê
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\OrderItemRepository.phpL L(;I/
+-magento\giftmessage\model\orderitemrepository"
+giftMessageSaveModel"__id*
+
+$giftMessageSaveModelŸ
+÷
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\OrderItemRepository.phpM M(+A/
+-magento\giftmessage\model\orderitemrepository"
+storeManager"__id*
+
+$storeManagerÕ
+ 
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\OrderItemRepository.phpN N(;/
+-magento\giftmessage\model\orderitemrepository"
+helper"__id*
+	
+$helper›
+⁄
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GiftMessage\Model\OrderItemRepository.phpO O(/C/
+-magento\giftmessage\model\orderitemrepository"
+messageFactory"__id*
+
+$messageFactory*
+2:1
+$orderFactory magento\sales\model\orderfactory::
+$storeManager)magento\store\model\storemanagerinterface:7
+$giftMessageSaveModelmagento\giftmessage\model\save:-
+$helper"magento\giftmessage\helper\message:;
+$messageFactory(magento\giftmessage\model\messagefactoryB1/
+-magento\giftmessage\model\orderitemrepository

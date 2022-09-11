@@ -1,0 +1,162 @@
+
+_magento\graphql\downloadableproduct\downloadableproductviewtest::assertdownloadableproductlinksß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.phpø ø(3"1*Ë
+2!
+DownloadableProductViewTest.php"ø
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php— —(
+implicit return*Ï)
+1ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php¡ ƒ(
+¯
+ı
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.phpø ø(3
+
+$product"__id*7
+5
+$product)magento\catalog\api\data\productinterfaceÚ
+Ô
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php¬ ¬(9
+%1"__mapGet*
+
+$actualResponse*
+downloadable_product_linksŸ÷
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php¡ ƒ(	
+%2*CA
+?magento\graphql\downloadableproduct\downloadableproductviewtest*
+
+%1*GE
+CPrecondition failed: 'downloadable_product_links' must not be empty2assertnotemptyŸ÷
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php∆$ ∆(F
+%3*
+
+
+$product2getextensionattributesÿ’
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php∆$ ∆(e
+%4*
+
+%32getdownloadableproductlinksÿ
+’
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php∆ ∆(e
+$downloadableProductLinks"__id*
+
+%4‰
+·
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php«# «(?
+%5"
+__arrayGet*
+
+$downloadableProductLinks*2◊
+‘
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php« «(?
+$downloadableProductLink"__id*
+
+%5Ú
+Ô
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php» »(K
+%6"__mapGet*
+
+$actualResponse*
+downloadable_product_linksÕ
+ 
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php» »(N
+%7"
+__arrayGet*
+
+%6*2’
+“
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php» »(\
+%8"__mapGet*
+
+%7*
+
+sample_urlêç
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php» »(]
+%9*CA
+?magento\graphql\downloadableproduct\downloadableproductviewtest*
+
+%82assertnotemptyÛ
+
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php   (9
+%10"__mapGet*
+
+$actualResponse*
+downloadable_product_linksœ
+Ã
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php   (<
+%11"
+__arrayGet*
+
+%10*2ºπ
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.phpÀ œ(
+%12"$Array‡›
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.phpÃ  Ã(H
+%13*
+
+$downloadableProductLink2getsortorder‡
+›
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.phpÀ œ(
+%14"__mapSet*
+
+%12*
+
+sort_order*
+
+%13‹Ÿ
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.phpÕ Õ(?
+%15*
+
+$downloadableProductLink2gettitle€
+ÿ
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.phpÀ œ(
+%16"__mapSet*
+
+%12*	
+title*
+
+%15‹Ÿ
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.phpŒ Œ(?
+%17*
+
+$downloadableProductLink2getprice€
+ÿ
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.phpÀ œ(
+%18"__mapSet*
+
+%12*	
+price*
+
+%17°û
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\DownloadableProductViewTest.php… –(	
+%19*CA
+?magento\graphql\downloadableproduct\downloadableproductviewtest*
+
+%11*
+
+%122assertresponsefields*
+2:5
+$product)magento\catalog\api\data\productinterface:
+$actualResponseBCA
+?magento\graphql\downloadableproduct\downloadableproductviewtest

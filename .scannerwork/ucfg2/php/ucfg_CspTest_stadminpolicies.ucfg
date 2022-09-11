@@ -1,0 +1,157 @@
+
+&magento\csp\csptest::testadminpoliciesu
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpZ Z(%"1*¡
+2
+CspTest.php"Œ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phph h(
+implicit return*‘ 
+1u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.php\ \($±®
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.php\ \(#
+%1*
+magento\csp\csptest*
+
+backend/2dispatch¦£
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.php] ]((
+%2*
+magento\csp\csptest2getresponse•
+’
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.php] ]((
+	$response"__id*
+
+%2×Ô
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.php_ _(W
+%3*
+magento\csp\csptest*
+
+	$response*
+Content-Security-Policy2searchinresponse­ª
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.php_ _(X
+%4*
+magento\csp\csptest*
+
+%32
+asserttrueËÈ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.php` `(K
+%5*
+magento\csp\csptest*
+
+	$response*
+default-src2searchinresponse­ª
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.php` `(L
+%6*
+magento\csp\csptest*
+
+%52
+asserttrueÒÏ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpa a(R
+%7*
+magento\csp\csptest*
+
+	$response*
+http://magento.com2searchinresponse­ª
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpa a(S
+%8*
+magento\csp\csptest*
+
+%72
+asserttrueÚ×
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpb b(Z
+%9*
+magento\csp\csptest*
+
+	$response*
+http://devdocs.magento.com2searchinresponse®«
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpb b([
+%10*
+magento\csp\csptest*
+
+%92
+asserttrueÉÆ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpc c(H
+%11*
+magento\csp\csptest*
+
+	$response*
+
+\'self\'2searchinresponse¯¬
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpc c(I
+%12*
+magento\csp\csptest*
+
+%112
+asserttrueÉÆ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpd d(I
+%13*
+magento\csp\csptest*
+
+	$response*
+
+\'none\'2searchinresponse°­
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpd d(J
+%14*
+magento\csp\csptest*
+
+%132assertfalseËÈ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpe e(J
+%15*
+magento\csp\csptest*
+
+	$response*
+
+script-src2searchinresponse¯¬
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpe e(K
+%16*
+magento\csp\csptest*
+
+%152
+asserttrueÒÏ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpf f(Q
+%17*
+magento\csp\csptest*
+
+	$response*
+\'unsafe-inline\'2searchinresponse¯¬
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpf f(R
+%18*
+magento\csp\csptest*
+
+%172
+asserttrueÉÆ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpg g(H
+%19*
+magento\csp\csptest*
+
+	$response*
+
+font-src2searchinresponse¯¬
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspTest.phpg g(I
+%20*
+magento\csp\csptest*
+
+%192
+asserttrue*
+2B
+magento\csp\csptest

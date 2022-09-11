@@ -1,0 +1,123 @@
+
+8magento\catalog\model\layer\filter\category::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.php= =("1*£
+2
+Category.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.phpJ J(
+implicit return*é
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.phpF F(`ﬂ
+‹
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.php= =(
+$filterItemFactory"__id*F
+D
+$filterItemFactory.magento\catalog\model\layer\filter\itemfactory–
+Õ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.php= =(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface¥
+±
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.php= =(
+$layer"__id*'
+%
+$layermagento\catalog\model\layer‡
+›
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.php= =(
+$itemDataBuilder"__id*I
+G
+$itemDataBuilder3magento\catalog\model\layer\filter\item\databuilder∂
+≥
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.php= =(
+
+$escaper"__id*'
+%
+$escapermagento\framework\escaperÑ
+Å
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.php= =(
+$categoryDataProviderFactory"__id*a
+_
+$categoryDataProviderFactory?magento\catalog\model\layer\filter\dataprovider\categoryfactoryú
+ô
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.php= =(
+$data"__id*
+
+$dataarray 
+«
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.phpF F(_
+%1">magento\catalog\model\layer\filter\abstractfilter::__construct*/-
++magento\catalog\model\layer\filter\category*
+
+$filterItemFactory*
+
+$storeManager*
+
+
+$layer*
+
+$itemDataBuilder*	
+
+$dataÃ
+…
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.phpG G(";-
++magento\catalog\model\layer\filter\category"
+
+_escaper"__id*
+
+
+$escaper 
+«
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.phpH H(">-
++magento\catalog\model\layer\filter\category"
+_requestVar"__id*
+catâÜ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.phpIC I(a
+%2"$Arrayºπ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.phpIO I(`
+%3*/-
++magento\catalog\model\layer\filter\category2getlayer¶
+£
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.phpIC I(a
+%4"__mapSet*
+
+%2*	
+layer*
+
+%3≥∞
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.phpI I(b
+%5* 
+
+$categoryDataProviderFactory*
+
+%22create 
+«
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Category.phpI I(b?-
++magento\catalog\model\layer\filter\category"
+dataProvider"__id*
+
+%5*
+2:D
+$filterItemFactory.magento\catalog\model\layer\filter\itemfactory::
+$storeManager)magento\store\model\storemanagerinterface:%
+$layermagento\catalog\model\layer:G
+$itemDataBuilder3magento\catalog\model\layer\filter\item\databuilder:%
+$escapermagento\framework\escaper:_
+$categoryDataProviderFactory?magento\catalog\model\layer\filter\dataprovider\categoryfactory:
+$dataarrayB/-
++magento\catalog\model\layer\filter\category

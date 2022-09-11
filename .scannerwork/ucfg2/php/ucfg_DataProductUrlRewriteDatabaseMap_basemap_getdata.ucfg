@@ -1,0 +1,96 @@
+
+Mmagento\catalogurlrewrite\model\map\dataproducturlrewritedatabasemap::getdataê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpG G("1*∏
+1ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpI I(1çä
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpI I(0
+%1*HF
+Dmagento\catalogurlrewrite\model\map\dataproducturlrewritedatabasemap*
+
+$categoryId2generatetableadapter¸
+˘
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpJ! J(2
+%2"__id*X*VF
+Dmagento\catalogurlrewrite\model\map\dataproducturlrewritedatabasemap"
+
+connection≥∞
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpJ! J(C
+%3*
+
+%22getconnectionæ
+ª
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpJ J(C
+$urlRewritesConnection"__id*
+
+%3¿Ω
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpK K(2
+%4*
+
+$urlRewritesConnection2select§°
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpL L(D
+%5"$ArrayÜ
+É
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpL L(6
+%6"__id*b*`F
+Dmagento\catalogurlrewrite\model\map\dataproducturlrewritedatabasemap"
+createdTableAdapters¡
+æ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpL L(C
+%7"
+__arrayGet*
+
+%6*
+
+$categoryIdΩ
+∫
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpL L(D
+%8"__mapSet*
+
+%5*
+e*
+
+%7≤Ø
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpK L(E
+%9*
+
+%4*
+
+%52from»≈
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpK M()
+%10*
+
+%9*
+hash_key = ?*
+
+$key2where∞
+≠
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpK M()	
+$select"__id*
+
+%10–Õ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpN N(8
+%11*
+
+$urlRewritesConnection*
+	
+$select2fetchall"ú
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataProductUrlRewriteDatabaseMap.phpN N(9
+
+%11:
+$categoryId:
+$keyBHF
+Dmagento\catalogurlrewrite\model\map\dataproducturlrewritedatabasemap

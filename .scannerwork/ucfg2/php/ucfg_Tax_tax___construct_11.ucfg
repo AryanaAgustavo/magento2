@@ -1,0 +1,104 @@
+
+7magento\tax\model\resourcemodel\report\tax::__constructu
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Tax.php# #("1*
+2	
+Tax.php"Œ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Tax.php9 9(
+implicit return*ô
+1u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Tax.php. .(5Ì
+É
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Tax.php# #(
+
+$context"__id*>
+<
+$context0magento\framework\model\resourcemodel\db\context±
+®
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Tax.php# #(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÕ
+Ò
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Tax.php# #(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterfaceÓ
+Ð
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Tax.php# #(
+$reportsFlagFactory"__id*:
+8
+$reportsFlagFactory!magento\reports\model\flagfactoryä
+á
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Tax.php# #(
+$timezoneValidator"__id*L
+J
+$timezoneValidator4magento\framework\stdlib\datetime\timezone\validatorÈ
+Å
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Tax.php# #(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetimeé
+æ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Tax.php# #(
+$createdAtFactory"__id*R
+P
+$createdAtFactory;magento\tax\model\resourcemodel\report\tax\createdatfactoryé
+æ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Tax.php# #(
+$updatedAtFactory"__id*R
+P
+$updatedAtFactory;magento\tax\model\resourcemodel\report\tax\updatedatfactoryÜ
+Ù
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Tax.php. .(4C,
+*magento\tax\model\resourcemodel\report\tax"
+_createdAtFactory"__id*
+
+$createdAtFactoryÜ
+Ù
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Tax.php/ /(4C,
+*magento\tax\model\resourcemodel\report\tax"
+_updatedAtFactory"__id*
+
+$updatedAtFactoryù
+ö
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Tax.php0 8(	
+%1"Fmagento\reports\model\resourcemodel\report\abstractreport::__construct*.,
+*magento\tax\model\resourcemodel\report\tax*
+
+
+$context*
+	
+$logger*
+
+$localeDate*
+
+$reportsFlagFactory*
+
+$timezoneValidator*
+
+	$dateTime*
+
+$connectionName*
+2:<
+$context0magento\framework\model\resourcemodel\db\context:"
+$loggerpsr\log\loggerinterface:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:8
+$reportsFlagFactory!magento\reports\model\flagfactory:J
+$timezoneValidator4magento\framework\stdlib\datetime\timezone\validator:7
+	$dateTime*magento\framework\stdlib\datetime\datetime:P
+$createdAtFactory;magento\tax\model\resourcemodel\report\tax\createdatfactory:P
+$updatedAtFactory;magento\tax\model\resourcemodel\report\tax\updatedatfactory:
+$connectionNameB.,
+*magento\tax\model\resourcemodel\report\tax

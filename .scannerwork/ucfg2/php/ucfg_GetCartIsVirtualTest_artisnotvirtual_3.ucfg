@@ -1,0 +1,99 @@
+
+Nmagento\graphql\quote\guest\getcartisvirtualtest::testgetmixedcartisnotvirtual–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php6 6(0"1*Ð
+2
+GetCartIsVirtualTest.php"®
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php@ @(
+implicit return*â
+1–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php8 8(Y…
+‚
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php8 8(A
+%1"__id*[*Y2
+0magento\graphql\quote\guest\getcartisvirtualtest"#
+!getMaskedQuoteIdByReservedOrderIdÃÀ
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php8 8(X
+%2*
+
+%1*
+
+test_quote2execute¼
+¹
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php8 8(X
+$maskedQuoteId"__id*
+
+%2öó
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php: :(0
+%3*42
+0magento\graphql\quote\guest\getcartisvirtualtest*
+
+$maskedQuoteId2getquery´
+±
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php: :(0
+$query"__id*
+
+%3òï
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php; ;(/
+%4*42
+0magento\graphql\quote\guest\getcartisvirtualtest*
+
+
+$query2graphqlquery·
+´
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php; ;(/
+	$response"__id*
+
+%4„
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php= =(3
+%5*42
+0magento\graphql\quote\guest\getcartisvirtualtest*
+cart*
+
+	$response2assertarrayhaskeyÅ
+Â
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php>/ >(@
+%6"__mapGet*
+
+	$response*
+cartƒ€
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php> >(A
+%7*42
+0magento\graphql\quote\guest\getcartisvirtualtest*
+
+is_virtual*
+
+%62assertarrayhaskeyÅ
+Â
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php? ?(,
+%8"__mapGet*
+
+	$response*
+cartÄ
+Á
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php? ?(:
+%9"__mapGet*
+
+%8*
+
+is_virtualîë
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetCartIsVirtualTest.php? ?(;
+%10*42
+0magento\graphql\quote\guest\getcartisvirtualtest*
+
+%92assertfalse*
+2B42
+0magento\graphql\quote\guest\getcartisvirtualtest

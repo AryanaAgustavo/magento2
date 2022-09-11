@@ -1,0 +1,93 @@
+
+=magento\sales\model\resourcemodel\entityabstract::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\EntityAbstract.phpB B("1*¬
+2{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\EntityAbstract.phpM M(&¤
+¡
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\EntityAbstract.phpM M(%
+$connectionName"__id*	
+sales*
+3*ë
+3{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\EntityAbstract.phpO O(bã
+à
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\EntityAbstract.phpO O(a
+%1"Omagento\framework\model\resourcemodel\db\versioncontrol\abstractdb::__construct*42
+0magento\sales\model\resourcemodel\entityabstract*
+
+
+$context*
+
+$entitySnapshot*
+
+$entityRelationComposite*
+
+$connectionName*
+4*®
+4
+EntityAbstract.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\EntityAbstract.phpP P(
+implicit return*Î
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\EntityAbstract.phpJ J(&Ò
+Ï
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\EntityAbstract.phpB B(
+
+$context"__id*>
+<
+$context0magento\framework\model\resourcemodel\db\contextð
+í
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\EntityAbstract.phpB B(
+$entitySnapshot"__id*U
+S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshot‹
+ˆ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\EntityAbstract.phpB B(
+$entityRelationComposite"__id*g
+e
+$entityRelationCompositeImagento\framework\model\resourcemodel\db\versioncontrol\relationcompositeÑ
+Î
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\EntityAbstract.phpB B(
+
+$attribute"__id*;
+9
+
+$attribute+magento\sales\model\resourcemodel\attributeÕ
+Ò
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\EntityAbstract.phpB B(
+$sequenceManager"__id*9
+7
+$sequenceManager#magento\salessequence\model\managerÙ
+Ö
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\EntityAbstract.phpJ J(%A2
+0magento\sales\model\resourcemodel\entityabstract"
+	attribute"__id*
+
+
+$attributeå
+â
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\EntityAbstract.phpK K(1G2
+0magento\sales\model\resourcemodel\entityabstract"
+sequenceManager"__id*
+
+$sequenceManager*
+2
+3:<
+$context0magento\framework\model\resourcemodel\db\context:S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshot:e
+$entityRelationCompositeImagento\framework\model\resourcemodel\db\versioncontrol\relationcomposite:9
+
+$attribute+magento\sales\model\resourcemodel\attribute:7
+$sequenceManager#magento\salessequence\model\manager:
+$connectionNameB42
+0magento\sales\model\resourcemodel\entityabstract
