@@ -1,0 +1,34 @@
+
+Qmagento\graphql\wishlist\deleteproductsfromwishlisttest::getcustomerwishlistqueryü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpù ù(-"1*ú
+1ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpü ¥(«
+ƒ
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpü ¥(
+%1"__id*ìê
+çquery {
+  customer {
+    wishlists {
+      id
+      items_count
+      sharing_code
+      updated_at
+      items_v2 {
+       items {
+        id
+        quantity
+        description
+         product {
+          sku
+        }
+      }
+      }
+    }
+  }
+}"™
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpü ¥(
+
+%1B;9
+7magento\graphql\wishlist\deleteproductsfromwishlisttest

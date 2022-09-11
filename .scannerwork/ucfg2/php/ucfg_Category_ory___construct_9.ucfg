@@ -1,0 +1,123 @@
+
+>magento\catalogsearch\model\layer\filter\category::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php& &("1*©
+2
+Category.php"ì
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php9 9(
+implicit return*ã
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php/ 5(
+Â
+‚
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php& &(
+$filterItemFactory"__id*F
+D
+$filterItemFactory.magento\catalog\model\layer\filter\itemfactory÷
+”
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php& &(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface∫
+∑
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php& &(
+$layer"__id*'
+%
+$layermagento\catalog\model\layerÊ
+„
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php& &(
+$itemDataBuilder"__id*I
+G
+$itemDataBuilder3magento\catalog\model\layer\filter\item\databuilderº
+π
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php& &(
+
+$escaper"__id*'
+%
+$escapermagento\framework\escaperä
+á
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php& &(
+$categoryDataProviderFactory"__id*a
+_
+$categoryDataProviderFactory?magento\catalog\model\layer\filter\dataprovider\categoryfactory¢
+ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php& &(
+$data"__id*
+
+$dataarray÷
+”
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php/ 5(	
+%1">magento\catalog\model\layer\filter\abstractfilter::__construct*53
+1magento\catalogsearch\model\layer\filter\category*
+
+$filterItemFactory*
+
+$storeManager*
+
+
+$layer*
+
+$itemDataBuilder*	
+
+$data◊
+‘
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php6 6(!@3
+1magento\catalogsearch\model\layer\filter\category"	
+escaper"__id*
+
+
+$escaper÷
+”
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php7 7("D3
+1magento\catalogsearch\model\layer\filter\category"
+_requestVar"__id*
+catèå
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php8C 8(a
+%2"$Array»≈
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php8O 8(`
+%3*53
+1magento\catalogsearch\model\layer\filter\category2getlayer¨
+©
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php8C 8(a
+%4"__mapSet*
+
+%2*	
+layer*
+
+%3π∂
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php8 8(b
+%5* 
+
+$categoryDataProviderFactory*
+
+%22create÷
+”
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Filter\Category.php8 8(bE3
+1magento\catalogsearch\model\layer\filter\category"
+dataProvider"__id*
+
+%5*
+2:D
+$filterItemFactory.magento\catalog\model\layer\filter\itemfactory::
+$storeManager)magento\store\model\storemanagerinterface:%
+$layermagento\catalog\model\layer:G
+$itemDataBuilder3magento\catalog\model\layer\filter\item\databuilder:%
+$escapermagento\framework\escaper:_
+$categoryDataProviderFactory?magento\catalog\model\layer\filter\dataprovider\categoryfactory:
+$dataarrayB53
+1magento\catalogsearch\model\layer\filter\category

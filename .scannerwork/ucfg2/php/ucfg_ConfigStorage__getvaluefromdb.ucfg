@@ -1,0 +1,160 @@
+
+@magento\testframework\config\model\configstorage::getvaluefromdb“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php, ,(""1*ê#
+1“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php1 1(:»
+¸
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php, ,("
+$path"__id*
+
+$pathstring½
+º
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php, ,("
+$scope"__id*
+
+$scopestringÅ
+Â
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php, ,("
+
+$scopeCode"__id*
+
+
+$scopeCodestringï
+ì
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php1 1((
+%1"__id*H*F2
+0magento\testframework\config\model\configstorage"
+configResource¶³
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php1 1(9
+%2*
+
+%12getconnection³
+°
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php1 1(9
+
+$connect"__id*
+
+%2ñî
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php2 2(.
+%3*42
+0magento\testframework\config\model\configstorage*
+
+
+$scope2normalizescope±
+®
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php2 2(.
+$scope"__id*
+
+%3ÿü
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php3 3(:
+%4*42
+0magento\testframework\config\model\configstorage*
+
+
+$scope*
+
+
+$scopeCode2getidbyscope³
+°
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php3 3(:
+
+$scopeId"__id*
+
+%4µ²
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php5 5($
+%5*
+
+
+$connect2select§¤
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php5+ 5(b
+%6"$Arrayï
+ì
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php5< 5(Q
+%7"__id*H*F2
+0magento\testframework\config\model\configstorage"
+configResourceµ²
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php5< 5(a
+%8*
+
+%72getmaintableÉ
+Æ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php5+ 5(b
+%9"__mapSet*
+
+%6*
+
+main_table*
+
+%8Á¾
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php5 5(l
+%10*
+
+%5*
+
+%6*	
+value2fromÔÑ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php5 6(1
+%11*
+
+%10*
+main_table.path = ?*	
+
+$path2whereÖÓ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php5 7(3
+%12*
+
+%11*
+main_table.scope = ?*
+
+
+$scope2whereÛØ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php5 8(8
+%13*
+
+%12*
+main_table.scope_id = ?*
+
+
+$scopeId2where³
+°
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php5 8(8	
+$select"__id*
+
+%13ÅÂ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php: :(*
+%14*
+
+
+$connect*
+	
+$select2fetchone"Ÿ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\framework\Magento\TestFramework\Config\Model\ConfigStorage.php: :(+
+
+%14:
+$pathstring:
+$scopestring:
+
+$scopeCodestringB42
+0magento\testframework\config\model\configstorage

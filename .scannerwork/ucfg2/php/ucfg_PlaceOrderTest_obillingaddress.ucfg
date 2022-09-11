@@ -1,0 +1,62 @@
+
+Nmagento\graphql\quote\guest\placeordertest::testplaceorderwithnobillingaddress’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpô ô(6"1*Æ
+2
+PlaceOrderTest.php"ª
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpþ þ(
+implicit return*Û
+1’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpö ö((Â
+¿
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpö ö('
+$reservedOrderId"__id*
+
+test_quoteû
+ø
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php÷ ÷(A
+%1"__id*U*S,
+*magento\graphql\quote\guest\placeordertest"#
+!getMaskedQuoteIdByReservedOrderIdÅÂ
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php÷ ÷(\
+%2*
+
+%1*
+
+$reservedOrderId2execute¸
+µ
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php÷ ÷(\
+$maskedQuoteId"__id*
+
+%2ìé
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpø ø(0
+%3*.,
+*magento\graphql\quote\guest\placeordertest*
+
+$maskedQuoteId2getquery°
+­
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpø ø(0
+$query"__id*
+
+%3å
+â
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpú ü(	
+%4"Imagento\graphql\quote\guest\placeordertest::expectexceptionmessagematches*.",
+*magento\graphql\quote\guest\placeordertest*JH
+F/Unable to place order: Please check the billing address information*/ëè
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpý ý(&
+%5*.,
+*magento\graphql\quote\guest\placeordertest*
+
+
+$query2graphqlmutation*
+2B.,
+*magento\graphql\quote\guest\placeordertest

@@ -1,0 +1,55 @@
+
+hmagento\graphql\configurableproduct\configurableproductpricerangewithdisabledchildproductstest::getqueryÄ
+¹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductPriceRangeWithDisabledChildProductsTest.php1 1("1*í
+1Ä
+¹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductPriceRangeWithDisabledChildProductsTest.php3 S(ê
+ç
+Ä
+¹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductPriceRangeWithDisabledChildProductsTest.php1 1(
+$sku"__id*
+
+$skustringá	
+Þ	
+Ä
+¹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductPriceRangeWithDisabledChildProductsTest.php3 S(
+%1"__concat*86
+4        {
+            products(filter: {sku: {eq: "*À½
+º"}})
+            {
+                items {
+                    sku
+                    price_range {
+                        minimum_price {
+                            discount {
+                                amount_off
+                                percent_off
+                            }
+                            final_price {
+                                value
+                                currency
+                            }
+                            regular_price {
+                                value
+                                currency
+                            }
+                        }
+                    }
+                    ...on ConfigurableProduct {
+                        variants {
+                            product {
+                                sku
+                            }
+                        }
+                    }
+                }
+            }
+        }*
+
+$sku"Ï
+Ä
+¹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductPriceRangeWithDisabledChildProductsTest.php3 S(
+
+%1:
+$skustringBb`
+^magento\graphql\configurableproduct\configurableproductpricerangewithdisabledchildproductstest

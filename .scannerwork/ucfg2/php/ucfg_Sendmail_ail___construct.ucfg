@@ -1,0 +1,106 @@
+
+;magento\sendfriend\controller\product\sendmail::__constructy
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.php; ;("1*¦
+2
+Sendmail.php"
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.phpI I(
+implicit return*º
+1y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.phpE E(iÄ
+Á
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.php; ;(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\contextÄ
+Á
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.php; ;(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryß
+Ü
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.php; ;(
+$formKeyValidator"__id*D
+B
+$formKeyValidator-magento\framework\data\form\formkey\validatorÉ
+Æ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.php; ;(
+$sendFriend"__id*4
+2
+$sendFriend#magento\sendfriend\model\sendfriendâ
+ß
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.php; ;(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceå
+â
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.php; ;(
+$categoryRepository"__id*H
+F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterfaceË
+È
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.php; ;(
+$catalogSession"__id*2
+0
+$catalogSessionmagento\catalog\model\sessionÛ
+Ø
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.php; ;(
+$captchaValidator"__id*@
+>
+$captchaValidator)magento\sendfriend\model\captchavalidatorÍ
+Ê
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.phpE E(h
+%1"2magento\sendfriend\controller\product::__construct*20
+.magento\sendfriend\controller\product\sendmail*
+
+
+$context*
+
+$coreRegistry*
+
+$formKeyValidator*
+
+$sendFriend*
+
+$productRepositoryç
+ä
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.phpF F(7H0
+.magento\sendfriend\controller\product\sendmail"
+categoryRepository"__id*
+
+$categoryRepositoryß
+Ü
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.phpG G(/D0
+.magento\sendfriend\controller\product\sendmail"
+catalogSession"__id*
+
+$catalogSessionã
+à
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Controller\Product\Sendmail.phpH H(3F0
+.magento\sendfriend\controller\product\sendmail"
+captchaValidator"__id*
+
+$captchaValidator*
+2:0
+$context$magento\framework\app\action\context:+
+$coreRegistrymagento\framework\registry:B
+$formKeyValidator-magento\framework\data\form\formkey\validator:2
+$sendFriend#magento\sendfriend\model\sendfriend:D
+$productRepository.magento\catalog\api\productrepositoryinterface:F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface:0
+$catalogSessionmagento\catalog\model\session:>
+$captchaValidator)magento\sendfriend\model\captchavalidatorB20
+.magento\sendfriend\controller\product\sendmail

@@ -1,0 +1,114 @@
+
+Jmagento\paypal\model\resourcemodel\report\settlement::loadbyaccountanddate
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpj j(("1*∏
+2
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpw w($¨©
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpw w(#
+%11*
+	
+$report*	
+
+$data2adddata*
+3*¬
+3
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpz z("ª
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpz z(86
+4magento\paypal\model\resourcemodel\report\settlement*˚
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpl l(- 
+«
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpj j((	
+$report"__id*3
+1
+$report&magento\paypal\model\report\settlement”–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpl l(,
+%1*86
+4magento\paypal\model\resourcemodel\report\settlement2getconnection°
+û
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpl l(,
+$connection"__id*
+
+%1£†
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpm m('
+%2*
+
+$connection2select“œ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpn n(!
+%3*86
+4magento\paypal\model\resourcemodel\report\settlement2getmaintable†ù
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpm o(	
+%4*
+
+%2*
+
+%32from∑¥
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpm q(	
+%5*
+
+%4*
+account_id = :account_id2whereπ∂
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpm s(	
+%6*
+
+%5*
+report_date = :report_date2whereù
+ö
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpm s(		
+$select"__id*
+
+%6íè
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpu/ u(k
+%7"$ArrayΩ
+∫
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpu/ u(k
+%8"__mapSet*
+
+%7*
+:account_id*
+
+
+$accountIdø
+º
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpu/ u(k
+%9"__mapSet*
+
+%7*
+:report_date*
+
+$reportDateª∏
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpu u(l
+%10*
+
+$connection*
+	
+$select*
+
+%72fetchrowú
+ô
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Report\Settlement.phpu u(l
+$data"__id*
+
+%10*
+2
+3:1
+$report&magento\paypal\model\report\settlement:
+
+$accountId:
+$reportDateB86
+4magento\paypal\model\resourcemodel\report\settlement

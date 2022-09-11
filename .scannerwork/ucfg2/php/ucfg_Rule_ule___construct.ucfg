@@ -1,0 +1,194 @@
+
+)magento\salesrule\model\rule::__constructi
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å("1*’
+2
+
+Rule.php"€
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpé é(
+implicit return*Ž&
+1i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.php× ×(/¯
+¬
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+
+$context"__id*-
++
+$contextmagento\framework\model\context¬
+©
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryº
+·
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+$formFactory"__id*4
+2
+$formFactory"magento\framework\data\formfactoryÉ
+Æ
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterfaceÁ
+¾
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+$couponFactory"__id*9
+7
+$couponFactory%magento\salesrule\model\couponfactoryÑ
+Î
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+$codegenFactory"__id*H
+F
+$codegenFactory3magento\salesrule\model\coupon\codegeneratorfactoryÛ
+Ø
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+$condCombineFactory"__id*N
+L
+$condCombineFactory5magento\salesrule\model\rule\condition\combinefactoryß
+Ü
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+$condProdCombineF"__id*T
+R
+$condProdCombineF=magento\salesrule\model\rule\condition\product\combinefactoryÙ
+Ö
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+$couponCollection"__id*N
+L
+$couponCollection7magento\salesrule\model\resourcemodel\coupon\collectionÃ
+À
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÈ
+Å
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceÒ
+Ï
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb
+Œ
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+$data"__id*
+
+$dataarrayÒ
+Ï
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+$extensionFactory"__id*G
+E
+$extensionFactory0magento\framework\api\extensionattributesfactoryÙ
+Ö
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+$customAttributeFactory"__id*H
+F
+$customAttributeFactory+magento\framework\api\attributevaluefactoryÁ
+¾
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÅ Å(
+$serializer"__id*<
+:
+$serializer+magento\framework\serialize\serializer\json¼
+¹
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.php× ×(.2
+magento\salesrule\model\rule"
+_couponFactory"__id*
+
+$couponFactory¾
+»
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpØ Ø(03
+magento\salesrule\model\rule"
+_codegenFactory"__id*
+
+$codegenFactoryÆ
+Ã
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÙ Ù(87
+magento\salesrule\model\rule"
+_condCombineFactory"__id*
+
+$condCombineFactoryÂ
+¿
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÚ Ú(45
+magento\salesrule\model\rule"
+_condProdCombineF"__id*
+
+$condProdCombineFÂ
+¿
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÛ Û(45
+magento\salesrule\model\rule"
+_couponCollection"__id*
+
+$couponCollectionº
+·
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÜ Ü(,1
+magento\salesrule\model\rule"
+_storeManager"__id*
+
+$storeManagerý
+ú
+i
+]C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\Rule.phpÝ è(	
+%1"-magento\rule\model\abstractmodel::__construct* 
+magento\salesrule\model\rule*
+
+
+$context*
+
+	$registry*
+
+$formFactory*
+
+$localeDate*
+
+	$resource*
+
+$resourceCollection*	
+
+$data*
+
+$extensionFactory*
+
+$customAttributeFactory*
+
+$serializer*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:2
+$formFactory"magento\framework\data\formfactory:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:7
+$couponFactory%magento\salesrule\model\couponfactory:F
+$codegenFactory3magento\salesrule\model\coupon\codegeneratorfactory:L
+$condCombineFactory5magento\salesrule\model\rule\condition\combinefactory:R
+$condProdCombineF=magento\salesrule\model\rule\condition\product\combinefactory:L
+$couponCollection7magento\salesrule\model\resourcemodel\coupon\collection::
+$storeManager)magento\store\model\storemanagerinterface:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarray:E
+$extensionFactory0magento\framework\api\extensionattributesfactory:F
+$customAttributeFactory+magento\framework\api\attributevaluefactory::
+$serializer+magento\framework\serialize\serializer\jsonB 
+magento\salesrule\model\rule

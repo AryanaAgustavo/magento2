@@ -1,0 +1,36 @@
+
+[magento\graphql\quote\customer\mergecartstest::getcartmergemutationwithoutdestinationcartid•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\MergeCartsTest.phpã ã(A"1*õ
+1•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\MergeCartsTest.phpæ ó(Ù
+Ö
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\MergeCartsTest.phpã ã(A
+$guestQuoteMaskedId"__id*
+
+$guestQuoteMaskedIdstringØ
+Õ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\MergeCartsTest.phpæ ó(
+%1"__concat*42
+0mutation {
+  mergeCarts(
+    source_cart_id: "*\Z
+X"
+  ){
+  items {
+      quantity
+      product {
+        sku
+      }
+    }
+  }
+}*
+
+$guestQuoteMaskedId" 
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\MergeCartsTest.phpæ ó(
+
+%1:
+$guestQuoteMaskedIdstringB1/
+-magento\graphql\quote\customer\mergecartstest

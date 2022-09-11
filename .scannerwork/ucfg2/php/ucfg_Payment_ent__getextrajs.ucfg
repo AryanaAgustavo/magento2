@@ -1,0 +1,53 @@
+
+Jmagento\paypal\block\adminhtml\system\config\fieldset\payment::_getextrajsŠ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\System\Config\Fieldset\Payment.php­ ­(""1*§
+1Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\System\Config\Fieldset\Payment.php¯ À(å
+â
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\System\Config\Fieldset\Payment.php­ ­("
+
+$element"__id*A
+?
+$element3magento\framework\data\form\element\abstractelementê
+ç
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\System\Config\Fieldset\Payment.php¯ À(	
+$script"__id*ÆÃ
+Àrequire(['jquery', 'prototype'], function(jQuery){
+            window.paypalToggleSolution = function (id, url) {
+                var doScroll = false;
+                Fieldset.toggleCollapse(id, url);
+                if ($(this).hasClassName(\"open\")) {
+                    \$$(\".with-button button.button\").each(function(anotherButton) {
+                        if (anotherButton != this && $(anotherButton).hasClassName(\"open\")) {
+                            $(anotherButton).click();
+                            doScroll = true;
+                        }
+                    }.bind(this));
+                }
+                if (doScroll) {
+                    var pos = Element.cumulativeOffset($(this));
+                    window.scrollTo(pos[0], pos[1] - 45);
+                }
+            }
+        });î
+ë
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\System\Config\Fieldset\Payment.phpÂ Â(
+%1"__id*P*N?
+=magento\paypal\block\adminhtml\system\config\fieldset\payment"
+	_jsHelper¶³
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\System\Config\Fieldset\Payment.phpÂ Â(3
+%2*
+
+%1*
+	
+$script2	getscript"•
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\System\Config\Fieldset\Payment.phpÂ Â(4
+
+%2:?
+$element3magento\framework\data\form\element\abstractelementBA?
+=magento\paypal\block\adminhtml\system\config\fieldset\payment

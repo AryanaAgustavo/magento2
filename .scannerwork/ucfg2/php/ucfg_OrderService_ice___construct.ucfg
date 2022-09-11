@@ -1,0 +1,139 @@
+
+5magento\sales\model\service\orderservice::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpK K("1*¤
+2
+OrderService.php"Š
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php_ _(
+implicit return*Ü
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpV V(2Ô
+Ñ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpK K(
+$orderRepository"__id*@
+>
+$orderRepository*magento\sales\api\orderrepositoryinterfaceå
+â
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpK K(
+$historyRepository"__id*O
+M
+$historyRepository7magento\sales\api\orderstatushistoryrepositoryinterfaceÕ
+Ò
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpK K(
+$criteriaBuilder"__id*A
+?
+$criteriaBuilder+magento\framework\api\searchcriteriabuilderÉ
+Æ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpK K(
+$filterBuilder"__id*7
+5
+$filterBuilder#magento\framework\api\filterbuilder½
+º
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpK K(
+	$notifier"__id*0
+.
+	$notifier!magento\sales\model\ordernotifierÌ
+É
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpK K(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceé
+æ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpK K(
+$orderCommentSender"__id*R
+P
+$orderCommentSender9magento\sales\model\order\email\sender\ordercommentsenderÔ
+Ñ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpK K(
+$paymentFailures"__id*@
+>
+$paymentFailures*magento\sales\api\paymentfailuresinterface¯
+¬
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpK K(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÕ
+Ò
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpV V(1?*
+(magento\sales\model\service\orderservice"
+orderRepository"__id*
+
+$orderRepositoryÙ
+Ö
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpW W(5A*
+(magento\sales\model\service\orderservice"
+historyRepository"__id*
+
+$historyRepositoryÕ
+Ò
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpX X(1?*
+(magento\sales\model\service\orderservice"
+criteriaBuilder"__id*
+
+$criteriaBuilderÑ
+Î
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpY Y(-=*
+(magento\sales\model\service\orderservice"
+filterBuilder"__id*
+
+$filterBuilderÇ
+Ä
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpZ Z(#8*
+(magento\sales\model\service\orderservice"
+
+notifier"__id*
+
+	$notifierÏ
+Ì
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php[ [(+<*
+(magento\sales\model\service\orderservice"
+eventManager"__id*
+
+$eventManagerÛ
+Ø
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php\ \(7B*
+(magento\sales\model\service\orderservice"
+orderCommentSender"__id*
+
+$orderCommentSenderÕ
+Ò
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php] ](1?*
+(magento\sales\model\service\orderservice"
+paymentFailures"__id*
+
+$paymentFailuresÃ
+À
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php^ ^(6*
+(magento\sales\model\service\orderservice"
+logger"__id*
+	
+$logger*
+2:>
+$orderRepository*magento\sales\api\orderrepositoryinterface:M
+$historyRepository7magento\sales\api\orderstatushistoryrepositoryinterface:?
+$criteriaBuilder+magento\framework\api\searchcriteriabuilder:5
+$filterBuilder#magento\framework\api\filterbuilder:.
+	$notifier!magento\sales\model\ordernotifier:9
+$eventManager(magento\framework\event\managerinterface:P
+$orderCommentSender9magento\sales\model\order\email\sender\ordercommentsender:>
+$paymentFailures*magento\sales\api\paymentfailuresinterface:"
+$loggerpsr\log\loggerinterfaceB,*
+(magento\sales\model\service\orderservice

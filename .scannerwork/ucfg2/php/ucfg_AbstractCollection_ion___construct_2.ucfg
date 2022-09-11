@@ -1,0 +1,125 @@
+
+Nmagento\catalog\model\resourcemodel\collection\abstractcollection::__constructç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.php3 3("1*≈
+2
+AbstractCollection.php"•
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.phpM M(
+implicit return*Ç
+1ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.php@ @(-
+Ì
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.php3 3(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactory 
+«
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.php3 3(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface¸
+˘
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.php3 3(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceÁ
+‰
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.php3 3(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterface—
+Œ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.php3 3(
+
+$eavConfig"__id*(
+&
+
+$eavConfigmagento\eav\model\configﬂ
+‹
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.php3 3(
+	$resource"__id*7
+5
+	$resource(magento\framework\app\resourceconnectionÊ
+„
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.php3 3(
+$eavEntityFactory"__id*6
+4
+$eavEntityFactorymagento\eav\model\entityfactoryÈ
+Ê
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.php3 3(
+$resourceHelper"__id*;
+9
+$resourceHelper&magento\eav\model\resourcemodel\helperÛ
+
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.php3 3(
+$universalFactory"__id*C
+A
+$universalFactory,magento\framework\validator\universalfactoryË
+Â
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.php3 3(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceË
+Â
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.php3 3(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceÑ
+Å
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.php@ @(,VC
+Amagento\catalog\model\resourcemodel\collection\abstractcollection"
+_storeManager"__id*
+
+$storeManager‡
+›
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Collection\AbstractCollection.phpA L(	
+%1"Cmagento\eav\model\entity\collection\abstractcollection::__construct*EC
+Amagento\catalog\model\resourcemodel\collection\abstractcollection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+
+$eavConfig*
+
+	$resource*
+
+$eavEntityFactory*
+
+$resourceHelper*
+
+$universalFactory*
+
+$connection*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:&
+
+$eavConfigmagento\eav\model\config:5
+	$resource(magento\framework\app\resourceconnection:4
+$eavEntityFactorymagento\eav\model\entityfactory:9
+$resourceHelper&magento\eav\model\resourcemodel\helper:A
+$universalFactory,magento\framework\validator\universalfactory::
+$storeManager)magento\store\model\storemanagerinterface:<
+$connection-magento\framework\db\adapter\adapterinterfaceBEC
+Amagento\catalog\model\resourcemodel\collection\abstractcollection

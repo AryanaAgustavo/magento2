@@ -1,0 +1,121 @@
+
+_magento\downloadable\block\adminhtml\catalog\product\edit\tab\downloadable\samples::__constructž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpL L("1*Ë
+2
+Samples.php"¶
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.php^ ^(
+implicit return*Š!
+1ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpV V(+ì
+é
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpL L(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\contextõ
+ò
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpL L(
+$jsonEncoder"__id*9
+7
+$jsonEncoder'magento\framework\json\encoderinterface—
+”
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpL L(
+$coreFileStorageDatabase"__id*O
+M
+$coreFileStorageDatabase1magento\mediastorage\helper\file\storage\databaseø
+õ
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpL L(
+$downloadableFile"__id*7
+5
+$downloadableFile magento\downloadable\helper\fileê
+ç
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpL L(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryï
+ì
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpL L(
+$sampleModel"__id*3
+1
+$sampleModel!magento\downloadable\model\sampleì
+é
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpL L(
+$urlFactory"__id*1
+/
+$urlFactory magento\backend\model\urlfactoryÅ
+Â
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpL L(
+$data"__id*
+
+$dataarray¤
+¡
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpV V(*fT
+Rmagento\downloadable\block\adminhtml\catalog\product\edit\tab\downloadable\samples"
+_jsonEncoder"__id*
+
+$jsonEncoder¶
+³
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpW W(<lT
+Rmagento\downloadable\block\adminhtml\catalog\product\edit\tab\downloadable\samples"
+_coreFileStorageDb"__id*
+
+$coreFileStorageDatabase®
+«
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpX X(4kT
+Rmagento\downloadable\block\adminhtml\catalog\product\edit\tab\downloadable\samples"
+_downloadableFile"__id*
+
+$downloadableFile¦
+£
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpY Y(,gT
+Rmagento\downloadable\block\adminhtml\catalog\product\edit\tab\downloadable\samples"
+_coreRegistry"__id*
+
+$coreRegistry¤
+¡
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.phpZ Z(*fT
+Rmagento\downloadable\block\adminhtml\catalog\product\edit\tab\downloadable\samples"
+_sampleModel"__id*
+
+$sampleModel¢
+Ÿ
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.php[ [((eT
+Rmagento\downloadable\block\adminhtml\catalog\product\edit\tab\downloadable\samples"
+_urlFactory"__id*
+
+$urlFactoryÆ
+Ã
+ž
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Adminhtml\Catalog\Product\Edit\Tab\Downloadable\Samples.php] ](,
+%1")magento\backend\block\widget::__construct*VT
+Rmagento\downloadable\block\adminhtml\catalog\product\edit\tab\downloadable\samples*
+
+
+$context*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:7
+$jsonEncoder'magento\framework\json\encoderinterface:M
+$coreFileStorageDatabase1magento\mediastorage\helper\file\storage\database:5
+$downloadableFile magento\downloadable\helper\file:+
+$coreRegistrymagento\framework\registry:1
+$sampleModel!magento\downloadable\model\sample:/
+$urlFactory magento\backend\model\urlfactory:
+$dataarrayBVT
+Rmagento\downloadable\block\adminhtml\catalog\product\edit\tab\downloadable\samples

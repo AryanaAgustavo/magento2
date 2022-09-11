@@ -1,0 +1,73 @@
+
+pmagento\graphql\quote\guest\setbillingaddressoncarttest::testsetbillingaddresswithsameasshippingandmultishippingü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php≠ ≠(K"1*‡
+2!
+SetBillingAddressOnCartTest.php"∑
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php» »(
+implicit return*Ä
+1ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpØ Ø(Yï
+í
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpØ Ø(A
+%1"__id*b*`9
+7magento\graphql\quote\guest\setbillingaddressoncarttest"#
+!getMaskedQuoteIdByReservedOrderIdÃ…
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpØ Ø(X
+%2*
+
+%1*
+
+test_quote2execute≈
+¬
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpØ Ø(X
+$maskedQuoteId"__id*
+
+%2ª
+∏
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php± ¬(
+%3"__concat*JH
+Fmutation {
+  setBillingAddressOnCart(
+    input: {
+      cart_id: "*£†
+ù"
+      billing_address: {
+        same_as_shipping: true
+      }
+    }
+  ) {
+    cart {
+      billing_address {
+        city
+      }
+    }
+  }
+}*
+
+$maskedQuoteIdΩ
+∫
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php± ¬(
+$query"__id*
+
+%3û
+õ
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpƒ ∆(	
+%4"Omagento\graphql\quote\guest\setbillingaddressoncarttest::expectexceptionmessage*;"9
+7magento\graphql\quote\guest\setbillingaddressoncarttest*ca
+_Could not use the "same_as_shipping" option, because multiple shipping addresses have been set.ÖÇ
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php« «(&
+%5*;9
+7magento\graphql\quote\guest\setbillingaddressoncarttest*
+
+
+$query2graphqlmutation*
+2B;9
+7magento\graphql\quote\guest\setbillingaddressoncarttest

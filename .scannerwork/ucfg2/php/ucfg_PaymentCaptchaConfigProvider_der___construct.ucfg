@@ -1,0 +1,54 @@
+
+@magento\checkout\model\paymentcaptchaconfigprovider::__construct~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\PaymentCaptchaConfigProvider.php, ,("1*¿
+2"
+ PaymentCaptchaConfigProvider.php"•
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\PaymentCaptchaConfigProvider.php4 4(
+implicit return*À
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\PaymentCaptchaConfigProvider.php1 1(,Ø
+Õ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\PaymentCaptchaConfigProvider.php, ,(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÈ
+Å
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\PaymentCaptchaConfigProvider.php, ,(
+$captchaData"__id*-
++
+$captchaDatamagento\captcha\helper\dataÓ
+Ð
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\PaymentCaptchaConfigProvider.php, ,(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionå
+â
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\PaymentCaptchaConfigProvider.php1 1(+G5
+3magento\checkout\model\paymentcaptchaconfigprovider"
+storeManager"__id*
+
+$storeManagerã
+à
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\PaymentCaptchaConfigProvider.php2 2()F5
+3magento\checkout\model\paymentcaptchaconfigprovider"
+captchaData"__id*
+
+$captchaDataë
+è
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\PaymentCaptchaConfigProvider.php3 3(1J5
+3magento\checkout\model\paymentcaptchaconfigprovider"
+customerSession"__id*
+
+$customerSession*
+2::
+$storeManager)magento\store\model\storemanagerinterface:+
+$captchaDatamagento\captcha\helper\data:2
+$customerSessionmagento\customer\model\sessionB75
+3magento\checkout\model\paymentcaptchaconfigprovider

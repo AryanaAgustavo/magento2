@@ -1,0 +1,105 @@
+
+umagento\graphql\quote\guest\getspecifiedshippingaddresstest::testgetspecifiedshippingaddressifshippingaddressisnotset¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpL L(L"1*æ
+2%
+#GetSpecifiedShippingAddressTest.php"¹
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpV V(
+implicit return*È
+1¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpN N(Y›
+˜
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpN N(A
+%1"__id*f*d=
+;magento\graphql\quote\guest\getspecifiedshippingaddresstest"#
+!getMaskedQuoteIdByReservedOrderIdÎË
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpN N(X
+%2*
+
+%1*
+
+test_quote2executeÇ
+Ä
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpN N(X
+$maskedQuoteId"__id*
+
+%2Œ‰
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpO O(0
+%3*?=
+;magento\graphql\quote\guest\getspecifiedshippingaddresstest*
+
+$maskedQuoteId2getquery¿
+¼
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpO O(0
+$query"__id*
+
+%3ˆ…
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpQ Q(/
+%4*?=
+;magento\graphql\quote\guest\getspecifiedshippingaddresstest*
+
+
+$query2graphqlqueryÂ
+¿
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpQ Q(/
+	$response"__id*
+
+%4×
+Ô
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpR R(2
+%5"Nmagento\graphql\quote\guest\getspecifiedshippingaddresstest::assertarrayhaskey*?"=
+;magento\graphql\quote\guest\getspecifiedshippingaddresstest*
+cart*
+
+	$responseÐ
+Í
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpS6 S(G
+%6"__mapGet*
+
+	$response*
+cartÞ
+Û
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpS S(H
+%7"Nmagento\graphql\quote\guest\getspecifiedshippingaddresstest::assertarrayhaskey*?"=
+;magento\graphql\quote\guest\getspecifiedshippingaddresstest*
+shipping_addresses*
+
+%6µ²
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpU U(
+%8"$ArrayÐ
+Í
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpU U(0
+%9"__mapGet*
+
+	$response*
+cartØ
+Õ
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpU U(F
+%10"__mapGet*
+
+%9*
+shipping_addressesË
+È
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedShippingAddressTest.phpU U(G
+%11"Imagento\graphql\quote\guest\getspecifiedshippingaddresstest::assertequals*?"=
+;magento\graphql\quote\guest\getspecifiedshippingaddresstest*
+
+%8*
+
+%10*
+2B?=
+;magento\graphql\quote\guest\getspecifiedshippingaddresstest

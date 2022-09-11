@@ -1,0 +1,70 @@
+
+Dmagento\search\controller\adminhtml\synonyms\massdelete::__construct‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\MassDelete.php0 0("1*²
+2
+MassDelete.php"š
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\MassDelete.php: :(
+implicit return*†
+1‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\MassDelete.php6 6( Ì
+É
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\MassDelete.php0 0(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÎ
+Ë
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\MassDelete.php0 0(	
+$filter"__id*3
+1
+$filter&magento\ui\component\massaction\filterÿ
+ü
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\MassDelete.php0 0(
+$collectionFactory"__id*Y
+W
+$collectionFactoryAmagento\search\model\resourcemodel\synonymgroup\collectionfactoryò
+ï
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\MassDelete.php0 0(
+$synGroupRepository"__id*K
+I
+$synGroupRepository2magento\search\api\synonymgrouprepositoryinterfaceâ
+ß
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\MassDelete.php6 6(E9
+7magento\search\controller\adminhtml\synonyms\massdelete"
+filter"__id*
+	
+$filterø
+õ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\MassDelete.php7 7(5P9
+7magento\search\controller\adminhtml\synonyms\massdelete"
+collectionFactory"__id*
+
+$collectionFactoryú
+÷
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\MassDelete.php8 8(7Q9
+7magento\search\controller\adminhtml\synonyms\massdelete"
+synGroupRepository"__id*
+
+$synGroupRepository‚
+ÿ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\MassDelete.php9 9(%
+%1"'magento\backend\app\action::__construct*;9
+7magento\search\controller\adminhtml\synonyms\massdelete*
+
+
+$context*
+2:.
+$context"magento\backend\app\action\context:1
+$filter&magento\ui\component\massaction\filter:W
+$collectionFactoryAmagento\search\model\resourcemodel\synonymgroup\collectionfactory:I
+$synGroupRepository2magento\search\api\synonymgrouprepositoryinterfaceB;9
+7magento\search\controller\adminhtml\synonyms\massdelete

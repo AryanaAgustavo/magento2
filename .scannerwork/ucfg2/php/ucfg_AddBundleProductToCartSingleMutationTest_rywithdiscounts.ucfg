@@ -1,0 +1,56 @@
+
+Zmagento\graphql\bundle\addbundleproducttocartsinglemutationtest::getcartquerywithdiscountsß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpﬂ ﬂ(."1*Ã	
+1ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.php· Ç(·
+ﬁ
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpﬂ ﬂ(.
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringÉ
+Ä
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.php· Ç(
+%1"__concat*
+{
+  cart(cart_id: "*ïí
+è") {
+    email
+    items {
+      uid
+      prices {
+        discounts {
+          amount {
+            value
+          }
+        }
+      }
+      product {
+        sku
+      }
+    }
+    applied_coupons {
+      code
+    }
+    prices {
+      discounts {
+        amount {
+          value
+        }
+        label
+      }
+      grand_total {
+        value
+      }
+    }
+  }
+}*
+
+$maskedQuoteId"≤
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.php· Ç(
+
+%1:
+$maskedQuoteIdstringBCA
+?magento\graphql\bundle\addbundleproducttocartsinglemutationtest

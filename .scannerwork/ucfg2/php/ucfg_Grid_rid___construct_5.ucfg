@@ -1,0 +1,124 @@
+
+8magento\review\block\adminhtml\product\grid::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php& &("1*ü
+2
+
+Grid.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php@ @(
+implicit return*≈
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php3 3(3√
+¿
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php& &(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\contextƒ
+¡
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php& &(
+$backendHelper"__id*/
+-
+$backendHelpermagento\backend\helper\dataÕ
+ 
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php& &(
+$websiteFactory"__id*7
+5
+$websiteFactory"magento\store\model\websitefactoryÎ
+Ë
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php& &(
+$setsFactory"__id*X
+V
+$setsFactoryFmagento\eav\model\resourcemodel\entity\attribute\set\collectionfactoryœ
+Ã
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php& &(
+$productFactory"__id*9
+7
+$productFactory$magento\catalog\model\productfactoryπ
+∂
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php& &(
+$type"__id*-
++
+$type"magento\catalog\model\product\type–
+Õ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php& &(	
+$status"__id*B
+@
+$status5magento\catalog\model\product\attribute\source\statusÀ
+»
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php& &(
+$visibility"__id*9
+7
+$visibility(magento\catalog\model\product\visibility…
+∆
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php& &(
+$moduleManager"__id*4
+2
+$moduleManager magento\framework\module\managerË
+Â
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php& &(
+$websitesFactory"__id*Q
+O
+$websitesFactory;magento\store\model\resourcemodel\website\collectionfactoryú
+ô
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php& &(
+$data"__id*
+
+$dataarray‹
+Ÿ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php3 3(2C-
++magento\review\block\adminhtml\product\grid"
+_websitesFactory"__id*
+
+$websitesFactoryì
+ê
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Product\Grid.php4 ?(	
+%1"9magento\catalog\block\adminhtml\product\grid::__construct*/-
++magento\review\block\adminhtml\product\grid*
+
+
+$context*
+
+$backendHelper*
+
+$websiteFactory*
+
+$setsFactory*
+
+$productFactory*	
+
+$type*
+	
+$status*
+
+$visibility*
+
+$moduleManager*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:-
+$backendHelpermagento\backend\helper\data:5
+$websiteFactory"magento\store\model\websitefactory:V
+$setsFactoryFmagento\eav\model\resourcemodel\entity\attribute\set\collectionfactory:7
+$productFactory$magento\catalog\model\productfactory:+
+$type"magento\catalog\model\product\type:@
+$status5magento\catalog\model\product\attribute\source\status:7
+$visibility(magento\catalog\model\product\visibility:2
+$moduleManager magento\framework\module\manager:O
+$websitesFactory;magento\store\model\resourcemodel\website\collectionfactory:
+$dataarrayB/-
++magento\review\block\adminhtml\product\grid

@@ -1,0 +1,101 @@
+
+gmagento\sales\controller\adminhtml\order\invoice\savetest::testorderprotectcodepreserveafterinvoicesaveû
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpâ â(@"1*Ã
+2
+SaveTest.php"∂
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpí í(
+implicit return*ª
+1û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpã ã(.Çˇ
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpã ã(-
+%1*=;
+9magento\sales\controller\adminhtml\order\invoice\savetest*
+	1000000012getorderº
+π
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpã ã(-
+$order"__id*
+
+%1≤Ø
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpå å( 
+%2"$Array≤Ø
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpå" å(G
+%3"$Array√¿
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpå1 å(F
+%4*
+
+
+$order2getentityid“
+œ
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpå" å(G
+%5"__mapSet*
+
+%3*
+
+order_id*
+
+%4âÜ
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpå å(H
+%6*=;
+9magento\sales\controller\adminhtml\order\invoice\savetest*
+
+%2*
+
+%32preparerequest∆√
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpç ç(/
+%7*
+
+
+$order2getprotectcode¬
+ø
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpç ç(/
+$protectCode"__id*
+
+%7¯
+ı
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpé é("
+%8"__id*F*D;
+9magento\sales\controller\adminhtml\order\invoice\savetest"
+uri˚¯
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpé é(#
+%9*=;
+9magento\sales\controller\adminhtml\order\invoice\savetest*
+
+%82dispatchÉÄ
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpè è(5
+%10*=;
+9magento\sales\controller\adminhtml\order\invoice\savetest*
+	1000000012getorder≈
+¬
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpè è(5
+$invoicedOrder"__id*
+
+%10œÃ
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpë* ë(J
+%11*
+
+$invoicedOrder2getprotectcodeìê
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Adminhtml\Order\Invoice\SaveTest.phpë ë(K
+%12*=;
+9magento\sales\controller\adminhtml\order\invoice\savetest*
+
+$protectCode*
+
+%112assertequals*
+2B=;
+9magento\sales\controller\adminhtml\order\invoice\savetest

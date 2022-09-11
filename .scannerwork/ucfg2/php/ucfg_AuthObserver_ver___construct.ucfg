@@ -1,0 +1,114 @@
+
+7magento\user\observer\backend\authobserver::__constructu
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.phpV V("1*¦
+2
+AuthObserver.php"Œ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.phpf f(
+implicit return*à
+1u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.php_ _(0Ú
+×
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.phpV V(
+$observerConfig"__id*E
+C
+$observerConfig0magento\user\model\backend\config\observerconfigË
+È
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.phpV V(
+$userResource"__id*8
+6
+$userResource%magento\user\model\resourcemodel\user¶
+³
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.phpV V(
+$url"__id*,
+*
+$url"magento\backend\model\urlinterfaceÆ
+Ã
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.phpV V(
+$authSession"__id*4
+2
+$authSession"magento\backend\model\auth\sessionÂ
+¿
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.phpV V(
+$userFactory"__id*0
+.
+$userFactorymagento\user\model\userfactoryÏ
+Ì
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.phpV V(
+
+$encryptor"__id*?
+=
+
+$encryptor/magento\framework\encryption\encryptorinterfaceÔ
+Ñ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.phpV V(
+$messageManager"__id*?
+=
+$messageManager*magento\framework\message\managerinterface×
+Ô
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.php_ _(/@,
+*magento\user\observer\backend\authobserver"
+observerConfig"__id*
+
+$observerConfigÓ
+Ð
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.php` `(+>,
+*magento\user\observer\backend\authobserver"
+userResource"__id*
+
+$userResourceÁ
+¾
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.phpa a(5,
+*magento\user\observer\backend\authobserver"
+url"__id*
+
+$urlÑ
+Î
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.phpb b()=,
+*magento\user\observer\backend\authobserver"
+authSession"__id*
+
+$authSessionÑ
+Î
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.phpc c()=,
+*magento\user\observer\backend\authobserver"
+userFactory"__id*
+
+$userFactoryÍ
+Ê
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.phpd d(%;,
+*magento\user\observer\backend\authobserver"
+	encryptor"__id*
+
+
+$encryptor×
+Ô
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Observer\Backend\AuthObserver.phpe e(/@,
+*magento\user\observer\backend\authobserver"
+messageManager"__id*
+
+$messageManager*
+2:C
+$observerConfig0magento\user\model\backend\config\observerconfig:6
+$userResource%magento\user\model\resourcemodel\user:*
+$url"magento\backend\model\urlinterface:2
+$authSession"magento\backend\model\auth\session:.
+$userFactorymagento\user\model\userfactory:=
+
+$encryptor/magento\framework\encryption\encryptorinterface:=
+$messageManager*magento\framework\message\managerinterfaceB.,
+*magento\user\observer\backend\authobserver

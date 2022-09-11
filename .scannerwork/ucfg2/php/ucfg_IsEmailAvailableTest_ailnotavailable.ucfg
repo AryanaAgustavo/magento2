@@ -1,0 +1,78 @@
+
+Dmagento\graphql\customer\isemailavailabletest::testemailnotavailable“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\IsEmailAvailableTest.php ()"1*Í
+2
+IsEmailAvailableTest.php"«
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\IsEmailAvailableTest.php# #(
+implicit return*Æ
+1“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\IsEmailAvailableTest.php (…
+‚
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\IsEmailAvailableTest.php (
+$query"__id*ZX
+V{
+  isEmailAvailable(email: "customer@example.com") {
+    is_email_available
+  }
+}ìé
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\IsEmailAvailableTest.php (/
+%1*1/
+-magento\graphql\customer\isemailavailabletest*
+
+
+$query2graphqlquery´
+±
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\IsEmailAvailableTest.php (/
+	$response"__id*
+
+%1¹
+¶
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\IsEmailAvailableTest.php   (>
+%2"@magento\graphql\customer\isemailavailabletest::assertarrayhaskey*1"/
+-magento\graphql\customer\isemailavailabletest*
+isEmailAvailable*
+
+	$responseÎ
+Ë
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\IsEmailAvailableTest.php!6 !(S
+%3"__mapGet*
+
+	$response*
+isEmailAvailable´
+±
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\IsEmailAvailableTest.php! !(T
+%4"@magento\graphql\customer\isemailavailabletest::assertarrayhaskey*1"/
+-magento\graphql\customer\isemailavailabletest*
+is_email_available*
+
+%3Î
+Ë
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\IsEmailAvailableTest.php" "(7
+%5"__mapGet*
+
+	$response*
+isEmailAvailableÉ
+Æ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\IsEmailAvailableTest.php" "(M
+%6"__mapGet*
+
+%5*
+is_email_available–
+“
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\IsEmailAvailableTest.php" "(N
+%7":magento\graphql\customer\isemailavailabletest::assertfalse*1"/
+-magento\graphql\customer\isemailavailabletest*
+
+%6*
+2B1/
+-magento\graphql\customer\isemailavailabletest

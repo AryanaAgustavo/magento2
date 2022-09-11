@@ -1,0 +1,122 @@
+
+hmagento\framework\messagequeue\test\unit\bulk\exchangefactorytest::testcreatewithundefinedconnectiontype‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.phpZ Z(9"1*Ê
+2
+ExchangeFactoryTest.php"©
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.phpd d(
+implicit return*ˆ 
+1‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.php\ \(1‰†
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.php\ \(0
+%1*EC
+Amagento\framework\messagequeue\test\unit\bulk\exchangefactorytest*
+LogicException2expectexception¹¶
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.php] ](`
+%2*EC
+Amagento\framework\messagequeue\test\unit\bulk\exchangefactorytest*;9
+7Not found exchange for connection name \'db\' in config2expectexceptionmessage¸
+µ
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.php^ ^(
+$connectionName"__id*
+db¥¢
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.php_ _($
+%3"$ArrayÅ
+Â
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.php_ _($
+%4"__mapSet*
+
+%3*
+key1*
+
+value1®
+«
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.php_ _($
+$data"__id*
+
+%3†
+ƒ
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.php` `(%
+%5"__id*a*_C
+Amagento\framework\messagequeue\test\unit\bulk\exchangefactorytest"
+connectionTypeResolverêç
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.php`/ `(<
+%6*EC
+Amagento\framework\messagequeue\test\unit\bulk\exchangefactorytest2once¶³
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.php` `(=
+%7*
+
+%5*
+
+%62expectsÄÁ
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.php` a()
+%8*
+
+%7*
+getConnectionType2methodÀ½
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.php` a(@
+%9*
+
+%8*
+
+$connectionName2withÇÄ
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.php` a(]
+%10*
+
+%9*
+
+$connectionName2
+willreturn„
+
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.phpb b("
+%11"__id*^*\C
+Amagento\framework\messagequeue\test\unit\bulk\exchangefactorytest"
+amqpExchangeFactoryìé
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.phpb, b(:
+%12*EC
+Amagento\framework\messagequeue\test\unit\bulk\exchangefactorytest2never¹¶
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.phpb b(;
+%13*
+
+%11*
+
+%122expects»¸
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.phpb b(M
+%14*
+
+%13*
+
+create2method€
+ý
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.phpc c(
+%15"__id*Z*XC
+Amagento\framework\messagequeue\test\unit\bulk\exchangefactorytest"
+exchangeFactoryÏÌ
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Test\Unit\Bulk\ExchangeFactoryTest.phpc c(>
+%16*
+
+%15*
+
+$connectionName*	
+
+$data2create*
+2BEC
+Amagento\framework\messagequeue\test\unit\bulk\exchangefactorytest

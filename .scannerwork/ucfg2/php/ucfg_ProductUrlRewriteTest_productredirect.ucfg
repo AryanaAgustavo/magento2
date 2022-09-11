@@ -1,0 +1,123 @@
+
+Mmagento\catalog\controller\product\producturlrewritetest::testproductredirectõ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpc c('"1*÷
+2
+ProductUrlRewriteTest.php"≥
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpp p(
+implicit return*ê
+1õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpe e(<Ç
+ˇ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpe e(+
+%1"__id*S*Q:
+8magento\catalog\controller\product\producturlrewritetest"
+productRepository¡æ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpe e(;
+%2*
+
+%1*	
+simple22getª
+∏
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpe e(;
+
+$product"__id*
+
+%2¿Ω
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpf$ f(9
+%3*
+
+
+$product2	geturlkey˘ˆ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpf f(:
+%4*<:
+8magento\catalog\controller\product\producturlrewritetest*
+
+%32
+prepareurl∫
+∑
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpf f(:	
+$oldUrl"__id*
+
+%4Ø¨
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpg k(	
+%5"$Array◊
+‘
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpg k(	
+%6"__mapSet*
+
+%5*	
+url_key*
+new-url-key¿Ω
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpi) i(>
+%7*
+
+
+$product2	geturlkeyﬁ
+€
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpg k(	
+%8"__mapSet*
+
+%5*
+url_key_create_redirect*
+
+%7ﬁ
+€
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpg k(	
+%9"__mapSet*
+
+%5*
+save_rewrites_history*
+true∏
+µ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpg k(	
+$data"__id*
+
+%5éã
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpl l(-
+%10*<:
+8magento\catalog\controller\product\producturlrewritetest*
+
+
+$product*	
+
+$data2updateproduct˝˙
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpm m( 
+%11*<:
+8magento\catalog\controller\product\producturlrewritetest*
+	
+$oldUrl2dispatchÉÄ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpo4 o(T
+%12*<:
+8magento\catalog\controller\product\producturlrewritetest*
+new-url-key2
+prepareurlˇ¸
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpo o(U
+%13*<:
+8magento\catalog\controller\product\producturlrewritetest*
+
+%122stringcontainsˇ¸
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ProductUrlRewriteTest.phpo o(V
+%14*<:
+8magento\catalog\controller\product\producturlrewritetest*
+
+%132assertredirect*
+2B<:
+8magento\catalog\controller\product\producturlrewritetest

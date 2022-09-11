@@ -1,0 +1,49 @@
+
+Mmagento\directory\model\resourcemodel\region\collection::addcountrycodefilter„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Directory\Model\ResourceModel\Region\Collection.php¥ ¥(("1*–
+1„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Directory\Model\ResourceModel\Region\Collection.php§ ­(
+ØÕ
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Directory\Model\ResourceModel\Region\Collection.php§ §(
+%1*;9
+7magento\directory\model\resourcemodel\region\collection2	getselect˜•
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Directory\Model\ResourceModel\Region\Collection.php¨ ¨(/
+%2"$Arrayæ
+ã
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Directory\Model\ResourceModel\Region\Collection.php¨ ¨(.
+%3"__id*N*L9
+7magento\directory\model\resourcemodel\region\collection"
+_countryTable·
+´
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Directory\Model\ResourceModel\Region\Collection.php¨ ¨(/
+%4"__mapSet*
+
+%2*	
+country*
+
+%3Ú×
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Directory\Model\ResourceModel\Region\Collection.php§ ª(	
+%5*
+
+%1*
+
+%2*.,
+*main_table.country_id = country.country_id2joinleftÌÉ
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Directory\Model\ResourceModel\Region\Collection.php§ ­(	
+%6*
+
+%5*
+country.iso3_code = ?*
+
+$countryCode2where"Ä
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Directory\Model\ResourceModel\Region\Collection.php¯ ¯(;9
+7magento\directory\model\resourcemodel\region\collection:
+$countryCodeB;9
+7magento\directory\model\resourcemodel\region\collection

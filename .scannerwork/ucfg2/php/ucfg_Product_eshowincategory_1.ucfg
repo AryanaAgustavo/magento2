@@ -1,0 +1,156 @@
+
+@magento\catalog\model\resourcemodel\product::canbeshowincategoryx
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpê ê('"2"3*˘
+2x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpì ì(1ûõ
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpì ì(0
+%1*
+
+
+$product2getentityidô
+ñ
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpì ì(0
+
+$productId"__id*
+
+%1ùö
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpî î(-
+%2*
+
+
+$product2
+getstoreidó
+î
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpî î(-
+
+$storeId"__id*
+
+%2*
+4*ª
+3x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpñ ñ("ü
+ú
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpñ ñ(!
+
+$productId"__id*
+
+
+$productÕ
+ 
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpó ó(+
+%3"__id*B*@-
++magento\catalog\model\resourcemodel\product"
+_storeManagerïí
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpó ó(7
+%4*
+
+%32getstoreíè
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpó ó(@
+%5*
+
+%42getidó
+î
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpó ó(@
+
+$storeId"__id*
+
+%5*
+4*Œ
+4x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpö £(
+√¿
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpö ö((
+%6*/-
++magento\catalog\model\resourcemodel\product2getconnectionìê
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpö ö(2
+%7*
+
+%62selectœ
+Ã
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpõ õ("
+%8"__id*D*B-
++magento\catalog\model\resourcemodel\product"
+tableMaintainerß§
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpõ õ(:
+%9*
+
+%8*
+
+
+$storeId2getmaintable™ß
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpö ù(	
+%10*
+
+%7*
+
+%9*
+
+product_id2fromß
+§
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpü ü(
+%11"__sanitizing_cast*
+
+
+$productId±Æ
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpö †(	
+%12*
+
+%10*
+product_id = ?*
+
+%112where®
+•
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.php¢ ¢(
+%13"__sanitizing_cast*
+
+$categoryId≤Ø
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpö £(	
+%14*
+
+%12*
+category_id = ?*
+
+%132whereó
+î
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.phpö £(		
+$select"__id*
+
+%14ƒ¡
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.php• •(%
+%15*/-
++magento\catalog\model\resourcemodel\product2getconnection§°
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.php• •(8
+%16*
+
+%15*
+	
+$select2fetchone"É
+x
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product.php• •(9
+
+%16:
+
+$product:
+$categoryIdB/-
++magento\catalog\model\resourcemodel\product

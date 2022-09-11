@@ -1,0 +1,384 @@
+
+Rmagento\quote\test\unit\model\couponmanagementtest::testsetwhencouponcodeisinvalid
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php€ €(2"1*¸
+2
+CouponManagementTest.php"–
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php– –(
+implicit return*Ú^
+1
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php‚ ‚(TŠ‡
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php‚ ‚(S
+%1*64
+2magento\quote\test\unit\model\couponmanagementtest*53
+1Magento\Framework\Exception\NoSuchEntityException2expectexceptionœ™
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpƒ ƒ(e
+%2*64
+2magento\quote\test\unit\model\couponmanagementtest*@>
+<The coupon code isn\'t valid. Verify the code and try again.2expectexceptionmessage›
+˜
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php„ „(	
+$cartId"__id*2!§
+¤
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php… …( 
+$couponCode"__id*
+
+153a-ABC×
+Ô
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php‡ ‡(
+%3"__id*E*C4
+2magento\quote\test\unit\model\couponmanagementtest"
+	storeMockÇÄ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php‡" ‡(.
+%4*64
+2magento\quote\test\unit\model\couponmanagementtest2any£ 
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php‡ ‡(/
+%5*
+
+%3*
+
+%42expects¥¢
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php‡ ‡(@
+%6*
+
+%5*	
+getId2method¤¡
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php‡ ‡(O
+%7*
+
+%6*22
+willreturn×
+Ô
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpˆ ˆ(
+%8"__id*E*C4
+2magento\quote\test\unit\model\couponmanagementtest"
+	quoteMockÈÅ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpˆ" ˆ(/
+%9*64
+2magento\quote\test\unit\model\couponmanagementtest2once¤¡
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpˆ ˆ(0
+%10*
+
+%8*
+
+%92expects¬©
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpˆ ˆ(F
+%11*
+
+%10*
+
+getStoreId2methodÖÓ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpˆS ˆ(h
+%12*64
+2magento\quote\test\unit\model\couponmanagementtest*22returnvalue©¦
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpˆ ˆ(i
+%13*
+
+%11*
+
+%122
+willreturnâ
+ß
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpŠ Š("
+%14"__id*O*M4
+2magento\quote\test\unit\model\couponmanagementtest"
+quoteRepositoryMockÉÆ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpŠ, Š(9
+%15*64
+2magento\quote\test\unit\model\couponmanagementtest2once¦£
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpŠ Š(:
+%16*
+
+%14*
+
+%152expects«¨
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpŠ ‹(!
+%17*
+
+%16*
+	getActive2method§¤
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpŠ ‹(0
+%18*
+
+%17*
+	
+$cartId2withØ
+Õ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php‹= ‹(M
+%19"__id*E*C4
+2magento\quote\test\unit\model\couponmanagementtest"
+	quoteMock©¦
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpŠ ‹(N
+%20*
+
+%18*
+
+%192
+willreturnØ
+Õ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpŒ Œ(
+%21"__id*E*C4
+2magento\quote\test\unit\model\couponmanagementtest"
+	quoteMockÉÆ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpŒ" Œ(/
+%22*64
+2magento\quote\test\unit\model\couponmanagementtest2once¦£
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpŒ Œ(0
+%23*
+
+%21*
+
+%222expects¯¬
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpŒ Œ(I
+%24*
+
+%23*
+getItemsCount2method¦£
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpŒ Œ(Y
+%25*
+
+%24*22
+willreturnØ
+Õ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php (
+%26"__id*E*C4
+2magento\quote\test\unit\model\couponmanagementtest"
+	quoteMockÉÆ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php" (/
+%27*64
+2magento\quote\test\unit\model\couponmanagementtest2once¦£
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php (0
+%28*
+
+%26*
+
+%272expects´±
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php Ž(*
+%29*
+
+%28*
+getShippingAddress2methodß
+Ü
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.phpŽ7 Ž(N
+%30"__id*L*J4
+2magento\quote\test\unit\model\couponmanagementtest"
+quoteAddressMock©¦
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php Ž(O
+%31*
+
+%29*
+
+%302
+willreturnß
+Ü
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php (
+%32"__id*L*J4
+2magento\quote\test\unit\model\couponmanagementtest"
+quoteAddressMockÉÆ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php) (6
+%33*64
+2magento\quote\test\unit\model\couponmanagementtest2once¦£
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php (7
+%34*
+
+%32*
+
+%332expects¹¶
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php (Z
+%35*
+
+%34*
+setCollectShippingRates2method¤¡
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php (f
+%36*
+
+%35*
+true2withØ
+Õ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php (
+%37"__id*E*C4
+2magento\quote\test\unit\model\couponmanagementtest"
+	quoteMockÉÆ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php" (/
+%38*64
+2magento\quote\test\unit\model\couponmanagementtest2once¦£
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php (0
+%39*
+
+%37*
+
+%382expects¯¬
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php (I
+%40*
+
+%39*
+setCouponCode2method«¨
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php (\
+%41*
+
+%40*
+
+$couponCode2withØ
+Õ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php‘ ‘(
+%42"__id*E*C4
+2magento\quote\test\unit\model\couponmanagementtest"
+	quoteMockÉÆ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php‘" ‘(/
+%43*64
+2magento\quote\test\unit\model\couponmanagementtest2once¦£
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php‘ ‘(0
+%44*
+
+%42*
+
+%432expects¯¬
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php‘ ‘(I
+%45*
+
+%44*
+collectTotals2methodØ
+Õ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php‘V ‘(f
+%46"__id*E*C4
+2magento\quote\test\unit\model\couponmanagementtest"
+	quoteMock©¦
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php‘ ‘(g
+%47*
+
+%45*
+
+%462
+willreturnâ
+ß
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php’ ’("
+%48"__id*O*M4
+2magento\quote\test\unit\model\couponmanagementtest"
+quoteRepositoryMockÉÆ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php’, ’(9
+%49*64
+2magento\quote\test\unit\model\couponmanagementtest2once¦£
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php’ ’(:
+%50*
+
+%48*
+
+%492expects¦£
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php’ ’(J
+%51*
+
+%50*
+save2methodØ
+Õ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php’Q ’(a
+%52"__id*E*C4
+2magento\quote\test\unit\model\couponmanagementtest"
+	quoteMock£ 
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php’ ’(b
+%53*
+
+%51*
+
+%522withØ
+Õ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php“ “(
+%54"__id*E*C4
+2magento\quote\test\unit\model\couponmanagementtest"
+	quoteMockÉÆ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php“" “(/
+%55*64
+2magento\quote\test\unit\model\couponmanagementtest2once¦£
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php“ “(0
+%56*
+
+%54*
+
+%552expects¯¬
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php“ “(I
+%57*
+
+%56*
+getCouponCode2method³°
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php“ “(f
+%58*
+
+%57*
+invalidCoupon2
+willreturnß
+Ü
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php• •(
+%59"__id*L*J4
+2magento\quote\test\unit\model\couponmanagementtest"
+couponManagement·´
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\CouponManagementTest.php• •(:
+%60*
+
+%59*
+	
+$cartId*
+
+$couponCode2set*
+2B64
+2magento\quote\test\unit\model\couponmanagementtest

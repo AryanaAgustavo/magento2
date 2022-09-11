@@ -1,0 +1,104 @@
+
+Lmagento\paypal\model\resourcemodel\billing\agreement\collection::__construct‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Billing\Agreement\Collection.php3 3("1*»
+2
+Collection.php"£
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Billing\Agreement\Collection.php@ @(
+implicit return*õ
+1‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Billing\Agreement\Collection.php= =(lî
+ë
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Billing\Agreement\Collection.php3 3(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÈ
+Å
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Billing\Agreement\Collection.php3 3(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceú
+÷
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Billing\Agreement\Collection.php3 3(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceå
+â
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Billing\Agreement\Collection.php3 3(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceò
+ï
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Billing\Agreement\Collection.php3 3(
+$customerResource"__id*D
+B
+$customerResource-magento\customer\model\resourcemodel\customerÎ
+Ë
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Billing\Agreement\Collection.php3 3(
+
+$eavHelper"__id*'
+%
+
+$eavHelpermagento\eav\helper\dataæ
+ã
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Billing\Agreement\Collection.php3 3(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceè
+å
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Billing\Agreement\Collection.php3 3(
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdb™
+–
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Billing\Agreement\Collection.php= =(k
+%1"Smagento\framework\model\resourcemodel\db\collection\abstractcollection::__construct*CA
+?magento\paypal\model\resourcemodel\billing\agreement\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$connection*
+
+	$resourceú
+÷
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Billing\Agreement\Collection.php> >(&QA
+?magento\paypal\model\resourcemodel\billing\agreement\collection"
+
+_eavHelper"__id*
+
+
+$eavHelperˆ
+…
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\ResourceModel\Billing\Agreement\Collection.php? ?(4XA
+?magento\paypal\model\resourcemodel\billing\agreement\collection"
+_customerResource"__id*
+
+$customerResource*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:B
+$customerResource-magento\customer\model\resourcemodel\customer:%
+
+$eavHelpermagento\eav\helper\data:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbBCA
+?magento\paypal\model\resourcemodel\billing\agreement\collection

@@ -1,0 +1,110 @@
+
+8magento\sales\customerdata\lastordereditems::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.phpO O("1*´
+2
+LastOrderedItems.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.php_ _(
+implicit return*„
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.phpX X(A˝
+˙
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.phpO O(
+$orderCollectionFactory"__id*_
+]
+$orderCollectionFactoryBmagento\sales\model\resourcemodel\order\collectionfactoryinterface≈
+¬
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.phpO O(
+$orderConfig"__id*2
+0
+$orderConfig magento\sales\model\order\configÀ
+»
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.phpO O(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\session‹
+Ÿ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.phpO O(
+$stockRegistry"__id*G
+E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterface–
+Õ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.phpO O(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceﬂ
+‹
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.phpO O(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterface≤
+Ø
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.phpO O(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÍ
+Á
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.phpX X(@J-
++magento\sales\customerdata\lastordereditems"
+_orderCollectionFactory"__id*
+
+$orderCollectionFactory‘
+—
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.phpY Y(*?-
++magento\sales\customerdata\lastordereditems"
+_orderConfig"__id*
+
+$orderConfig‹
+Ÿ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.phpZ Z(2C-
++magento\sales\customerdata\lastordereditems"
+_customerSession"__id*
+
+$customerSession◊
+‘
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.php[ [(-@-
++magento\sales\customerdata\lastordereditems"
+stockRegistry"__id*
+
+$stockRegistry÷
+”
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.php\ \(,@-
++magento\sales\customerdata\lastordereditems"
+_storeManager"__id*
+
+$storeManagerﬂ
+‹
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.php] ](5D-
++magento\sales\customerdata\lastordereditems"
+productRepository"__id*
+
+$productRepository…
+∆
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\CustomerData\LastOrderedItems.php^ ^(9-
++magento\sales\customerdata\lastordereditems"
+logger"__id*
+	
+$logger*
+2:]
+$orderCollectionFactoryBmagento\sales\model\resourcemodel\order\collectionfactoryinterface:0
+$orderConfig magento\sales\model\order\config:2
+$customerSessionmagento\customer\model\session:E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterface::
+$storeManager)magento\store\model\storemanagerinterface:D
+$productRepository.magento\catalog\api\productrepositoryinterface:"
+$loggerpsr\log\loggerinterfaceB/-
++magento\sales\customerdata\lastordereditems

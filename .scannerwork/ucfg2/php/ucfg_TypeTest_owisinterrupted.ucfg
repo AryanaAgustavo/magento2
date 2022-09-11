@@ -1,0 +1,160 @@
+
+Ümagento\eav\test\unit\model\entity\typetest::testfetchnewincrementidrollsbacktransactionandrethrowsexceptionifprogramflowisinterruptedv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.php\ \(m"1*£
+2
+TypeTest.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpi i(
+implicit return*É%
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.php^ ^(,“œ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.php^ ^(+
+%1*/-
++magento\eav\test\unit\model\entity\typetest*
+	Exception2expectexceptionÒÓ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.php_ _(J
+%2*/-
++magento\eav\test\unit\model\entity\typetest*%#
+!Store instance cannot be created.2expectexceptionmessage√
+¿
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.php` `(
+%3"__id*:*8-
++magento\eav\test\unit\model\entity\typetest"
+model±Æ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.php` `(:
+%4*
+
+%3*
+\IncrementModel2setincrementmodel 
+«
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpa a(
+%5"__id*A*?-
++magento\eav\test\unit\model\entity\typetest"
+resourceMock∏µ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpa% a(2
+%6*/-
++magento\eav\test\unit\model\entity\typetest2onceöó
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpa a(3
+%7*
+
+%5*
+
+%62expectsß§
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpa a(O
+%8*
+
+%7*
+beginTransaction2methodîë
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpc c(H
+
+$exception"	exception–
+Õ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpc c(H
+%9"exception::__construct*
+
+
+$exception*%#
+!Store instance cannot be created.œ
+Ã
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpd d(
+%10"__id*E*C-
++magento\eav\test\unit\model\entity\typetest"
+storeFactoryMockπ∂
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpd) d(6
+%11*/-
++magento\eav\test\unit\model\entity\typetest2onceùö
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpd d(7
+%12*
+
+%10*
+
+%112expectsüú
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpd d(I
+%13*
+
+%12*
+
+create2methodØ¨
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpd d(i
+%14*
+
+%13*
+
+
+$exception2willthrowexceptionÀ
+»
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpe e(
+%15"__id*A*?-
++magento\eav\test\unit\model\entity\typetest"
+resourceMockπ∂
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpe% e(2
+%16*/-
++magento\eav\test\unit\model\entity\typetest2onceùö
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpe e(3
+%17*
+
+%15*
+
+%162expects°û
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpe e(G
+%18*
+
+%17*
+
+rollBack2methodÀ
+»
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpf f(
+%19"__id*A*?-
++magento\eav\test\unit\model\entity\typetest"
+resourceMock∫∑
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpf% f(3
+%20*/-
++magento\eav\test\unit\model\entity\typetest2neverùö
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpf f(4
+%21*
+
+%19*
+
+%202expectsüú
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phpf f(F
+%22*
+
+%21*
+
+commit2methodƒ
+¡
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phph h(
+%23"__id*:*8-
++magento\eav\test\unit\model\entity\typetest"
+model†ù
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Test\Unit\Model\Entity\TypeTest.phph h(+
+%24*
+
+%232fetchnewincrementid*
+2B/-
++magento\eav\test\unit\model\entity\typetest

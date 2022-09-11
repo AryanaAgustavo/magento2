@@ -1,0 +1,259 @@
+
+?magento\elasticsearch\model\adapter\elasticsearch::prepareindex~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÅ Å(#"1*â3
+1~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÉ É(2ÿ
+’
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÉ É(
+%1"__id*G*E3
+1magento\elasticsearch\model\adapter\elasticsearch"
+indexBuilder´®
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÉ É(1
+%2*
+
+%1*
+
+
+$storeId2
+setstoreidÿ
+’
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÑ Ñ('
+%3"__id*G*E3
+1magento\elasticsearch\model\adapter\elasticsearch"
+indexBuilderòï
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÑ Ñ(0
+%4*
+
+%32buildû
+õ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÑ Ñ(0
+	$settings"__id*
+
+%4◊
+‘
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÖ Ö(/
+%5"__id*F*D3
+1magento\elasticsearch\model\adapter\elasticsearch"
+fieldMapperëé
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÜ é(
+%6"$Array¡
+æ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÜ é(
+%7"__mapSet*
+
+%6*
+
+entityType*
+
+$mappedIndexerId∏
+µ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÜ é(
+%8"__mapSet*
+
+%6*
+	websiteId*
+
+
+$storeId∂
+≥
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÜ é(
+%9"__mapSet*
+
+%6*	
+storeId*
+
+
+$storeId±Æ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÖ è(	
+%10*
+
+%5*
+
+%62getallattributestypes®
+•
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÖ è(	
+$allAttributeTypes"__id*
+
+%10ıÚ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpêA ê(v
+%11*53
+1magento\elasticsearch\model\adapter\elasticsearch*
+
+$allAttributeTypes2getmappingtotalfieldslimitÆ
+´
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpê ê(
+%12"__mapGet*
+
+	$settings*	
+index™
+ß
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpê ê(%
+%13"__mapGet*
+
+%12*	
+mappingØ
+¨
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpê ê(5
+%14"__mapGet*
+
+%13*
+total_fields±
+Æ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpê ê(>
+%15"__mapSet*
+
+%14*	
+limit*
+
+%11Æ
+´
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpê ê(
+%16"__mapGet*
+
+	$settings*	
+index™
+ß
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpê ê(%
+%17"__mapGet*
+
+%16*	
+mapping∏
+µ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpê ê(5
+%18"__mapSet*
+
+%17*
+total_fields*
+
+%14Æ
+´
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpê ê(
+%19"__mapGet*
+
+	$settings*	
+index≥
+∞
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpê ê(%
+%20"__mapSet*
+
+%19*	
+mapping*
+
+%17∑
+¥
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpê ê(
+%21"__mapSet*
+
+	$settings*	
+index*
+
+%19”
+–
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpë ë(
+%22"__id*A*?3
+1magento\elasticsearch\model\adapter\elasticsearch"
+clientíè
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpë/ ë(H
+%23"$Array∫
+∑
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpë/ ë(H
+%24"__mapSet*
+
+%23*
+
+settings*
+
+	$settingsπ∂
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpë ë(I
+%25*
+
+%22*
+
+
+$indexName*
+
+%232createindex”
+–
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpí í(
+%26"__id*A*?3
+1magento\elasticsearch\model\adapter\elasticsearch"
+clientŸ
+÷
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpï ï(
+%27"__id*G*E3
+1magento\elasticsearch\model\adapter\elasticsearch"
+clientConfig¢ü
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpï ï(0
+%28*
+
+%272getentitytype÷”
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpí ñ(	
+%29*
+
+%26*
+
+$allAttributeTypes*
+
+
+$indexName*
+
+%282addfieldsmapping⁄
+◊
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpó ó(
+%30"__id*H*F3
+1magento\elasticsearch\model\adapter\elasticsearch"
+preparedIndexΩ
+∫
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpó ó(&
+%31"
+__arraySet*
+
+%30*
+
+
+$storeId*
+
+
+$indexName"∑
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpò ò(53
+1magento\elasticsearch\model\adapter\elasticsearch:
+
+$storeId:
+
+$indexName:
+$mappedIndexerIdB53
+1magento\elasticsearch\model\adapter\elasticsearch

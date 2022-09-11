@@ -1,0 +1,122 @@
+
+Wmagento\widget\model\resourcemodel\layout\update\collection::addupdateddaysbeforefilterà
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpê ê(."1*Ê
+1à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpí í(C¢ü
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpí) í(A
+%1"datetimezone¿
+Ω
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpí) í(A
+%2"datetimezone::__construct*
+
+%1*
+UTC•¢
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpí í(B
+	$datetime"datetimeÀ
+»
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpí í(B
+%3"datetime::__construct*
+
+	$datetime*
+now*
+
+%1∑
+¥
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpì+ ì(<
+%4"__concat*
+P*	
+
+$days*
+DÆ´
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpì ì(=
+$storeInterval"dateintervalÀ
+»
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpì ì(=
+%5"dateinterval::__construct*
+
+$storeInterval*
+
+%4ºπ
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpî î(&
+%6*
+
+	$datetime*
+
+$storeInterval2subÈ
+Ê
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpï ï((
+%7"__id*M*K=
+;magento\widget\model\resourcemodel\layout\update\collection"
+
+dateTime±Æ
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpï5 ï(N
+%8*
+
+	$datetime2gettimestamp∞≠
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpï ï(O
+%9*
+
+%7*
+
+%82
+formatdateÆ
+´
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpï ï(O
+$formattedDate"__id*
+
+%9ùö
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpô ô(
+%10"$Arrayø
+º
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpô ô(
+%11"__mapSet*
+
+%10*	
+notnull*
+trueåâ
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpó ö(	
+%12*?=
+;magento\widget\model\resourcemodel\layout\update\collection*
+main_table.updated_at*
+
+%102addfieldtofilterùö
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpú ú($
+%13"$Arrayƒ
+¡
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpú ú($
+%14"__mapSet*
+
+%13*
+lt*
+
+$formattedDate‘—
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpó ù(	
+%15*
+
+%12*
+main_table.updated_at*
+
+%132addfieldtofilter"Ã
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.phpü ü(?=
+;magento\widget\model\resourcemodel\layout\update\collection:
+$daysB?=
+;magento\widget\model\resourcemodel\layout\update\collection

@@ -1,0 +1,84 @@
+
+hmagento\graphql\configurableproduct\addconfigurableproducttocartsinglemutationtest::getfetchproductqueryº
+­C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductToCartSingleMutationTest.php¾ ¾()"1*ü
+1º
+­C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductToCartSingleMutationTest.phpÀ ý(â
+ß
+º
+­C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductToCartSingleMutationTest.php¾ ¾()
+$term"__id*
+
+$termstringŒ
+‰
+º
+­C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductToCartSingleMutationTest.phpÀ ý(
+%1"__concat* 
+{
+  products(
+    search:"*Œ	‰	
+†	"
+    pageSize:1
+  ) {
+    items {
+      sku
+      uid
+      ... on ConfigurableProduct {
+        configurable_options {
+          attribute_id
+          attribute_uid
+          attribute_code
+          id
+          uid
+          label
+          position
+          product_id
+          use_default
+          values {
+            uid
+            default_label
+            label
+            store_label
+            use_default_value
+            value_index
+          }
+        }
+        configurable_product_options_selection {
+          options_available_for_selection {
+            attribute_code
+            option_value_uids
+          }
+          configurable_options {
+            uid
+            attribute_code
+            label
+            values {
+              uid
+              is_available
+              is_use_default
+              label
+            }
+          }
+          variant {
+            uid
+            sku
+            url_key
+            url_path
+          }
+          media_gallery {
+            url
+            label
+            disabled
+          }
+        }
+      }
+    }
+  }
+}*	
+
+$term"Å
+º
+­C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductToCartSingleMutationTest.phpÀ ý(
+
+%1:
+$termstringBVT
+Rmagento\graphql\configurableproduct\addconfigurableproducttocartsinglemutationtest

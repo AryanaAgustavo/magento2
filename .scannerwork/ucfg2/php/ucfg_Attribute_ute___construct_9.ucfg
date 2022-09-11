@@ -1,0 +1,208 @@
+
+3magento\catalog\model\entity\attribute::__constructq
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^("1*¡
+2
+Attribute.php"Š
+s
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.phpŠ Š(
+implicit return*Ÿ(
+1q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.phpt t(2·
+´
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+
+$context"__id*-
++
+$contextmagento\framework\model\context´
+±
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÚ
+×
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$extensionFactory"__id*G
+E
+$extensionFactory0magento\framework\api\extensionattributesfactoryá
+Þ
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$customAttributeFactory"__id*H
+F
+$customAttributeFactory+magento\framework\api\attributevaluefactory´
+±
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+
+$eavConfig"__id*(
+&
+
+$eavConfigmagento\eav\model\configÊ
+Ç
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$eavTypeFactory"__id*9
+7
+$eavTypeFactory$magento\eav\model\entity\typefactoryË
+È
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÌ
+É
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$resourceHelper"__id*;
+9
+$resourceHelper&magento\eav\model\resourcemodel\helperÖ
+Ó
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$universalFactory"__id*C
+A
+$universalFactory,magento\framework\validator\universalfactoryà
+Ý
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$optionDataFactory"__id*L
+J
+$optionDataFactory4magento\eav\api\data\attributeoptioninterfacefactoryà
+Ý
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$dataObjectProcessor"__id*J
+H
+$dataObjectProcessor0magento\framework\reflection\dataobjectprocessorÐ
+Í
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$dataObjectHelper"__id*=
+;
+$dataObjectHelper&magento\framework\api\dataobjecthelperÑ
+Î
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterfaceç
+ä
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$reservedAttributeList"__id*O
+M
+$reservedAttributeList3magento\catalog\model\product\reservedattributelistÐ
+Í
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$localeResolver"__id*?
+=
+$localeResolver*magento\framework\locale\resolverinterfaceè
+å
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$dateTimeFormatter"__id*T
+R
+$dateTimeFormatter<magento\framework\stdlib\datetime\datetimeformatterinterfaceÚ
+×
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$lockValidator"__id*J
+H
+$lockValidator6magento\catalog\model\attribute\lockvalidatorinterfaceÐ
+Í
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceÚ
+×
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb—
+”
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.php^ ^(
+$data"__id*
+
+$dataarrayÑ
+Î
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.phpt t(1?(
+&magento\catalog\model\entity\attribute"
+attrLockValidator"__id*
+
+$lockValidatorå
+â
+r
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Entity\Attribute.phpu ‰(	
+%1"/magento\eav\model\entity\attribute::__construct**(
+&magento\catalog\model\entity\attribute*
+
+
+$context*
+
+	$registry*
+
+$extensionFactory*
+
+$customAttributeFactory*
+
+
+$eavConfig*
+
+$eavTypeFactory*
+
+$storeManager*
+
+$resourceHelper*
+
+$universalFactory*
+
+$optionDataFactory*
+
+$dataObjectProcessor*
+
+$dataObjectHelper*
+
+$localeDate*
+
+$reservedAttributeList*
+
+$localeResolver*
+
+$dateTimeFormatter*
+
+	$resource*
+
+$resourceCollection*	
+
+$data*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:E
+$extensionFactory0magento\framework\api\extensionattributesfactory:F
+$customAttributeFactory+magento\framework\api\attributevaluefactory:&
+
+$eavConfigmagento\eav\model\config:7
+$eavTypeFactory$magento\eav\model\entity\typefactory::
+$storeManager)magento\store\model\storemanagerinterface:9
+$resourceHelper&magento\eav\model\resourcemodel\helper:A
+$universalFactory,magento\framework\validator\universalfactory:J
+$optionDataFactory4magento\eav\api\data\attributeoptioninterfacefactory:H
+$dataObjectProcessor0magento\framework\reflection\dataobjectprocessor:;
+$dataObjectHelper&magento\framework\api\dataobjecthelper:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:M
+$reservedAttributeList3magento\catalog\model\product\reservedattributelist:=
+$localeResolver*magento\framework\locale\resolverinterface:R
+$dateTimeFormatter<magento\framework\stdlib\datetime\datetimeformatterinterface:H
+$lockValidator6magento\catalog\model\attribute\lockvalidatorinterface:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB*(
+&magento\catalog\model\entity\attribute

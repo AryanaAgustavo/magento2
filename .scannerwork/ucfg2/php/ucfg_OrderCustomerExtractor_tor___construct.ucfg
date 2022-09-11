@@ -1,0 +1,110 @@
+
+=magento\sales\model\order\ordercustomerextractor::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpF F("1*¶
+2
+OrderCustomerExtractor.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpV V(
+implicit return*¤
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpO O(2Ü
+Ù
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpF F(
+$orderRepository"__id*@
+>
+$orderRepository*magento\sales\api\orderrepositoryinterfaceè
+å
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpF F(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterface×
+Ô
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpF F(
+$objectCopyService"__id*9
+7
+$objectCopyService!magento\framework\dataobject\copyá
+Þ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpF F(
+$addressFactory"__id*F
+D
+$addressFactory1magento\customer\api\data\addressinterfacefactoryÞ
+Û
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpF F(
+$regionFactory"__id*D
+B
+$regionFactory0magento\customer\api\data\regioninterfacefactoryä
+á
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpF F(
+$customerFactory"__id*H
+F
+$customerFactory2magento\customer\api\data\customerinterfacefactoryè
+å
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpF F(
+$quoteAddressFactory"__id*H
+F
+$quoteAddressFactory.magento\quote\api\data\addressinterfacefactoryå
+â
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpO O(1G2
+0magento\sales\model\order\ordercustomerextractor"
+orderRepository"__id*
+
+$orderRepositoryë
+è
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpP P(7J2
+0magento\sales\model\order\ordercustomerextractor"
+customerRepository"__id*
+
+$customerRepositoryé
+æ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpQ Q(5I2
+0magento\sales\model\order\ordercustomerextractor"
+objectCopyService"__id*
+
+$objectCopyServiceã
+à
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpR R(/F2
+0magento\sales\model\order\ordercustomerextractor"
+addressFactory"__id*
+
+$addressFactoryá
+Þ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpS S(-E2
+0magento\sales\model\order\ordercustomerextractor"
+regionFactory"__id*
+
+$regionFactoryå
+â
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpT T(1G2
+0magento\sales\model\order\ordercustomerextractor"
+customerFactory"__id*
+
+$customerFactoryí
+ê
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\OrderCustomerExtractor.phpU U(9K2
+0magento\sales\model\order\ordercustomerextractor"
+quoteAddressFactory"__id*
+
+$quoteAddressFactory*
+2:>
+$orderRepository*magento\sales\api\orderrepositoryinterface:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:7
+$objectCopyService!magento\framework\dataobject\copy:D
+$addressFactory1magento\customer\api\data\addressinterfacefactory:B
+$regionFactory0magento\customer\api\data\regioninterfacefactory:F
+$customerFactory2magento\customer\api\data\customerinterfacefactory:F
+$quoteAddressFactory.magento\quote\api\data\addressinterfacefactoryB42
+0magento\sales\model\order\ordercustomerextractor

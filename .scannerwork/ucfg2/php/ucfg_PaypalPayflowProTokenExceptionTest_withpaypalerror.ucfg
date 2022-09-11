@@ -1,0 +1,258 @@
+
+imagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokenexceptiontest::testresolvewithpaypalerror∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php5 5(."1*¯
+2(
+&PaypalPayflowProTokenExceptionTest.php"»
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpN N(
+implicit return*ûM
+1∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php7 7(1¥±
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php7 7(0
+%1*QO
+Mmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokenexceptiontest*
+
+payflowpro2enablepaymentmethod‡
+›
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php9 9('
+$reservedQuoteId"__id*
+
+test_quote¿Ω
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php: :(B
+%2*QO
+Mmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokenexceptiontest*
+
+$reservedQuoteId2getquotebyreservedorderidÕ
+ 
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php: :(B
+$cart"__id*
+
+%2¨
+©
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php< <(*
+%3"__id*h*fO
+Mmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokenexceptiontest"
+quoteIdToMaskedIdŒÀ
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php<9 <(G
+%4*	
+
+$cart2getid◊
+‘
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php<4 <(G
+%5"__sanitizing_cast*
+
+%4’“
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php< <(H
+%6*
+
+%3*
+
+%52executeœ
+Ã
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php< <(H	
+$cartId"__id*
+
+%6ª∏
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php= =(>
+%7*QO
+Mmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokenexceptiontest*
+	
+$cartId2getcreatepayflowtokenmutationŒ
+À
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php= =(>
+$query"__id*
+
+%7Ø
+¨
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php? ?(v
+$expectedExceptionMessage"__id*TR
+PPayment Gateway is unreachable at the moment. Please use another payment option.ıÚ
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php@ @(L
+$expectedException"'laminas\http\exception\runtimeexception©
+¶
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.php@ @(L
+%8"4laminas\http\exception\runtimeexception::__construct*
+
+$expectedException*
+
+$expectedExceptionMessage¶
+£
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpB B(
+%9"__id*b*`O
+Mmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokenexceptiontest"
+gatewayMockﬁ€
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpB C(#
+%10*
+
+%9*
+postRequest2methodÚÔ
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpB D(4
+%11*
+
+%10*
+
+$expectedException2willthrowexception™
+ß
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpF F()
+%12"__id*e*cO
+Mmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokenexceptiontest"
+graphQlRequestÿ’
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpF F(7
+%13*
+
+%12*
+
+
+$query2send“
+œ
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpF F(7
+	$response"__id*
+
+%13†
+ù
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpG G(#
+%14"__id*[*YO
+Mmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokenexceptiontest"
+jsonÿ’
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpG1 G(H
+%15*
+
+	$response2
+getcontent‹Ÿ
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpG G(I
+%16*
+
+%14*
+
+%152unserialize÷
+”
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpG G(I
+$responseData"__id*
+
+%16‰
+·
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpH: H(O
+%17"__mapGet*
+
+$responseData*
+data«ƒ
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpH H(P
+%18*QO
+Mmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokenexceptiontest*
+createPayflowProToken*
+
+%172assertarrayhaskey‰
+·
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpI I(0
+%19"__mapGet*
+
+$responseData*
+dataÎ
+Ë
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpI I(I
+%20"__mapGet*
+
+%19*
+createPayflowProToken¶£
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpI I(J
+%21*QO
+Mmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokenexceptiontest*
+
+%202assertempty¬ø
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpJ J(9
+%22*QO
+Mmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokenexceptiontest*
+
+errors*
+
+$responseData2assertarrayhaskeyÊ
+„
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpK K(.
+%23"__mapGet*
+
+$responseData*
+
+errors÷
+”
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpK K(1
+%24"
+__arrayGet*
+
+%23*2 ’
+“
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpK K(1
+$actualError"__id*
+
+%24Ê
+„
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpL7 L(N
+%25"__mapGet*
+
+$actualError*	
+message∆√
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpL L(O
+%26*QO
+Mmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokenexceptiontest*
+
+$expectedExceptionMessage*
+
+%252assertequalsÈ
+Ê
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpMG M(a
+%27"__mapGet*
+
+$actualError*
+
+extensionsﬁ
+€
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpMG M(m
+%28"__mapGet*
+
+%27*
+
+category´®
+∞
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenExceptionTest.phpM M(n
+%29*QO
+Mmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokenexceptiontest* *
+
+%282assertequals*
+2BQO
+Mmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokenexceptiontest

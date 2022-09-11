@@ -1,0 +1,88 @@
+
+>magento\reports\block\adminhtml\grid\abstractgrid::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Grid\AbstractGrid.phpD D("1*­
+2
+AbstractGrid.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Grid\AbstractGrid.phpP P(
+implicit return*Í
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Grid\AbstractGrid.phpL L(3É
+Æ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Grid\AbstractGrid.phpD D(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\contextÊ
+Ç
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Grid\AbstractGrid.phpD D(
+$backendHelper"__id*/
+-
+$backendHelpermagento\backend\helper\datað
+í
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Grid\AbstractGrid.phpD D(
+$resourceFactory"__id*S
+Q
+$resourceFactory=magento\reports\model\resourcemodel\report\collection\factoryæ
+ã
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Grid\AbstractGrid.phpD D(
+$collectionFactory"__id*G
+E
+$collectionFactory/magento\reports\model\grouped\collectionfactoryÆ
+Ã
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Grid\AbstractGrid.phpD D(
+$reportsData"__id*-
++
+$reportsDatamagento\reports\helper\data¢
+Ÿ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Grid\AbstractGrid.phpD D(
+$data"__id*
+
+$dataarrayè
+å
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Grid\AbstractGrid.phpL L(2I3
+1magento\reports\block\adminhtml\grid\abstractgrid"
+_resourceFactory"__id*
+
+$resourceFactoryì
+é
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Grid\AbstractGrid.phpM M(6K3
+1magento\reports\block\adminhtml\grid\abstractgrid"
+_collectionFactory"__id*
+
+$collectionFactoryà
+Ý
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Grid\AbstractGrid.phpN N(*E3
+1magento\reports\block\adminhtml\grid\abstractgrid"
+_reportsData"__id*
+
+$reportsData¤
+¡
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Block\Adminhtml\Grid\AbstractGrid.phpO O(<
+%1"7magento\backend\block\widget\grid\extended::__construct*53
+1magento\reports\block\adminhtml\grid\abstractgrid*
+
+
+$context*
+
+$backendHelper*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:-
+$backendHelpermagento\backend\helper\data:Q
+$resourceFactory=magento\reports\model\resourcemodel\report\collection\factory:E
+$collectionFactory/magento\reports\model\grouped\collectionfactory:+
+$reportsDatamagento\reports\helper\data:
+$dataarrayB53
+1magento\reports\block\adminhtml\grid\abstractgrid

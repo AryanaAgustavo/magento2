@@ -1,0 +1,233 @@
+
+4magento\downloadable\model\product\type::__constructr
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z("1*
+2
+
+Type.php"‹
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.php„ „(
+implicit return*Ä1
+1r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpo o(5×
+Ô
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$catalogProductOption"__id*?
+=
+$catalogProductOption$magento\catalog\model\product\optionµ
+²
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+
+$eavConfig"__id*(
+&
+
+$eavConfigmagento\eav\model\configÑ
+Î
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$catalogProductType"__id*;
+9
+$catalogProductType"magento\catalog\model\product\typeË
+È
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceÖ
+Ó
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$fileStorageDb"__id*E
+C
+$fileStorageDb1magento\mediastorage\helper\file\storage\database»
+¸
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$filesystem"__id*-
++
+$filesystemmagento\framework\filesystem½
+º
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registry®
+«
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÛ
+Ø
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceá
+Þ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$sampleResFactory"__id*M
+K
+$sampleResFactory6magento\downloadable\model\resourcemodel\samplefactoryÐ
+Í
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$linkResource"__id*@
+>
+$linkResource-magento\downloadable\model\resourcemodel\linkâ
+ß
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$linksFactory"__id*R
+P
+$linksFactory?magento\downloadable\model\resourcemodel\link\collectionfactoryè
+å
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$samplesFactory"__id*V
+T
+$samplesFactoryAmagento\downloadable\model\resourcemodel\sample\collectionfactoryÍ
+Ê
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$sampleFactory"__id*<
+:
+$sampleFactory(magento\downloadable\model\samplefactoryÇ
+Ä
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$linkFactory"__id*8
+6
+$linkFactory&magento\downloadable\model\linkfactoryä
+á
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$typeHandler"__id*U
+S
+$typeHandlerCmagento\downloadable\model\product\typehandler\typehandlerinterfaceŠ
+‡
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(#
+!$extensionAttributesJoinProcessor"__id*f
+d
+!$extensionAttributesJoinProcessor?magento\framework\api\extensionattribute\joinprocessorinterfaceÊ
+Ç
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$serializer"__id*<
+:
+$serializer+magento\framework\serialize\serializer\jsonÏ
+Ì
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpZ Z(
+$uploaderFactory"__id*<
+:
+$uploaderFactory&magento\framework\file\uploaderfactoryÖ
+Ó
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpo o(4@)
+'magento\downloadable\model\product\type"
+_sampleResFactory"__id*
+
+$sampleResFactoryÎ
+Ë
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpp p(,<)
+'magento\downloadable\model\product\type"
+_linkResource"__id*
+
+$linkResourceÎ
+Ë
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpq q(,<)
+'magento\downloadable\model\product\type"
+_linksFactory"__id*
+
+$linksFactoryÒ
+Ï
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpr r(0>)
+'magento\downloadable\model\product\type"
+_samplesFactory"__id*
+
+$samplesFactoryÐ
+Í
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phps s(.=)
+'magento\downloadable\model\product\type"
+_sampleFactory"__id*
+
+$sampleFactoryÌ
+É
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpt t(*;)
+'magento\downloadable\model\product\type"
+_linkFactory"__id*
+
+$linkFactoryË
+È
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpu u():)
+'magento\downloadable\model\product\type"
+typeHandler"__id*
+
+$typeHandlerõ
+ò
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpv v(SO)
+'magento\downloadable\model\product\type""
+ extensionAttributesJoinProcessor"__id*%
+#
+!$extensionAttributesJoinProcessor¿
+¼
+s
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\Product\Type.phpw ƒ(	
+%1"7magento\catalog\model\product\type\virtual::__construct*+)
+'magento\downloadable\model\product\type*
+
+$catalogProductOption*
+
+
+$eavConfig*
+
+$catalogProductType*
+
+$eventManager*
+
+$fileStorageDb*
+
+$filesystem*
+
+$coreRegistry*
+	
+$logger*
+
+$productRepository*
+
+$serializer*
+
+$uploaderFactory*
+2:=
+$catalogProductOption$magento\catalog\model\product\option:&
+
+$eavConfigmagento\eav\model\config:9
+$catalogProductType"magento\catalog\model\product\type:9
+$eventManager(magento\framework\event\managerinterface:C
+$fileStorageDb1magento\mediastorage\helper\file\storage\database:+
+$filesystemmagento\framework\filesystem:+
+$coreRegistrymagento\framework\registry:"
+$loggerpsr\log\loggerinterface:D
+$productRepository.magento\catalog\api\productrepositoryinterface:K
+$sampleResFactory6magento\downloadable\model\resourcemodel\samplefactory:>
+$linkResource-magento\downloadable\model\resourcemodel\link:P
+$linksFactory?magento\downloadable\model\resourcemodel\link\collectionfactory:T
+$samplesFactoryAmagento\downloadable\model\resourcemodel\sample\collectionfactory::
+$sampleFactory(magento\downloadable\model\samplefactory:6
+$linkFactory&magento\downloadable\model\linkfactory:S
+$typeHandlerCmagento\downloadable\model\product\typehandler\typehandlerinterface:d
+!$extensionAttributesJoinProcessor?magento\framework\api\extensionattribute\joinprocessorinterface::
+$serializer+magento\framework\serialize\serializer\json::
+$uploaderFactory&magento\framework\file\uploaderfactoryB+)
+'magento\downloadable\model\product\type

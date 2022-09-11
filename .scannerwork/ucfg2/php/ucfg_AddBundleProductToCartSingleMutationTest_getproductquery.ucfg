@@ -1,0 +1,54 @@
+
+Pmagento\graphql\bundle\addbundleproducttocartsinglemutationtest::getproductquery§
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpÛ Û($"1*Ü
+
+1§
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpÝ û(Í
+Ê
+§
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpÛ Û($
+$sku"__id*
+
+$skustring§
+¤
+§
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpÝ û(
+%1"__concat*
+{
+  products(search: "*À½
+º") {
+    items {
+      sku
+       ... on BundleProduct {
+              items {
+                sku
+                option_id
+                uid
+                required
+                type
+                title
+                options {
+                  uid
+                  label
+                  product {
+                    sku
+                  }
+                  can_change_quantity
+                  id
+                  uid
+                  price
+                  quantity
+                }
+              }
+       }
+    }
+  }
+}*
+
+$sku"²
+§
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpÝ û(
+
+%1:
+$skustringBCA
+?magento\graphql\bundle\addbundleproducttocartsinglemutationtest

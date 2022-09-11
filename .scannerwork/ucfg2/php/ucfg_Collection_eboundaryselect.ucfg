@@ -1,0 +1,154 @@
+
+Tmagento\sales\model\resourcemodel\report\bestsellers\collection::_makeboundaryselect‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpu u(*"1*Ô'
+1‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpw w(-ëè
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpw w(,
+%1*CA
+?magento\sales\model\resourcemodel\report\bestsellers\collection2getconnection®
+«
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpw w(,
+$connection"__id*
+
+%1ñî
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpx x(,
+%2*CA
+?magento\sales\model\resourcemodel\report\bestsellers\collection2_getselectedcolumns¨
+¥
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpx x(,
+$cols"__id*
+
+%2íê
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpy3 y(K
+%3*CA
+?magento\sales\model\resourcemodel\report\bestsellers\collection2getorderedfieldº
+·
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpy* y(Q
+%4"__concat*
+SUM(*
+
+%3*
+)íê
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpy y(&
+%6*CA
+?magento\sales\model\resourcemodel\report\bestsellers\collection2getorderedfield¾
+»
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpy y('
+%5"
+__arraySet*	
+
+$cols*
+
+%6*
+
+%4°­
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpz z('
+%7*
+
+$connection2selectéæ
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php{ {( 
+%8*CA
+?magento\sales\model\resourcemodel\report\bestsellers\collection2getresource­ª
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php{ {(0
+%9*
+
+%82getmaintable¹¶
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpz }(	
+%10*
+
+%7*
+
+%9*	
+
+$cols2fromÅÂ
+Œ
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpz €(	
+%11*
+
+%10*
+period >= ?*	
+
+$from2whereÃÀ
+Œ
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpz ƒ(	
+%12*
+
+%11*
+period <= ?*
+
+$to2where¹¶
+Œ
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpz …(	
+%13*
+
+%12*
+
+product_id2groupðí
+
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php† †($
+%14*CA
+?magento\sales\model\resourcemodel\report\bestsellers\collection2getorderedfield¸
+µ
+
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php† †(.
+%15"__concat*
+
+%14*	
+ DESC²¯
+Œ
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpz ‡(	
+%16*
+
+%13*
+
+%152order÷
+ô
+
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpˆ ˆ(
+%17"__id*U*SA
+?magento\sales\model\resourcemodel\report\bestsellers\collection"
+_ratingLimit²¯
+Œ
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpz ‰(	
+%18*
+
+%16*
+
+%172limit¬
+©
+Œ
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.phpz ‰(		
+$select"__id*
+
+%18ˆ…
+
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php‹ ‹(2
+%19*CA
+?magento\sales\model\resourcemodel\report\bestsellers\collection*
+	
+$select2_applystoresfiltertoselectÊ
+Ç
+
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php ("
+%20magento\framework\db\select"__id*
+	
+$select"¶
+
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php ($
+"
+%20magento\framework\db\select:
+$from:
+$toBCA
+?magento\sales\model\resourcemodel\report\bestsellers\collection

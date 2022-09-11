@@ -1,0 +1,94 @@
+
+Jmagento\sales\model\resourcemodel\transaction\grid\collection::__constructˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Transaction\Grid\Collection.php ("1*¸
+2
+Collection.php" 
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Transaction\Grid\Collection.php3 3(
+implicit return*ƒ
+1ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Transaction\Grid\Collection.php) )(2ë
+è
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Transaction\Grid\Collection.php (
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÅ
+Â
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Transaction\Grid\Collection.php (	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface÷
+ô
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Transaction\Grid\Collection.php (
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceâ
+ß
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Transaction\Grid\Collection.php (
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceþ
+û
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Transaction\Grid\Collection.php (
+$entitySnapshot"__id*U
+S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshotÚ
+×
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Transaction\Grid\Collection.php (
+$registryManager"__id*0
+.
+$registryManagermagento\framework\registryã
+à
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Transaction\Grid\Collection.php (
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceå
+â
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Transaction\Grid\Collection.php (
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdb€
+ý
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Transaction\Grid\Collection.php) )(1T?
+=magento\sales\model\resourcemodel\transaction\grid\collection"
+registryManager"__id*
+
+$registryManager©
+¦
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Transaction\Grid\Collection.php* 2(	
+%1"Smagento\sales\model\resourcemodel\order\payment\transaction\collection::__construct*A?
+=magento\sales\model\resourcemodel\transaction\grid\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$entitySnapshot*
+
+$connection*
+
+	$resource*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshot:.
+$registryManagermagento\framework\registry:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbBA?
+=magento\sales\model\resourcemodel\transaction\grid\collection

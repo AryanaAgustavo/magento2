@@ -1,0 +1,58 @@
+
+;magento\graphql\sales\reordermultipleproductstest::getquery™
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderMultipleProductsTest.php¨ ¨("1*ó	
+1™
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderMultipleProductsTest.phpª Ô(	ª
+§
+™
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderMultipleProductsTest.php« Ô(
+%1"__concat*-+
+)mutation {
+  reorderItems(orderNumber: "*·´
+±") {
+    userInputErrors {
+      path
+      code
+    }
+    cart {
+      email
+      total_quantity
+      items {
+        quantity
+        product {
+          sku
+        }
+        ... on ConfigurableCartItem {
+          configurable_options {
+            option_label
+            value_label
+          }
+        }
+        ... on BundleCartItem {
+          bundle_options {
+            label
+            type
+            values {
+              label
+              price
+              quantity
+            }
+          }
+        }
+        ... on DownloadableCartItem {
+            links {
+                title
+            }
+        }
+      }
+    }
+  }
+}*
+
+$orderNumber"¤
+™
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderMultipleProductsTest.phpª Ô(	
+
+%1:
+$orderNumberB53
+1magento\graphql\sales\reordermultipleproductstest

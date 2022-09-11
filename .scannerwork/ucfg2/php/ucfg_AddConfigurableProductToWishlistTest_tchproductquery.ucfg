@@ -1,0 +1,70 @@
+
+Smagento\graphql\wishlist\addconfigurableproducttowishlisttest::getfetchproductquery¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddConfigurableProductToWishlistTest.php³ ³()"1*Ô
+1¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddConfigurableProductToWishlistTest.phpµ ä(Í
+Ê
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddConfigurableProductToWishlistTest.php³ ³()
+$term"__id*
+
+$termstring£
+ 
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddConfigurableProductToWishlistTest.phpµ ä(
+%1"__concat* 
+{
+  products(
+    search:"*¸µ
+²"
+    pageSize:1
+  ) {
+    items {
+      sku
+      ... on CustomizableProductInterface {
+        options {
+          uid
+          ... on CustomizableDropDownOption {
+            value {
+              option_type_id
+            }
+          }
+        }
+      }
+      ... on ConfigurableProduct {
+        variants {
+          attributes {
+            uid
+          }
+          product {
+            sku
+          }
+        }
+        configurable_options {
+          attribute_id
+          attribute_code
+          id
+          label
+          position
+          product_id
+          use_default
+          values {
+            default_label
+            label
+            store_label
+            use_default_value
+            value_index
+          }
+        }
+      }
+    }
+  }
+}*	
+
+$term"°
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddConfigurableProductToWishlistTest.phpµ ä(
+
+%1:
+$termstringBA?
+=magento\graphql\wishlist\addconfigurableproducttowishlisttest

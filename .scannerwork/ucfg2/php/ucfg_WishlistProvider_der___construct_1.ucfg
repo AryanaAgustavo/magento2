@@ -1,0 +1,56 @@
+
+@magento\wishlist\controller\shared\wishlistprovider::__construct~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Shared\WishlistProvider.php& &("1*³
+2
+WishlistProvider.php"•
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Shared\WishlistProvider.php. .(
+implicit return*Ä
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Shared\WishlistProvider.php+ +("Ë
+È
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Shared\WishlistProvider.php& &(
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterfaceÛ
+Ø
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Shared\WishlistProvider.php& &(
+$wishlistFactory"__id*<
+:
+$wishlistFactory&magento\wishlist\model\wishlistfactoryÓ
+Ð
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Shared\WishlistProvider.php& &(
+$checkoutSession"__id*4
+2
+$checkoutSessionmagento\checkout\model\sessionÛ
+Ø
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Shared\WishlistProvider.php+ +(!B5
+3magento\wishlist\controller\shared\wishlistprovider"	
+request"__id*
+
+
+$requestë
+è
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Shared\WishlistProvider.php, ,(1J5
+3magento\wishlist\controller\shared\wishlistprovider"
+wishlistFactory"__id*
+
+$wishlistFactoryë
+è
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Shared\WishlistProvider.php- -(1J5
+3magento\wishlist\controller\shared\wishlistprovider"
+checkoutSession"__id*
+
+$checkoutSession*
+2:2
+$request&magento\framework\app\requestinterface::
+$wishlistFactory&magento\wishlist\model\wishlistfactory:2
+$checkoutSessionmagento\checkout\model\sessionB75
+3magento\wishlist\controller\shared\wishlistprovider

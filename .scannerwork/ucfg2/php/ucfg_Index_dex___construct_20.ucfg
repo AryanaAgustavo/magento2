@@ -1,0 +1,119 @@
+
+<magento\elasticsearch\model\resourcemodel\index::__constructz
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.php9 9("1*¤
+2
+	Index.php"‘
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.phpO O(
+implicit return*ž
+1z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.phpD D(6Ñ
+Î
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.php9 9(
+
+$context"__id*>
+<
+$context0magento\framework\model\resourcemodel\db\contextÔ
+Ñ
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.php9 9(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface×
+Ô
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.php9 9(
+$metadataPool"__id*?
+=
+$metadataPool,magento\framework\entitymanager\metadatapoolã
+à
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.php9 9(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceæ
+ã
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.php9 9(
+$categoryRepository"__id*H
+F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface½
+º
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.php9 9(
+
+$eavConfig"__id*(
+&
+
+$eavConfigmagento\eav\model\configÝ
+Ú
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.php9 9(
+$connectionName"__id*C
+A
+$connectionName.magento\elasticsearch\model\resourcemodel\nullé
+æ
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.php9 9(
+$tableResolver"__id*P
+N
+$tableResolver<magento\framework\search\request\indexscoperesolverinterface
+Š
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.php9 9(
+$dimensionCollectionFactory"__id*g
+e
+$dimensionCollectionFactoryFmagento\catalog\model\indexer\product\price\dimensioncollectionfactoryç
+ä
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.phpD D(5H1
+/magento\elasticsearch\model\resourcemodel\index"
+productRepository"__id*
+
+$productRepositoryé
+æ
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.phpE E(7I1
+/magento\elasticsearch\model\resourcemodel\index"
+categoryRepository"__id*
+
+$categoryRepository×
+Ô
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.phpF F(%@1
+/magento\elasticsearch\model\resourcemodel\index"
+	eavConfig"__id*
+
+
+$eavConfig÷
+ô
+z
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\ResourceModel\Index.phpG N(	
+%1"=magento\advancedsearch\model\resourcemodel\index::__construct*31
+/magento\elasticsearch\model\resourcemodel\index*
+
+
+$context*
+
+$storeManager*
+
+$metadataPool*
+
+$connectionName*
+
+$tableResolver*
+
+$dimensionCollectionFactory*
+2:<
+$context0magento\framework\model\resourcemodel\db\context::
+$storeManager)magento\store\model\storemanagerinterface:=
+$metadataPool,magento\framework\entitymanager\metadatapool:D
+$productRepository.magento\catalog\api\productrepositoryinterface:F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface:&
+
+$eavConfigmagento\eav\model\config:A
+$connectionName.magento\elasticsearch\model\resourcemodel\null:N
+$tableResolver<magento\framework\search\request\indexscoperesolverinterface:e
+$dimensionCollectionFactoryFmagento\catalog\model\indexer\product\price\dimensioncollectionfactoryB31
+/magento\elasticsearch\model\resourcemodel\index

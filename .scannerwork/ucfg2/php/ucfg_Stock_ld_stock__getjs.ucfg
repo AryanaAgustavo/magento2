@@ -1,0 +1,142 @@
+
+Amagento\cataloginventory\block\adminhtml\form\field\stock::_getjsÜ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Block\Adminhtml\Form\Field\Stock.php∑ ∑("1*¯/
+1Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Block\Adminhtml\Form\Field\Stock.phpπ π(UÈ
+Ê
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Block\Adminhtml\Form\Field\Stock.phpπ π(0
+%1"__id*O*M;
+9magento\cataloginventory\block\adminhtml\form\field\stock"
+coreRegistry±Æ
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Block\Adminhtml\Form\Field\Stock.phpπ π(E
+%2*
+
+%1*	
+product2registryß§
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Block\Adminhtml\Form\Field\Stock.phpπ π(T
+%3*
+
+%22isobjectnew∏
+µ
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Block\Adminhtml\Form\Field\Stock.phpπ π(T
+$isNewProduct"__sanitizing_cast*
+
+%3–'
+Õ'
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Block\Adminhtml\Form\Field\Stock.php∫ ä(	
+%4"__concat*®•
+¢
+            <script type='text/javascript'>
+                require(['jquery', 'prototype', 'domReady!'], function($) {
+                        var qty = $('#*åâ
+Ü'),
+                            productType = $('#product_type_id').val(),
+                            stockAvailabilityField = $('#*êç
+ä'),
+                            manageStockField = $('#inventory_manage_stock'),
+                            useConfigManageStockField = $('#inventory_use_config_manage_stock'),
+                            fieldsAssociations = {
+                                '*:8
+6': 'inventory_qty',
+                                '*ôñ
+ì': 'inventory_stock_availability'
+                            };
+
+                        var qtyDefaultValue = qty.val();
+                        var disabler = function(event) {
+                            if (typeof(event) === 'undefined') {
+                                return;
+                            }
+                            var stockBeforeDisable = $.Event('stockbeforedisable', {productType: productType});
+                            $('[data-tab-panel=product-details]').trigger(stockBeforeDisable);
+                            if (stockBeforeDisable.result !== false) {
+                                var manageStockValue = *∑¥
+±
+                                    ? (qty.val() === '' ? 0 : 1)
+                                    : parseInt(manageStockField.val());
+                                if (*Ä˝
+˙ && qtyDefaultValue !== null && qtyDefaultValue === qty.val()) {
+                                    manageStockValue = parseInt(manageStockField.val());
+                                } else {
+                                    qtyDefaultValue = null;
+                                }
+                                var stockAssociations = $('#' + fieldsAssociations['*æª
+∏']);
+                                stockAvailabilityField.prop('disabled', !manageStockValue);
+                                stockAssociations.prop('disabled', !manageStockValue);
+                                if ($(event.currentTarget).attr('id') === qty.attr('id') && event.type != 'change') {
+                                    stockAvailabilityField.val(manageStockValue);
+                                    stockAssociations.val(manageStockValue);
+                                }
+                                if (parseInt(manageStockField.val()) != manageStockValue &&
+                                    !(event && event.type == 'keyup')
+                                ) {
+                                    if (useConfigManageStockField.val() == 1) {
+                                        useConfigManageStockField.prop('checked', false).val(0);
+                                    }
+                                    manageStockField.toggleClass('disabled', false).prop('disabled', false);
+                                    manageStockField.val(manageStockValue);
+                                }
+                            }
+                        };
+
+                        //Fill corresponding field
+                        var filler = function() {
+                            var id = $(this).attr('id');
+                            if ('undefined' !== typeof fieldsAssociations[id]) {
+                                $('#' + fieldsAssociations[id]).val($(this).val());
+                            } else {
+                                $('#' + getKeyByValue(fieldsAssociations, id)).val($(this).val());
+                            }
+
+                            if (manageStockField.length) {
+                                fireEvent(manageStockField.get(0), 'change');
+                            }
+                        };
+                        //Get key by value from object
+                        var getKeyByValue = function(object, value) {
+                            var returnVal = false;
+                            $.each(object, function(objKey, objValue) {
+                                if (value === objValue) {
+                                    returnVal = objKey;
+                                }
+                            });
+                            return returnVal;
+                        };
+                        $.each(fieldsAssociations, function(generalTabField, advancedTabField) {
+                            $('#' + generalTabField + ', #' + advancedTabField)
+                                .on('focus blur change keyup click', filler)
+                                .on('keyup change blur', disabler)
+                                .trigger('change');
+                        });
+
+                })
+            </script>
+        *
+
+$quantityFieldId*
+
+$inStockFieldId*
+
+$quantityFieldId*
+
+$inStockFieldId*
+
+$isNewProduct*
+
+$isNewProduct*
+
+$inStockFieldId"ë
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Block\Adminhtml\Form\Field\Stock.php∫ ä(
+
+
+%4:
+$quantityFieldId:
+$inStockFieldIdB=;
+9magento\cataloginventory\block\adminhtml\form\field\stock

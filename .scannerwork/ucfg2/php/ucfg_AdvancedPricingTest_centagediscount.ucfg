@@ -1,0 +1,108 @@
+
+]magento\advancedpricingimportexport\model\import\advancedpricingtest::checkpercentagediscount©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.phpò ò(,"1*‚
+2
+AdvancedPricingTest.php"¡
+©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.php¢ ¢(
+implicit return*Ç
+1©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.phpù †(
+¸
+˘
+©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.phpò ò(,
+
+$tierPrice"__id*7
+5
+
+$tierPrice'magento\catalog\model\product\tierpriceú
+ô
+©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.phpû û()
+%1"__id*_*]F
+Dmagento\advancedpricingimportexport\model\import\advancedpricingtest"
+expectedTierPrice”
+–
+©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.phpû û(/
+%2"
+__arrayGet*
+
+%1*
+
+$sku’
+“
+©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.phpû û(7
+%3"
+__arrayGet*
+
+%2*
+
+
+$index›
+⁄
+©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.phpû û(K
+%4"__mapGet*
+
+%3*
+percentage_value–
+Õ
+©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.phpû û(K
+%5"__sanitizing_cast*
+
+%4›⁄
+©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.phpü ü(5
+%6*
+
+
+$tierPrice2getextensionattributes—Œ
+©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.phpü ü(K
+%7*
+
+%62getpercentagevalue–
+Õ
+©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.phpü ü(K
+%8"__sanitizing_cast*
+
+%7ùö
+©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.phpù †(	
+%9*HF
+Dmagento\advancedpricingimportexport\model\import\advancedpricingtest*
+
+%5*
+
+%82assertequalsﬁ€
+©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.php°0 °(T
+%10*
+
+
+$tierPrice2getextensionattributes”–
+©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.php°0 °(j
+%11*
+
+%102getpercentagevalueÓÎ
+©
+úC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\AdvancedPricingImportExport\Model\Import\AdvancedPricingTest.php° °(k
+%12*
+
+
+$tierPrice*
+percentage_value*
+
+%112setdata*
+2:5
+
+$tierPrice'magento\catalog\model\product\tierprice:
+$sku:
+$indexBHF
+Dmagento\advancedpricingimportexport\model\import\advancedpricingtest

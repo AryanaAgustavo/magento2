@@ -1,0 +1,94 @@
+
+Dmagento\sales\controller\adminhtml\order\pdfcreditmemos::__construct‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfcreditmemos.php; ;("1*¶
+2
+Pdfcreditmemos.php"š
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfcreditmemos.phpH H(
+implicit return*Í
+1‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfcreditmemos.phpC C(*Ì
+É
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfcreditmemos.php; ;(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÎ
+Ë
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfcreditmemos.php; ;(	
+$filter"__id*3
+1
+$filter&magento\ui\component\massaction\filter‚
+ÿ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfcreditmemos.php; ;(
+$collectionFactory"__id*\
+Z
+$collectionFactoryDmagento\sales\model\resourcemodel\order\creditmemo\collectionfactoryÖ
+Ó
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfcreditmemos.php; ;(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetimeá
+Þ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfcreditmemos.php; ;(
+$fileFactory"__id*A
+?
+$fileFactory/magento\framework\app\response\http\filefactoryÞ
+Û
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfcreditmemos.php; ;(
+$pdfCreditmemo"__id*<
+:
+$pdfCreditmemo(magento\sales\model\order\pdf\creditmemoì
+é
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfcreditmemos.phpC C()J9
+7magento\sales\controller\adminhtml\order\pdfcreditmemos"
+fileFactory"__id*
+
+$fileFactoryæ
+ã
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfcreditmemos.phpD D(#G9
+7magento\sales\controller\adminhtml\order\pdfcreditmemos"
+
+dateTime"__id*
+
+	$dateTimeð
+í
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfcreditmemos.phpE E(-L9
+7magento\sales\controller\adminhtml\order\pdfcreditmemos"
+pdfCreditmemo"__id*
+
+$pdfCreditmemoø
+õ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfcreditmemos.phpF F(5P9
+7magento\sales\controller\adminhtml\order\pdfcreditmemos"
+collectionFactory"__id*
+
+$collectionFactory´
+±
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfcreditmemos.phpG G(.
+%1"Lmagento\sales\controller\adminhtml\order\pdfdocumentsmassaction::__construct*;9
+7magento\sales\controller\adminhtml\order\pdfcreditmemos*
+
+
+$context*
+	
+$filter*
+2:.
+$context"magento\backend\app\action\context:1
+$filter&magento\ui\component\massaction\filter:Z
+$collectionFactoryDmagento\sales\model\resourcemodel\order\creditmemo\collectionfactory:7
+	$dateTime*magento\framework\stdlib\datetime\datetime:?
+$fileFactory/magento\framework\app\response\http\filefactory::
+$pdfCreditmemo(magento\sales\model\order\pdf\creditmemoB;9
+7magento\sales\controller\adminhtml\order\pdfcreditmemos

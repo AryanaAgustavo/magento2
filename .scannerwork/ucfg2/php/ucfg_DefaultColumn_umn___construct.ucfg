@@ -1,0 +1,78 @@
+
+Emagento\sales\block\adminhtml\items\column\defaultcolumn::__constructƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Items\Column\DefaultColumn.php% %("1*¶
+2
+DefaultColumn.php"›
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Items\Column\DefaultColumn.php/ /(
+implicit return*‚
+1ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Items\Column\DefaultColumn.php- -(/Ñ
+Î
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Items\Column\DefaultColumn.php% %(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\contextê
+ç
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Items\Column\DefaultColumn.php% %(
+$stockRegistry"__id*G
+E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterfaceù
+ö
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Items\Column\DefaultColumn.php% %(
+$stockConfiguration"__id*Q
+O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterfaceÇ
+Ä
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Items\Column\DefaultColumn.php% %(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryâ
+ß
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Items\Column\DefaultColumn.php% %(
+$optionFactory"__id*?
+=
+$optionFactory+magento\catalog\model\product\optionfactoryª
+§
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Items\Column\DefaultColumn.php% %(
+$data"__id*
+
+$dataarrayó
+ð
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Items\Column\DefaultColumn.php- -(.N:
+8magento\sales\block\adminhtml\items\column\defaultcolumn"
+_optionFactory"__id*
+
+$optionFactoryâ
+ß
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Items\Column\DefaultColumn.php. .(\
+%1">magento\sales\block\adminhtml\items\abstractitems::__construct*<:
+8magento\sales\block\adminhtml\items\column\defaultcolumn*
+
+
+$context*
+
+$stockRegistry*
+
+$stockConfiguration*
+
+	$registry*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterface:O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterface:'
+	$registrymagento\framework\registry:=
+$optionFactory+magento\catalog\model\product\optionfactory:
+$dataarrayB<:
+8magento\sales\block\adminhtml\items\column\defaultcolumn

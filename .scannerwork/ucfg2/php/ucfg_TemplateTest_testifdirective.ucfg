@@ -1,0 +1,95 @@
+
+6magento\framework\filter\templatetest::testifdirectiveâ
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpî î(#"1*ª
+2
+TemplateTest.php"°
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpü ü(
+implicit return*»
+1â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpñ ö(
+⁄
+◊
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpñ ñ(
+%1"__id*=*;'
+%magento\framework\filter\templatetest"
+templateFilterùö
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpó ô(
+%2"$Arrayùö
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpò- ò(C
+%4"$Arrayø
+º
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpò- ò(C
+%5"__mapSet*
+
+%4*
+name*
+
+John Doe≥∞
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpò ò(D
+%3"magento\framework\dataobject–
+Õ
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpò ò(D
+%6")magento\framework\dataobject::__construct*
+
+%3*
+
+%4Ω
+∫
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpó ô(
+%7"__mapSet*
+
+%2*
+
+customer*
+
+%3≥∞
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpñ ö(	
+%8*
+
+%1*
+
+%22setvariables¸
+˘
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpú ú(j
+	$template"__id*XV
+T{{if customer.getName()}}foo{{/if}}{{if customer.getNope()}}not me{{else}}bar{{/if}}Æ
+´
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpù ù(
+	$expected"__id*
+
+foobar⁄
+◊
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpû& û(;
+%9"__id*=*;'
+%magento\framework\filter\templatetest"
+templateFilterµ≤
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpû& û(N
+%10*
+
+%9*
+
+	$template2filteré
+ã
+â
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpû û(O
+%11"3magento\framework\filter\templatetest::assertequals*)"'
+%magento\framework\filter\templatetest*
+
+	$expected*
+
+%10*
+2B)'
+%magento\framework\filter\templatetest

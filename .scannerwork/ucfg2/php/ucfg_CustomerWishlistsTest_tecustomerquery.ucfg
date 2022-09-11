@@ -1,0 +1,31 @@
+
+Fmagento\graphql\wishlist\customerwishliststest::getcreatecustomerquery–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\CustomerWishlistsTest.phpË Ë(+"1*º
+1–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\CustomerWishlistsTest.phpÍ Û(÷
+ô
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\CustomerWishlistsTest.phpÍ Û(
+%1"__concat*db
+`mutation {
+  createCustomer(input: {
+    firstname: "test"
+    lastname: "test"
+    email: "*OM
+K"
+    password: "123123^q"
+  })
+   {
+  customer {
+    email
+  }
+}
+}*
+
+$customerEmail"¡
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\CustomerWishlistsTest.phpÍ Û(
+
+%1:
+$customerEmailB20
+.magento\graphql\wishlist\customerwishliststest

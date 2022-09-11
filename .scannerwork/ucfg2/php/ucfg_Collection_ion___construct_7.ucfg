@@ -1,0 +1,86 @@
+
+Hmagento\widget\model\resourcemodel\layout\update\collection::__construct†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.php) )("1*¶
+2
+Collection.php"ž
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.php4 4(
+implicit return*À
+1†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.php2 2($é
+æ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.php) )(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÃ
+À
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.php) )(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceõ
+ò
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.php) )(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceà
+Ý
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.php) )(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceÑ
+Î
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.php) )(
+	$dateTime"__id*0
+.
+	$dateTime!magento\framework\stdlib\datetimeá
+Þ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.php) )(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceã
+à
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.php) )(
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbî
+ë
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.php2 2(#K=
+;magento\widget\model\resourcemodel\layout\update\collection"
+
+dateTime"__id*
+
+	$dateTime
+
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Widget\Model\ResourceModel\Layout\Update\Collection.php3 3(k
+%1"Smagento\framework\model\resourcemodel\db\collection\abstractcollection::__construct*?=
+;magento\widget\model\resourcemodel\layout\update\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$connection*
+
+	$resource*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:.
+	$dateTime!magento\framework\stdlib\datetime:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbB?=
+;magento\widget\model\resourcemodel\layout\update\collection

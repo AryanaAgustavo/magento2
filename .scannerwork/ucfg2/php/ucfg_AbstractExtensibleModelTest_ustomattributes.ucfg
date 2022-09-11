@@ -1,0 +1,161 @@
+
+lmagento\framework\model\test\unit\abstractextensiblemodeltest::testcustomattributeswithemptycustomattributesè
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpé é(A"1*–
+2!
+AbstractExtensibleModelTest.php"ß
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.php° °(
+implicit return*Õ+
+1è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpê ê(`Ô
+Ï
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpê ê(
+%1"__id*L*J?
+=magento\framework\model\test\unit\abstractextensiblemodeltest"
+model„‡
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpê ê(*
+%2*A?
+=magento\framework\model\test\unit\abstractextensiblemodeltest2any¥±
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpê ê(+
+%3*
+
+%1*
+
+%22expects…∆
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpê ê(O
+%4*
+
+%3*
+getCustomAttributesCodes2method£†
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpê\ ê(^
+%5"$Array∑¥
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpê ê(_
+%6*
+
+%4*
+
+%52
+willreturn£†
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpí í(
+%7"$ArrayÔ
+Ï
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpì ì(
+%8"__id*L*J?
+=magento\framework\model\test\unit\abstractextensiblemodeltest"
+model∏µ
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpì ì(/
+%9*
+
+%82getcustomattributes„‡
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpë ï(	
+%10*A?
+=magento\framework\model\test\unit\abstractextensiblemodeltest*
+
+%7*
+
+%9*db
+`Empty array is expected as a result of getCustomAttributes() when custom attributes are not set.2assertequals
+Ì
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpó ó(
+%11"__id*L*J?
+=magento\framework\model\test\unit\abstractextensiblemodeltest"
+model‹Ÿ
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpó ó(M
+%12*
+
+%11*!
+not_existing_custom_attribute2getcustomattribute÷”
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpñ ô(	
+%13*A?
+=magento\framework\model\test\unit\abstractextensiblemodeltest*
+
+%12*`^
+\Null is expected as a result of getCustomAttribute(\$code) when custom attribute is not set.2
+assertnull§°
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpö ö(k
+%14"$Array…
+∆
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpö ö(k
+%15"__mapSet*
+
+%14*
+
+attribute1*
+true‘
+—
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpö ö(k
+%16"__mapSet*
+
+%14*
+
+attribute2*
+Attribute Value∆
+√
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpö ö(k
+%17"__mapSet*
+
+%14*
+
+attribute3*2Õ∫
+∑
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpö ö(k
+$attributesAsArray"__id*
+
+%14
+Ì
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpõ> õ(J
+%18"__id*L*J?
+=magento\framework\model\test\unit\abstractextensiblemodeltest"
+modelúô
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpõ õ(K
+%19*A?
+=magento\framework\model\test\unit\abstractextensiblemodeltest*
+
+$attributesAsArray*
+
+%182addcustomattributestomodel§°
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpù ù(
+%20"$Array
+Ì
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpû û(
+%21"__id*L*J?
+=magento\framework\model\test\unit\abstractextensiblemodeltest"
+model∫∑
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpû û(/
+%22*
+
+%212getcustomattributesÿ’
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Test\Unit\AbstractExtensibleModelTest.phpú †(	
+%23*A?
+=magento\framework\model\test\unit\abstractextensiblemodeltest*
+
+%20*
+
+%22*WU
+SCustom attributes retrieved from the model using getCustomAttributes() are invalid.2assertequals*
+2BA?
+=magento\framework\model\test\unit\abstractextensiblemodeltest

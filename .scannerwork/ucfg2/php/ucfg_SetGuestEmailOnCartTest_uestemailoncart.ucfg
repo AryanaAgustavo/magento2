@@ -1,0 +1,115 @@
+
+Lmagento\graphql\quote\guest\setguestemailoncarttest::testsetguestemailoncart™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php0 0(+"1*Ö
+2
+SetGuestEmailOnCartTest.php"±
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php; ;(
+implicit return*ç
+1™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php2 2(Y‹
+ˆ
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php2 2(A
+%1"__id*^*\5
+3magento\graphql\quote\guest\setguestemailoncarttest"#
+!getMaskedQuoteIdByReservedOrderIdÆÃ
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php2 2(X
+%2*
+
+%1*
+
+test_quote2execute¿
+¼
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php2 2(X
+$maskedQuoteId"__id*
+
+%2Â
+¿
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php3 3( 
+$email"__id*
+some@user.comˆ…
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php5 5(8
+%3*75
+3magento\graphql\quote\guest\setguestemailoncarttest*
+
+$maskedQuoteId*
+
+
+$email2getquery·
+´
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php5 5(8
+$query"__id*
+
+%3ûø
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php6 6(2
+%4*75
+3magento\graphql\quote\guest\setguestemailoncarttest*
+
+
+$query2graphqlmutationº
+·
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php6 6(2
+	$response"__id*
+
+%4™–
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php8 8(B
+%5*75
+3magento\graphql\quote\guest\setguestemailoncarttest*
+setGuestEmailOnCart*
+
+	$response2assertarrayhaskey×
+Ô
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php9) 9(I
+%6"__mapGet*
+
+	$response*
+setGuestEmailOnCartƒ€
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php9 9(J
+%7*75
+3magento\graphql\quote\guest\setguestemailoncarttest*
+cart*
+
+%62assertarrayhaskey×
+Ô
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php:$ :(D
+%8"__mapGet*
+
+	$response*
+setGuestEmailOnCartÁ
+¾
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php:$ :(L
+%9"__mapGet*
+
+%8*
+cartÃ
+À
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php:$ :(U
+%10"__mapGet*
+
+%9*	
+email‚ÿ
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetGuestEmailOnCartTest.php: :(V
+%11*75
+3magento\graphql\quote\guest\setguestemailoncarttest*
+
+
+$email*
+
+%102assertequals*
+2B75
+3magento\graphql\quote\guest\setguestemailoncarttest

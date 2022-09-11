@@ -1,0 +1,71 @@
+
+Vmagento\graphql\catalog\productsearchtest::getqueryproductswitharrayofcustomattributes‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.php° °(@"1*Ü	
+1‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.php² ß(£
+ 
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.php² ß(
+%1"__concat*/-
++{
+  products(filter:{
+                   *
+
+: {in:["*
+", "*÷ô
+ñ"]}
+                   }
+                   pageSize: 3
+                   currentPage: 1
+       )
+  {
+  total_count
+    items
+     {
+      name
+      sku
+      }
+    page_info{
+      current_page
+      page_size
+      total_pages
+    }
+    filters{
+      name
+      request_var
+      filter_items_count
+      filter_items{
+        label
+        items_count
+        value_string
+        __typename
+      }
+    }
+    aggregations{
+        attribute_code
+        count
+        label
+        position
+        options{
+           label
+           value
+           count
+    }
+  }
+
+    }
+}*
+
+$attributeCode*
+
+$firstOption*
+
+$secondOption"œ
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.php² ß(
+
+%1:
+$attributeCode:
+$firstOption:
+$secondOptionB-+
+)magento\graphql\catalog\productsearchtest

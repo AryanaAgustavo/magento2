@@ -1,0 +1,72 @@
+
+2magento\framework\mview\config\reader::__constructt
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mview\Config\Reader.php ("1*Ÿ
+2
+
+Reader.php"‹
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mview\Config\Reader.php/ /(
+implicit return*Ò
+
+1t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mview\Config\Reader.php% .(
+Ó
+Ð
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mview\Config\Reader.php (
+$fileResolver"__id*A
+?
+$fileResolver.magento\framework\config\fileresolverinterfaceÇ
+Ä
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mview\Config\Reader.php (
+
+$converter"__id*8
+6
+
+$converter(magento\framework\mview\config\converterÓ
+Ð
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mview\Config\Reader.php (
+$schemaLocator"__id*@
+>
+$schemaLocator,magento\framework\mview\config\schemalocatorÜ
+Ù
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mview\Config\Reader.php (
+$validationState"__id*G
+E
+$validationState1magento\framework\config\validationstateinterfaceü
+ù
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Mview\Config\Reader.php% .(	
+%1"7magento\framework\config\reader\filesystem::__construct*)'
+%magento\framework\mview\config\reader*
+
+$fileResolver*
+
+
+$converter*
+
+$schemaLocator*
+
+$validationState*
+
+	$fileName*
+
+$idAttributes*
+
+$domDocumentClass*
+
+$defaultScope*
+2:?
+$fileResolver.magento\framework\config\fileresolverinterface:6
+
+$converter(magento\framework\mview\config\converter:>
+$schemaLocator,magento\framework\mview\config\schemalocator:E
+$validationState1magento\framework\config\validationstateinterface:
+	$fileName:
+$idAttributes:
+$domDocumentClass:
+$defaultScopeB)'
+%magento\framework\mview\config\reader

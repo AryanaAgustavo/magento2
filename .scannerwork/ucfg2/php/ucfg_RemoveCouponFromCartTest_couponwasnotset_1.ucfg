@@ -1,0 +1,92 @@
+
+_magento\graphql\quote\guest\removecouponfromcarttest::testremovecouponfromcartifcouponwasnotsetö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phpa a(="1*ÿ
+2
+RemoveCouponFromCartTest.php"≤
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phpj j(
+implicit return*Æ
+1ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phpc c(Yç
+ä
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phpc c(A
+%1"__id*_*]6
+4magento\graphql\quote\guest\removecouponfromcarttest"#
+!getMaskedQuoteIdByReservedOrderId«ƒ
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phpc c(X
+%2*
+
+%1*
+
+test_quote2execute¿
+Ω
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phpc c(X
+$maskedQuoteId"__id*
+
+%2˛˚
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phpe e(0
+%3*86
+4magento\graphql\quote\guest\removecouponfromcarttest*
+
+$maskedQuoteId2getquery∏
+µ
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phpe e(0
+$query"__id*
+
+%3˝˙
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phpf f(2
+%4*86
+4magento\graphql\quote\guest\removecouponfromcarttest*
+
+
+$query2graphqlmutationª
+∏
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phpf f(2
+	$response"__id*
+
+%4“
+œ
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phph h(B
+%5"Gmagento\graphql\quote\guest\removecouponfromcarttest::assertarrayhaskey*8"6
+4magento\graphql\quote\guest\removecouponfromcarttest*
+removeCouponFromCart*
+
+	$responseŸ
+÷
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phpi i(:
+%6"__mapGet*
+
+	$response*
+removeCouponFromCart¬
+ø
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phpi i(B
+%7"__mapGet*
+
+%6*
+cartÃ
+…
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phpi i(T
+%8"__mapGet*
+
+%7*
+applied_coupon™
+ß
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\RemoveCouponFromCartTest.phpi i(U
+%9"@magento\graphql\quote\guest\removecouponfromcarttest::assertnull*8"6
+4magento\graphql\quote\guest\removecouponfromcarttest*
+
+%8*
+2B86
+4magento\graphql\quote\guest\removecouponfromcarttest

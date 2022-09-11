@@ -1,0 +1,77 @@
+
+Vmagento\sales\model\resourcemodel\order\payment\transaction::_getloadbyuniquekeyselectˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpÆ Æ(."1*„
+1ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpÈ Ô(
+äá
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpÈ È(%
+%1*?=
+;magento\sales\model\resourcemodel\order\payment\transaction2getconnection¤¡
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpÈ È(/
+%2*
+
+%12selectãà
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpÉ É(!
+%3*?=
+;magento\sales\model\resourcemodel\order\payment\transaction2getmaintable¸µ
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpÈ Ë(	
+%4*
+
+%2*
+
+%3*
+
+
+$columns2fromÃÀ
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpÈ Î(	
+%5*
+
+%4*
+order_id = ?*
+
+
+$orderId2whereÇÄ
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpÈ Ñ(	
+%6*
+
+%5*
+payment_id = ?*
+
+
+$paymentId2where¿¼
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpÈ Ô(	
+%7*
+
+%6*
+
+txn_id = ?*
+
+
+$txnId2where¿
+¼
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpÈ Ô(
+!
+%8magento\framework\db\select"__id*
+
+%7"°
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpÈ Ô(
+#
+!
+%8magento\framework\db\select:
+
+$orderId:
+
+$paymentId:
+$txnId:
+
+$columnsB?=
+;magento\sales\model\resourcemodel\order\payment\transaction

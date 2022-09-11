@@ -1,0 +1,57 @@
+
+>magento\framework\http\authentication::setauthenticationfailedt
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Authentication.phpU U(+"1*§
+2
+Authentication.php"‹
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Authentication.php^ ^(
+implicit return*Ô	
+1t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Authentication.phpW W(E¾
+»
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Authentication.phpW W(
+%1"__id*7*5'
+%magento\framework\http\authentication"
+
+responseº·
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Authentication.phpW W(D
+%2*
+
+%1*2‘*
+1.1*
+Unauthorized2setstatusheader¾
+»
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Authentication.phpX X(
+%3"__id*7*5'
+%magento\framework\http\authentication"
+
+response¯
+¬
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Authentication.phpZ Z(*
+%4"__concat*
+Basic realm="*
+
+
+$realm*
+"°­
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Authentication.phpX [(	
+%5*
+
+%3*
+WWW-Authenticate*
+
+%42	setheader¯¬
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\HTTP\Authentication.phpX ](	
+%6*
+
+%5*
+<h1>401 Unauthorized</h1>2setbody*
+2:
+$realmB)'
+%magento\framework\http\authentication

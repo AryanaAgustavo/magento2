@@ -1,0 +1,125 @@
+
+8magento\store\controller\store\switchaction::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpK K("1*§
+2
+SwitchAction.php"
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.php\ \(
+implicit return*æ
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpT T(&Á
+¾
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpK K(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\contextà
+Ý
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpK K(
+$storeCookieManager"__id*F
+D
+$storeCookieManager-magento\store\api\storecookiemanagerinterfaceÇ
+Ä
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpK K(
+$httpContext"__id*4
+2
+$httpContext"magento\framework\app\http\context×
+Ô
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpK K(
+$storeRepository"__id*@
+>
+$storeRepository*magento\store\api\storerepositoryinterfaceÐ
+Í
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpK K(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÓ
+Ð
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpK K(
+$storeSwitcher"__id*>
+<
+$storeSwitcher*magento\store\model\storeswitcherinterfaceâ
+ß
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpK K(
+$cookieManager"__id*M
+K
+$cookieManager9magento\store\controller\store\switchaction\cookiemanagerò
+ï
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpT T(%
+%1"0magento\framework\app\action\action::__construct*/-
++magento\store\controller\store\switchaction*
+
+
+$contextá
+Þ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpU U(7E-
++magento\store\controller\store\switchaction"
+storeCookieManager"__id*
+
+$storeCookieManagerÓ
+Ð
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpV V()>-
++magento\store\controller\store\switchaction"
+httpContext"__id*
+
+$httpContextÛ
+Ø
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpW W(1B-
++magento\store\controller\store\switchaction"
+storeRepository"__id*
+
+$storeRepositoryÕ
+Ò
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpX X(+?-
++magento\store\controller\store\switchaction"
+storeManager"__id*
+
+$storeManager¢Ÿ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpY  Y(=
+%2*
+
+
+$context2getmessagemanagerÌ
+É
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpY Y(=A-
++magento\store\controller\store\switchaction"
+messageManager"__id*
+
+%2×
+Ô
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.phpZ Z(-@-
++magento\store\controller\store\switchaction"
+storeSwitcher"__id*
+
+$storeSwitcher×
+Ô
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Controller\Store\SwitchAction.php[ [(-@-
++magento\store\controller\store\switchaction"
+cookieManager"__id*
+
+$cookieManager*
+2:0
+$context$magento\framework\app\action\context:D
+$storeCookieManager-magento\store\api\storecookiemanagerinterface:2
+$httpContext"magento\framework\app\http\context:>
+$storeRepository*magento\store\api\storerepositoryinterface::
+$storeManager)magento\store\model\storemanagerinterface:<
+$storeSwitcher*magento\store\model\storeswitcherinterface:K
+$cookieManager9magento\store\controller\store\switchaction\cookiemanagerB/-
++magento\store\controller\store\switchaction

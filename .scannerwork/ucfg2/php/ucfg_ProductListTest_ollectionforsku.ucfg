@@ -1,0 +1,80 @@
+
+Omagento\catalogwidget\block\product\productlisttest::testcreatecollectionforsku˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogWidget\Block\Product\ProductListTest.php   (."1*Í
+2
+ProductListTest.php"°
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogWidget\Block\Product\ProductListTest.php« «(
+implicit return*Ë
+1˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogWidget\Block\Product\ProductListTest.php¢ ¢(Hî
+ë
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogWidget\Block\Product\ProductListTest.php¢ ¢(
+%1"__id*B*@5
+3magento\catalogwidget\block\product\productlisttest"
+blockåâ
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogWidget\Block\Product\ProductListTest.php¢ ¢(G
+%2*
+
+%1*
+conditions_encoded*
+
+$encodedConditions2setdataî
+ë
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogWidget\Block\Product\ProductListTest.php£ £()
+%3"__id*B*@5
+3magento\catalogwidget\block\product\productlisttest"
+block¾»
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogWidget\Block\Product\ProductListTest.php£ £(=
+%4*
+
+%32createcollectionÂ
+¿
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogWidget\Block\Product\ProductListTest.php£ £(=
+$productCollection"__id*
+
+%4Â¿
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogWidget\Block\Product\ProductListTest.php¤ ¤("
+%5*
+
+$productCollection2loadÃÀ
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogWidget\Block\Product\ProductListTest.php§ §('
+%6*
+
+$productCollection2countÅÂ
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogWidget\Block\Product\ProductListTest.php¥ ©(	
+%7*75
+3magento\catalogwidget\block\product\productlisttest*2*
+
+%6*JH
+FProduct collection was not filtered according to the widget condition.2assertequalsÊÇ
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogWidget\Block\Product\ProductListTest.phpª" ª(D
+%8*
+
+$productCollection2getfirstitem´±
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogWidget\Block\Product\ProductListTest.phpª" ª(N
+%9*
+
+%82getskuþû
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogWidget\Block\Product\ProductListTest.phpª ª(O
+%10*75
+3magento\catalogwidget\block\product\productlisttest*
+
+$sku*
+
+%92assertequals*
+2:
+$encodedConditions:
+$skuB75
+3magento\catalogwidget\block\product\productlisttest

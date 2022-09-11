@@ -1,0 +1,758 @@
+
+4magento\framework\db\test\unit\selecttest::testwherex
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php   ("1*§
+2
+SelectTest.php"
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpm m(
+implicit return*Œ¤
+1x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php" "(¬©
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php" "(
+$quote"#magento\framework\db\platform\quoteÁ
+¾
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php" "(
+%1"0magento\framework\db\platform\quote::__construct*
+
+
+$quote‹ˆ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php$ W(
+%2"$Array‹ˆ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php% )(
+%3"$Array±®
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php&" &(8
+%4",magento\framework\db\select\distinctrendererÆ
+Ã
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php&" &(8
+%5"9magento\framework\db\select\distinctrenderer::__construct*
+
+%4«
+¨
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php% )(
+%6"__mapSet*
+
+%3*
+
+renderer*
+
+%4¥
+¢
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php% )(
+%7"__mapSet*
+
+%3*
+sort*2d­
+ª
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php% )(
+%8"__mapSet*
+
+%3*
+part*
+
+distinct«
+¨
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php$ W(
+%9"__mapSet*
+
+%2*
+
+distinct*
+
+%3Œ‰
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php* .(
+%10"$Array±®
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php+" +(=
+%11"+magento\framework\db\select\columnsrendererÓ
+Ð
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php+" +(=
+%12"8magento\framework\db\select\columnsrenderer::__construct*
+
+%11*
+
+
+$quote®
+«
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php* .(
+%13"__mapSet*
+
+%10*
+
+renderer*
+
+%11¨
+¥
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php* .(
+%14"__mapSet*
+
+%10*
+sort*2È®
+«
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php* .(
+%15"__mapSet*
+
+%10*
+part*	
+columns¬
+©
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php$ W(
+%16"__mapSet*
+
+%2*	
+columns*
+
+%10Œ‰
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php/ 3(
+%17"$Array¯¬
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php0" 0(5
+%18")magento\framework\db\select\unionrendererÅ
+Â
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php0" 0(5
+%19"6magento\framework\db\select\unionrenderer::__construct*
+
+%18®
+«
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php/ 3(
+%20"__mapSet*
+
+%17*
+
+renderer*
+
+%18¨
+¥
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php/ 3(
+%21"__mapSet*
+
+%17*
+sort*2¬¬
+©
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php/ 3(
+%22"__mapSet*
+
+%17*
+part*	
+unionª
+§
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php$ W(
+%23"__mapSet*
+
+%2*	
+union*
+
+%17Œ‰
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php4 8(
+%24"$Array®«
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php5" 5(:
+%25"(magento\framework\db\select\fromrendererÐ
+Í
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php5" 5(:
+%26"5magento\framework\db\select\fromrenderer::__construct*
+
+%25*
+
+
+$quote®
+«
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php4 8(
+%27"__mapSet*
+
+%24*
+
+renderer*
+
+%25¨
+¥
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php4 8(
+%28"__mapSet*
+
+%24*
+sort*2«
+¨
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php4 8(
+%29"__mapSet*
+
+%24*
+part*
+from©
+¦
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php$ W(
+%30"__mapSet*
+
+%2*
+from*
+
+%24Œ‰
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php9 =(
+%31"$Array¯¬
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php:" :(5
+%32")magento\framework\db\select\whererendererÅ
+Â
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php:" :(5
+%33"6magento\framework\db\select\whererenderer::__construct*
+
+%32®
+«
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php9 =(
+%34"__mapSet*
+
+%31*
+
+renderer*
+
+%32¨
+¥
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php9 =(
+%35"__mapSet*
+
+%31*
+sort*2ô¬
+©
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php9 =(
+%36"__mapSet*
+
+%31*
+part*	
+whereª
+§
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php$ W(
+%37"__mapSet*
+
+%2*	
+where*
+
+%31Œ‰
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php> B(
+%38"$Array¯¬
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php?" ?(;
+%39")magento\framework\db\select\grouprendererÑ
+Î
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php?" ?(;
+%40"6magento\framework\db\select\grouprenderer::__construct*
+
+%39*
+
+
+$quote®
+«
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php> B(
+%41"__mapSet*
+
+%38*
+
+renderer*
+
+%39¨
+¥
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php> B(
+%42"__mapSet*
+
+%38*
+sort*2Ø¬
+©
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php> B(
+%43"__mapSet*
+
+%38*
+part*	
+groupª
+§
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php$ W(
+%44"__mapSet*
+
+%2*	
+group*
+
+%38Œ‰
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpC G(
+%45"$Array°­
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpD" D(6
+%46"*magento\framework\db\select\havingrendererÆ
+Ã
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpD" D(6
+%47"7magento\framework\db\select\havingrenderer::__construct*
+
+%46®
+«
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpC G(
+%48"__mapSet*
+
+%45*
+
+renderer*
+
+%46¨
+¥
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpC G(
+%49"__mapSet*
+
+%45*
+sort*2¼­
+ª
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpC G(
+%50"__mapSet*
+
+%45*
+part*
+
+having«
+¨
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php$ W(
+%51"__mapSet*
+
+%2*
+
+having*
+
+%45Œ‰
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpH L(
+%52"$Array¯¬
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpI" I(;
+%53")magento\framework\db\select\orderrendererÑ
+Î
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpI" I(;
+%54"6magento\framework\db\select\orderrenderer::__construct*
+
+%53*
+
+
+$quote®
+«
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpH L(
+%55"__mapSet*
+
+%52*
+
+renderer*
+
+%53¨
+¥
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpH L(
+%56"__mapSet*
+
+%52*
+sort*2 ¬
+©
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpH L(
+%57"__mapSet*
+
+%52*
+part*	
+orderª
+§
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php$ W(
+%58"__mapSet*
+
+%2*	
+order*
+
+%52Œ‰
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpM Q(
+%59"$Array¯¬
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpN" N(5
+%60")magento\framework\db\select\limitrendererÅ
+Â
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpN" N(5
+%61"6magento\framework\db\select\limitrenderer::__construct*
+
+%60®
+«
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpM Q(
+%62"__mapSet*
+
+%59*
+
+renderer*
+
+%60¨
+¥
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpM Q(
+%63"__mapSet*
+
+%59*
+sort*2„±
+®
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpM Q(
+%64"__mapSet*
+
+%59*
+part*
+
+limitcountª
+§
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php$ W(
+%65"__mapSet*
+
+%2*	
+limit*
+
+%59Œ‰
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpR  V(
+%66"$Array³°
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpS" S(9
+%67"-magento\framework\db\select\forupdaterendererÉ
+Æ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpS" S(9
+%68":magento\framework\db\select\forupdaterenderer::__construct*
+
+%67®
+«
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpR  V(
+%69"__mapSet*
+
+%66*
+
+renderer*
+
+%67¨
+¥
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpR  V(
+%70"__mapSet*
+
+%66*
+sort*2è°
+­
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpR  V(
+%71"__mapSet*
+
+%66*
+part*
+	forupdate¯
+¬
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php$ W(
+%72"__mapSet*
+
+%2*
+
+for_update*
+
+%66¶³
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php# X(	
+	$renderer"*magento\framework\db\select\selectrendererÔ
+Ñ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php# X(	
+%73"7magento\framework\db\select\selectrenderer::__construct*
+
+	$renderer*
+
+%2åâ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpZ Z(O
+%74*-+
+)magento\framework\db\test\unit\selecttest*2*
+'5'2!_getconnectionmockwithmockedquote¥¢
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpZ Z([	
+$select"magento\framework\db\selectÓ
+Ð
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpZ Z([
+%75"(magento\framework\db\select::__construct*
+	
+$select*
+
+%74*
+
+	$renderer¡ž
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php[ [(
+%76*
+	
+$select*
+test2from©¦
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php[ [(4
+%77*
+
+%76*
+	field = ?*22where›˜
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php\O \(b
+%78*
+	
+$select2assembleÿü
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php\ \(c
+%79*-+
+)magento\framework\db\test\unit\selecttest*31
+/SELECT `test`.* FROM `test` WHERE (field = '5')*
+
+%782assertequalsäá
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php^ ^(N
+%80*-+
+)magento\framework\db\test\unit\selecttest*2*
+''2!_getconnectionmockwithmockedquote¥¢
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php^ ^(Z	
+$select"magento\framework\db\selectÓ
+Ð
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php^ ^(Z
+%81"(magento\framework\db\select::__construct*
+	
+$select*
+
+%80*
+
+	$renderer¡ž
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php_ _(
+%82*
+	
+$select*
+test2from£ 
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php_ _(1
+%83*
+
+%82*
+	field = ?2where›˜
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php`N `(a
+%84*
+	
+$select2assembleþû
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.php` `(b
+%85*-+
+)magento\framework\db\test\unit\selecttest*20
+.SELECT `test`.* FROM `test` WHERE (field = '')*
+
+%842assertequalsçä
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpb b(Q
+%86*-+
+)magento\framework\db\test\unit\selecttest*2*	
+'%?%'2!_getconnectionmockwithmockedquote¥¢
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpb b(]	
+$select"magento\framework\db\selectÓ
+Ð
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpb b(]
+%87"(magento\framework\db\select::__construct*
+	
+$select*
+
+%86*
+
+	$renderer¡ž
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpc c(
+%88*
+	
+$select*
+test2from´±
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpc c(@
+%89*
+
+%88*
+field LIKE ?*
+
+%value?%2where›˜
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpdT d(g
+%90*
+	
+$select2assemble„
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpd d(h
+%91*-+
+)magento\framework\db\test\unit\selecttest*86
+4SELECT `test`.* FROM `test` WHERE (field LIKE '%?%')*
+
+%902assertequalsÚ×
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpf f(H
+%92*-+
+)magento\framework\db\test\unit\selecttest*2 2!_getconnectionmockwithmockedquote¥¢
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpf f(T	
+$select"magento\framework\db\selectÓ
+Ð
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpf f(T
+%93"(magento\framework\db\select::__construct*
+	
+$select*
+
+%92*
+
+	$renderer¡ž
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpg g(
+%94*
+	
+$select*
+test2from·´
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpg g([
+%95*
+
+%94*
+field LIKE '%value?%'* * 2where›˜
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phphY h(l
+%96*
+	
+$select2assemble‰†
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phph h(m
+%97*-+
+)magento\framework\db\test\unit\selecttest*=;
+9SELECT `test`.* FROM `test` WHERE (field LIKE '%value?%')*
+
+%962assertequalsôñ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpj j(^
+%98*-+
+)magento\framework\db\test\unit\selecttest*2*
+'1', '2', '4', '8'2!_getconnectionmockwithmockedquote¥¢
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpj j(j	
+$select"magento\framework\db\selectÓ
+Ð
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpj j(j
+%99"(magento\framework\db\select::__construct*
+	
+$select*
+
+%98*
+
+	$renderer¢Ÿ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpk k(
+%100*
+	
+$select*
+test2fromŠ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpk2 k(>
+%101"$Array¥
+¢
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpk2 k(>
+%102"
+__arraySet*
+
+%101*2 *2§
+¤
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpk2 k(>
+%103"
+__arraySet*
+
+%101*2*2§
+¤
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpk2 k(>
+%104"
+__arraySet*
+
+%101*2*2§
+¤
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpk2 k(>
+%105"
+__arraySet*
+
+%101*2*2¯¬
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpk k(?
+%106*
+
+%100*
+	id IN (?)*
+
+%1012whereœ™
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpl^ l(q
+%107*
+	
+$select2assemble
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\SelectTest.phpl l(r
+%108*-+
+)magento\framework\db\test\unit\selecttest*B@
+>SELECT `test`.* FROM `test` WHERE (id IN ('1', '2', '4', '8'))*
+
+%1072assertequals*
+2B-+
+)magento\framework\db\test\unit\selecttest

@@ -1,0 +1,135 @@
+
+/magento\catalog\block\rss\category::__constructm
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpB B("1*ö
+2
+Category.php"Ñ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpT T(
+implicit return*Ü
+1m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpL L(*√
+¿
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpB B(
+
+$context"__id*=
+;
+$context/magento\framework\view\element\template\context…
+∆
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpB B(
+$categoryFactory"__id*;
+9
+$categoryFactory%magento\catalog\model\categoryfactory∏
+µ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpB B(
+	$rssModel"__id*1
+/
+	$rssModel"magento\catalog\model\rss\categoryÕ
+ 
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpB B(
+$rssUrlBuilder"__id*A
+?
+$rssUrlBuilder-magento\framework\app\rss\urlbuilderinterface∏
+µ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpB B(
+$imageHelper"__id*.
+,
+$imageHelpermagento\catalog\helper\image¬
+ø
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpB B(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionŸ
+÷
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpB B(
+$categoryRepository"__id*H
+F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterfaceì
+ê
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpB B(
+$data"__id*
+
+$dataarray¡
+æ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpL L()5$
+"magento\catalog\block\rss\category"
+imageHelper"__id*
+
+$imageHelper…
+∆
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpM M(19$
+"magento\catalog\block\rss\category"
+categoryFactory"__id*
+
+$categoryFactory…
+∆
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpN N(19$
+"magento\catalog\block\rss\category"
+customerSession"__id*
+
+$customerSessionª
+∏
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpO O(#2$
+"magento\catalog\block\rss\category"
+
+rssModel"__id*
+
+	$rssModel≈
+¬
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpP P(-7$
+"magento\catalog\block\rss\category"
+rssUrlBuilder"__id*
+
+$rssUrlBuilderóî
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpQ Q(9
+%1*
+
+
+$context2getstoremanager∏
+µ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpQ Q(96$
+"magento\catalog\block\rss\category"
+storeManager"__id*
+
+%1œ
+Ã
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpR R(7<$
+"magento\catalog\block\rss\category"
+categoryRepository"__id*
+
+$categoryRepositoryÙ
+Ò
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Rss\Category.phpS S(,
+%2"9magento\framework\view\element\abstractblock::__construct*&$
+"magento\catalog\block\rss\category*
+
+
+$context*	
+
+$data*
+2:;
+$context/magento\framework\view\element\template\context:9
+$categoryFactory%magento\catalog\model\categoryfactory:/
+	$rssModel"magento\catalog\model\rss\category:?
+$rssUrlBuilder-magento\framework\app\rss\urlbuilderinterface:,
+$imageHelpermagento\catalog\helper\image:2
+$customerSessionmagento\customer\model\session:F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface:
+$dataarrayB&$
+"magento\catalog\block\rss\category

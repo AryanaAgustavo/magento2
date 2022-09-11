@@ -1,0 +1,149 @@
+
+-magento\catalog\block\navigation::__constructk
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.php[ [("1*ö
+2
+Navigation.php"Ç
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.phpn n(
+implicit return*¥
+1k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.phpf f(E¡
+æ
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.php[ [(
+
+$context"__id*=
+;
+$context/magento\framework\view\element\template\context«
+ƒ
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.php[ [(
+$categoryFactory"__id*;
+9
+$categoryFactory%magento\catalog\model\categoryfactoryÒ
+Ó
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.php[ [(
+$productCollectionFactory"__id*\
+Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactory¬
+ø
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.php[ [(
+$layerResolver"__id*8
+6
+$layerResolver$magento\catalog\model\layer\resolverº
+π
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.php[ [(
+$httpContext"__id*4
+2
+$httpContext"magento\framework\app\http\context¡
+æ
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.php[ [(
+$catalogCategory"__id*5
+3
+$catalogCategorymagento\catalog\helper\categoryÆ
+´
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.php[ [(
+	$registry"__id*)
+'
+	$registrymagento\framework\registry«
+ƒ
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.php[ [(
+
+$flatState"__id*A
+?
+
+$flatState1magento\catalog\model\indexer\category\flat\stateë
+é
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.php[ [(
+$data"__id*
+
+$dataarrayÿ
+’
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.phpf f(DA"
+ magento\catalog\block\navigation"
+_productCollectionFactory"__id*
+
+$productCollectionFactoryèå
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.phpg g(4
+%1*
+
+$layerResolver2getµ
+≤
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.phpg g(45"
+ magento\catalog\block\navigation"
+_catalogLayer"__id*
+
+%1Ω
+∫
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.phph h()3"
+ magento\catalog\block\navigation"
+httpContext"__id*
+
+$httpContext∆
+√
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.phpi i(28"
+ magento\catalog\block\navigation"
+_catalogCategory"__id*
+
+$catalogCategory∏
+µ
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.phpj j($1"
+ magento\catalog\block\navigation"
+	_registry"__id*
+
+	$registryπ
+∂
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.phpk k(%1"
+ magento\catalog\block\navigation"
+	flatState"__id*
+
+
+$flatStateîë
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.phpl# l(=
+%2*
+
+$categoryFactory2createπ
+∂
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.phpl l(=9"
+ magento\catalog\block\navigation"
+_categoryInstance"__id*
+
+%2Î
+Ë
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Navigation.phpm m(,
+%3"4magento\framework\view\element\template::__construct*$"
+ magento\catalog\block\navigation*
+
+
+$context*	
+
+$data*
+2:;
+$context/magento\framework\view\element\template\context:9
+$categoryFactory%magento\catalog\model\categoryfactory:Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactory:6
+$layerResolver$magento\catalog\model\layer\resolver:2
+$httpContext"magento\framework\app\http\context:3
+$catalogCategorymagento\catalog\helper\category:'
+	$registrymagento\framework\registry:?
+
+$flatState1magento\catalog\model\indexer\category\flat\state:
+$dataarrayB$"
+ magento\catalog\block\navigation

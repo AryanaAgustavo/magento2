@@ -1,0 +1,126 @@
+
+Cmagento\review\model\resourcemodel\review\reviewtest::testaggregate—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php9 9(!"1*Ç
+2
+ReviewTest.php"¯
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.phpC C(
+implicit return*Ö
+1—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php; ;(:ù
+ö
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php; ;()
+%1"__id*N*L6
+4magento\review\model\resourcemodel\review\reviewtest"
+reviewCollection¹¶
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php; ;(9
+%2*
+
+%12getfirstitem¶
+³
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php; ;(9	
+$rating"__id*
+
+%2÷
+ô
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php< <(
+%3"__id*L*J6
+4magento\review\model\resourcemodel\review\reviewtest"
+reviewResourceÃÀ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php< <(1
+%4*
+
+%3*
+	
+$rating2	aggregateó
+ð
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php> >(#
+%5"__id*H*F6
+4magento\review\model\resourcemodel\review\reviewtest"
+
+connection³°
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php> >(-
+%6*
+
+%52selectñ
+î
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php>4 >(C
+%7"__id*F*D6
+4magento\review\model\resourcemodel\review\reviewtest"
+
+resourceÔÑ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php>4 >(j
+%8*
+
+%7*
+review_entity_summary2gettablename¹¶
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php> >(k
+%9*
+
+%6*
+
+%82from¶
+³
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php> >(k	
+$select"__id*
+
+%9ô
+ñ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php? ?(#
+%10"__id*H*F6
+4magento\review\model\resourcemodel\review\reviewtest"
+
+connectionÄÁ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php? ?(6
+%11*
+
+%10*
+	
+$select2fetchrow·
+´
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.php? ?(6	
+$result"__id*
+
+%11Î
+Ë
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.phpA A(7
+%12"__mapGet*
+	
+$result*
+reviews_countûø
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.phpA A(8
+%13*86
+4magento\review\model\resourcemodel\review\reviewtest*2*
+
+%122assertequalsÏ
+Ì
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.phpB  B(9
+%14"__mapGet*
+	
+$result*
+rating_summaryûø
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Review\Model\ResourceModel\Review\ReviewTest.phpB B(:
+%15*86
+4magento\review\model\resourcemodel\review\reviewtest*2(*
+
+%142assertequals*
+2B86
+4magento\review\model\resourcemodel\review\reviewtest

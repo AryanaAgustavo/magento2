@@ -1,0 +1,97 @@
+
+Nmagento\cataloginventory\model\stockitemsave\stockitemdatachecker::__construct¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.php: :("1*Þ
+2
+StockItemDataChecker.php"¼
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.phpH H(
+implicit return* 
+1¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.phpB B($ÿ
+ü
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.php: :(
+	$hydrator"__id*@
+>
+	$hydrator1magento\framework\entitymanager\hydratorinterface
+š
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.php: :(
+$stockItemRepository"__id*S
+Q
+$stockItemRepository9magento\cataloginventory\api\stockitemrepositoryinterface¬
+©
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.php: :(
+$stockItemCriteriaFactory"__id*]
+[
+$stockItemCriteriaFactory>magento\cataloginventory\api\stockitemcriteriainterfacefactoryŽ
+‹
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.php: :(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceŠ
+‡
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.php: :(
+$productFactory"__id*E
+C
+$productFactory0magento\catalog\api\data\productinterfacefactory“
+
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.php: :(
+$searchCriteriaBuilder"__id*G
+E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilder’
+
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.phpB B(#QC
+Amagento\cataloginventory\model\stockitemsave\stockitemdatachecker"
+
+hydrator"__id*
+
+	$hydrator¨
+¥
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.phpC C(9\C
+Amagento\cataloginventory\model\stockitemsave\stockitemdatachecker"
+stockItemRepository"__id*
+
+$stockItemRepository²
+¯
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.phpD D(CaC
+Amagento\cataloginventory\model\stockitemsave\stockitemdatachecker"
+stockItemCriteriaFactory"__id*
+
+$stockItemCriteriaFactory¤
+¡
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.phpE E(5ZC
+Amagento\cataloginventory\model\stockitemsave\stockitemdatachecker"
+productRepository"__id*
+
+$productRepositoryž
+›
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.phpF F(/WC
+Amagento\cataloginventory\model\stockitemsave\stockitemdatachecker"
+productFactory"__id*
+
+$productFactory¬
+©
+¤
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogInventory\Model\StockItemSave\StockItemDataChecker.phpG G(=^C
+Amagento\cataloginventory\model\stockitemsave\stockitemdatachecker"
+searchCriteriaBuilder"__id*
+
+$searchCriteriaBuilder*
+2:>
+	$hydrator1magento\framework\entitymanager\hydratorinterface:Q
+$stockItemRepository9magento\cataloginventory\api\stockitemrepositoryinterface:[
+$stockItemCriteriaFactory>magento\cataloginventory\api\stockitemcriteriainterfacefactory:D
+$productRepository.magento\catalog\api\productrepositoryinterface:C
+$productFactory0magento\catalog\api\data\productinterfacefactory:E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilderBEC
+Amagento\cataloginventory\model\stockitemsave\stockitemdatachecker

@@ -1,0 +1,47 @@
+
+Hmagento\framework\model\resourcemodel\db\objectrelationprocessor::delete
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\ObjectRelationProcessor.php ("1*Í
+2
+ObjectRelationProcessor.php"¨
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\ObjectRelationProcessor.php% %(
+implicit return*¼
+1
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\ObjectRelationProcessor.php$ $(0’
+
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\ObjectRelationProcessor.php (
+$transactionManager"__id*]
+[
+$transactionManagerDmagento\framework\model\resourcemodel\db\transactionmanagerinterfaceë
+è
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\ObjectRelationProcessor.php (
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceÇ
+Ä
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\ObjectRelationProcessor.php (
+$involvedData"__id*
+
+$involvedDataarrayÑÎ
+
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\ObjectRelationProcessor.php$ $(/
+%1*
+
+$connection*
+
+
+$table*
+
+
+$condition2delete*
+2:[
+$transactionManagerDmagento\framework\model\resourcemodel\db\transactionmanagerinterface:<
+$connection-magento\framework\db\adapter\adapterinterface:
+$table:
+
+$condition:
+$involvedDataarrayBDB
+@magento\framework\model\resourcemodel\db\objectrelationprocessor

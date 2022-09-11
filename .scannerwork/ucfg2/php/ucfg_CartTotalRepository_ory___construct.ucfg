@@ -1,0 +1,100 @@
+
+9magento\quote\model\cart\carttotalrepository::__constructw
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpC C("1*¯
+2
+CartTotalRepository.php"Ž
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpQ Q(
+implicit return*Ã
+1w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpK K(.×
+Ô
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpC C(
+$totalsFactory"__id*A
+?
+$totalsFactory-magento\quote\api\data\totalsinterfacefactory×
+Ô
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpC C(
+$quoteRepository"__id*?
+=
+$quoteRepository)magento\quote\api\cartrepositoryinterfaceÖ
+Ó
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpC C(
+$dataObjectHelper"__id*=
+;
+$dataObjectHelper&magento\framework\api\dataobjecthelperÕ
+Ò
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpC C(
+$couponService"__id*?
+=
+$couponService+magento\quote\api\couponmanagementinterfaceÖ
+Ó
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpC C(
+$totalsConverter"__id*>
+<
+$totalsConverter(magento\quote\model\cart\totalsconverterÏ
+Ì
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpC C(
+
+$converter"__id*=
+;
+
+$converter-magento\quote\model\cart\totals\itemconverterÙ
+Ö
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpK K(-A.
+,magento\quote\model\cart\carttotalrepository"
+totalsFactory"__id*
+
+$totalsFactoryÝ
+Ú
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpL L(1C.
+,magento\quote\model\cart\carttotalrepository"
+quoteRepository"__id*
+
+$quoteRepositoryß
+Ü
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpM M(3D.
+,magento\quote\model\cart\carttotalrepository"
+dataObjectHelper"__id*
+
+$dataObjectHelperÙ
+Ö
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpN N(-A.
+,magento\quote\model\cart\carttotalrepository"
+couponService"__id*
+
+$couponServiceÝ
+Ú
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpO O(1C.
+,magento\quote\model\cart\carttotalrepository"
+totalsConverter"__id*
+
+$totalsConverterÕ
+Ò
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\Cart\CartTotalRepository.phpP P()A.
+,magento\quote\model\cart\carttotalrepository"
+itemConverter"__id*
+
+
+$converter*
+2:?
+$totalsFactory-magento\quote\api\data\totalsinterfacefactory:=
+$quoteRepository)magento\quote\api\cartrepositoryinterface:;
+$dataObjectHelper&magento\framework\api\dataobjecthelper:=
+$couponService+magento\quote\api\couponmanagementinterface:<
+$totalsConverter(magento\quote\model\cart\totalsconverter:;
+
+$converter-magento\quote\model\cart\totals\itemconverterB0.
+,magento\quote\model\cart\carttotalrepository

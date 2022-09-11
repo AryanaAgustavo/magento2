@@ -1,0 +1,105 @@
+
+-magento\store\model\storemanager::__constructk
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpe e("1*œ
+2
+StoreManager.php"‚
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpu u(
+implicit return*Ÿ
+1k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpn n(2Ì
+É
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpe e(
+$storeRepository"__id*@
+>
+$storeRepository*magento\store\api\storerepositoryinterfaceÌ
+É
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpe e(
+$groupRepository"__id*@
+>
+$groupRepository*magento\store\api\grouprepositoryinterfaceÒ
+Ï
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpe e(
+$websiteRepository"__id*D
+B
+$websiteRepository,magento\store\api\websiterepositoryinterfaceË
+È
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpe e(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceÆ
+Ã
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpe e(
+$storeResolver"__id*<
+:
+$storeResolver(magento\store\api\storeresolverinterface·
+´
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpe e(
+$cache"__id*5
+3
+$cache)magento\framework\cache\frontendinterfaceÅ
+Â
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpn n(17"
+ magento\store\model\storemanager"
+storeRepository"__id*
+
+$storeRepositoryÉ
+Æ
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpo o(59"
+ magento\store\model\storemanager"
+websiteRepository"__id*
+
+$websiteRepositoryÅ
+Â
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpp p(17"
+ magento\store\model\storemanager"
+groupRepository"__id*
+
+$groupRepository½
+º
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpq q()3"
+ magento\store\model\storemanager"
+scopeConfig"__id*
+
+$scopeConfigÁ
+¾
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpr r(-5"
+ magento\store\model\storemanager"
+storeResolver"__id*
+
+$storeResolver±
+®
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phps s(-"
+ magento\store\model\storemanager"
+cache"__id*
+
+
+$cacheÏ
+Ì
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Model\StoreManager.phpt t(;<"
+ magento\store\model\storemanager"
+isSingleStoreAllowed"__id*
+
+$isSingleStoreAllowed*
+2:>
+$storeRepository*magento\store\api\storerepositoryinterface:>
+$groupRepository*magento\store\api\grouprepositoryinterface:B
+$websiteRepository,magento\store\api\websiterepositoryinterface:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface::
+$storeResolver(magento\store\api\storeresolverinterface:3
+$cache)magento\framework\cache\frontendinterface:
+$isSingleStoreAllowedB$"
+ magento\store\model\storemanager

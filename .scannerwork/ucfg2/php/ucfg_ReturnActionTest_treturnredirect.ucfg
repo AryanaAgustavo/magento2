@@ -1,0 +1,58 @@
+
+Hmagento\paypal\controller\hostedpro\returnactiontest::testreturnredirect—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Hostedpro\ReturnActionTest.php (&"1*Í
+2
+ReturnActionTest.php"¯
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Hostedpro\ReturnActionTest.php$ $(
+implicit return*ß
+1—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Hostedpro\ReturnActionTest.php (1Ð
+Í
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Hostedpro\ReturnActionTest.php (0
+$redirectUri"__id*
+paypal/hostedpro/returnþû
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Hostedpro\ReturnActionTest.php (*
+%1*86
+4magento\paypal\controller\hostedpro\returnactiontest*
+
+$redirectUri2setrequesturiéæ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Hostedpro\ReturnActionTest.php (
+%2*86
+4magento\paypal\controller\hostedpro\returnactiontest2
+getrequestÀ½
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Hostedpro\ReturnActionTest.php (.
+%3*
+
+%2*
+POST2	setmethodùö
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Hostedpro\ReturnActionTest.php (%
+%4*86
+4magento\paypal\controller\hostedpro\returnactiontest*
+
+$redirectUri2dispatch‹ˆ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Hostedpro\ReturnActionTest.php (O
+%5*86
+4magento\paypal\controller\hostedpro\returnactiontest*
+checkout/onepage/success2stringcontainsõò
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Hostedpro\ReturnActionTest.php (P
+%6*86
+4magento\paypal\controller\hostedpro\returnactiontest*
+
+%52assertredirectµ²
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Hostedpro\ReturnActionTest.php  #(	
+%7*86
+4magento\paypal\controller\hostedpro\returnactiontest*
+
+	$_SESSION*:8
+6Session start has to be skipped for current controller2assertempty*
+2B86
+4magento\paypal\controller\hostedpro\returnactiontest

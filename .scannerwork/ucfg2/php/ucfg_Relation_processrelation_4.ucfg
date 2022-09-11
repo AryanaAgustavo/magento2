@@ -1,0 +1,174 @@
+
+Fmagento\customer\model\resourcemodel\address\relation::processrelation€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php3 3(#"1*±
+2€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php68 6(H 
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php68 6(H
+%2*
+	
+$object2getid*
+3
+5*Þ
+3€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php7 7(Yâ
+ß
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php7 7(.
+%3"__id*N*L7
+5magento\customer\model\resourcemodel\address\relation"
+customerFactoryœ™
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php7 7(8
+%4*
+
+%32create¨¥
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php7? 7(W
+%5*
+	
+$object2getcustomerid¢Ÿ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php7 7(X
+%6*
+
+%4*
+
+%52load¡
+ž
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php7 7(X
+	$customer"__id*
+
+%6”‘
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php9  9("
+%7"$Array©
+¦
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php9 9("
+$changedAddresses"__id*
+
+%7›˜
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php:  :(m
+%8*97
+5magento\customer\model\resourcemodel\address\relation*
+	
+$object*
+
+	$customer*
+
+$changedAddresses2getdefaultbillingchangedaddress©
+¦
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php: :(m
+$changedAddresses"__id*
+
+%8œ™
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php;  ;(n
+%9*97
+5magento\customer\model\resourcemodel\address\relation*
+	
+$object*
+
+	$customer*
+
+$changedAddresses2 getdefaultshippingchangedaddress©
+¦
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php; ;(n
+$changedAddresses"__id*
+
+%9*
+4
+5*Ð
+4€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php> B(©¦
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php> >((
+%10*
+
+	$customer2getresource¥¢
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php> >(9
+%11*
+
+%102getconnection©¦
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php? ?(,
+%12*
+
+	$customer2getresourceµ²
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php? ?(I
+%13*
+
+%12*
+customer_entity2gettable©¦
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.phpA A(,
+%14*
+
+	$customer2getresource¥¢
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.phpA A(=
+%15*
+
+%142getconnection£ 
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.phpAZ A(l
+%16*
+
+	$customer2getid½º
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.phpA A(m
+%17*
+
+%15*
+entity_id = ?*
+
+%162	quoteintoÇÄ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php> B(
+%18*
+
+%11*
+
+%13*
+
+$changedAddresses*
+
+%172update†ƒ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.phpC C(K
+%19*97
+5magento\customer\model\resourcemodel\address\relation*
+
+	$customer*
+
+$changedAddresses2updatecustomerregistry*
+5*®
+5
+Relation.php"˜
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.phpF F(
+implicit return*–
+1€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php6 6(HË
+È
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php3 3(#	
+$object"__id*2
+0
+$object%magento\framework\model\abstractmodel·´
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Address\Relation.php6 6(4
+%1*
+	
+$object2getiscustomersavetransaction*
+2
+5:0
+$object%magento\framework\model\abstractmodelB97
+5magento\customer\model\resourcemodel\address\relation

@@ -1,0 +1,45 @@
+
+@magento\graphql\quote\customer\setguestemailoncarttest::getqueryœ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetGuestEmailOnCartTest.phpO O("1*Ï
+1œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetGuestEmailOnCartTest.phpQ \(Ö
+Ó
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetGuestEmailOnCartTest.phpO O(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringÆ
+Ã
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetGuestEmailOnCartTest.phpO O(
+$email"__id*
+
+$emailstringÞ
+Û
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetGuestEmailOnCartTest.phpQ \(
+%1"__concat*><
+:mutation {
+  setGuestEmailOnCart(input: {
+    cart_id: "*
+"
+    email: "*53
+1"
+  }) {
+    cart {
+      email
+    }
+  }
+}*
+
+$maskedQuoteId*
+
+
+$email"§
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetGuestEmailOnCartTest.phpQ \(
+
+%1:
+$maskedQuoteIdstring:
+$emailstringB:8
+6magento\graphql\quote\customer\setguestemailoncarttest

@@ -1,0 +1,167 @@
+
+@magento\catalog\model\resourcemodel\layer\filter\price::getcountÅ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpl l("1*¨
+2Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpv v(ù
+ö
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpv v(
+$range"__id*2*
+3*ï
+3Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpx x(3£†
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpx x(2
+
+$countExpr"zend_db_expr∆
+√
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpx x(2
+%3"zend_db_expr::__construct*
+
+
+$countExpr*
+
+COUNT(*)€
+ÿ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpy' y(S
+%4"__concat*	
+FLOOR((*
+) / *	
+) + 1*
+
+$priceExpression*
+
+
+$range£†
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpy y(T
+
+$rangeExpr"zend_db_expr¿
+Ω
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpy y(T
+%5"zend_db_expr::__construct*
+
+
+$rangeExpr*
+
+%4ïí
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.php{ {(G
+%6"$Array∫
+∑
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.php{ {(G
+%7"__mapSet*
+
+%6*	
+range*
+
+
+$rangeExpr∫
+∑
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.php{ {(G
+%8"__mapSet*
+
+%6*	
+count*
+
+
+$countExpr´®
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.php{ {(H
+%9*
+	
+$select*
+
+%62columns≤Ø
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.php| |("
+%10*
+	
+$select*
+
+
+$rangeExpr2group∫
+∑
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.php|< |(P
+%12"__concat*
+(*	
+) ASC*
+
+
+$rangeExprúô
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.php|* |(Q
+%11"zend_db_exprª
+∏
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.php|* |(Q
+%13"zend_db_expr::__construct*
+
+%11*
+
+%12ß§
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.php| |(R
+%14*
+
+%10*
+
+%112orderŸ÷
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.php~ ~(%
+%15*:8
+6magento\catalog\model\resourcemodel\layer\filter\price2getconnection∞≠
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.php~ ~(:
+%16*
+
+%15*
+	
+$select2
+fetchpairs"ç
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.php~ ~(;
+
+%16*€
+1Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpn n(&’“
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpn n(%
+%1*:8
+6magento\catalog\model\resourcemodel\layer\filter\price2
+_getselect†
+ù
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpn n(%	
+$select"__id*
+
+%1ÔÏ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpo o(B
+%2*:8
+6magento\catalog\model\resourcemodel\layer\filter\price*
+	
+$select2_getfullpriceexpression©
+¶
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpo o(B
+$priceExpression"__id*
+
+%2∞
+≠
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpt t(
+$range"__sanitizing_cast*
+
+
+$range*
+2
+3:
+$rangeB:8
+6magento\catalog\model\resourcemodel\layer\filter\price

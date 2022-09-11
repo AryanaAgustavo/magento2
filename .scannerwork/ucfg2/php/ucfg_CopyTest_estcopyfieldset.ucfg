@@ -1,0 +1,200 @@
+
+7magento\framework\dataobject\copytest::testcopyfieldset‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php ($"1*µ
+2
+CopyTest.php"Ÿ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php& &(
+implicit return*É,
+1‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php ('¶
+³
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (&
+	$fieldset"__id*
+sales_copy_order«
+¨
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (	
+$aspect"__id*	
+to_edit›˜
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (U
+%1"$ArrayÐ
+Í
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (U
+%2"__mapSet*
+
+%1*
+customer_email*
+admin@example.comÃ
+À
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (U
+%3"__mapSet*
+
+%1*
+customer_group_id*
+1¤
+¡
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (U
+$data"__id*
+
+%1¶³
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (:	
+$source"magento\framework\dataobjectÖ
+Ó
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (:
+%4")magento\framework\dataobject::__construct*
+	
+$source*	
+
+$data¶³
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (5	
+$target"magento\framework\dataobjectË
+È
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (5
+%5")magento\framework\dataobject::__construct*
+	
+$target¾»
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (B
+$expectedTarget"magento\framework\dataobjectÞ
+Û
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (B
+%6")magento\framework\dataobject::__construct*
+
+$expectedTarget*	
+
+$dataÒ
+Ï
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php ()
+%7"__id*7*5'
+%magento\framework\dataobject\copytest"
+
+_service›˜
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.phpf (h
+%8"$Arrayéæ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (i
+%9*
+
+%7*
+
+	$fieldset*
+	
+$aspect*
+invalid_source*
+
+%82copyfieldsettotargetÓÐ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (j
+%10*)'
+%magento\framework\dataobject\copytest*
+
+%92
+assertnullÓ
+Ð
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php ()
+%11"__id*7*5'
+%magento\framework\dataobject\copytest"
+
+_serviceœ™
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.phpT (V
+%12"$Arrayìé
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (i
+%13*
+
+%11*
+
+	$fieldset*
+	
+$aspect*
+
+%12*
+invalid_target2copyfieldsettotargetÔÑ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php (j
+%14*)'
+%magento\framework\dataobject\copytest*
+
+%132
+assertnullÓ
+Ð
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php" "(
+%15"__id*7*5'
+%magento\framework\dataobject\copytest"
+
+_serviceðí
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php" "(`
+%16*
+
+%15*
+invalid_fieldset*
+	
+$aspect*
+	
+$source*
+	
+$target2copyfieldsettotargetãà
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php  #(	
+%17*)'
+%magento\framework\dataobject\copytest*
+	
+$target*
+
+%162assertequalsÓ
+Ð
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php$# $(2
+%18"__id*7*5'
+%magento\framework\dataobject\copytest"
+
+_serviceéæ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php$# $(n
+%19*
+
+%18*
+
+	$fieldset*
+	
+$aspect*
+	
+$source*
+	
+$target2copyfieldsettotargetáÞ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php$ $(o
+%20*)'
+%magento\framework\dataobject\copytest*
+	
+$target*
+
+%192
+assertsameïì
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\DataObject\CopyTest.php% %(5
+%21*)'
+%magento\framework\dataobject\copytest*
+
+$expectedTarget*
+	
+$target2assertequals*
+2B)'
+%magento\framework\dataobject\copytest

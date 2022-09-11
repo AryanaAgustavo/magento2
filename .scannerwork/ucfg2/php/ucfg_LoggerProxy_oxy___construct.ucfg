@@ -1,0 +1,72 @@
+
+4magento\framework\db\logger\loggerproxy::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Logger\LoggerProxy.php[ [("1*¶
+2
+LoggerProxy.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Logger\LoggerProxy.phpi i(
+implicit return*ó
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Logger\LoggerProxy.phpc c(*Ã
+…
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Logger\LoggerProxy.php[ [(
+$fileFactory"__id*9
+7
+$fileFactory'magento\framework\db\logger\filefactoryœ
+Ã
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Logger\LoggerProxy.php[ [(
+$quietFactory"__id*;
+9
+$quietFactory(magento\framework\db\logger\quietfactoryœ
+Ã
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Logger\LoggerProxy.phpc c():)
+'magento\framework\db\logger\loggerproxy"
+fileFactory"__id*
+
+$fileFactory—
+Œ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Logger\LoggerProxy.phpd d(+;)
+'magento\framework\db\logger\loggerproxy"
+quietFactory"__id*
+
+$quietFactoryœ
+Ã
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Logger\LoggerProxy.phpe e():)
+'magento\framework\db\logger\loggerproxy"
+loggerAlias"__id*
+
+$loggerAlias”
+–
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Logger\LoggerProxy.phpf f(-<)
+'magento\framework\db\logger\loggerproxy"
+logAllQueries"__id*
+
+$logAllQueries—
+Œ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Logger\LoggerProxy.phpg g(+;)
+'magento\framework\db\logger\loggerproxy"
+logQueryTime"__id*
+
+$logQueryTime—
+Œ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Logger\LoggerProxy.phph h(+;)
+'magento\framework\db\logger\loggerproxy"
+logCallStack"__id*
+
+$logCallStack*
+2:7
+$fileFactory'magento\framework\db\logger\filefactory:9
+$quietFactory(magento\framework\db\logger\quietfactory:
+$loggerAlias:
+$logAllQueries:
+$logQueryTime:
+$logCallStackB+)
+'magento\framework\db\logger\loggerproxy

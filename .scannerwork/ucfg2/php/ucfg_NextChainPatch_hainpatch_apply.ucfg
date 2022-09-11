@@ -1,0 +1,111 @@
+
+Jmagento\testsetupdeclarationmodule3\setup\patch\data\nextchainpatch::apply³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php6 6("1*ç
+2
+NextChainPatch.php"Ë
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.phpA A(
+implicit return*Õ
+1³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php8 8(>¦
+£
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php8 8(,
+%1"__id*_*]E
+Cmagento\testsetupdeclarationmodule3\setup\patch\data\nextchainpatch"
+resourceConnectionÖÓ
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php8 8(=
+%2*
+
+%12getconnectionÓ
+Ð
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php8 8(=
+
+$adapter"__id*
+
+%2ÕÒ
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php9 9('
+%3*
+
+
+$adapter2selectùö
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php9 9(U
+%4*
+
+%3*
+reference_table*
+for_patch_testing2fromëè
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php9 :(+
+%5*
+
+%4*
+`tinyint_ref` = ?*22whereÕ
+Ò
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php9 :(+
+
+$refSelect"__id*
+
+%5çä
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php; ;(2
+%6*
+
+
+$adapter*
+
+
+$refSelect2fetchoneÔ
+Ñ
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php; ;(2
+	$varchar2"__id*
+
+%6ÇÄ
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php> >(<
+%7"$Arrayç
+ä
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php>$ >(;
+%8"__concat*
+	changed__*
+
+	$varchar2ð
+í
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php> >(<
+%9"__mapSet*
+
+%7*
+for_patch_testing*
+
+%8ÈÅ
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php? ?(&
+%10"$Arrayð
+í
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php? ?(&
+%11"__mapSet*
+
+%10*
+`tinyint_ref` = ?*2üù
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\setup-integration\_files\Magento\TestSetupDeclarationModule3\revisions\patches_revision\NextChainPatch.php< @(	
+%12*
+
+
+$adapter*
+reference_table*
+
+%7*
+
+%102update*
+2BGE
+Cmagento\testsetupdeclarationmodule3\setup\patch\data\nextchainpatch

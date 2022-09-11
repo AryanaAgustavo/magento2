@@ -1,0 +1,169 @@
+
+Xmagento\framework\db\test\unit\db\statement\mysqltest::testexecutewhenparamsasprimitives„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.php` `(5"1*³
+2
+MysqlTest.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpo o(
+implicit return*Ú'
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpb b(A˜•
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpb b(@
+%1"$Array»
+¸
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpb b(@
+%2"__mapSet*
+
+%1*	
+:param1*
+
+value1»
+¸
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpb b(@
+%3"__mapSet*
+
+%1*	
+:param2*
+
+value2£
+ 
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpb b(@	
+$params"__id*
+
+%1ý
+ú
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpc c(p
+$query"__id*a_
+]UPDATE `some_table1` SET `col1`=\'val1\' WHERE `param1`=\':param1\' AND `param2`=\':param2\';Þ
+Û
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpd d(
+%4"__id*F*D7
+5magento\framework\db\test\unit\db\statement\mysqltest"	
+pdoMockÑÎ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpd  d(-
+%5*97
+5magento\framework\db\test\unit\db\statement\mysqltest2once©¦
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpd d(.
+%6*
+
+%4*
+
+%52expects­ª
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpd e(
+%7*
+
+%6*	
+prepare2methodª§
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpd f(
+%8*
+
+%7*
+
+
+$query2withç
+ä
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpg g(0
+%9"__id*O*M7
+5magento\framework\db\test\unit\db\statement\mysqltest"
+pdoStatementMock­ª
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpd g(1
+%10*
+
+%8*
+
+%92
+willreturnè
+å
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phph h(
+%11"__id*O*M7
+5magento\framework\db\test\unit\db\statement\mysqltest"
+pdoStatementMockÓÐ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phph) h(7
+%12*97
+5magento\framework\db\test\unit\db\statement\mysqltest2never¬©
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phph h(8
+%13*
+
+%11*
+
+%122expects±®
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phph i(!
+%14*
+
+%13*
+	bindParam2methodè
+å
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpj j(
+%15"__id*O*M7
+5magento\framework\db\test\unit\db\statement\mysqltest"
+pdoStatementMockÒÏ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpj) j(6
+%16*97
+5magento\framework\db\test\unit\db\statement\mysqltest2once¬©
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpj j(7
+%17*
+
+%15*
+
+%162expects¯¬
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpj k(
+%18*
+
+%17*	
+execute2method­ª
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpj l(
+%19*
+
+%18*
+	
+$params2withã
+à
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpn n(%
+%21"__id*J*H7
+5magento\framework\db\test\unit\db\statement\mysqltest"
+adapterMock»¸
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpn n(/
+%20"(magento\framework\db\statement\pdo\mysqlæ
+ã
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpn n(/
+%22"5magento\framework\db\statement\pdo\mysql::__construct*
+
+%20*
+
+%21*
+
+
+$query±®
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\DB\Statement\MysqlTest.phpn n(B
+%23*
+
+%20*
+	
+$params2_execute*
+2B97
+5magento\framework\db\test\unit\db\statement\mysqltest

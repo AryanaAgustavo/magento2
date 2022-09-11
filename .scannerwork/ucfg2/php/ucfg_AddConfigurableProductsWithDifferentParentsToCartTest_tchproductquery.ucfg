@@ -1,0 +1,52 @@
+
+omagento\graphql\configurableproduct\addconfigurableproductswithdifferentparentstocarttest::getfetchproductquery¿
+´C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductsWithDifferentParentsToCartTest.phpl l()"1*Á
+1À
+´C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductsWithDifferentParentsToCartTest.phpn ‹(å
+â
+¿
+´C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductsWithDifferentParentsToCartTest.phpl l()
+$sku"__id*
+
+$skustringÂ
+¿
+À
+´C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductsWithDifferentParentsToCartTest.phpn ‹(
+%1"__concat*DB
+@        {
+          products(
+            filter: {sku: {eq: "*™–
+“"}}
+            pageSize:1
+          ) {
+            items {
+              sku
+              ... on ConfigurableProduct {
+                configurable_options {
+                  attribute_id
+                  attribute_code
+                  id
+                  label
+                  position
+                  product_id
+                  use_default
+                  values {
+                    default_label
+                    label
+                    store_label
+                    use_default_value
+                    value_index
+                  }
+                }
+              }
+            }
+          }
+        }*
+
+$sku"Ë
+À
+´C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductsWithDifferentParentsToCartTest.phpn ‹(
+
+%1:
+$skustringB][
+Ymagento\graphql\configurableproduct\addconfigurableproductswithdifferentparentstocarttest

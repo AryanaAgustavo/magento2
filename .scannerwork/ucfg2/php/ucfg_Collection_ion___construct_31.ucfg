@@ -1,0 +1,113 @@
+
+Amagento\review\model\resourcemodel\review\collection::__construct
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpR R("1*®
+2
+Collection.php"–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpb b(
+implicit return*ó
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.php] ]()á
+Þ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpR R(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactory»
+¸
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpR R(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceí
+ê
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpR R(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceØ
+Õ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpR R(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceÆ
+Ã
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpR R(
+$reviewData"__id*+
+)
+$reviewDatamagento\review\helper\dataÜ
+Ù
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpR R(
+$voteFactory"__id*@
+>
+$voteFactory.magento\review\model\rating\option\votefactoryÙ
+Ö
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpR R(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÙ
+Ö
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpR R(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceÛ
+Ø
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpR R(
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbä
+á
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.php] ]((G6
+4magento\review\model\resourcemodel\review\collection"
+_reviewData"__id*
+
+$reviewDataæ
+ã
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.php^ ^(*H6
+4magento\review\model\resourcemodel\review\collection"
+_voteFactory"__id*
+
+$voteFactoryè
+å
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.php_ _(,I6
+4magento\review\model\resourcemodel\review\collection"
+_storeManager"__id*
+
+$storeManager
+þ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpa a(k
+%1"Smagento\framework\model\resourcemodel\db\collection\abstractcollection::__construct*86
+4magento\review\model\resourcemodel\review\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$connection*
+
+	$resource*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:)
+$reviewDatamagento\review\helper\data:>
+$voteFactory.magento\review\model\rating\option\votefactory::
+$storeManager)magento\store\model\storemanagerinterface:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbB86
+4magento\review\model\resourcemodel\review\collection

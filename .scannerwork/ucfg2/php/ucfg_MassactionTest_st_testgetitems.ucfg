@@ -1,0 +1,169 @@
+
+>magento\backend\block\widget\grid\massactiontest::testgetitems“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.php ( "1*É
+2
+MassactionTest.php"­
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.php (
+implicit return*š(
+1•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.php (ãà
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.php (
+%1*42
+0magento\backend\block\widget\grid\massactiontest2
+loadlayouté
+æ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.phpƒ ƒ(
+%2"__id*@*>2
+0magento\backend\block\widget\grid\massactiontest"
+_block³°
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.phpƒ ƒ(*
+%3*
+
+%22getitems³
+°
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.phpƒ ƒ(*
+$items"__id*
+
+%3öó
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.php„ „(%
+%4*42
+0magento\backend\block\widget\grid\massactiontest*2*
+
+
+$items2assertcountƒ€
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.php… …(1
+%5*42
+0magento\backend\block\widget\grid\massactiontest*
+	
+$itemId*
+
+
+$items2assertarrayhaskeyÆ
+Ã
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.php‡ ‡(%
+%6"
+__arrayGet*
+
+
+$items*
+	
+$itemId¸
+µ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.php‡ ‡(%
+$actualItem"__id*
+
+%6Æ
+Ã
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.phpˆ ˆ(/
+%7"__mapGet*
+
+$expectedItem*
+id¹¶
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.phpˆ1 ˆ(E
+%8*
+
+$actualItem2getidõò
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.phpˆ ˆ(F
+%9*42
+0magento\backend\block\widget\grid\massactiontest*
+
+%7*
+
+%82assertequalsÊ
+Ç
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.php‰ ‰(2
+%10"__mapGet*
+
+$expectedItem*	
+label½º
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.php‰4 ‰(K
+%11*
+
+$actualItem2getlabeløõ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.php‰ ‰(L
+%12*42
+0magento\backend\block\widget\grid\massactiontest*
+
+%10*
+
+%112assertequalsÈ
+Å
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.phpŠ. Š(B
+%13"__mapGet*
+
+$expectedItem*
+url»¸
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.phpŠD Š(Y
+%14*
+
+$actualItem2geturlŠ‡
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.phpŠ Š(Z
+%15*42
+0magento\backend\block\widget\grid\massactiontest*
+
+%13*
+
+%142assertmatchesregularexpressionÍ
+Ê
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.php‹ ‹(5
+%16"__mapGet*
+
+$expectedItem*
+
+selectedÀ½
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.php‹7 ‹(Q
+%17*
+
+$actualItem2getselectedøõ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.php‹ ‹(R
+%18*42
+0magento\backend\block\widget\grid\massactiontest*
+
+%16*
+
+%172assertequalsÎ
+Ë
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.phpŒ Œ(6
+%19"__mapGet*
+
+$expectedItem*
+	blocknameÁ¾
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.phpŒ8 Œ(S
+%20*
+
+$actualItem2getblocknameøõ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Block\Widget\Grid\MassactionTest.phpŒ Œ(T
+%21*42
+0magento\backend\block\widget\grid\massactiontest*
+
+%19*
+
+%202assertequals*
+2:	
+$itemId:
+$expectedItemB42
+0magento\backend\block\widget\grid\massactiontest

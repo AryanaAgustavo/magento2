@@ -1,0 +1,77 @@
+
+Emagento\graphql\quote\guest\getavailableshippingmethodstest::getquery£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailableShippingMethodsTest.phpø ø("1*Õ
+1£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailableShippingMethodsTest.php¡ ˜(›
+⁄
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailableShippingMethodsTest.phpø ø(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringê	
+ç	
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailableShippingMethodsTest.php¡ ˜(
+%1"__concat*
+query {
+  cart (cart_id: "*üú
+ô") {
+    shipping_addresses {
+      cart_items {
+        cart_item_id
+        quantity
+      }
+      cart_items_v2 {
+        id
+        quantity
+        product {
+          sku
+        }
+      }
+      available_shipping_methods {
+        amount {
+          value
+          currency
+        }
+        carrier_code
+        carrier_title
+        error_message
+        method_code
+        method_title
+        price_excl_tax {
+          value
+          currency
+        }
+        price_incl_tax {
+          value
+          currency
+        }
+        base_amount {
+          value
+          currency
+        }
+        carrier_code
+        carrier_title
+        error_message
+        method_code
+        method_title
+        price_excl_tax {
+          value
+          currency
+        }
+        price_incl_tax {
+          value
+          currency
+        }
+      }
+    }
+  }
+}*
+
+$maskedQuoteId"Æ
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailableShippingMethodsTest.php¡ ˜(
+
+%1:
+$maskedQuoteIdstringB?=
+;magento\graphql\quote\guest\getavailableshippingmethodstest

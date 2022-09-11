@@ -1,0 +1,76 @@
+
+^magento\catalog\model\resourcemodel\product\indexer\eav\abstracteav::_removeattributeindexdata‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.phpŽ Ž(0"1*×
+2‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.php— —($¸µ
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.php— —(#
+%7*
+
+$connection2rollback*
+5*÷
+3‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.phpš š("Ý
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.phpš š(GE
+Cmagento\catalog\model\resourcemodel\product\indexer\eav\abstracteav*Â
+5
+AbstractEav.php"©
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.php› ›(
+implicit return*§
+1‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.php (-õò
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.php (,
+%1*GE
+Cmagento\catalog\model\resourcemodel\product\indexer\eav\abstracteav2getconnection´
+±
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.php (,
+$connection"__id*
+
+%1À½
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.php‘ ‘('
+%2*
+
+$connection2begintransactionáÞ
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.php“ “(M
+%3*
+
+$connection*
+attribute_id = ?*
+
+$attributeId2	quoteinto¯
+¬
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.php“ “(M
+$where"__id*
+
+%3ôñ
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.php”  ”(5
+%4*GE
+Cmagento\catalog\model\resourcemodel\product\indexer\eav\abstracteav2getmaintableÊÇ
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.php” ”(>
+%5*
+
+$connection*
+
+%4*
+
+
+$where2delete¶³
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Eav\AbstractEav.php• •(!
+%6*
+
+$connection2commit*	
+2
+3
+5:
+$attributeIdBGE
+Cmagento\catalog\model\resourcemodel\product\indexer\eav\abstracteav

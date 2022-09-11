@@ -1,0 +1,84 @@
+
+>magento\tax\model\resourcemodel\report\collection::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php) )("1*«
+2
+Collection.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php3 3(
+implicit return*“
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php1 1(2Þ
+Û
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php) )(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactory¸
+µ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php) )(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceê
+ç
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php) )(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceÕ
+Ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php) )(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceÍ
+Ê
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php) )(
+	$resource"__id*7
+5
+	$resource(magento\sales\model\resourcemodel\reportÖ
+Ó
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php) )(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceÛ
+Ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php1 1(0
+%1"__id*L*J3
+1magento\tax\model\resourcemodel\report\collection"
+_aggregationTable¤¡
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php1 1(1
+%2*
+
+	$resource*
+
+%12initû
+ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php2 2(k
+%3"Smagento\sales\model\resourcemodel\report\collection\abstractcollection::__construct*53
+1magento\tax\model\resourcemodel\report\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+	$resource*
+
+$connection*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:5
+	$resource(magento\sales\model\resourcemodel\report:<
+$connection-magento\framework\db\adapter\adapterinterfaceB53
+1magento\tax\model\resourcemodel\report\collection

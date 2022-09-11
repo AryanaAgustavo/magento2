@@ -1,0 +1,66 @@
+
+;magento\urlrewritegraphql\model\resolver\route::__constructy
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewriteGraphQl\Model\Resolver\Route.php ("1*£
+2
+	Route.php"ê
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewriteGraphQl\Model\Resolver\Route.php' '(
+implicit return*Î
+1y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewriteGraphQl\Model\Resolver\Route.php% %(Gœ
+Ã
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewriteGraphQl\Model\Resolver\Route.php (
+
+$urlFinder"__id*;
+9
+
+$urlFinder+magento\urlrewrite\model\urlfinderinterfaceˇ
+¸
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewriteGraphQl\Model\Resolver\Route.php (
+$customUrlLocator"__id*d
+b
+$customUrlLocatorMmagento\urlrewritegraphql\model\resolver\urlrewrite\customurllocatorinterfaceê
+ç
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewriteGraphQl\Model\Resolver\Route.php (
+$entityDataProviderComposite"__id*j
+h
+$entityDataProviderCompositeHmagento\urlrewritegraphql\model\dataprovider\entitydataprovidercomposite«
+ƒ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewriteGraphQl\Model\Resolver\Route.php (
+
+$idEncoder"__id*3
+1
+
+$idEncoder#magento\framework\graphql\query\uid∏
+µ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewriteGraphQl\Model\Resolver\Route.php% %(F
+%1"Gmagento\urlrewritegraphql\model\resolver\abstractentityurl::__construct*20
+.magento\urlrewritegraphql\model\resolver\route*
+
+
+$urlFinder*
+
+$customUrlLocator*
+
+
+$idEncoder˘
+ˆ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewriteGraphQl\Model\Resolver\Route.php& &(IQ0
+.magento\urlrewritegraphql\model\resolver\route"
+entityDataProviderComposite"__id* 
+
+$entityDataProviderComposite*
+2:9
+
+$urlFinder+magento\urlrewrite\model\urlfinderinterface:b
+$customUrlLocatorMmagento\urlrewritegraphql\model\resolver\urlrewrite\customurllocatorinterface:h
+$entityDataProviderCompositeHmagento\urlrewritegraphql\model\dataprovider\entitydataprovidercomposite:1
+
+$idEncoder#magento\framework\graphql\query\uidB20
+.magento\urlrewritegraphql\model\resolver\route

@@ -1,0 +1,76 @@
+
+>magento\catalog\block\product\view\galleryoptions::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\View\GalleryOptions.php# #("1*¯
+2
+GalleryOptions.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\View\GalleryOptions.php- -(
+implicit return*ß
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\View\GalleryOptions.php* *("È
+Å
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\View\GalleryOptions.php# #(
+
+$context"__id*3
+1
+$context%magento\catalog\block\product\contextÌ
+É
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\View\GalleryOptions.php# #(
+$arrayUtils"__id*4
+2
+$arrayUtils#magento\framework\stdlib\arrayutilsÜ
+Ù
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\View\GalleryOptions.php# #(
+$jsonSerializer"__id*@
+>
+$jsonSerializer+magento\framework\serialize\serializer\jsonÍ
+Ê
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\View\GalleryOptions.php# #(
+
+$gallery"__id*8
+6
+$gallery*magento\catalog\block\product\view\gallery¢
+Ÿ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\View\GalleryOptions.php# #(
+$data"__id*
+
+$dataarray×
+Ô
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\View\GalleryOptions.php* *(!@3
+1magento\catalog\block\product\view\galleryoptions"	
+gallery"__id*
+
+
+$galleryå
+â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\View\GalleryOptions.php+ +(/G3
+1magento\catalog\block\product\view\galleryoptions"
+jsonSerializer"__id*
+
+$jsonSerializer¦
+£
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\View\GalleryOptions.php, ,(9
+%1"<magento\catalog\block\product\view\abstractview::__construct*53
+1magento\catalog\block\product\view\galleryoptions*
+
+
+$context*
+
+$arrayUtils*	
+
+$data*
+2:1
+$context%magento\catalog\block\product\context:2
+$arrayUtils#magento\framework\stdlib\arrayutils:>
+$jsonSerializer+magento\framework\serialize\serializer\json:6
+$gallery*magento\catalog\block\product\view\gallery:
+$dataarrayB53
+1magento\catalog\block\product\view\galleryoptions

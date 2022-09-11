@@ -1,0 +1,194 @@
+
+6magento\customer\model\accountmanagement::authenticateu
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpÙ Ù( "1*¬
+13
+AccountManagement.php"Œ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.php÷ ÷(
+implicit return*§
+3u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpá á()–“
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpá á((
+%3*
+
+	$customer2getid—
+”
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpá á((
+$customerId"__id*
+
+%3È
+Å
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpâ â(!
+%4"__id*@*>*
+(magento\customer\model\accountmanagement"
+authentication£ 
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpâ â(8
+%5*
+
+%4*
+
+$customerId2islocked*
+13
+5*‡
+5u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpæ æ(HÈ
+Å
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpæ æ(!
+%6"__id*@*>*
+(magento\customer\model\accountmanagement"
+authentication¶³
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpæ æ(G
+%7*
+
+%6*
+
+$customerId*
+
+	$password2authenticate*
+13
+7*¦
+7u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpê ê(T 
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpê ê((
+%8*
+
+	$customer2getconfirmation*
+8
+10*Ü
+8u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpê, ê(TÕÒ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpê, ê(T
+%9*,*
+(magento\customer\model\accountmanagement*
+
+	$customer2isconfirmationrequired*
+13
+10*û
+10u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpî î(QÊ
+Ç
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpî î(/
+%10"__id*A*?*
+(magento\customer\model\accountmanagement"
+customerFactory’
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpî î(9
+%11*
+
+%102create¥¢
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpî î(P
+%12*
+
+%11*
+
+	$customer2
+updatedata›
+˜
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpî î(P
+$customerModel"__id*
+
+%12Ç
+Ä
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpï ï(
+%13"__id*>*<*
+(magento\customer\model\accountmanagement"
+eventManager‰†
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpñ ñ(@
+%14"$Array³
+°
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpñ ñ(@
+%15"__mapSet*
+
+%14*	
+model*
+
+$customerModel±
+®
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpñ ñ(@
+%16"__mapSet*
+
+%14*
+
+password*
+
+	$passwordÂ¿
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpï ò(	
+%17*
+
+%13*#!
+customer_customer_authenticated*
+
+%142dispatchÇ
+Ä
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpô ô(
+%18"__id*>*<*
+(magento\customer\model\accountmanagement"
+eventManager‰†
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpôD ô(]
+%19"$Array±
+®
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpôD ô(]
+%20"__mapSet*
+
+%19*
+
+customer*
+
+	$customer½º
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpô ô(^
+%21*
+
+%18*
+customer_data_object_login*
+
+%192dispatch"†
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpö ö(
+
+	$customer*‰
+1u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpÜ Ü(BÌ
+É
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpÜ Ü(1
+%1"__id*D*B*
+(magento\customer\model\accountmanagement"
+customerRepositoryœ™
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpÜ Ü(A
+%2*
+
+%1*
+
+	$username2get•
+’
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\AccountManagement.phpÜ Ü(A
+	$customer"__id*
+
+%2*
+13
+3:
+	$username:
+	$passwordB,*
+(magento\customer\model\accountmanagement

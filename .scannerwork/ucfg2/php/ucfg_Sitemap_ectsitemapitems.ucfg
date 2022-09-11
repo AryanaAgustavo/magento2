@@ -1,0 +1,291 @@
+
+2magento\sitemap\model\sitemap::collectsitemapitemsj
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php¿ ¿('"1*ñ
+2
+Sitemap.php"Å
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php„ „(
+implicit return*Æ3
+1j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php√ √(&∞
+≠
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php√ √(%
+%1"__id*3*1
+magento\sitemap\model\sitemap"
+_sitemapDataà
+Ö
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php√ √(%	
+$helper"__id*
+
+%1§°
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.phpƒ ƒ(&
+%2*!
+magento\sitemap\model\sitemap2
+getstoreidâ
+Ü
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.phpƒ ƒ(&
+
+$storeId"__id*
+
+%2|z
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php» Ã(
+%4"$Arrayß§
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php…$ …(L
+%5*
+	
+$helper*
+
+
+$storeId2getcategorychangefreqü
+ú
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php» Ã(
+%6"__mapSet*
+
+%4*
+
+changefreq*
+
+%5•¢
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php "  (H
+%7*
+	
+$helper*
+
+
+$storeId2getcategorypriorityù
+ö
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php» Ã(
+%8"__mapSet*
+
+%4*
+
+priority*
+
+%7¥
+±
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.phpÀ$ À(;
+%9"__id*7*5
+magento\sitemap\model\sitemap"
+_categoryFactoryÜÉ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.phpÀ$ À(E
+%10*
+
+%92createúô
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.phpÀ$ À(^
+%11*
+
+%10*
+
+
+$storeId2getcollection°
+û
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php» Ã(
+%12"__mapSet*
+
+%4*
+
+collection*
+
+%11ìê
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php« Õ(
+%3"magento\framework\dataobject±
+Æ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php« Õ(
+%13")magento\framework\dataobject::__construct*
+
+%3*
+
+%4±Æ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php∆ Œ(	
+%14*!
+magento\sitemap\model\sitemap*
+
+%32addsitemapitem}{
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php“ ÷(
+%16"$Arrayß§
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php”$ ”(K
+%17*
+	
+$helper*
+
+
+$storeId2getproductchangefreq¢
+ü
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php“ ÷(
+%18"__mapSet*
+
+%16*
+
+changefreq*
+
+%17•¢
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php‘" ‘(G
+%19*
+	
+$helper*
+
+
+$storeId2getproductpriority†
+ù
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php“ ÷(
+%20"__mapSet*
+
+%16*
+
+priority*
+
+%19¥
+±
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php’$ ’(:
+%21"__id*6*4
+magento\sitemap\model\sitemap"
+_productFactoryáÑ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php’$ ’(D
+%22*
+
+%212createúô
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php’$ ’(]
+%23*
+
+%22*
+
+
+$storeId2getcollection¢
+ü
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php“ ÷(
+%24"__mapSet*
+
+%16*
+
+collection*
+
+%23îë
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php— ◊(
+%15"magento\framework\dataobject≥
+∞
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php— ◊(
+%25")magento\framework\dataobject::__construct*
+
+%15*
+
+%16≤Ø
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php– ÿ(	
+%26*!
+magento\sitemap\model\sitemap*
+
+%152addsitemapitem}{
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php‹ ‡(
+%28"$Array§°
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php›$ ›(H
+%29*
+	
+$helper*
+
+
+$storeId2getpagechangefreq¢
+ü
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php‹ ‡(
+%30"__mapSet*
+
+%28*
+
+changefreq*
+
+%29¢ü
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.phpﬁ" ﬁ(D
+%31*
+	
+$helper*
+
+
+$storeId2getpagepriority†
+ù
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php‹ ‡(
+%32"__mapSet*
+
+%28*
+
+priority*
+
+%31∞
+≠
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.phpﬂ$ ﬂ(6
+%33"__id*2*0
+magento\sitemap\model\sitemap"
+_cmsFactoryáÑ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.phpﬂ$ ﬂ(@
+%34*
+
+%332createúô
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.phpﬂ$ ﬂ(Y
+%35*
+
+%34*
+
+
+$storeId2getcollection¢
+ü
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php‹ ‡(
+%36"__mapSet*
+
+%28*
+
+collection*
+
+%35îë
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php€ ·(
+%27"magento\framework\dataobject≥
+∞
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php€ ·(
+%37")magento\framework\dataobject::__construct*
+
+%27*
+
+%28≤Ø
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\Sitemap.php⁄ ‚(	
+%38*!
+magento\sitemap\model\sitemap*
+
+%272addsitemapitem*
+2B!
+magento\sitemap\model\sitemap

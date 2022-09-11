@@ -1,0 +1,46 @@
+
+Xmagento\elasticsearch\controller\quicksearchtest::testquicksearchwithminimumtermstomatch“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Controller\QuickSearchTest.php7 7(:"1*È
+2
+QuickSearchTest.php"«
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Controller\QuickSearchTest.php= =(
+implicit return*¶
+1“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Controller\QuickSearchTest.php9 9(<…‚
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Controller\QuickSearchTest.php9 9(;
+%1*42
+0magento\elasticsearch\controller\quicksearchtest*$"
+ /catalogsearch/result/?q=24+MB042dispatchâß
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Controller\QuickSearchTest.php: :(,
+%2*42
+0magento\elasticsearch\controller\quicksearchtest2getresponse°­
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Controller\QuickSearchTest.php: :(7
+%3*
+
+%22getbody¸
+µ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Controller\QuickSearchTest.php: :(7
+$responseBody"__id*
+
+%3š—
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Controller\QuickSearchTest.php; ;(L
+%4*42
+0magento\elasticsearch\controller\quicksearchtest*
+search product 2*
+
+$responseBody2assertstringcontainsstringš
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Controller\QuickSearchTest.php< <(O
+%5*42
+0magento\elasticsearch\controller\quicksearchtest*
+search product 1*
+
+$responseBody2assertstringnotcontainsstring*
+2B42
+0magento\elasticsearch\controller\quicksearchtest

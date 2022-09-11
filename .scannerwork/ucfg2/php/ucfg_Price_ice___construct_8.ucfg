@@ -1,0 +1,176 @@
+
+5magento\catalog\model\layer\filter\price::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpN N("1*ù
+2
+	Price.php"ä
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpc c(
+implicit return*ò&
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.php[ [(.‹
+Ÿ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpN N(
+$filterItemFactory"__id*F
+D
+$filterItemFactory.magento\catalog\model\layer\filter\itemfactoryÕ
+ 
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpN N(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface±
+Æ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpN N(
+$layer"__id*'
+%
+$layermagento\catalog\model\layer›
+⁄
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpN N(
+$itemDataBuilder"__id*I
+G
+$itemDataBuilder3magento\catalog\model\layer\filter\item\databuilder“
+œ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpN N(
+	$resource"__id*E
+C
+	$resource6magento\catalog\model\resourcemodel\layer\filter\price»
+≈
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpN N(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\session“
+œ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpN N(
+$priceAlgorithm"__id*?
+=
+$priceAlgorithm*magento\framework\search\dynamic\algorithm÷
+”
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpN N(
+$priceCurrency"__id*D
+B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterfaceÁ
+‰
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpN N(
+$algorithmFactory"__id*R
+P
+$algorithmFactory;magento\catalog\model\layer\filter\dynamic\algorithmfactoryÓ
+Î
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpN N(
+$dataProviderFactory"__id*V
+T
+$dataProviderFactory<magento\catalog\model\layer\filter\dataprovider\pricefactoryô
+ñ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpN N(
+$data"__id*
+
+$dataarray—
+Œ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.php[ [(-=*
+(magento\catalog\model\layer\filter\price"
+priceCurrency"__id*
+
+$priceCurrency»
+≈
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.php\ \($9*
+(magento\catalog\model\layer\filter\price"
+	_resource"__id*
+
+	$resource÷
+”
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.php] ](2@*
+(magento\catalog\model\layer\filter\price"
+_customerSession"__id*
+
+$customerSession‘
+—
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.php^ ^(0?*
+(magento\catalog\model\layer\filter\price"
+_priceAlgorithm"__id*
+
+$priceAlgorithmƒ
+¡
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.php_ _(_
+%1">magento\catalog\model\layer\filter\abstractfilter::__construct*,*
+(magento\catalog\model\layer\filter\price*
+
+$filterItemFactory*
+
+$storeManager*
+
+
+$layer*
+
+$itemDataBuilder*	
+
+$data∆
+√
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.php` `($;*
+(magento\catalog\model\layer\filter\price"
+_requestVar"__id*	
+price◊
+‘
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpa a(3@*
+(magento\catalog\model\layer\filter\price"
+algorithmFactory"__id*
+
+$algorithmFactoryÜÉ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpb; b(Y
+%2"$Array∂≥
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpbG b(X
+%3*,*
+(magento\catalog\model\layer\filter\price2getlayer£
+†
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpb; b(Y
+%4"__mapSet*
+
+%2*	
+layer*
+
+%3®•
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpb b(Z
+%5*
+
+$dataProviderFactory*
+
+%22createƒ
+¡
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Price.phpb b(Z<*
+(magento\catalog\model\layer\filter\price"
+dataProvider"__id*
+
+%5*
+2:D
+$filterItemFactory.magento\catalog\model\layer\filter\itemfactory::
+$storeManager)magento\store\model\storemanagerinterface:%
+$layermagento\catalog\model\layer:G
+$itemDataBuilder3magento\catalog\model\layer\filter\item\databuilder:C
+	$resource6magento\catalog\model\resourcemodel\layer\filter\price:2
+$customerSessionmagento\customer\model\session:=
+$priceAlgorithm*magento\framework\search\dynamic\algorithm:B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterface:P
+$algorithmFactory;magento\catalog\model\layer\filter\dynamic\algorithmfactory:T
+$dataProviderFactory<magento\catalog\model\layer\filter\dataprovider\pricefactory:
+$dataarrayB,*
+(magento\catalog\model\layer\filter\price

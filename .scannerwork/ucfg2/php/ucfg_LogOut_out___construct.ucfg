@@ -1,0 +1,113 @@
+
+*magento\adobeims\model\logout::__constructh
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.phpP P("1*’
+2
+
+LogOut.php"
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.php` `(
+implicit return*‘
+1h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.phpY Y( ¤
+¡
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.phpP P(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface´
+±
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.phpP P(	
+$config"__id*4
+2
+$config'magento\adobeimsapi\api\configinterfaceÀ
+½
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.phpP P(
+$curlFactory"__id*;
+9
+$curlFactory)magento\framework\http\client\curlfactoryÌ
+É
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.phpP P(
+$getAccessToken"__id*D
+B
+$getAccessToken/magento\adobeimsapi\api\getaccesstokeninterfaceÏ
+Ì
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.phpP P(
+$flushUserTokens"__id*F
+D
+$flushUserTokens0magento\adobeimsapi\api\flushusertokensinterfaceº
+·
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.phpP P(
+
+$profile"__id*9
+7
+$profile+magento\adobeimsapi\api\getprofileinterface£
+ 
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.phpP P(
+$auth"__id*%
+#
+$authmagento\backend\model\auth­
+ª
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.phpY Y(+
+magento\adobeims\model\logout"
+logger"__id*
+	
+$logger­
+ª
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.phpZ Z(+
+magento\adobeims\model\logout"
+config"__id*
+	
+$config·
+´
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.php[ [()0
+magento\adobeims\model\logout"
+curlFactory"__id*
+
+$curlFactory½
+º
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.php\ \(/3
+magento\adobeims\model\logout"
+getAccessToken"__id*
+
+$getAccessToken¿
+¼
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.php] ](14
+magento\adobeims\model\logout"
+flushUserTokens"__id*
+
+$flushUserTokens¯
+¬
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.php^ ^(!,
+magento\adobeims\model\logout"	
+profile"__id*
+
+
+$profile©
+¦
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\LogOut.php_ _()
+magento\adobeims\model\logout"
+auth"__id*	
+
+$auth*
+2:"
+$loggerpsr\log\loggerinterface:2
+$config'magento\adobeimsapi\api\configinterface:9
+$curlFactory)magento\framework\http\client\curlfactory:B
+$getAccessToken/magento\adobeimsapi\api\getaccesstokeninterface:D
+$flushUserTokens0magento\adobeimsapi\api\flushusertokensinterface:7
+$profile+magento\adobeimsapi\api\getprofileinterface:#
+$authmagento\backend\model\authB!
+magento\adobeims\model\logout

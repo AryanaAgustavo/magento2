@@ -1,0 +1,38 @@
+
+Wmagento\graphql\downloadableproduct\options\uid\downloadablelinksvalueuidtest::getquery³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\Options\Uid\DownloadableLinksValueUidTest.php6 6("1*‘
+1³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\Options\Uid\DownloadableLinksValueUidTest.php8 G(Ù
+Ö
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\Options\Uid\DownloadableLinksValueUidTest.php6 6(
+$sku"__id*
+
+$skustring¸
+µ
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\Options\Uid\DownloadableLinksValueUidTest.php8 G(
+%1"__concat*.,
+*query {
+  products(filter: { sku: { eq: "*²¯
+¬" } }) {
+    items {
+      sku
+
+      ... on DownloadableProduct {
+        downloadable_product_links {
+          id
+          uid
+        }
+      }
+    }
+  }
+}*
+
+$sku"¾
+³
+¨C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\DownloadableProduct\Options\Uid\DownloadableLinksValueUidTest.php8 G(
+
+%1:
+$skustringBQO
+Mmagento\graphql\downloadableproduct\options\uid\downloadablelinksvalueuidtest

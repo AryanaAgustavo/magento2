@@ -1,0 +1,192 @@
+
+<magento\quote\model\resourcemodel\quote::markquotesrecollectt
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php˜ ˜('"1*‹(
+1t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.phpš š(/Á¾
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.phpš š(.
+%1*+)
+'magento\quote\model\resourcemodel\quote*	
+quote2gettable–
+“
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.phpš š(.
+$tableQuote"__id*
+
+%1ÆÃ
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php› ›(2
+%2*+)
+'magento\quote\model\resourcemodel\quote*
+
+quote_item2gettable•
+’
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php› ›(2
+
+$tableItem"__id*
+
+%2»¸
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.phpœ œ(+
+%3*+)
+'magento\quote\model\resourcemodel\quote2getconnectionŒ
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.phpœ (
+%4*
+
+%32select‡„
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php   (+
+%5"$Array®
+«
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php   (+
+%6"__mapSet*
+
+%5*
+	entity_id*
+
+quote_id¥¢
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.phpœ ¡(
+%7*
+
+%4*
+
+
+$tableItem*
+
+%52from¸µ
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.phpœ ¤(
+%8*
+
+%7*
+product_id IN ( ? )*
+
+$productIds2whereœ™
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.phpœ ¦(
+%9*
+
+%8*
+
+quote_id2group•
+’
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.phpœ ¦(
+
+$subSelect"__id*
+
+%9¼¹
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php§ §((
+%10*+)
+'magento\quote\model\resourcemodel\quote2getconnection‘Ž
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php§ ¨(
+%11*
+
+%102selectˆ…
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.phpª ª($
+%12"$Array«
+¨
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.phpª ª($
+%13"__mapSet*
+
+%12*
+t2*
+
+
+$subSelectˆ…
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php¬ ¯(
+%14"$ArrayŽ‹
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php­+ ­(A
+%15"zend_db_expr«
+¨
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php­+ ­(A
+%16"zend_db_expr::__construct*
+
+%15*
+1³
+°
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php¬ ¯(
+%17"__mapSet*
+
+%14*
+trigger_recollect*
+
+%15¶
+³
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php¬ ¯(
+%18"__mapSet*
+
+%14*
+
+updated_at*
+t1.updated_atÂ¿
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php§ °(
+%19*
+
+%11*
+
+%12*
+t1.entity_id = t2.entity_id*
+
+%142join“
+
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php§ °(	
+$select"__id*
+
+%19ˆ…
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php±6 ±(K
+%20"$Array¬
+©
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php±6 ±(K
+%21"__mapSet*
+
+%20*
+t1*
+
+$tableQuote­ª
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php± ±(L
+%22*
+	
+$select*
+
+%202crossupdatefromselect˜
+•
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php± ±(L
+$updateQuery"__id*
+
+%22¼¹
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php² ²(
+%23*+)
+'magento\quote\model\resourcemodel\quote2getconnection¢Ÿ
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php² ²(3
+%24*
+
+%23*
+
+$updateQuery2query"£
+t
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote.php´ ´(+)
+'magento\quote\model\resourcemodel\quote:
+$productIdsB+)
+'magento\quote\model\resourcemodel\quote

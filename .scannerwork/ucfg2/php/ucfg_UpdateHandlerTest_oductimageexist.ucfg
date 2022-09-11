@@ -1,0 +1,111 @@
+
+Omagento\catalog\model\product\gallery\updatehandlertest::checkproductimageexistú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.php˛ ˛(+"1*”
+2
+UpdateHandlerTest.php"¥
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÜ Ü(
+implicit return*ÿ
+1ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÄ Ä(NÌ
+Í
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.php˛ ˛(+
+
+$product"__id*7
+5
+$product)magento\catalog\api\data\productinterfaceŒ
+À
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.php˛ ˛(+
+
+$imagePath"__id*
+
+
+$imagePathstringÕ 
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÄ Ä(=
+%1*
+
+
+$product2getmediagalleryimagesæª
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÄ Ä(M
+%2*
+
+%12getfirstitem≈
+¬
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÄ Ä(M
+$productImageItem"__id*
+
+%2»≈
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÅ( Å(D
+%3*
+
+$productImageItem2getfileãà
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÅ Å(E
+%4*;9
+7magento\catalog\model\product\gallery\updatehandlertest*
+
+
+$imagePath*
+
+%32assertequals»≈
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÇ Ç(8
+%5*
+
+$productImageItem2getpath≈
+¬
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÇ Ç(8
+$productImageFile"__id*
+
+%5åâ
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÉ É(0
+%6*;9
+7magento\catalog\model\product\gallery\updatehandlertest*
+
+$productImageFile2assertnotemptyˇ
+¸
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÑ Ñ(/
+%7"__id*O*M9
+7magento\catalog\model\product\gallery\updatehandlertest"
+mediaDirectoryª∏
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÑ Ñ(<
+%8*
+
+%72	getdriver—Œ
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÑ Ñ(Y
+%9*
+
+%8*
+
+$productImageFile2isexists˙˜
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÑ Ñ(Z
+%10*;9
+7magento\catalog\model\product\gallery\updatehandlertest*
+
+%92
+asserttrueà
+Ö
+ú
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Product\Gallery\UpdateHandlerTest.phpÖ Ö(+G9
+7magento\catalog\model\product\gallery\updatehandlertest"
+
+fileName"__id*
+
+$productImageFile*
+2:5
+$product)magento\catalog\api\data\productinterface:
+
+$imagePathstringB;9
+7magento\catalog\model\product\gallery\updatehandlertest

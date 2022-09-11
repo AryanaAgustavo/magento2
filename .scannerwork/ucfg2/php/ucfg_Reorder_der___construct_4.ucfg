@@ -1,0 +1,124 @@
+
+0magento\sales\model\reorder\reorder::__constructn
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.phpo o("1*œ
+2
+Reorder.php"‡
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.php (
+implicit return* 
+1n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.phpy y(,¿
+¼
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.phpo o(
+$orderFactory"__id*3
+1
+$orderFactory magento\sales\model\orderfactoryÜ
+Ù
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.phpo o(
+$customerCartProvider"__id*H
+F
+$customerCartProvider-magento\quote\model\cart\customercartresolverØ
+Õ
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.phpo o(
+$guestCartResolver"__id*G
+E
+$guestCartResolver/magento\quote\model\guestcart\guestcartresolverÌ
+É
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.phpo o(
+$cartRepository"__id*>
+<
+$cartRepository)magento\quote\api\cartrepositoryinterface½
+º
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.phpo o(
+$reorderHelper"__id*0
+.
+$reorderHelpermagento\sales\helper\reorderª
+§
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.phpo o(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceô
+ñ
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.phpo o(
+$productCollectionFactory"__id*\
+Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactoryî
+ë
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.phpo o(
+$orderInfoBuyRequestGetter"__id*U
+S
+$orderInfoBuyRequestGetter5magento\sales\model\reorder\orderinfobuyrequestgetterÅ
+Â
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.phpy y(+7%
+#magento\sales\model\reorder\reorder"
+orderFactory"__id*
+
+$orderFactoryÉ
+Æ
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.phpz z(/9%
+#magento\sales\model\reorder\reorder"
+cartRepository"__id*
+
+$cartRepositoryÇ
+Ä
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.php{ {(-8%
+#magento\sales\model\reorder\reorder"
+reorderHelper"__id*
+
+$reorderHelper¹
+¶
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.php| |(1%
+#magento\sales\model\reorder\reorder"
+logger"__id*
+	
+$loggerÕ
+Ò
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.php} }(;?%
+#magento\sales\model\reorder\reorder"
+customerCartProvider"__id*
+
+$customerCartProviderÏ
+Ì
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.php~ ~(5<%
+#magento\sales\model\reorder\reorder"
+guestCartResolver"__id*
+
+$guestCartResolverÝ
+Ú
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.php (CC%
+#magento\sales\model\reorder\reorder"
+productCollectionFactory"__id*
+
+$productCollectionFactoryá
+Þ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Reorder\Reorder.php€ €(ED%
+#magento\sales\model\reorder\reorder"
+orderInfoBuyRequestGetter"__id*
+
+$orderInfoBuyRequestGetter*
+2:1
+$orderFactory magento\sales\model\orderfactory:F
+$customerCartProvider-magento\quote\model\cart\customercartresolver:E
+$guestCartResolver/magento\quote\model\guestcart\guestcartresolver:<
+$cartRepository)magento\quote\api\cartrepositoryinterface:.
+$reorderHelpermagento\sales\helper\reorder:"
+$loggerpsr\log\loggerinterface:Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactory:S
+$orderInfoBuyRequestGetter5magento\sales\model\reorder\orderinfobuyrequestgetterB'%
+#magento\sales\model\reorder\reorder

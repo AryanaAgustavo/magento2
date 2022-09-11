@@ -1,0 +1,130 @@
+
+6magento\eav\model\entity\attributetest::testbeforesaveˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpG G(""1*»
+2
+AttributeTest.php" 
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpU U(
+implicit return*¬
+1ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpN N(9À
+½
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpG G("
+$defaultValue"__id*
+
+$defaultValuestring¾
+»
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpG G("
+$backendType"__id*
+
+$backendTypestringÂ
+¿
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpG G("
+$frontendInput"__id*
+
+$frontendInputstring´
+±
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpG G("	
+$locale"__id*
+
+$localestring¸
+µ
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpG G("
+	$expected"__id*
+
+	$expectedstringÕ
+Ò
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpN N(
+%1"__id*9*7(
+&magento\eav\model\entity\attributetest"
+	attributeÀ½
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpN N(8
+%2*
+
+%1*
+
+$defaultValue2setdefaultvalueÕ
+Ò
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpO O(
+%3"__id*9*7(
+&magento\eav\model\entity\attributetest"
+	attribute¾»
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpO O(6
+%4*
+
+%3*
+
+$backendType2setbackendtypeÕ
+Ò
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpP P(
+%5"__id*9*7(
+&magento\eav\model\entity\attributetest"
+	attributeÂ¿
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpP P(:
+%6*
+
+%5*
+
+$frontendInput2setfrontendinputÚ
+×
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpQ Q(
+%7"__id*>*<(
+&magento\eav\model\entity\attributetest"
+localeResolver´±
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpQ Q(1
+%8*
+
+%7*
+	
+$locale2	setlocaleÕ
+Ò
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpR R(
+%9"__id*9*7(
+&magento\eav\model\entity\attributetest"
+	attribute©¦
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpR R(&
+%10*
+
+%92
+beforesaveÖ
+Ó
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpT' T(7
+%11"__id*9*7(
+&magento\eav\model\entity\attributetest"
+	attribute¯¬
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpT' T(J
+%12*
+
+%112getdefaultvalueçä
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Eav\Model\Entity\AttributeTest.phpT T(K
+%13**(
+&magento\eav\model\entity\attributetest*
+
+	$expected*
+
+%122assertequals*
+2:
+$defaultValuestring:
+$backendTypestring:
+$frontendInputstring:
+$localestring:
+	$expectedstringB*(
+&magento\eav\model\entity\attributetest

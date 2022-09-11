@@ -1,0 +1,82 @@
+
+kmagento\adminadobeims\authorization\adobeimstokenusercontexttest::testuseadobeaccesstokeninvalidcertificate®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php∆ ∆(="1*é
+2®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpœ ”(»≈
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php— —( 
+%3*
+
+$e2
+getmessageäá
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpœ ”(
+%4*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest*86
+4The consumer isn\'t authorized to access %resources.*
+
+%3*0.
+,SoapFault does not contain expected message.2assertstringcontainsstring*
+5
+7*Ê
+3®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php’ ’(A≠™
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php’ ’(@
+%5*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest*
+
+
+$exception2!assertunauthorizedaccessexception*
+5
+7*å
+5®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpÿ ÿ(l÷”
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpÿ ÿ(k
+%6*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest*TR
+PException was expected to be thrown when provided token has invalid certificate.2fail*
+7*Í
+7"
+ AdobeImsTokenUserContextTest.php"¿
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php⁄ ⁄(
+implicit return*Û
+
+1®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php» »(7†ù
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php» »(6
+%1*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest*
+now*
+true2createaccesstoken∆
+√
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php» »(6
+$token"__id*
+
+%1◊
+‘
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php   ($
+$noExceptionOccurred"__id*	
+falseïí
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpÃ Ã((
+%2*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest*
+
+
+$token2runwebapicall÷
+”
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpÕ Õ('
+$noExceptionOccurred"__id*
+true*
+2
+3
+5
+7BDB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest

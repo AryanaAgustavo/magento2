@@ -1,0 +1,81 @@
+
+Cmagento\importexport\model\resourcemodel\history::getlastinsertedid{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php   (%"1*º
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php" "(-À»
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php" "(,
+%1*42
+0magento\importexport\model\resourcemodel\history2getconnectionù
+ö
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php" "(,
+$connection"__id*
+
+%1üú
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php# $(
+%2*
+
+$connection2select «
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php% %((
+%3*42
+0magento\importexport\model\resourcemodel\history2getmaintableúô
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php# %()
+%4*
+
+%2*
+
+%32fromÃ…
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php& &(+
+%5*42
+0magento\importexport\model\resourcemodel\history2getidfieldname£
+†
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php& &(5
+%6"__concat*
+
+%5*	
+ DESCùö
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php# &(6
+%7*
+
+%4*
+
+%62order≥∞
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php# '(+
+%8*
+
+%7*
+user_id = ?*
+	
+$userId2whereõò
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php# ((
+%9*
+
+%8*22limitô
+ñ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php# ((	
+$select"__id*
+
+%9Ø¨
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php* *(-
+%10*
+
+$connection*
+	
+$select2fetchone"Ü
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ImportExport\Model\ResourceModel\History.php* *(.
+
+%10:	
+$userIdB42
+0magento\importexport\model\resourcemodel\history

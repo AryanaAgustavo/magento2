@@ -1,0 +1,65 @@
+
+Cmagento\graphql\quote\guest\checkoutendtoendtest::setbillingaddress˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpÌ Ì(&"1*Ò
+2
+CheckoutEndToEndTest.php"°
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpë ë(
+implicit return*‹
+1˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpÎ é(Ä
+Á
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpÌ Ì(&	
+$cartId"__id*
+
+$cartIdstringë
+è
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpÎ é(
+%1"__concat*JH
+Fmutation {
+  setBillingAddressOnCart(
+    input: {
+      cart_id: "*áÞ
+Û"
+      billing_address: {
+         address: {
+          firstname: "test firstname"
+          lastname: "test lastname"
+          company: "test company"
+          street: ["test street 1", "test street 2"]
+          city: "test city"
+          postcode: "887766"
+          telephone: "88776655"
+          region: "TX"
+          country_code: "US"
+         }
+      }
+    }
+  ) {
+    cart {
+      billing_address {
+        __typename
+      }
+    }
+  }
+}*
+	
+$cartId¶
+³
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpÎ é(
+$query"__id*
+
+%1÷ô
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpê ê(&
+%2*42
+0magento\graphql\quote\guest\checkoutendtoendtest*
+
+
+$query2graphqlmutation*
+2:
+$cartIdstringB42
+0magento\graphql\quote\guest\checkoutendtoendtest

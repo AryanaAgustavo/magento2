@@ -1,0 +1,73 @@
+
+?magento\analytics\model\connector\http\client\curl::__construct}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Analytics\Model\Connector\Http\Client\Curl.php/ /("1*¦
+2
+
+Curl.php"”
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Analytics\Model\Connector\Http\Client\Curl.php9 9(
+implicit return*ç
+1}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Analytics\Model\Connector\Http\Client\Curl.php5 5(*Ö
+Ó
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Analytics\Model\Connector\Http\Client\Curl.php/ /(
+$curlFactory"__id*<
+:
+$curlFactory*magento\framework\http\adapter\curlfactoryÚ
+×
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Analytics\Model\Connector\Http\Client\Curl.php/ /(
+$responseFactory"__id*<
+:
+$responseFactory&magento\framework\http\responsefactoryá
+Þ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Analytics\Model\Connector\Http\Client\Curl.php/ /(
+
+$converter"__id*I
+G
+
+$converter9magento\analytics\model\connector\http\converterinterface¹
+¶
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Analytics\Model\Connector\Http\Client\Curl.php/ /(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceá
+Þ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Analytics\Model\Connector\Http\Client\Curl.php5 5()E4
+2magento\analytics\model\connector\http\client\curl"
+curlFactory"__id*
+
+$curlFactoryé
+æ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Analytics\Model\Connector\Http\Client\Curl.php6 6(1I4
+2magento\analytics\model\connector\http\client\curl"
+responseFactory"__id*
+
+$responseFactoryÝ
+Ú
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Analytics\Model\Connector\Http\Client\Curl.php7 7(%C4
+2magento\analytics\model\connector\http\client\curl"
+	converter"__id*
+
+
+$converter×
+Ô
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Analytics\Model\Connector\Http\Client\Curl.php8 8(@4
+2magento\analytics\model\connector\http\client\curl"
+logger"__id*
+	
+$logger*
+2::
+$curlFactory*magento\framework\http\adapter\curlfactory::
+$responseFactory&magento\framework\http\responsefactory:G
+
+$converter9magento\analytics\model\connector\http\converterinterface:"
+$loggerpsr\log\loggerinterfaceB64
+2magento\analytics\model\connector\http\client\curl

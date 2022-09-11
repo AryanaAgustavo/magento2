@@ -1,0 +1,93 @@
+
+?magento\checkout\model\sessiontest::validatecustomerdatainquoteÜ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpü ü(0"1*∑
+2
+SessionTest.php"û
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php∏ ∏(
+implicit return*î
+1Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php° °(#Œ
+À
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpü ü(0
+$quote"__id*0
+.
+$quote$magento\quote\api\data\cartinterface≤
+Ø
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php° °("
+$customerIdFromFixture"__id*2…
+∆
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php¢ ¢(:
+$customerEmailFromFixture"__id*
+customer@example.comΩ
+∫
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php£ £(.
+$customerFirstNameFromFixture"__id*
+John∞≠
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php¶ ¶(&
+%1*
+
+
+$quote2getcustomeremail£†
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php§ ®(	
+%2*&$
+"magento\checkout\model\sessiontest*
+
+$customerEmailFromFixture*
+
+%1*20
+.Customer email was not set to Quote correctly.2assertequals≠™
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php´ ´(#
+%3*
+
+
+$quote2getcustomeridùö
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php© ≠(	
+%4*&$
+"magento\checkout\model\sessiontest*
+
+$customerIdFromFixture*
+
+%3*/-
++Customer ID was not set to Quote correctly.2assertequals¥±
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php∞ ∞(*
+%5*
+
+
+$quote2getcustomerfirstname¨©
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÆ ≤(	
+%6*&$
+"magento\checkout\model\sessiontest*!
+
+$customerFirstNameFromFixture*
+
+%5*75
+3Customer first name was not set to Quote correctly.2assertequals≤Ø
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpµ µ((
+%7*
+
+
+$quote2getcustomerisguest™
+ß
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php≥ ∑(	
+%8"0magento\checkout\model\sessiontest::assertequals*&"$
+"magento\checkout\model\sessiontest*
+0*
+
+%7*-+
+)Customer should not be as guest in Quote.*
+2:.
+$quote$magento\quote\api\data\cartinterfaceB&$
+"magento\checkout\model\sessiontest

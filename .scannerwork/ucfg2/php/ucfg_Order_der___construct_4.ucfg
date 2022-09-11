@@ -1,0 +1,105 @@
+
+;magento\sales\model\resourcemodel\report\order::__constructy
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order.php" "("1*£
+2
+	Order.php"
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order.php8 8(
+implicit return*¶
+1y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order.php- 5(
+Ð
+Í
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order.php" "(
+
+$context"__id*>
+<
+$context0magento\framework\model\resourcemodel\db\contextµ
+²
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order.php" "(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÙ
+Ö
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order.php" "(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface×
+Ô
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order.php" "(
+$reportsFlagFactory"__id*:
+8
+$reportsFlagFactory!magento\reports\model\flagfactoryè
+å
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order.php" "(
+$timezoneValidator"__id*L
+J
+$timezoneValidator4magento\framework\stdlib\datetime\timezone\validatorÌ
+É
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order.php" "(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetimeñ
+î
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order.php" "(
+$createDatFactory"__id*V
+T
+$createDatFactory?magento\sales\model\resourcemodel\report\order\createdatfactoryñ
+î
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order.php" "(
+$updateDatFactory"__id*V
+T
+$updateDatFactory?magento\sales\model\resourcemodel\report\order\updatedatfactoryÿ
+ü
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order.php- 5(	
+%1"Dmagento\sales\model\resourcemodel\report\abstractreport::__construct*20
+.magento\sales\model\resourcemodel\report\order*
+
+
+$context*
+	
+$logger*
+
+$localeDate*
+
+$reportsFlagFactory*
+
+$timezoneValidator*
+
+	$dateTime*
+
+$connectionNameä
+á
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order.php6 6(4G0
+.magento\sales\model\resourcemodel\report\order"
+_createDatFactory"__id*
+
+$createDatFactoryä
+á
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order.php7 7(4G0
+.magento\sales\model\resourcemodel\report\order"
+_updateDatFactory"__id*
+
+$updateDatFactory*
+2:<
+$context0magento\framework\model\resourcemodel\db\context:"
+$loggerpsr\log\loggerinterface:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:8
+$reportsFlagFactory!magento\reports\model\flagfactory:J
+$timezoneValidator4magento\framework\stdlib\datetime\timezone\validator:7
+	$dateTime*magento\framework\stdlib\datetime\datetime:T
+$createDatFactory?magento\sales\model\resourcemodel\report\order\createdatfactory:T
+$updateDatFactory?magento\sales\model\resourcemodel\report\order\updatedatfactory:
+$connectionNameB20
+.magento\sales\model\resourcemodel\report\order

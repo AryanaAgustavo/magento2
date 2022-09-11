@@ -1,0 +1,71 @@
+
+>magento\sales\block\adminhtml\order\comments\view::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Comments\View.php# #("1*•
+2
+
+View.php"ì
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Comments\View.php, ,(
+implicit return* 
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Comments\View.php) )('…
+∆
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Comments\View.php# #(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\context¿
+Ω
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Comments\View.php# #(
+
+$salesData"__id*)
+'
+
+$salesDatamagento\sales\helper\data≈
+¬
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Comments\View.php# #(
+$adminHelper"__id*,
+*
+$adminHelpermagento\sales\helper\admin¢
+ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Comments\View.php# #(
+$data"__id*
+
+$dataarray‹
+Ÿ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Comments\View.php) )(&C3
+1magento\sales\block\adminhtml\order\comments\view"
+
+_salesData"__id*
+
+
+$salesDataÑ
+Å
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Comments\View.php* *(,
+%1"+magento\backend\block\template::__construct*53
+1magento\sales\block\adminhtml\order\comments\view*
+
+
+$context*	
+
+$dataﬂ
+‹
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Order\Comments\View.php+ +()D3
+1magento\sales\block\adminhtml\order\comments\view"
+adminHelper"__id*
+
+$adminHelper*
+2:2
+$context&magento\backend\block\template\context:'
+
+$salesDatamagento\sales\helper\data:*
+$adminHelpermagento\sales\helper\admin:
+$dataarrayB53
+1magento\sales\block\adminhtml\order\comments\view

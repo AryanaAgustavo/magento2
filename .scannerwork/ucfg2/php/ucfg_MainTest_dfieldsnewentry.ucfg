@@ -1,0 +1,71 @@
+
+Kmagento\user\block\user\edit\tab\maintest::testtohtmlpasswordfieldsnewentryå
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Block\User\Edit\Tab\MainTest.phpT T(4"1*∫
+2
+MainTest.php"§
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Block\User\Edit\Tab\MainTest.phpg g(
+implicit return*¬
+1å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Block\User\Edit\Tab\MainTest.phpV V(.Ÿ
+÷
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Block\User\Edit\Tab\MainTest.phpV V(#
+%1"__id*9*7+
+)magento\user\block\user\edit\tab\maintest"
+_block®•
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Block\User\Edit\Tab\MainTest.phpV V(-
+%2*
+
+%12tohtmlØ
+¨
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Block\User\Edit\Tab\MainTest.phpV V(-
+$actualHtml"__id*
+
+%2≤
+Ø
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Block\User\Edit\Tab\MainTest.phpZ [(:
+%3"__concat*b`
+^//input[contains(@class,"validate-admin-password") and contains(@class,"required-entry") and  **(
+&@type="password" and @name="password"]ó
+î
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Block\User\Edit\Tab\MainTest.phpY ](
+%4"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*
+
+%3*
+
+$actualHtml„‡
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Block\User\Edit\Tab\MainTest.phpW ^(	
+%5*-+
+)magento\user\block\user\edit\tab\maintest*2*
+
+%42assertequals∫
+∑
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Block\User\Edit\Tab\MainTest.phpb c(G
+%6"__concat*][
+Y//input[contains(@class,"validate-cpassword") and contains(@class,"required-entry") and  *75
+3@type="password" and @name="password_confirmation"]ó
+î
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Block\User\Edit\Tab\MainTest.phpa e(
+%7"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*
+
+%6*
+
+$actualHtml„‡
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Block\User\Edit\Tab\MainTest.php_ f(	
+%8*-+
+)magento\user\block\user\edit\tab\maintest*2*
+
+%72assertequals*
+2B-+
+)magento\user\block\user\edit\tab\maintest

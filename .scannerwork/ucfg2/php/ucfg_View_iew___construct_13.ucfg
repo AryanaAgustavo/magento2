@@ -1,0 +1,128 @@
+
+8magento\paypal\block\billing\agreement\view::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.phpO O("1*ü
+2
+
+View.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.phpa a(
+implicit return*’
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.phpY Y(!Ã
+…
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.phpO O(
+
+$context"__id*=
+;
+$context/magento\framework\view\element\template\contextπ
+∂
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.phpO O(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÙ
+Ò
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.phpO O(
+$orderCollectionFactory"__id*V
+T
+$orderCollectionFactory9magento\sales\model\resourcemodel\order\collectionfactoryÀ
+»
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.phpO O(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\session≈
+¬
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.phpO O(
+$orderConfig"__id*2
+0
+$orderConfig magento\sales\model\order\configµ
+≤
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.phpO O(	
+$helper"__id*'
+%
+$helpermagento\paypal\helper\dataÂ
+‚
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.phpO O(
+$agreementResource"__id*L
+J
+$agreementResource4magento\paypal\model\resourcemodel\billing\agreementú
+ô
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.phpO O(
+$data"__id*
+
+$dataarray 
+«
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.phpY Y( :-
++magento\paypal\block\billing\agreement\view"	
+_helper"__id*
+	
+$helperÍ
+Á
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.phpZ Z(@J-
++magento\paypal\block\billing\agreement\view"
+_orderCollectionFactory"__id*
+
+$orderCollectionFactory‹
+Ÿ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.php[ [(2C-
++magento\paypal\block\billing\agreement\view"
+_customerSession"__id*
+
+$customerSession‘
+—
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.php\ \(*?-
++magento\paypal\block\billing\agreement\view"
+_orderConfig"__id*
+
+$orderConfig“
+œ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.php] ]((@-
++magento\paypal\block\billing\agreement\view"
+_coreRegistry"__id*
+
+	$registry‡
+›
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.php^ ^(6E-
++magento\paypal\block\billing\agreement\view"
+_agreementResource"__id*
+
+$agreementResourceÅ
+˛
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.php_ _(,
+%1"4magento\framework\view\element\template::__construct*/-
++magento\paypal\block\billing\agreement\view*
+
+
+$context*	
+
+$dataœ
+Ã
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Billing\Agreement\View.php` `(%B-
++magento\paypal\block\billing\agreement\view"
+_isScopePrivate"__id*
+true*
+2:;
+$context/magento\framework\view\element\template\context:'
+	$registrymagento\framework\registry:T
+$orderCollectionFactory9magento\sales\model\resourcemodel\order\collectionfactory:2
+$customerSessionmagento\customer\model\session:0
+$orderConfig magento\sales\model\order\config:%
+$helpermagento\paypal\helper\data:J
+$agreementResource4magento\paypal\model\resourcemodel\billing\agreement:
+$dataarrayB/-
++magento\paypal\block\billing\agreement\view

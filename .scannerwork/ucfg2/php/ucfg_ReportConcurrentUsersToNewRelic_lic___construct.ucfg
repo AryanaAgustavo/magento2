@@ -1,0 +1,82 @@
+
+Umagento\newrelicreporting\model\observer\reportconcurrentuserstonewrelic::__construct”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentUsersToNewRelic.php2 2("1*Ù
+2%
+#ReportConcurrentUsersToNewRelic.php"¬
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentUsersToNewRelic.php> >(
+implicit return*Ô
+1”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentUsersToNewRelic.php9 9( à
+Ý
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentUsersToNewRelic.php2 2(	
+$config"__id*3
+1
+$config&magento\newrelicreporting\model\configê
+ç
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentUsersToNewRelic.php2 2(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\session‚
+ÿ
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentUsersToNewRelic.php2 2(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceï
+ì
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentUsersToNewRelic.php2 2(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceû
+ø
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentUsersToNewRelic.php2 2(
+$newRelicWrapper"__id*E
+C
+$newRelicWrapper/magento\newrelicreporting\model\newrelicwrapper…
+‚
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentUsersToNewRelic.php9 9(VJ
+Hmagento\newrelicreporting\model\observer\reportconcurrentuserstonewrelic"
+config"__id*
+	
+$config—
+”
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentUsersToNewRelic.php: :(1_J
+Hmagento\newrelicreporting\model\observer\reportconcurrentuserstonewrelic"
+customerSession"__id*
+
+$customerSession
+š
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentUsersToNewRelic.php; ;(7bJ
+Hmagento\newrelicreporting\model\observer\reportconcurrentuserstonewrelic"
+customerRepository"__id*
+
+$customerRepository‘
+Ž
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentUsersToNewRelic.php< <(+\J
+Hmagento\newrelicreporting\model\observer\reportconcurrentuserstonewrelic"
+storeManager"__id*
+
+$storeManager—
+”
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Observer\ReportConcurrentUsersToNewRelic.php= =(1_J
+Hmagento\newrelicreporting\model\observer\reportconcurrentuserstonewrelic"
+newRelicWrapper"__id*
+
+$newRelicWrapper*
+2:1
+$config&magento\newrelicreporting\model\config:2
+$customerSessionmagento\customer\model\session:G
+$customerRepository0magento\customer\api\customerrepositoryinterface::
+$storeManager)magento\store\model\storemanagerinterface:C
+$newRelicWrapper/magento\newrelicreporting\model\newrelicwrapperBLJ
+Hmagento\newrelicreporting\model\observer\reportconcurrentuserstonewrelic

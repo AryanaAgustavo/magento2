@@ -1,0 +1,93 @@
+
+5magento\customer\block\account\dashboard::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\Dashboard.php< <("1*¡
+2
+Dashboard.php"Š
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\Dashboard.phpI I(
+implicit return*Ú
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\Dashboard.phpD D(2É
+Æ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\Dashboard.php< <(
+
+$context"__id*=
+;
+$context/magento\framework\view\element\template\contextÈ
+Å
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\Dashboard.php< <(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionØ
+Õ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\Dashboard.php< <(
+$subscriberFactory"__id*B
+@
+$subscriberFactory*magento\newsletter\model\subscriberfactoryà
+Ý
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\Dashboard.php< <(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceí
+ê
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\Dashboard.php< <(
+$customerAccountManagement"__id*O
+M
+$customerAccountManagement/magento\customer\api\accountmanagementinterface™
+–
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\Dashboard.php< <(
+$data"__id*
+
+$dataarrayÕ
+Ò
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\Dashboard.phpD D(1?*
+(magento\customer\block\account\dashboard"
+customerSession"__id*
+
+$customerSessionÙ
+Ö
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\Dashboard.phpE E(5A*
+(magento\customer\block\account\dashboard"
+subscriberFactory"__id*
+
+$subscriberFactoryÛ
+Ø
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\Dashboard.phpF F(7B*
+(magento\customer\block\account\dashboard"
+customerRepository"__id*
+
+$customerRepositoryé
+æ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\Dashboard.phpG G(EI*
+(magento\customer\block\account\dashboard"
+customerAccountManagement"__id*
+
+$customerAccountManagementû
+ø
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Account\Dashboard.phpH H(,
+%1"4magento\framework\view\element\template::__construct*,*
+(magento\customer\block\account\dashboard*
+
+
+$context*	
+
+$data*
+2:;
+$context/magento\framework\view\element\template\context:2
+$customerSessionmagento\customer\model\session:@
+$subscriberFactory*magento\newsletter\model\subscriberfactory:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:M
+$customerAccountManagement/magento\customer\api\accountmanagementinterface:
+$dataarrayB,*
+(magento\customer\block\account\dashboard

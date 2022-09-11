@@ -1,0 +1,42 @@
+
+Emagento\graphql\sales\reorderconfigurablewithvariationstest::getquery£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderConfigurableWithVariationsTest.php´ ´("1*Ã
+1£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderConfigurableWithVariationsTest.php¶ Ð(	æ
+ã
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderConfigurableWithVariationsTest.php· Ð(
+%1"__concat*-+
+)mutation {
+  reorderItems(orderNumber: "*éæ
+ã") {
+    userInputErrors {
+      path
+      code
+    }
+    cart {
+      email
+      total_quantity
+      items {
+        quantity
+        product {
+          sku
+        }
+        ... on ConfigurableCartItem {
+          configurable_options {
+            option_label
+            value_label
+          }
+        }
+      }
+    }
+  }
+}*
+
+$orderNumber"®
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderConfigurableWithVariationsTest.php¶ Ð(	
+
+%1:
+$orderNumberB?=
+;magento\graphql\sales\reorderconfigurablewithvariationstest

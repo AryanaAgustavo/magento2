@@ -1,0 +1,99 @@
+
+Fmagento\graphql\quote\guest\checkoutendtoendtest::testcheckoutworkflowñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpF F(("1*–
+2
+CheckoutEndToEndTest.php"Æ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpV V(
+implicit return*≤
+1ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpH H(µ
+≤
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpH H(
+	$quantity"__id*2Â‚
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpJ J(#
+%1*42
+0magento\graphql\quote\guest\checkoutendtoendtest2findproduct≤
+Ø
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpJ J(#
+$sku"__id*
+
+%1ÈÊ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpK K(*
+%2*42
+0magento\graphql\quote\guest\checkoutendtoendtest2createemptycartµ
+≤
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpK K(*	
+$cartId"__id*
+
+%2˙˜
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpL L(+
+%3*42
+0magento\graphql\quote\guest\checkoutendtoendtest*
+	
+$cartId2setguestemailoncartêç
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpM M(9
+%4*42
+0magento\graphql\quote\guest\checkoutendtoendtest*
+	
+$cartId*
+
+	$quantity*
+
+$sku2addproducttocart¯ı
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpO O()
+%5*42
+0magento\graphql\quote\guest\checkoutendtoendtest*
+	
+$cartId2setbillingaddress˘ˆ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpP P(<
+%6*42
+0magento\graphql\quote\guest\checkoutendtoendtest*
+	
+$cartId2setshippingaddressΩ
+∫
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpP P(<
+$shippingMethod"__id*
+
+%6çä
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpR R(K
+%7*42
+0magento\graphql\quote\guest\checkoutendtoendtest*
+	
+$cartId*
+
+$shippingMethod2setshippingmethodº
+π
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpR R(K
+$paymentMethod"__id*
+
+%7ãà
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpS S(8
+%8*42
+0magento\graphql\quote\guest\checkoutendtoendtest*
+	
+$cartId*
+
+$paymentMethod2setpaymentmethodÒÓ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpU U("
+%9*42
+0magento\graphql\quote\guest\checkoutendtoendtest*
+	
+$cartId2
+placeorder*
+2B42
+0magento\graphql\quote\guest\checkoutendtoendtest

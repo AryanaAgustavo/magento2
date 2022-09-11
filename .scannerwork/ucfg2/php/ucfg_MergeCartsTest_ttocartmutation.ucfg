@@ -1,0 +1,44 @@
+
+Jmagento\graphql\quote\customer\mergecartstest::getaddproducttocartmutation•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\MergeCartsTest.php   (0"1*ñ
+1•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\MergeCartsTest.php¢ ·(Å
+Â
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\MergeCartsTest.php   (0
+	$maskedId"__id*
+
+	$maskedIdstringè
+å
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\MergeCartsTest.php¢ ·(
+%1"__concat*B@
+>mutation {
+  addSimpleProductsToCart(input: {
+    cart_id: "*çä
+á"
+    cart_items: {
+      data: {
+        quantity: 1
+        sku: "simple_product"
+      }
+    }
+  }) {
+    cart {
+      items {
+        quantity
+        product {
+          sku
+        }
+      }
+    }
+  }
+}*
+
+	$maskedId" 
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\MergeCartsTest.php¢ ·(
+
+%1:
+	$maskedIdstringB1/
+-magento\graphql\quote\customer\mergecartstest

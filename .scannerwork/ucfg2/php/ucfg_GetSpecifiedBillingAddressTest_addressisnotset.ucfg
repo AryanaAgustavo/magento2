@@ -1,0 +1,100 @@
+
+rmagento\graphql\quote\guest\getspecifiedbillingaddresstest::testgetspecifiedbillingaddressifbillingaddressisnotset 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpL L(J"1*ä
+2$
+"GetSpecifiedBillingAddressTest.php"¸
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpU U(
+implicit return*ç
+1 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpN N(Y™
+–
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpN N(A
+%1"__id*e*c<
+:magento\graphql\quote\guest\getspecifiedbillingaddresstest"#
+!getMaskedQuoteIdByReservedOrderIdÍÊ
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpN N(X
+%2*
+
+%1*
+
+test_quote2executeÆ
+Ã
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpN N(X
+$maskedQuoteId"__id*
+
+%2Š‡
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpO O(0
+%3*><
+:magento\graphql\quote\guest\getspecifiedbillingaddresstest*
+
+$maskedQuoteId2getquery¾
+»
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpO O(0
+$query"__id*
+
+%3†ƒ
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpQ Q(/
+%4*><
+:magento\graphql\quote\guest\getspecifiedbillingaddresstest*
+
+
+$query2graphqlqueryÁ
+¾
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpQ Q(/
+	$response"__id*
+
+%4Ô
+Ñ
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpR R(2
+%5"Mmagento\graphql\quote\guest\getspecifiedbillingaddresstest::assertarrayhaskey*>"<
+:magento\graphql\quote\guest\getspecifiedbillingaddresstest*
+cart*
+
+	$responseÏ
+Ì
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpS3 S(D
+%6"__mapGet*
+
+	$response*
+cartØ
+Õ
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpS S(E
+%7"Mmagento\graphql\quote\guest\getspecifiedbillingaddresstest::assertarrayhaskey*>"<
+:magento\graphql\quote\guest\getspecifiedbillingaddresstest*
+billing_address*
+
+%6Ï
+Ì
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpT T(*
+%8"__mapGet*
+
+	$response*
+cartÓ
+Ð
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpT T(=
+%9"__mapGet*
+
+%8*
+billing_address½
+º
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSpecifiedBillingAddressTest.phpT T(>
+%10"Fmagento\graphql\quote\guest\getspecifiedbillingaddresstest::assertnull*>"<
+:magento\graphql\quote\guest\getspecifiedbillingaddresstest*
+
+%9*
+2B><
+:magento\graphql\quote\guest\getspecifiedbillingaddresstest

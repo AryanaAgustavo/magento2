@@ -1,0 +1,116 @@
+
+=magento\cataloggraphql\model\resolver\categories::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.phpP P("1*ª
+2
+Categories.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.php` `(
+implicit return*•
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.phpY Y(9ô
+ñ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.phpP P(
+$collectionFactory"__id*V
+T
+$collectionFactory>magento\catalog\model\resourcemodel\category\collectionfactoryá
+Þ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.phpP P(
+$attributesJoiner"__id*D
+B
+$attributesJoiner-magento\cataloggraphql\model\attributesjoiner›
+˜
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.phpP P(
+$customAttributesFlattener"__id*u
+s
+$customAttributesFlattenerUmagento\cataloggraphql\model\resolver\products\dataprovider\customattributesflattenerá
+Þ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.phpP P(
+$valueFactory"__id*H
+F
+$valueFactory5magento\framework\graphql\query\resolver\valuefactoryâ
+ß
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.phpP P(
+$categoryHydrator"__id*E
+C
+$categoryHydrator.magento\cataloggraphql\model\category\hydratorõ
+ò
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.phpP P(
+$productCategories"__id*W
+U
+$productCategories?magento\cataloggraphql\model\resolver\product\productcategoriesÕ
+Ò
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.phpP P(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface¦£
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.phpY Y(8
+%1*
+
+$collectionFactory2createÒ
+Ï
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.phpY Y(8B2
+0magento\cataloggraphql\model\resolver\categories"
+
+collection"__id*
+
+%1ç
+ä
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.phpZ Z(3H2
+0magento\cataloggraphql\model\resolver\categories"
+attributesJoiner"__id*
+
+$attributesJoinerù
+ö
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.php[ [(EQ2
+0magento\cataloggraphql\model\resolver\categories"
+customAttributesFlattener"__id*
+
+$customAttributesFlattenerß
+Ü
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.php\ \(+D2
+0magento\cataloggraphql\model\resolver\categories"
+valueFactory"__id*
+
+$valueFactoryç
+ä
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.php] ](3H2
+0magento\cataloggraphql\model\resolver\categories"
+categoryHydrator"__id*
+
+$categoryHydratoré
+æ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.php^ ^(5I2
+0magento\cataloggraphql\model\resolver\categories"
+productCategories"__id*
+
+$productCategoriesß
+Ü
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories.php_ _(+D2
+0magento\cataloggraphql\model\resolver\categories"
+storeManager"__id*
+
+$storeManager*
+2:T
+$collectionFactory>magento\catalog\model\resourcemodel\category\collectionfactory:B
+$attributesJoiner-magento\cataloggraphql\model\attributesjoiner:s
+$customAttributesFlattenerUmagento\cataloggraphql\model\resolver\products\dataprovider\customattributesflattener:F
+$valueFactory5magento\framework\graphql\query\resolver\valuefactory:C
+$categoryHydrator.magento\cataloggraphql\model\category\hydrator:U
+$productCategories?magento\cataloggraphql\model\resolver\product\productcategories::
+$storeManager)magento\store\model\storemanagerinterfaceB42
+0magento\cataloggraphql\model\resolver\categories

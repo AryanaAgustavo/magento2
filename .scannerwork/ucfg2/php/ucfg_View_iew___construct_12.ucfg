@@ -1,0 +1,108 @@
+
+/magento\review\block\customer\view::__constructm
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpG G("1*–
+2
+
+View.php"„
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpY Y(
+implicit return*º
+1m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpP P(6¹
+¶
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpG G(
+
+$context"__id*3
+1
+$context%magento\catalog\block\product\contextÖ
+Ó
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpG G(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceÂ
+¿
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpG G(
+$reviewFactory"__id*6
+4
+$reviewFactory"magento\review\model\reviewfactoryÊ
+Ç
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpG G(
+$voteFactory"__id*@
+>
+$voteFactory.magento\review\model\rating\option\votefactoryÂ
+¿
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpG G(
+$ratingFactory"__id*6
+4
+$ratingFactory"magento\review\model\ratingfactoryÓ
+Ð
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpG G(
+$currentCustomer"__id*E
+C
+$currentCustomer/magento\customer\helper\session\currentcustomer“
+
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpG G(
+$data"__id*
+
+$dataarrayÍ
+Ê
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpP P(5;$
+"magento\review\block\customer\view"
+productRepository"__id*
+
+$productRepositoryÆ
+Ã
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpQ Q(.8$
+"magento\review\block\customer\view"
+_reviewFactory"__id*
+
+$reviewFactoryÂ
+¿
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpR R(*6$
+"magento\review\block\customer\view"
+_voteFactory"__id*
+
+$voteFactoryÆ
+Ã
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpS S(.8$
+"magento\review\block\customer\view"
+_ratingFactory"__id*
+
+$ratingFactoryÉ
+Æ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpT T(19$
+"magento\review\block\customer\view"
+currentCustomer"__id*
+
+$currentCustomerõ
+ò
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Customer\View.phpU X(	
+%1":magento\catalog\block\product\abstractproduct::__construct*&$
+"magento\review\block\customer\view*
+
+
+$context*	
+
+$data*
+2:1
+$context%magento\catalog\block\product\context:D
+$productRepository.magento\catalog\api\productrepositoryinterface:4
+$reviewFactory"magento\review\model\reviewfactory:>
+$voteFactory.magento\review\model\rating\option\votefactory:4
+$ratingFactory"magento\review\model\ratingfactory:C
+$currentCustomer/magento\customer\helper\session\currentcustomer:
+$dataarrayB&$
+"magento\review\block\customer\view

@@ -1,0 +1,98 @@
+
+:magento\customer\controller\account\loginpost::__constructx
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.phpS S("1*¶
+2
+LoginPost.php"è
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.phpa a(
+implicit return*ë
+1x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.php[ [(*√
+¿
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.phpS S(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\contextÕ
+ 
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.phpS S(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÚ
+Ô
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.phpS S(
+$customerAccountManagement"__id*O
+M
+$customerAccountManagement/magento\customer\api\accountmanagementinterfaceœ
+Ã
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.phpS S(
+$customerHelperData"__id*3
+1
+$customerHelperDatamagento\customer\model\urlﬁ
+€
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.phpS S(
+$formKeyValidator"__id*D
+B
+$formKeyValidator-magento\framework\data\form\formkey\validator÷
+”
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.phpS S(
+$accountRedirect"__id*=
+;
+$accountRedirect'magento\customer\model\account\redirect◊
+‘
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.php[ [()</
+-magento\customer\controller\account\loginpost"	
+session"__id*
+
+$customerSessionÛ
+
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.php\ \(EN/
+-magento\customer\controller\account\loginpost"
+customerAccountManagement"__id*
+
+$customerAccountManagementﬁ
+€
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.php] ](0@/
+-magento\customer\controller\account\loginpost"
+customerUrl"__id*
+
+$customerHelperData·
+ﬁ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.php^ ^(3E/
+-magento\customer\controller\account\loginpost"
+formKeyValidator"__id*
+
+$formKeyValidatorﬂ
+‹
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.php_ _(1D/
+-magento\customer\controller\account\loginpost"
+accountRedirect"__id*
+
+$accountRedirect˛
+˚
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\LoginPost.php` `(%
+%1"8magento\customer\controller\abstractaccount::__construct*1/
+-magento\customer\controller\account\loginpost*
+
+
+$context*
+2:0
+$context$magento\framework\app\action\context:2
+$customerSessionmagento\customer\model\session:M
+$customerAccountManagement/magento\customer\api\accountmanagementinterface:1
+$customerHelperDatamagento\customer\model\url:B
+$formKeyValidator-magento\framework\data\form\formkey\validator:;
+$accountRedirect'magento\customer\model\account\redirectB1/
+-magento\customer\controller\account\loginpost

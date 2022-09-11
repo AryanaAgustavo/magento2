@@ -1,0 +1,62 @@
+
+8magento\tax\model\resourcemodel\calculation::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.php* *("1*¦
+2
+Calculation.php"
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.php3 3(
+implicit return*œ
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.php0 0(#Í
+Ê
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.php* *(
+
+$context"__id*>
+<
+$context0magento\framework\model\resourcemodel\db\context´
+±
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.php* *(
+
+$taxData"__id*%
+#
+$taxDatamagento\tax\helper\dataÐ
+Í
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.php* *(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÌ
+É
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.php0 0(";-
++magento\tax\model\resourcemodel\calculation"
+
+_taxData"__id*
+
+
+$taxDataÖ
+Ó
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.php1 1(,@-
++magento\tax\model\resourcemodel\calculation"
+_storeManager"__id*
+
+$storeManager—
+”
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.php2 2(6
+%1"@magento\framework\model\resourcemodel\db\abstractdb::__construct*/-
++magento\tax\model\resourcemodel\calculation*
+
+
+$context*
+
+$connectionName*
+2:<
+$context0magento\framework\model\resourcemodel\db\context:#
+$taxDatamagento\tax\helper\data::
+$storeManager)magento\store\model\storemanagerinterface:
+$connectionNameB/-
++magento\tax\model\resourcemodel\calculation

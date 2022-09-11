@@ -1,0 +1,72 @@
+
+Zmagento\graphqlcache\controller\cms\cmspagecachetest::assertpagecachehitwithtagsforcmspageó
+åC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\CmsPageCacheTest.php$ $(9"1*Õ
+2
+CmsPageCacheTest.php"Ø
+ó
+åC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\CmsPageCacheTest.php, ,(
+implicit return*∫
+1ó
+åC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\CmsPageCacheTest.php& *(
+√
+¿
+ó
+åC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\CmsPageCacheTest.php$ $(9	
+$pageId"__id*
+
+$pageIdstringø
+º
+ó
+åC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\CmsPageCacheTest.php$ $(9
+$name"__id*
+
+$namestringÌ
+Í
+ó
+åC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\CmsPageCacheTest.php$ $(9
+	$response"__id*;
+9
+	$response,magento\framework\app\response\httpinterfaceÿ’
+ó
+åC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\CmsPageCacheTest.php( ((9
+%1*
+
+	$response*
+X-Magento-Cache-Debug2	getheader∫∑
+ó
+åC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\CmsPageCacheTest.php( ((J
+%2*
+
+%12getfieldvalueÍ
+Á
+ó
+åC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\CmsPageCacheTest.php) )(7
+%3"__concat*
+expected HIT on page *
+ id *	
+
+$name*
+	
+$pageIdÑÅ
+ó
+åC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\CmsPageCacheTest.php& *(	
+%4*86
+4magento\graphqlcache\controller\cms\cmspagecachetest*
+HIT*
+
+%2*
+
+%32assertequalsëé
+ó
+åC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\CmsPageCacheTest.php+ +(9
+%5*86
+4magento\graphqlcache\controller\cms\cmspagecachetest*
+	
+$pageId*
+
+	$response2assertcmspagecachetags*
+2:
+$pageIdstring:
+$namestring:9
+	$response,magento\framework\app\response\httpinterfaceB86
+4magento\graphqlcache\controller\cms\cmspagecachetest

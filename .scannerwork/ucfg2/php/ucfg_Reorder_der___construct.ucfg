@@ -1,0 +1,122 @@
+
+Dmagento\sales\controller\adminhtml\order\create\reorder::__construct‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.php= =("1*¯
+2
+Reorder.php"š
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.phpS S(
+implicit return*·
+1‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.phpH H(JÌ
+É
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.php= =(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÔ
+Ñ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.php= =(
+$productHelper"__id*2
+0
+$productHelpermagento\catalog\helper\productÃ
+À
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.php= =(
+
+$escaper"__id*'
+%
+$escapermagento\framework\escaperç
+ä
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.php= =(
+$resultPageFactory"__id*A
+?
+$resultPageFactory)magento\framework\view\result\pagefactoryô
+ñ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.php= =(
+$resultForwardFactory"__id*K
+I
+$resultForwardFactory0magento\backend\model\view\result\forwardfactory
+Œ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.php= =(
+$unavailableProductsProvider"__id*_
+]
+$unavailableProductsProvider=magento\sales\model\order\reorder\unavailableproductsproviderä
+á
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.php= =(
+$orderRepository"__id*@
+>
+$orderRepository*magento\sales\api\orderrepositoryinterfaceÒ
+Ï
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.php= =(
+$reorderHelper"__id*0
+.
+$reorderHelpermagento\sales\helper\reorder¿
+¼
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.php= =(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceŒ
+‰
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.phpH H(IZ9
+7magento\sales\controller\adminhtml\order\create\reorder"
+unavailableProductsProvider"__id* 
+
+$unavailableProductsProviderô
+ñ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.phpI I(1N9
+7magento\sales\controller\adminhtml\order\create\reorder"
+orderRepository"__id*
+
+$orderRepositoryð
+í
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.phpJ J(-L9
+7magento\sales\controller\adminhtml\order\create\reorder"
+reorderHelper"__id*
+
+$reorderHelperâ
+ß
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.phpK K(E9
+7magento\sales\controller\adminhtml\order\create\reorder"
+logger"__id*
+	
+$loggerì
+é
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Create\Reorder.phpL R(	
+%1"<magento\sales\controller\adminhtml\order\create::__construct*;9
+7magento\sales\controller\adminhtml\order\create\reorder*
+
+
+$context*
+
+$productHelper*
+
+
+$escaper*
+
+$resultPageFactory*
+
+$resultForwardFactory*
+2:.
+$context"magento\backend\app\action\context:0
+$productHelpermagento\catalog\helper\product:%
+$escapermagento\framework\escaper:?
+$resultPageFactory)magento\framework\view\result\pagefactory:I
+$resultForwardFactory0magento\backend\model\view\result\forwardfactory:]
+$unavailableProductsProvider=magento\sales\model\order\reorder\unavailableproductsprovider:>
+$orderRepository*magento\sales\api\orderrepositoryinterface:.
+$reorderHelpermagento\sales\helper\reorder:"
+$loggerpsr\log\loggerinterfaceB;9
+7magento\sales\controller\adminhtml\order\create\reorder

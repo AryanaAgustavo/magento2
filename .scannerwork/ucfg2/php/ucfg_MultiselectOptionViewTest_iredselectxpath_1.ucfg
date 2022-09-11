@@ -1,0 +1,16 @@
+
+cmagento\bundle\block\catalog\product\view\type\multiselectoptionviewtest::getnotrequiredselectxpath«
+ C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\MultiselectOptionViewTest.phpH H(0"1*Ý
+1«
+ C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\MultiselectOptionViewTest.phpJ K(tð
+í
+«
+ C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\MultiselectOptionViewTest.phpJ K(s
+%1"__concat*DB
+@//select[contains(@id, 'bundle-option') and @multiple='multiple'*ge
+cand not(contains(@data-validate, 'required:true'))]/option/span[normalize-space(text()) = '1 x %s']"¶
+«
+ C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\MultiselectOptionViewTest.phpJ K(t
+
+%1BLJ
+Hmagento\bundle\block\catalog\product\view\type\multiselectoptionviewtest

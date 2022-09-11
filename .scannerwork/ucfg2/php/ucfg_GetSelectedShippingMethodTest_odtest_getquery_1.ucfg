@@ -1,0 +1,53 @@
+
+Fmagento\graphql\quote\customer\getselectedshippingmethodtest::getquery¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSelectedShippingMethodTest.phpÝ Ý("1*“
+
+1¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSelectedShippingMethodTest.phpß ü(Þ
+Û
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSelectedShippingMethodTest.phpÝ Ý(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringÓ
+Ð
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSelectedShippingMethodTest.phpß ü(
+%1"__concat*
+{
+  cart(cart_id: "*èå
+â") {
+    shipping_addresses {
+      available_shipping_methods {
+        carrier_code
+        method_code
+      }
+      selected_shipping_method {
+        carrier_code
+        method_code
+        carrier_title
+        method_title
+        amount {
+            value
+            currency
+        }
+        price_excl_tax {
+          value
+          currency
+        }
+        price_incl_tax {
+          value
+          currency
+        }
+      }
+    }
+  }
+}*
+
+$maskedQuoteId"¯
+¤
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSelectedShippingMethodTest.phpß ü(
+
+%1:
+$maskedQuoteIdstringB@>
+<magento\graphql\quote\customer\getselectedshippingmethodtest

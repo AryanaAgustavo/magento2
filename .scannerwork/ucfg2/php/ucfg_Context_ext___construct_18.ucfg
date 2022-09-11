@@ -1,0 +1,228 @@
+
+/magento\backend\app\action\context::__constructm
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y("1*›
+2
+Context.php"†
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.php„ „(
+implicit return*ç+
+1m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpn z(
+º
+·
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterface½
+º
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+	$response"__id*6
+4
+	$response'magento\framework\app\responseinterfaceÈ
+Å
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+$objectManager"__id*<
+:
+$objectManager(magento\framework\objectmanagerinterfaceÆ
+Ã
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceª
+§
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+$url"__id*(
+&
+$urlmagento\framework\urlinterfaceÆ
+Ã
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+	$redirect"__id*?
+=
+	$redirect0magento\framework\app\response\redirectinterfaceº
+·
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+$actionFlag"__id*1
+/
+$actionFlag magento\framework\app\actionflag±
+®
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+$view"__id*.
+,
+$view#magento\framework\app\viewinterfaceÌ
+É
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+$messageManager"__id*?
+=
+$messageManager*magento\framework\message\managerinterfaceá
+Þ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+$resultRedirectFactory"__id*M
+K
+$resultRedirectFactory1magento\backend\model\view\result\redirectfactoryÊ
+Ç
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+$resultFactory"__id*>
+<
+$resultFactory*magento\framework\controller\resultfactory±
+®
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+
+$session"__id*+
+)
+$sessionmagento\backend\model\sessionÈ
+Å
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+$authorization"__id*<
+:
+$authorization(magento\framework\authorizationinterface¨
+¥
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+$auth"__id*%
+#
+$authmagento\backend\model\auth­
+ª
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(	
+$helper"__id*(
+&
+$helpermagento\backend\helper\data¼
+¹
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+$backendUrl"__id*3
+1
+$backendUrl"magento\backend\model\urlinterfaceÓ
+Ð
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+$formKeyValidator"__id*D
+B
+$formKeyValidator-magento\framework\data\form\formkey\validatorÌ
+É
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpY Y(
+$localeResolver"__id*?
+=
+$localeResolver*magento\framework\locale\resolverinterface‘
+Ž
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpn z(	
+%1"1magento\framework\app\action\context::__construct*&$
+"magento\backend\app\action\context*
+
+
+$request*
+
+	$response*
+
+$objectManager*
+
+$eventManager*
+
+$url*
+
+	$redirect*
+
+$actionFlag*	
+
+$view*
+
+$messageManager*
+
+$resultRedirectFactory*
+
+$resultFactoryº
+·
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.php| |("2$
+"magento\backend\app\action\context"
+
+_session"__id*
+
+
+$sessionÆ
+Ã
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.php} }(.8$
+"magento\backend\app\action\context"
+_authorization"__id*
+
+$authorization´
+±
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.php~ ~(/$
+"magento\backend\app\action\context"
+_auth"__id*	
+
+$auth¸
+µ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.php ( 1$
+"magento\backend\app\action\context"	
+_helper"__id*
+	
+$helperÂ
+¿
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.php€ €((5$
+"magento\backend\app\action\context"
+_backendUrl"__id*
+
+$backendUrlÎ
+Ë
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.php (4;$
+"magento\backend\app\action\context"
+_formKeyValidator"__id*
+
+$formKeyValidatorÊ
+Ç
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.php‚ ‚(09$
+"magento\backend\app\action\context"
+_localeResolver"__id*
+
+$localeResolverÈ
+Å
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Context.phpƒ ƒ(.8$
+"magento\backend\app\action\context"
+_canUseBaseUrl"__id*
+
+$canUseBaseUrl*
+2:2
+$request&magento\framework\app\requestinterface:4
+	$response'magento\framework\app\responseinterface::
+$objectManager(magento\framework\objectmanagerinterface:9
+$eventManager(magento\framework\event\managerinterface:&
+$urlmagento\framework\urlinterface:=
+	$redirect0magento\framework\app\response\redirectinterface:/
+$actionFlag magento\framework\app\actionflag:,
+$view#magento\framework\app\viewinterface:=
+$messageManager*magento\framework\message\managerinterface:K
+$resultRedirectFactory1magento\backend\model\view\result\redirectfactory:<
+$resultFactory*magento\framework\controller\resultfactory:)
+$sessionmagento\backend\model\session::
+$authorization(magento\framework\authorizationinterface:#
+$authmagento\backend\model\auth:&
+$helpermagento\backend\helper\data:1
+$backendUrl"magento\backend\model\urlinterface:B
+$formKeyValidator-magento\framework\data\form\formkey\validator:=
+$localeResolver*magento\framework\locale\resolverinterface:
+$canUseBaseUrlB&$
+"magento\backend\app\action\context

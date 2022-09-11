@@ -1,0 +1,247 @@
+
+Imagento\review\model\resourcemodel\review\product\collection::__construct‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _("1*¹
+2
+Collection.php"¡
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php“ “(
+implicit return*©6
+1‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.phpy y(/ê
+ç
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÄ
+Á
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceö
+ó
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceá
+Þ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceË
+È
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+
+$eavConfig"__id*(
+&
+
+$eavConfigmagento\eav\model\configÙ
+Ö
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+	$resource"__id*7
+5
+	$resource(magento\framework\app\resourceconnectionà
+Ý
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$eavEntityFactory"__id*6
+4
+$eavEntityFactorymagento\eav\model\entityfactoryç
+ä
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$resourceHelper"__id*?
+=
+$resourceHelper*magento\catalog\model\resourcemodel\helperí
+ê
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$universalFactory"__id*C
+A
+$universalFactory,magento\framework\validator\universalfactoryâ
+ß
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÛ
+Ø
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$moduleManager"__id*4
+2
+$moduleManager magento\framework\module\managerÿ
+ü
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$catalogProductFlatState"__id*N
+L
+$catalogProductFlatState0magento\catalog\model\indexer\product\flat\stateè
+å
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceô
+ñ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$productOptionFactory"__id*F
+D
+$productOptionFactory+magento\catalog\model\product\optionfactoryÜ
+Ù
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$catalogUrl"__id*8
+6
+$catalogUrl'magento\catalog\model\resourcemodel\urlè
+å
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterfaceÝ
+Ú
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÒ
+Ï
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+	$dateTime"__id*0
+.
+	$dateTime!magento\framework\stdlib\datetimeì
+é
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$groupManagement"__id*C
+A
+$groupManagement-magento\customer\api\groupmanagementinterfaceÝ
+Ú
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$ratingFactory"__id*6
+4
+$ratingFactory"magento\review\model\ratingfactoryå
+â
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$voteFactory"__id*@
+>
+$voteFactory.magento\review\model\rating\option\votefactoryâ
+ß
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterface 
+
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$productLimitationFactory"__id*n
+l
+$productLimitationFactoryOmagento\catalog\model\resourcemodel\product\collection\productlimitationfactoryå
+â
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php_ _(
+$metadataPool"__id*?
+=
+$metadataPool,magento\framework\entitymanager\metadatapoolû
+ø
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.phpy y(.R>
+<magento\review\model\resourcemodel\review\product\collection"
+_ratingFactory"__id*
+
+$ratingFactory÷
+ô
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.phpz z(*P>
+<magento\review\model\resourcemodel\review\product\collection"
+_voteFactory"__id*
+
+$voteFactory×
+Ô
+ˆ
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Product\Collection.php{ ’(	
+%1"Cmagento\catalog\model\resourcemodel\product\collection::__construct*@>
+<magento\review\model\resourcemodel\review\product\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+
+$eavConfig*
+
+	$resource*
+
+$eavEntityFactory*
+
+$resourceHelper*
+
+$universalFactory*
+
+$storeManager*
+
+$moduleManager*
+
+$catalogProductFlatState*
+
+$scopeConfig*
+
+$productOptionFactory*
+
+$catalogUrl*
+
+$localeDate*
+
+$customerSession*
+
+	$dateTime*
+
+$groupManagement*
+
+$connection*
+
+$productLimitationFactory*
+
+$metadataPool*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:&
+
+$eavConfigmagento\eav\model\config:5
+	$resource(magento\framework\app\resourceconnection:4
+$eavEntityFactorymagento\eav\model\entityfactory:=
+$resourceHelper*magento\catalog\model\resourcemodel\helper:A
+$universalFactory,magento\framework\validator\universalfactory::
+$storeManager)magento\store\model\storemanagerinterface:2
+$moduleManager magento\framework\module\manager:L
+$catalogProductFlatState0magento\catalog\model\indexer\product\flat\state:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:D
+$productOptionFactory+magento\catalog\model\product\optionfactory:6
+$catalogUrl'magento\catalog\model\resourcemodel\url:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:2
+$customerSessionmagento\customer\model\session:.
+	$dateTime!magento\framework\stdlib\datetime:A
+$groupManagement-magento\customer\api\groupmanagementinterface:4
+$ratingFactory"magento\review\model\ratingfactory:>
+$voteFactory.magento\review\model\rating\option\votefactory:<
+$connection-magento\framework\db\adapter\adapterinterface:l
+$productLimitationFactoryOmagento\catalog\model\resourcemodel\product\collection\productlimitationfactory:=
+$metadataPool,magento\framework\entitymanager\metadatapoolB@>
+<magento\review\model\resourcemodel\review\product\collection

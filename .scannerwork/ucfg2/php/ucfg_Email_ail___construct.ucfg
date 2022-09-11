@@ -1,0 +1,52 @@
+
+>magento\productalert\controller\unsubscribe\email::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Controller\Unsubscribe\Email.php# #("1*¦
+2
+	Email.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Controller\Unsubscribe\Email.php* *(
+implicit return*”
+
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Controller\Unsubscribe\Email.php( ((6Ç
+Ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Controller\Unsubscribe\Email.php# #(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\contextà
+Ý
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Controller\Unsubscribe\Email.php# #(
+$resultPageFactory"__id*A
+?
+$resultPageFactory)magento\framework\view\result\pagefactoryÑ
+Î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Controller\Unsubscribe\Email.php# #(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionë
+è
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Controller\Unsubscribe\Email.php( ((5J3
+1magento\productalert\controller\unsubscribe\email"
+resultPageFactory"__id*
+
+$resultPageFactoryœ
+™
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Controller\Unsubscribe\Email.php) )(7
+%1"8magento\productalert\controller\unsubscribe::__construct*53
+1magento\productalert\controller\unsubscribe\email*
+
+
+$context*
+
+$customerSession*
+2:0
+$context$magento\framework\app\action\context:?
+$resultPageFactory)magento\framework\view\result\pagefactory:2
+$customerSessionmagento\customer\model\sessionB53
+1magento\productalert\controller\unsubscribe\email

@@ -1,0 +1,41 @@
+
+Emagento\graphql\catalogcustomer\pricetierstest::getproductsearchquery–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogCustomer\PriceTiersTest.php³ ³(*"1*á
+1–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogCustomer\PriceTiersTest.phpµ Ç(Ê
+Ç
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogCustomer\PriceTiersTest.php³ ³(*
+$productSku"__id*
+
+$productSkustringÑ
+Î
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogCustomer\PriceTiersTest.phpµ Ç(
+%1"__concat*&$
+"{
+  products(filter: {sku: {eq: "*éæ
+ã"}}) {
+    items {
+      price_tiers {
+     	final_price {
+          currency
+          value
+        }
+        discount {
+          amount_off
+          percent_off
+        }
+        quantity
+      }
+    }
+  }
+}*
+
+$productSku"¡
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogCustomer\PriceTiersTest.phpµ Ç(
+
+%1:
+$productSkustringB20
+.magento\graphql\catalogcustomer\pricetierstest

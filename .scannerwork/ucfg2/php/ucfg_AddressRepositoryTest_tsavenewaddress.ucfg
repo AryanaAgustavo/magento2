@@ -1,0 +1,193 @@
+
+Nmagento\customer\model\resourcemodel\addressrepositorytest::testsavenewaddressŸ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.php× ×(&"1*Ú
+2
+AddressRepositoryTest.php"·
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpê ê(
+implicit return*‹6
+1Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpÙ Ù(Kþ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpÙ Ù(8
+%1*><
+:magento\customer\model\resourcemodel\addressrepositorytest2_createsecondaddressÈÅ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpÙ Ù(J
+%2*
+
+%1*22setcustomeridÇ
+Ä
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpÙ Ù(J
+$proposedAddress"__id*
+
+%2
+þ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpÛ Û(,
+%3"__id*N*L<
+:magento\customer\model\resourcemodel\addressrepositorytest"
+
+repositoryÏÌ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpÛ Û(D
+%4*
+
+%3*
+
+$proposedAddress2saveÇ
+Ä
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpÛ Û(D
+$returnedAddress"__id*
+
+%4ÈÅ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpÜ Ü(6
+%5*
+
+$returnedAddress2getid‚ÿ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpÜ Ü(7
+%6*><
+:magento\customer\model\resourcemodel\addressrepositorytest*
+
+%52assertnotnull
+þ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpÞ Þ()
+%7"__id*N*L<
+:magento\customer\model\resourcemodel\addressrepositorytest"
+
+repositoryÈÅ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpÞ3 Þ(L
+%8*
+
+$returnedAddress2getidÄÁ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpÞ Þ(M
+%9*
+
+%7*
+
+%82getbyidÄ
+Á
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpÞ Þ(M
+$savedAddress"__id*
+
+%9‰
+†
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpà à(6
+%10"__id*U*S<
+:magento\customer\model\resourcemodel\addressrepositorytest"
+expectedAddressesÇ
+Ä
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpà à(9
+%11"
+__arrayGet*
+
+%10*2Ë
+È
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpà à(9
+$expectedNewAddress"__id*
+
+%11ÆÃ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpá# á(9
+%12*
+
+$savedAddress2getidÕÒ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpá á(:
+%13*
+
+$expectedNewAddress*
+
+%122setid‰
+†
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpâ' â(?
+%14"__id*U*S<
+:magento\customer\model\resourcemodel\addressrepositorytest"
+expectedAddressesÇ
+Ä
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpâ' â(B
+%15"
+__arrayGet*
+
+%14*2À½
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpâ' â(O
+%16*
+
+%152	getregionÙÖ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpâ â(P
+%17*
+
+$expectedNewAddress*
+
+%162	setregionÝÚ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpä ä(I
+%18*
+
+$expectedNewAddress2getextensionattributes×Ô
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpäK ä(r
+%19*
+
+$savedAddress2getextensionattributesŒ‰
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpä ä(s
+%20*><
+:magento\customer\model\resourcemodel\addressrepositorytest*
+
+%18*
+
+%192assertequalsÐÍ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpæ æ(,
+%21*
+
+$expectedNewAddress2	getregionÍÊ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpæ æ(F
+%22*
+
+%212getextensionattributesÊÇ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpç ç(&
+%23*
+
+$savedAddress2	getregionÍÊ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpç ç(@
+%24*
+
+%232getextensionattributesŒ‰
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpå è(	
+%25*><
+:magento\customer\model\resourcemodel\addressrepositorytest*
+
+%22*
+
+%242assertequals¦£
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\ResourceModel\AddressRepositoryTest.phpé é(?
+%26*><
+:magento\customer\model\resourcemodel\addressrepositorytest*
+
+$expectedNewAddress*
+
+$savedAddress2assertequals*
+2B><
+:magento\customer\model\resourcemodel\addressrepositorytest

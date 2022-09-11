@@ -1,0 +1,289 @@
+
+dmagento\elasticsearch\test\unit\elasticsearch5\model\client\elasticsearchtest::testisemptyindexfalse›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¹ ¹()"1*Ò
+2
+ElasticsearchTest.php"³
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.phpÃ Ã(
+implicit return*ª?
+1›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php» »(&É
+Æ
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php» »(%
+
+$indexName"__id*
+magento2_index¯¬
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(C
+%1"$Array¯¬
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(C
+%2"$ArrayË
+È
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(:
+%3"__mapSet*
+
+%2*
+docs*
+
+%1¯¬
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(C
+%4"$ArrayÐ
+Í
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(2
+%5"__mapSet*
+
+%4*
+	primaries*
+
+%2¯¬
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(C
+%6"$ArrayÓ
+Ð
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(%
+%7"
+__arraySet*
+
+%6*
+
+
+$indexName*
+
+%4¯¬
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(C
+%8"$ArrayÎ
+Ë
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(
+%9"__mapSet*
+
+%8*	
+indices*
+
+%6¹
+¶
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(C
+$stats"__id*
+
+%8Ë
+È
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(
+%10"__mapGet*
+
+
+$stats*	
+indicesÍ
+Ê
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(%
+%11"
+__arrayGet*
+
+%10*
+
+
+$indexNameÊ
+Ç
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(2
+%12"__mapGet*
+
+%11*
+	primariesÅ
+Â
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(:
+%13"__mapGet*
+
+%12*
+docsÌ
+É
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(C
+%14"__mapSet*
+
+%13*	
+count*2Ë
+È
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(
+%15"__mapGet*
+
+
+$stats*	
+indicesÍ
+Ê
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(%
+%16"
+__arrayGet*
+
+%15*
+
+
+$indexNameÊ
+Ç
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(2
+%17"__mapGet*
+
+%16*
+	primariesÎ
+Ë
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(:
+%18"__mapSet*
+
+%17*
+docs*
+
+%13Ë
+È
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(
+%19"__mapGet*
+
+
+$stats*	
+indicesÍ
+Ê
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(%
+%20"
+__arrayGet*
+
+%19*
+
+
+$indexNameÓ
+Ð
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(2
+%21"__mapSet*
+
+%20*
+	primaries*
+
+%17Ë
+È
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(
+%22"__mapGet*
+
+
+$stats*	
+indicesÖ
+Ó
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(%
+%23"
+__arraySet*
+
+%22*
+
+
+$indexName*
+
+%20Ô
+Ñ
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¼ ¼(
+%24"__mapSet*
+
+
+$stats*	
+indices*
+
+%22’
+
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¾ ¾(
+%25"__id*b*`O
+Mmagento\elasticsearch\test\unit\elasticsearch5\model\client\elasticsearchtest"
+indicesMockþ
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¾$ ¾(1
+%26*QO
+Mmagento\elasticsearch\test\unit\elasticsearch5\model\client\elasticsearchtest2onceÃÀ
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¾ ¾(2
+%27*
+
+%25*
+
+%262expectsÄÁ
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¾ ¿(
+%28*
+
+%27*	
+stats2method°­
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.phpÀ À(>
+%29"$ArrayÖ
+Ó
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.phpÀ À(>
+%30"__mapSet*
+
+%29*	
+index*
+
+
+$indexNameÑ
+Î
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.phpÀ À(>
+%31"__mapSet*
+
+%29*
+
+metric*
+docsÀ½
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¾ À(?
+%32*
+
+%28*
+
+%292withÉÆ
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.php¾ Á( 
+%33*
+
+%32*
+
+
+$stats2
+willreturnŒ
+‰
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.phpÂ Â('
+%34"__id*\*ZO
+Mmagento\elasticsearch\test\unit\elasticsearch5\model\client\elasticsearchtest"
+modelÏÌ
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.phpÂ Â(A
+%35*
+
+%34*
+
+
+$indexName2isemptyindex‘Ž
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Test\Unit\Elasticsearch5\Model\Client\ElasticsearchTest.phpÂ Â(B
+%36*QO
+Mmagento\elasticsearch\test\unit\elasticsearch5\model\client\elasticsearchtest*
+
+%352assertfalse*
+2BQO
+Mmagento\elasticsearch\test\unit\elasticsearch5\model\client\elasticsearchtest

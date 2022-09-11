@@ -1,0 +1,151 @@
+
+Amagento\integration\controller\adminhtml\integration::__construct
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpW W("1*¯
+2
+Integration.php"–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpl l(
+implicit return*ë"
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpb b(&È
+Å
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpW W(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÂ
+¿
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpW W(
+	$registry"__id*)
+'
+	$registrymagento\framework\registry»
+¸
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpW W(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceï
+ì
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpW W(
+$integrationService"__id*L
+J
+$integrationService3magento\integration\api\integrationserviceinterfaceÝ
+Ú
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpW W(
+$oauthService"__id*@
+>
+$oauthService-magento\integration\api\oauthserviceinterfaceÎ
+Ë
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpW W(
+$jsonHelper"__id*3
+1
+$jsonHelper"magento\framework\json\helper\dataÕ
+Ò
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpW W(
+$integrationData"__id*5
+3
+$integrationDatamagento\integration\helper\data¿
+¼
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpW W(
+
+$escaper"__id*'
+%
+$escapermagento\framework\escaper€
+ý
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpW W(
+$integrationCollection"__id*Z
+X
+$integrationCollection>magento\integration\model\resourcemodel\integration\collectionû
+ø
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpb b(%
+%1"'magento\backend\app\action::__construct*86
+4magento\integration\controller\adminhtml\integration*
+
+
+$contextà
+Ý
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpc c($E6
+4magento\integration\controller\adminhtml\integration"
+	_registry"__id*
+
+	$registryÜ
+Ù
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpd d( C6
+4magento\integration\controller\adminhtml\integration"	
+_logger"__id*
+	
+$loggerô
+ñ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpe e(8O6
+4magento\integration\controller\adminhtml\integration"
+_integrationService"__id*
+
+$integrationServiceè
+å
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpf f(,I6
+4magento\integration\controller\adminhtml\integration"
+_oauthService"__id*
+
+$oauthServiceã
+à
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpg g('F6
+4magento\integration\controller\adminhtml\integration"
+
+jsonHelper"__id*
+
+$jsonHelperî
+ë
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phph h(2L6
+4magento\integration\controller\adminhtml\integration"
+_integrationData"__id*
+
+$integrationDataÝ
+Ú
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpi i(!C6
+4magento\integration\controller\adminhtml\integration"	
+escaper"__id*
+
+
+$escaperú
+÷
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpj j(>R6
+4magento\integration\controller\adminhtml\integration"
+_integrationCollection"__id*
+
+$integrationCollectionû
+ø
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Controller\Adminhtml\Integration.phpk k(%
+%2"'magento\backend\app\action::__construct*86
+4magento\integration\controller\adminhtml\integration*
+
+
+$context*
+2:.
+$context"magento\backend\app\action\context:'
+	$registrymagento\framework\registry:"
+$loggerpsr\log\loggerinterface:J
+$integrationService3magento\integration\api\integrationserviceinterface:>
+$oauthService-magento\integration\api\oauthserviceinterface:1
+$jsonHelper"magento\framework\json\helper\data:3
+$integrationDatamagento\integration\helper\data:%
+$escapermagento\framework\escaper:X
+$integrationCollection>magento\integration\model\resourcemodel\integration\collectionB86
+4magento\integration\controller\adminhtml\integration

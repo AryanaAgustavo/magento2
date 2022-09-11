@@ -1,0 +1,86 @@
+
+Dmagento\newrelicreporting\model\cron\reportnewreliccron::__construct‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportNewRelicCron.php; ;("1*º
+2
+ReportNewRelicCron.php"š
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportNewRelicCron.phpG G(
+implicit return*ž
+1‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportNewRelicCron.phpB B( Î
+Ë
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportNewRelicCron.php; ;(	
+$config"__id*3
+1
+$config&magento\newrelicreporting\model\configØ
+Õ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportNewRelicCron.php; ;(
+
+$collect"__id*<
+:
+$collect.magento\newrelicreporting\model\module\collectÑ
+Î
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportNewRelicCron.php; ;(
+
+$counter"__id*5
+3
+$counter'magento\newrelicreporting\model\counterì
+é
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportNewRelicCron.php; ;(
+$cronEventFactory"__id*G
+E
+$cronEventFactory0magento\newrelicreporting\model\croneventfactoryö
+ó
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportNewRelicCron.php; ;(
+$deploymentsFactory"__id*O
+M
+$deploymentsFactory6magento\newrelicreporting\model\apm\deploymentsfactoryâ
+ß
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportNewRelicCron.phpB B(E9
+7magento\newrelicreporting\model\cron\reportnewreliccron"
+config"__id*
+	
+$configä
+á
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportNewRelicCron.phpC C(!F9
+7magento\newrelicreporting\model\cron\reportnewreliccron"	
+collect"__id*
+
+
+$collectä
+á
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportNewRelicCron.phpD D(!F9
+7magento\newrelicreporting\model\cron\reportnewreliccron"	
+counter"__id*
+
+
+$counterö
+ó
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportNewRelicCron.phpE E(3O9
+7magento\newrelicreporting\model\cron\reportnewreliccron"
+cronEventFactory"__id*
+
+$cronEventFactoryú
+÷
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\NewRelicReporting\Model\Cron\ReportNewRelicCron.phpF F(7Q9
+7magento\newrelicreporting\model\cron\reportnewreliccron"
+deploymentsFactory"__id*
+
+$deploymentsFactory*
+2:1
+$config&magento\newrelicreporting\model\config::
+$collect.magento\newrelicreporting\model\module\collect:3
+$counter'magento\newrelicreporting\model\counter:E
+$cronEventFactory0magento\newrelicreporting\model\croneventfactory:M
+$deploymentsFactory6magento\newrelicreporting\model\apm\deploymentsfactoryB;9
+7magento\newrelicreporting\model\cron\reportnewreliccron

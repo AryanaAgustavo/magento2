@@ -1,0 +1,64 @@
+
+Pmagento\framework\db\test\unit\adapter\pdo\mysqltest::testmultiplequeryexceptionÖ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\Adapter\Pdo\MysqlTest.phpú ú(."1*¥
+2
+MysqlTest.php"ù
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\Adapter\Pdo\MysqlTest.php§ §(
+implicit return*§
+1Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\Adapter\Pdo\MysqlTest.phpû û(Qêç
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\Adapter\Pdo\MysqlTest.phpû û(P
+%1*86
+4magento\framework\db\test\unit\adapter\pdo\mysqltest*20
+.Magento\Framework\Exception\LocalizedException2expectexceptionØ¨
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\Adapter\Pdo\MysqlTest.phpü ü(o
+%2*86
+4magento\framework\db\test\unit\adapter\pdo\mysqltest*JH
+FMultiple queries can\'t be executed. Run a single query and try again.2expectexceptionmessage¬
+ø
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\Adapter\Pdo\MysqlTest.php† †(4
+$sql"__id*'%
+#SELECT COUNT(*) AS _num FROM test; Ã
+…
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\Adapter\Pdo\MysqlTest.php° °(3
+%3"__concat*
+
+$sql*%#
+!INSERT INTO test(id) VALUES (1); °
+û
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\Adapter\Pdo\MysqlTest.php° °(3
+$sql"__id*
+
+%3Œ
+À
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\Adapter\Pdo\MysqlTest.php¢ ¢(5
+%4"__concat*
+
+$sql*'%
+#SELECT COUNT(*) AS _num FROM test; °
+û
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\Adapter\Pdo\MysqlTest.php¢ ¢(5
+$sql"__id*
+
+%4ÚÔ
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\Adapter\Pdo\MysqlTest.php£ £(6
+%5*86
+4magento\framework\db\test\unit\adapter\pdo\mysqltest2%getmysqlpdoadaptermockforddlquerytest™ß
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\DB\Test\Unit\Adapter\Pdo\MysqlTest.php£ £(C
+%6*
+
+%5*
+
+$sql2query*
+2B86
+4magento\framework\db\test\unit\adapter\pdo\mysqltest

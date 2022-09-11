@@ -1,0 +1,50 @@
+
+_magento\customer\block\adminhtml\edit\tab\newslettertest::testrenderingnewsletterblockwithqueueõ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpU U(9"1*œ
+2
+NewsletterTest.php"≥
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.php_ _(
+implicit return* 
+1õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpW W(/ÒÓ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpW W(
+%1*<:
+8magento\customer\block\adminhtml\edit\tab\newslettertest2
+getrequest«ƒ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpW W(.
+%2*
+
+%1*
+id*22setparamêç
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpX X(6
+%3*<:
+8magento\customer\block\adminhtml\edit\tab\newslettertest*
+backend/customer/index/edit2dispatchÚÔ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpY Y($
+%4*<:
+8magento\customer\block\adminhtml\edit\tab\newslettertest2getresponse∏µ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpY Y(/
+%5*
+
+%42getbody∏
+µ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpY Y(/
+$body"__id*
+
+%5Â‚
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.php[ ^(	
+%6*<:
+8magento\customer\block\adminhtml\edit\tab\newslettertest*SQ
+O~.+\/newsletter\\\/template\\\/preview\\\/id\\\/\d+\\\/subscriber\\\/\d+\\\/.+~*	
+
+$body2assertmatchesregularexpression*
+2B<:
+8magento\customer\block\adminhtml\edit\tab\newslettertest

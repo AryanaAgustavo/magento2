@@ -1,0 +1,229 @@
+
+Pmagento\catalog\model\resourcemodel\product\compare\item\collection::__constructè
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y("1*¡
+2
+Collection.php"©
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpâ â(
+implicit return*∑4
+1è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpq q(GÚ
+Ô
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÃ
+…
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface˛
+˚
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceÈ
+Ê
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterface”
+–
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+
+$eavConfig"__id*(
+&
+
+$eavConfigmagento\eav\model\config·
+ﬁ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+	$resource"__id*7
+5
+	$resource(magento\framework\app\resourceconnectionË
+Â
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$eavEntityFactory"__id*6
+4
+$eavEntityFactorymagento\eav\model\entityfactoryÔ
+Ï
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$resourceHelper"__id*?
+=
+$resourceHelper*magento\catalog\model\resourcemodel\helperı
+Ú
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$universalFactory"__id*C
+A
+$universalFactory,magento\framework\validator\universalfactoryÍ
+Á
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface„
+‡
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$moduleManager"__id*4
+2
+$moduleManager magento\framework\module\managerá
+Ñ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$catalogProductFlatState"__id*N
+L
+$catalogProductFlatState0magento\catalog\model\indexer\product\flat\state
+Ì
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface¸
+˘
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$productOptionFactory"__id*F
+D
+$productOptionFactory+magento\catalog\model\product\optionfactory‰
+·
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$catalogUrl"__id*8
+6
+$catalogUrl'magento\catalog\model\resourcemodel\url
+Ì
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterfaceÂ
+‚
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\session⁄
+◊
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+	$dateTime"__id*0
+.
+	$dateTime!magento\framework\stdlib\datetimeÙ
+Ò
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$groupManagement"__id*C
+A
+$groupManagement-magento\customer\api\groupmanagementinterfaceì
+ê
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$catalogProductCompareItem"__id*X
+V
+$catalogProductCompareItem8magento\catalog\model\resourcemodel\product\compare\item˘
+ˆ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$catalogProductCompare"__id*B
+@
+$catalogProductCompare&magento\catalog\helper\product\compareÍ
+Á
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpY Y(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterface¢
+ü
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpq q(FeE
+Cmagento\catalog\model\resourcemodel\product\compare\item\collection"
+_catalogProductCompareItem"__id*
+
+$catalogProductCompareItemö
+ó
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phpr r(>aE
+Cmagento\catalog\model\resourcemodel\product\compare\item\collection"
+_catalogProductCompare"__id*
+
+$catalogProductCompare¥
+±
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Compare\Item\Collection.phps à(	
+%1"Cmagento\catalog\model\resourcemodel\product\collection::__construct*GE
+Cmagento\catalog\model\resourcemodel\product\compare\item\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+
+$eavConfig*
+
+	$resource*
+
+$eavEntityFactory*
+
+$resourceHelper*
+
+$universalFactory*
+
+$storeManager*
+
+$moduleManager*
+
+$catalogProductFlatState*
+
+$scopeConfig*
+
+$productOptionFactory*
+
+$catalogUrl*
+
+$localeDate*
+
+$customerSession*
+
+	$dateTime*
+
+$groupManagement*
+
+$connection*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:&
+
+$eavConfigmagento\eav\model\config:5
+	$resource(magento\framework\app\resourceconnection:4
+$eavEntityFactorymagento\eav\model\entityfactory:=
+$resourceHelper*magento\catalog\model\resourcemodel\helper:A
+$universalFactory,magento\framework\validator\universalfactory::
+$storeManager)magento\store\model\storemanagerinterface:2
+$moduleManager magento\framework\module\manager:L
+$catalogProductFlatState0magento\catalog\model\indexer\product\flat\state:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:D
+$productOptionFactory+magento\catalog\model\product\optionfactory:6
+$catalogUrl'magento\catalog\model\resourcemodel\url:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:2
+$customerSessionmagento\customer\model\session:.
+	$dateTime!magento\framework\stdlib\datetime:A
+$groupManagement-magento\customer\api\groupmanagementinterface:V
+$catalogProductCompareItem8magento\catalog\model\resourcemodel\product\compare\item:@
+$catalogProductCompare&magento\catalog\helper\product\compare:<
+$connection-magento\framework\db\adapter\adapterinterfaceBGE
+Cmagento\catalog\model\resourcemodel\product\compare\item\collection

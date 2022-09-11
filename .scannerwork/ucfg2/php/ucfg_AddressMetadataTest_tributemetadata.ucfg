@@ -1,0 +1,139 @@
+
+Kmagento\customer\model\addressmetadatatest::testgetaddressattributemetadata
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpŠ Š(3"1*È
+2
+AddressMetadataTest.php"§
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php¢ ¢(
+implicit return*ö$
+1
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpŒ Œ(QÞ
+Û
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpŒ Œ(*
+%1"__id*;*9,
+*magento\customer\model\addressmetadatatest"	
+serviceËÈ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpŒ Œ(P
+%2*
+
+%1*
+vat_is_valid2getattributemetadata¸
+µ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpŒ Œ(P
+$vatValidMetadata"__id*
+
+%2ñî
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php (/
+%3*.,
+*magento\customer\model\addressmetadatatest*
+
+$vatValidMetadata2assertnotnullÄÁ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpŽ, Ž(Q
+%4*
+
+$vatValidMetadata2getattributecodeóð
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpŽ Ž(R
+%5*.,
+*magento\customer\model\addressmetadatatest*
+vat_is_valid*
+
+%42assertequalsÄÁ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php$ (I
+%6*
+
+$vatValidMetadata2getfrontendinputëè
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php (J
+%7*.,
+*magento\customer\model\addressmetadatatest*
+text*
+
+%62assertequalsÁ¾
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php3 (U
+%8*
+
+$vatValidMetadata2getstorelabelú÷
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php (V
+%9*.,
+*magento\customer\model\addressmetadatatest*
+VAT number validity*
+
+%82assertequalsß
+Ü
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php“ “(+
+%10"__id*;*9,
+*magento\customer\model\addressmetadatatest"	
+serviceÍÊ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php“ “(Q
+%11*
+
+%10*
+vat_is_valid2getattributemetadataº
+·
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php“ “(Q
+$vatValidMetadata2"__id*
+
+%11Ú×
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php” ˜(	
+%12*.,
+*magento\customer\model\addressmetadatatest*
+
+$vatValidMetadata*
+
+$vatValidMetadata2*OM
+KDifferent attribute metadata returned from the 2nd call of the same service2assertequalsâ
+ß
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php› ›(.
+%13"__id*>*<,
+*magento\customer\model\addressmetadatatest"
+
+serviceTwoÍÊ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php› ›(T
+%14*
+
+%13*
+vat_is_valid2getattributemetadataº
+·
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php› ›(T
+$vatValidMetadata3"__id*
+
+%14ÆÃ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpœ, œ(R
+%15*
+
+$vatValidMetadata32getattributecodeõò
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpœ œ(S
+%16*.,
+*magento\customer\model\addressmetadatatest*
+vat_is_valid*
+
+%152assertequalsÉÆ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php ¡(	
+%17*.,
+*magento\customer\model\addressmetadatatest*
+
+$vatValidMetadata*
+
+$vatValidMetadata3*><
+:Different attribute metadata returned from the 2nd service2assertequals*
+2B.,
+*magento\customer\model\addressmetadatatest

@@ -1,0 +1,213 @@
+
+Cmagento\customergraphql\model\context\adduserinfotocontext::execute…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpD D("1*×
+2…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpH H(1Ä
+Á
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpH H(0
+$currentUserId"__sanitizing_cast*
+
+$currentUserId*
+3*¢
+3…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpJ J(6ÈÅ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpJ J(5
+%3*
+
+$contextParameters*
+
+$currentUserId2	setuseridè
+å
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpL L(-
+%4"__id*O*M<
+:magento\customergraphql\model\context\adduserinfotocontext"
+userContext¦£
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpL L(<
+%5*
+
+%42getusertype­
+ª
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpL L(<
+$currentUserType"__id*
+
+%5*
+4
+5*Û
+4…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpN N(5È
+Å
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpN N(4
+$currentUserType"__sanitizing_cast*
+
+$currentUserType*
+5*
+5…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpP P(:ÌÉ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpP P(9
+%6*
+
+$contextParameters*
+
+$currentUserType2setusertype‡„
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpR R(I
+%7*><
+:magento\customergraphql\model\context\adduserinfotocontext*
+
+$currentUserId*
+
+$currentUserType2
+iscustomer¨
+¥
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpR R(I
+$isCustomer"__id*
+
+%7âß
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpS S(M
+%8*
+
+$contextParameters*
+is_customer*
+
+$isCustomer2addextensionattributeä
+á
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpU U(
+%9"__id*K*I<
+:magento\customergraphql\model\context\adduserinfotocontext"	
+session¦£
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpU U((
+%10*
+
+%92
+isloggedin*	
+6
+8
+9*Ÿ
+6…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpV V(Lå
+â
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpV* V(8
+%11"__id*K*I<
+:magento\customergraphql\model\context\adduserinfotocontext"	
+session¬©
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpV* V(K
+%12*
+
+%112getcustomerdataò
+ï
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpV V(KV<
+:magento\customergraphql\model\context\adduserinfotocontext"
+loggedInCustomerData"__id*
+
+%12*
+8
+9*á
+8…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpZ Z(Kð
+í
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpZ Z(1
+%13"__id*V*T<
+:magento\customergraphql\model\context\adduserinfotocontext"
+customerRepository¸µ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpZ Z(J
+%14*
+
+%13*
+
+$currentUserId2getbyid§
+¤
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpZ Z(J
+	$customer"__id*
+
+%14å
+â
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.php[ [(
+%15"__id*K*I<
+:magento\customergraphql\model\context\adduserinfotocontext"	
+session»¸
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.php[ [(6
+%16*
+
+%15*
+
+	$customer2setcustomerdataå
+â
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.php\ \(
+%17"__id*K*I<
+:magento\customergraphql\model\context\adduserinfotocontext"	
+session­ª
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.php\/ \(F
+%18*
+
+	$customer2
+getgroupid¸µ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.php\ \(G
+%19*
+
+%17*
+
+%182setcustomergroupid*
+9*Â
+9…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.php^ ^("è
+å
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.php^ ^("=
+%206magento\graphql\model\query\contextparametersinterface"__id*
+
+$contextParameters"É
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.php^ ^("?
+=
+%206magento\graphql\model\query\contextparametersinterface*Í
+1…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpF F(9÷
+ô
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpD D(
+$contextParameters"__id*N
+L
+$contextParameters6magento\graphql\model\query\contextparametersinterfaceè
+å
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpF F(+
+%1"__id*O*M<
+:magento\customergraphql\model\context\adduserinfotocontext"
+userContext¤¡
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpF F(8
+%2*
+
+%12	getuserid«
+¨
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CustomerGraphQl\Model\Context\AddUserInfoToContext.phpF F(8
+$currentUserId"__id*
+
+%2*
+2
+3:L
+$contextParameters6magento\graphql\model\query\contextparametersinterfaceB><
+:magento\customergraphql\model\context\adduserinfotocontext

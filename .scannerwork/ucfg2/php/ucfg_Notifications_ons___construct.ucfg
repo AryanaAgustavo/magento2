@@ -1,0 +1,114 @@
+
+Omagento\releasenotification\ui\dataprovider\modifier\notifications::__constructé
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.phpM M("1*¡
+2
+Notifications.php"¶
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.php] ](
+implicit return*§
+1é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.phpV V(2Ä
+˝
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.phpM M(
+$contentProvider"__id*P
+N
+$contentProvider:magento\releasenotification\model\contentproviderinterface
+Ì
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.phpM M(	
+$render"__id*I
+G
+$render<magento\releasenotification\ui\renderer\notificationrenderer‰
+·
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.phpM M(
+$cacheStorage"__id*7
+5
+$cacheStorage$magento\framework\app\cacheinterfaceÎ
+Ë
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.phpM M(
+$serializer"__id*@
+>
+$serializer/magento\framework\serialize\serializerinterfaceÙ
+Ò
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.phpM M(
+$productMetadata"__id*D
+B
+$productMetadata.magento\framework\app\productmetadatainterfaceÿ
+’
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.phpM M(
+
+$session"__id*0
+.
+$session"magento\backend\model\auth\sessionÀ
+»
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.phpM M(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceã
+à
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.phpV V(1YD
+Bmagento\releasenotification\ui\dataprovider\modifier\notifications"
+contentProvider"__id*
+
+$contentProvider˚
+¯
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.phpW W(!RD
+Bmagento\releasenotification\ui\dataprovider\modifier\notifications"
+
+renderer"__id*
+	
+$renderÖ
+Ç
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.phpX X(+VD
+Bmagento\releasenotification\ui\dataprovider\modifier\notifications"
+cacheStorage"__id*
+
+$cacheStorageÅ
+˛
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.phpY Y('TD
+Bmagento\releasenotification\ui\dataprovider\modifier\notifications"
+
+serializer"__id*
+
+$serializerã
+à
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.phpZ Z(1YD
+Bmagento\releasenotification\ui\dataprovider\modifier\notifications"
+productMetadata"__id*
+
+$productMetadata˚
+¯
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.php[ [(!QD
+Bmagento\releasenotification\ui\dataprovider\modifier\notifications"	
+session"__id*
+
+
+$session˘
+ˆ
+é
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Ui\DataProvider\Modifier\Notifications.php\ \(PD
+Bmagento\releasenotification\ui\dataprovider\modifier\notifications"
+logger"__id*
+	
+$logger*
+2:N
+$contentProvider:magento\releasenotification\model\contentproviderinterface:G
+$render<magento\releasenotification\ui\renderer\notificationrenderer:5
+$cacheStorage$magento\framework\app\cacheinterface:>
+$serializer/magento\framework\serialize\serializerinterface:B
+$productMetadata.magento\framework\app\productmetadatainterface:.
+$session"magento\backend\model\auth\session:"
+$loggerpsr\log\loggerinterfaceBFD
+Bmagento\releasenotification\ui\dataprovider\modifier\notifications

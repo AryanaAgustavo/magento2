@@ -1,0 +1,99 @@
+
+?magento\cms\model\resourcemodel\abstractcollection::__construct}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\ResourceModel\AbstractCollection.php% %("1*´
+2
+AbstractCollection.php"”
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\ResourceModel\AbstractCollection.php2 2(
+implicit return*®
+1}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\ResourceModel\AbstractCollection.php/ /(,è
+å
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\ResourceModel\AbstractCollection.php% %(
+$entityFactory"__id*L
+J
+$entityFactory8magento\framework\data\collection\entityfactoryinterface¹
+¶
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\ResourceModel\AbstractCollection.php% %(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceë
+è
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\ResourceModel\AbstractCollection.php% %(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceÖ
+Ó
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\ResourceModel\AbstractCollection.php% %(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterface×
+Ô
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\ResourceModel\AbstractCollection.php% %(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÚ
+×
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\ResourceModel\AbstractCollection.php% %(
+$metadataPool"__id*?
+=
+$metadataPool,magento\framework\entitymanager\metadatapool×
+Ô
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\ResourceModel\AbstractCollection.php% %(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceÙ
+Ö
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\ResourceModel\AbstractCollection.php% %(
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbã
+à
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\ResourceModel\AbstractCollection.php/ /(+F4
+2magento\cms\model\resourcemodel\abstractcollection"
+storeManager"__id*
+
+$storeManagerã
+à
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\ResourceModel\AbstractCollection.php0 0(+F4
+2magento\cms\model\resourcemodel\abstractcollection"
+metadataPool"__id*
+
+$metadataPoolý
+ú
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Model\ResourceModel\AbstractCollection.php1 1(k
+%1"Smagento\framework\model\resourcemodel\db\collection\abstractcollection::__construct*64
+2magento\cms\model\resourcemodel\abstractcollection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$connection*
+
+	$resource*
+2:J
+$entityFactory8magento\framework\data\collection\entityfactoryinterface:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface::
+$storeManager)magento\store\model\storemanagerinterface:=
+$metadataPool,magento\framework\entitymanager\metadatapool:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbB64
+2magento\cms\model\resourcemodel\abstractcollection

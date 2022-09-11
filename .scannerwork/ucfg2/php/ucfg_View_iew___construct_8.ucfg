@@ -1,0 +1,52 @@
+
+4magento\review\controller\customer\view::__constructr
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Customer\View.php ("1*›
+2
+
+View.php"‰
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Customer\View.php! !(
+implicit return*¤	
+1r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Customer\View.php (.½
+º
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Customer\View.php (
+
+$context"__id*2
+0
+$context$magento\framework\app\action\contextÇ
+Ä
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Customer\View.php (
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÇ
+Ä
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Customer\View.php (
+$reviewFactory"__id*6
+4
+$reviewFactory"magento\review\model\reviewfactoryÏ
+Ì
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Customer\View.php (-<)
+'magento\review\controller\customer\view"
+reviewFactory"__id*
+
+$reviewFactoryÿ
+ü
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Customer\View.php   (7
+%1"/magento\review\controller\customer::__construct*+)
+'magento\review\controller\customer\view*
+
+
+$context*
+
+$customerSession*
+2:0
+$context$magento\framework\app\action\context:2
+$customerSessionmagento\customer\model\session:4
+$reviewFactory"magento\review\model\reviewfactoryB+)
+'magento\review\controller\customer\view

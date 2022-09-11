@@ -1,0 +1,43 @@
+
+Nmagento\graphql\wishlist\addwishlistitemstocarttest::getaddallitemstocartquery›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddWishlistItemsToCartTest.php¬ ¬(."1*€
+1›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddWishlistItemsToCartTest.php¯ Ã(	Ï
+Ì
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddWishlistItemsToCartTest.php¬ ¬(.
+$wishlistId"__id*
+
+$wishlistIdstringá
+Þ
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddWishlistItemsToCartTest.php¯ Ã(
+%1"__concat*FD
+Bmutation {
+    addWishlistItemsToCart
+    (
+      wishlistId: "*ÔÑ
+Î"
+    ) {
+    status
+    wishlist {
+      items_v2 {
+        items {
+          id
+        }
+      }
+    }
+    add_wishlist_items_to_cart_user_errors{
+        message
+        code
+    }
+   }
+}*
+
+$wishlistId"¦
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddWishlistItemsToCartTest.php¯ Ã(	
+
+%1:
+$wishlistIdstringB75
+3magento\graphql\wishlist\addwishlistitemstocarttest

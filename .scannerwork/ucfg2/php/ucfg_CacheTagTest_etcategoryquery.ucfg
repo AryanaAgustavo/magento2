@@ -1,0 +1,30 @@
+
+8magento\graphql\pagecache\cachetagtest::getcategoryqueryé
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\PageCache\CacheTagTest.php≥ ≥(%"1*¬
+1é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\PageCache\CacheTagTest.phpµ ∆(˝
+˙
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\PageCache\CacheTagTest.phpµ ∆(
+$categoryQueryString"__id*»≈
+¬query GetCategoryQuery(\$id: Int!, \$pageSize: Int!, \$currentPage: Int!) {
+        category(id: \$id) {
+            id
+            description
+            name
+            product_count
+            products(pageSize: \$pageSize, currentPage: \$currentPage) {
+                items {
+                    id
+                    name
+                    url_key
+                }
+                total_count
+            }
+        }
+    }"´
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\PageCache\CacheTagTest.php» »($
+
+$categoryQueryStringB*(
+&magento\graphql\pagecache\cachetagtest

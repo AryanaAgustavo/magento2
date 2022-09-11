@@ -1,0 +1,64 @@
+
+cmagento\catalog\model\resourcemodel\product\indexer\abstractindexer::_addproductwebsitejointoselectë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.php® ®(5"1*∞
+1ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.php™ Æ(
+“
+œ
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.php® ®(5	
+$select"__id*(
+&
+$selectmagento\framework\db\select•¢
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.php´ ´(@
+%1"$Arrayçä
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.php´ ´(?
+%2*GE
+Cmagento\catalog\model\resourcemodel\product\indexer\abstractindexer*
+catalog_product_website2gettableø
+º
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.php´ ´(@
+%3"__mapSet*
+
+%1*
+pw*
+
+%2Ù
+Ò
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.php¨ ¨(G
+%4"__concat*
+pw.product_id = *
+ AND pw.website_id = *
+
+
+$product*
+
+
+$website•¢
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.php≠ ≠(
+%5"$Array»≈
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.php™ Æ(	
+%6*
+	
+$select*
+
+%1*
+
+%4*
+
+%52join"›
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.php∞ ∞(GE
+Cmagento\catalog\model\resourcemodel\product\indexer\abstractindexer:&
+$selectmagento\framework\db\select:
+
+$website:
+
+$productBGE
+Cmagento\catalog\model\resourcemodel\product\indexer\abstractindexer

@@ -1,0 +1,105 @@
+
+Bmagento\catalog\model\resourcemodel\maxheaptablesizeprocessor::setˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php3 3("2"3*´
+2ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php5@ 5(]ù
+ö
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php5@ 5(]
+%2"__id*]*[?
+=magento\catalog\model\resourcemodel\maxheaptablesizeprocessor"
+defaultMaxHeapTableSie¢
+Ÿ
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php5" 5(r
+%1"__id*
+
+%2*
+4*Ç
+3ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php5` 5(q±
+®
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php5" 5(r
+%1"__id*
+
+$maxHeapTableSize*
+4*×
+4ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php5q 5(q¾
+»
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php5 5(r
+$maxHeapTableSize"__sanitizing_cast*
+
+%1*
+6
+9*…
+
+6ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php: :(rí
+ê
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php:. :(?
+%3"__id*Q*O?
+=magento\catalog\model\resourcemodel\maxheaptablesizeprocessor"
+
+connectionÐÍ
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php:. :(q
+%4*
+
+%3*(&
+$SELECT @@session.max_heap_table_size2fetchone¯
+¬
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php:) :(q
+%5"__sanitizing_cast*
+
+%4ú
+÷
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php: :(q\?
+=magento\catalog\model\resourcemodel\maxheaptablesizeprocessor"
+currentMaxHeapTableSize"__id*
+
+%5ú
+÷
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php; ;(+
+%6"__id*^*\?
+=magento\catalog\model\resourcemodel\maxheaptablesizeprocessor"
+currentMaxHeapTableSize*
+8
+9*‘
+8ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php? ?([í
+ê
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php? ?(
+%7"__id*Q*O?
+=magento\catalog\model\resourcemodel\maxheaptablesizeprocessor"
+
+connectionÝ
+Ú
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php?! ?(Y
+%8"__concat*&$
+"SET SESSION max_heap_table_size = *
+
+$maxHeapTableSize«¨
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php? ?(Z
+%9*
+
+%7*
+
+%82query*
+9*Ç
+9
+MaxHeapTableSizeProcessor.php" 
+ˆ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\MaxHeapTableSizeProcessor.php@ @(
+implicit return:
+$maxHeapTableSizeBA?
+=magento\catalog\model\resourcemodel\maxheaptablesizeprocessor

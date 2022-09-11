@@ -1,0 +1,70 @@
+
+Imagento\catalog\model\resourcemodel\product\option::getcolfromoptiontable
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Option.php≤ ≤(,"1*Ø
+1
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Option.php¥ ¥(-—Œ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Option.php¥ ¥(,
+%1*64
+2magento\catalog\model\resourcemodel\product\option2getconnection°
+û
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Option.php¥ ¥(,
+$connection"__id*
+
+%1£†
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Option.phpµ µ(*
+%2*
+
+$connection2select®•
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Option.phpµ ∑(	
+%3*
+
+%2*
+
+
+$tableName2fromª∏
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Option.phpµ ∫(	
+%4*
+
+%3*
+option_id = ?*
+
+	$optionId2where∫∑
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Option.phpµ Ω(	
+%5*
+
+%4*
+store_id  = ?*
+
+
+$storeId2where†
+ù
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Option.phpµ Ω(	
+
+$statement"__id*
+
+%5µ≤
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Option.phpø ø(0
+%6*
+
+$connection*
+
+
+$statement2fetchone"â
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Option.phpø ø(1
+
+%6:
+
+$tableName:
+	$optionId:
+
+$storeIdB64
+2magento\catalog\model\resourcemodel\product\option

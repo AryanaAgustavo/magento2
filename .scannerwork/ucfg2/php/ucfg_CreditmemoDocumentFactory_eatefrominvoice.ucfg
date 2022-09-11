@@ -1,0 +1,140 @@
+
+Fmagento\sales\model\order\creditmemodocumentfactory::createfrominvoiceÄ
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpê ê(%"1*ª
+2Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpú ú(VáÑ
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpú ú(U
+%8*75
+3magento\sales\model\order\creditmemodocumentfactory*
+
+$creditmemo*
+
+
+$comment*
+
+$appendComment2attachcomment£
+†
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpú ú(U
+$creditmemo"__id*
+
+%8*
+3*í
+3Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpû û(œ
+Ã
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpû û(0
+%9*magento\sales\api\data\creditmemointerface"__id*
+
+$creditmemo"∑
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpû û(2
+0
+%9*magento\sales\api\data\creditmemointerface*§
+1Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpó ó(Eœ
+Ã
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpê ê(%
+
+$invoice"__id*5
+3
+$invoice'magento\sales\api\data\invoiceinterface©
+¶
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpê ê(%
+$items"__id*
+
+$itemsarray·
+ﬁ
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpê ê(%
+
+$comment"__id*G
+E
+$comment9magento\sales\api\data\creditmemocommentcreationinterfaceÁ
+‰
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpê ê(%
+
+$arguments"__id*K
+I
+
+$arguments;magento\sales\api\data\creditmemocreationargumentsinterface¸˘
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpó ó(D
+%1*75
+3magento\sales\model\order\creditmemodocumentfactory*
+
+
+$items*
+
+
+$arguments2getcreditmemocreationdataù
+ö
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpó ó(D
+$data"__id*
+
+%1‡
+›
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpô ô(1
+%2"__id*L*J5
+3magento\sales\model\order\creditmemodocumentfactory"
+orderRepository¶£
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpô7 ô(M
+%3*
+
+
+$invoice2
+getorderid°û
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpô ô(N
+%4*
+
+%2*
+
+%32get¨©
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpô ô(O
+%5*
+
+
+$invoice*
+
+%42setorder‚
+ﬂ
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpö ö(.
+%6"__id*N*L5
+3magento\sales\model\order\creditmemodocumentfactory"
+creditmemoFactoryæª
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpö ö(P
+%7*
+
+%6*
+
+
+$invoice*	
+
+$data2createbyinvoice£
+†
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CreditmemoDocumentFactory.phpö ö(P
+$creditmemo"__id*
+
+%7*
+2
+3:3
+$invoice'magento\sales\api\data\invoiceinterface:
+$itemsarray:E
+$comment9magento\sales\api\data\creditmemocommentcreationinterface:
+$appendComment:I
+
+$arguments;magento\sales\api\data\creditmemocreationargumentsinterfaceB75
+3magento\sales\model\order\creditmemodocumentfactory

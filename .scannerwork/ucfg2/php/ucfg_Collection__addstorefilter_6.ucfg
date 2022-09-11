@@ -1,0 +1,78 @@
+
+Gmagento\newsletter\model\resourcemodel\queue\collection::addstorefilter„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php   (""1*µ
+2„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php£ ¬(ØÕ
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php£ £(
+%2*;9
+7magento\newsletter\model\resourcemodel\queue\collection2	getselect˜•
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php¤ ¤(P
+%3"$Arrayøõ
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php¤! ¤(O
+%4*;9
+7magento\newsletter\model\resourcemodel\queue\collection*
+newsletter_queue_store_link2gettableº
+·
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php¤ ¤(P
+%5"__mapSet*
+
+%3*
+
+store_link*
+
+%4˜•
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php¦ ¦(
+%6"$Arrayâß
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php£ §(
+%7*
+
+%2*
+
+%3*-+
+)main_table.queue_id = store_link.queue_id*
+
+%62	joininnerÎË
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php£ ª(
+%8*
+
+%7*
+store_link.store_id IN (?)*
+
+	$storeIds2where¸µ
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php£ ¬(
+%9*
+
+%8*
+main_table.queue_id2groupé
+æ
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php­ ­((M9
+7magento\newsletter\model\resourcemodel\queue\collection"
+_isStoreFilter"__id*
+true*
+3*Ñ
+3„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php¯ ¯("Ä
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php¯ ¯(;9
+7magento\newsletter\model\resourcemodel\queue\collection*ü
+1„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php¢ ¢("ç
+ä
+„
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Queue\Collection.php¢ ¢("
+%1"__id*O*M9
+7magento\newsletter\model\resourcemodel\queue\collection"
+_isStoreFilter*
+2
+3:
+	$storeIdsB;9
+7magento\newsletter\model\resourcemodel\queue\collection

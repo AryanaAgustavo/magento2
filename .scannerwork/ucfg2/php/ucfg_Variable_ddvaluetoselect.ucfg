@@ -1,0 +1,202 @@
+
+@magento\variable\model\resourcemodel\variable::_addvaluetoselectx
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpz z(("1*Ò,
+1x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.php~ ~(-∏
+µ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpz z((	
+$select"__id*(
+&
+$selectmagento\framework\db\selectÀ
+»
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpz z((
+
+$storeId"__id*:
+8
+$storeId,magento\variable\model\resourcemodel\integer≈¬
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.php~ ~(,
+%1*1/
+-magento\variable\model\resourcemodel\variable2getconnectionö
+ó
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.php~ ~(,
+$connection"__id*
+
+%1ÌÍ
+y
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.php É(	
+%2*
+
+$connection*
+store.plain_value IS NULL*
+def.plain_value*
+store.plain_value2getchecksql°
+û
+y
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.php É(	
+$ifNullPlainValue"__id*
+
+%2ÎË
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpÑ Ñ(u
+%3*
+
+$connection*
+store.html_value IS NULL*
+def.html_value*
+store.html_value2getchecksql°
+û
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpÑ Ñ(u
+$ifNullHtmlValue"__id*
+
+%3çä
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpá á(8
+%4"$Array÷”
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpá á(7
+%5*1/
+-magento\variable\model\resourcemodel\variable*
+variable_value2gettable®
+•
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpá á(8
+%6"__mapSet*
+
+%4*
+def*
+
+%5∆√
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpà# à(8
+%7*1/
+-magento\variable\model\resourcemodel\variable2getmaintable÷
+”
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpà à(^
+%8"__concat*
+def.variable_id = *
+
+%7*%#
+!.variable_id AND def.store_id = 0çä
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpâ â(
+%9"$Arrayµ≤
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpÜ ä(	
+%10*
+	
+$select*
+
+%4*
+
+%8*
+
+%92joinleftéã
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpã ã(:
+%11"$Array◊‘
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpã ã(9
+%12*1/
+-magento\variable\model\resourcemodel\variable*
+variable_value2gettable≠
+™
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpã ã(:
+%13"__mapSet*
+
+%11*	
+store*
+
+%12¨©
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpåJ å(f
+%14*
+
+$connection*
+
+
+$storeId2quoteÿ
+’
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpå å(f
+%15"__concat*=;
+9store.variable_id = def.variable_id AND store.store_id = *
+
+%14éã
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpç ç(
+%16"$Array¥±
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpÜ é(	
+%17*
+
+%10*
+
+%11*
+
+%15*
+
+%162joinleftéã
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpè î(
+%18"$Array¡
+æ
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpè î(
+%19"__mapSet*
+
+%18*
+plain_value*
+
+$ifNullPlainValueø
+º
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpè î(
+%20"__mapSet*
+
+%18*
+
+html_value*
+
+$ifNullHtmlValue«
+ƒ
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpè î(
+%21"__mapSet*
+
+%18*
+store_plain_value*
+store.plain_value≈
+¬
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpè î(
+%22"__mapSet*
+
+%18*
+store_html_value*
+store.html_value°û
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpÜ ï(	
+%23*
+
+%17*
+
+%182columnsÓ
+Î
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpó ó(4
+%24-magento\variable\model\resourcemodel\variable"__id*1/
+-magento\variable\model\resourcemodel\variable"¥
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Variable\Model\ResourceModel\Variable.phpó ó(6
+4
+%24-magento\variable\model\resourcemodel\variable:&
+$selectmagento\framework\db\select:8
+$storeId,magento\variable\model\resourcemodel\integerB1/
+-magento\variable\model\resourcemodel\variable

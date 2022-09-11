@@ -1,0 +1,84 @@
+
+:magento\catalogsearch\controller\result\index::__constructx
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Controller\Result\Index.php; ;("1*¢
+2
+	Index.php"è
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Controller\Result\Index.phpG G(
+implicit return*˚
+1x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Controller\Result\Index.phpB B(&√
+¿
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Controller\Result\Index.php; ;(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\context 
+«
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Controller\Result\Index.php; ;(
+$catalogSession"__id*2
+0
+$catalogSessionmagento\catalog\model\session“
+œ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Controller\Result\Index.php; ;(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface 
+«
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Controller\Result\Index.php; ;(
+$queryFactory"__id*4
+2
+$queryFactory!magento\search\model\queryfactoryœ
+Ã
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Controller\Result\Index.php; ;(
+$layerResolver"__id*8
+6
+$layerResolver$magento\catalog\model\layer\resolverˆ
+Û
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Controller\Result\Index.phpB B(%
+%1"0magento\framework\app\action\action::__construct*1/
+-magento\catalogsearch\controller\result\index*
+
+
+$context⁄
+◊
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Controller\Result\Index.phpC C(,B/
+-magento\catalogsearch\controller\result\index"
+_storeManager"__id*
+
+$storeManagerﬁ
+€
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Controller\Result\Index.phpD D(0D/
+-magento\catalogsearch\controller\result\index"
+_catalogSession"__id*
+
+$catalogSession⁄
+◊
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Controller\Result\Index.phpE E(,B/
+-magento\catalogsearch\controller\result\index"
+_queryFactory"__id*
+
+$queryFactory€
+ÿ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Controller\Result\Index.phpF F(-B/
+-magento\catalogsearch\controller\result\index"
+layerResolver"__id*
+
+$layerResolver*
+2:0
+$context$magento\framework\app\action\context:0
+$catalogSessionmagento\catalog\model\session::
+$storeManager)magento\store\model\storemanagerinterface:2
+$queryFactory!magento\search\model\queryfactory:6
+$layerResolver$magento\catalog\model\layer\resolverB1/
+-magento\catalogsearch\controller\result\index

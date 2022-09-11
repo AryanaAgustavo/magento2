@@ -1,0 +1,119 @@
+
+Hmagento\checkoutagreements\model\resourcemodel\agreement::_getloadselectƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.phpw w(%"1*½
+2„
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php{ ‡(—”
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php| |(F
+%3"$Arrayõò
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php| |(E
+%4*<:
+8magento\checkoutagreements\model\resourcemodel\agreement*
+checkout_agreement_store2gettable²
+¯
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php| |(F
+%5"__mapSet*
+
+%3*
+cps*
+
+%4ÛØ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php} }(%
+%6*<:
+8magento\checkoutagreements\model\resourcemodel\agreement2getmaintableÇ
+Ä
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php} }(J
+%7"__concat*
+
+%6*$"
+ .agreement_id = cps.agreement_id²¯
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php{ ~(
+%8*
+	
+$select*
+
+%3*
+
+%72join°­
+„
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php{ €(
+%9*
+
+%8*
+is_active=12where«¨
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php‚ ‚(%
+%10*
+	
+$object2
+getstoreidÅÂ
+„
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php{ ƒ(
+%11*
+
+%9*
+cps.store_id IN (0, ?)*
+
+%102where´±
+„
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php{ …(
+%12*
+
+%11*
+store_id DESC2order§¤
+„
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php{ ‡(
+%13*
+
+%12*22limit*
+3*
+3…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php‰ ‰(Â
+¿
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php‰ ‰("
+%14magento\framework\db\select"__id*
+	
+$select"®
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.php‰ ‰($
+"
+%14magento\framework\db\select*›
+1ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.phpy y(B·
+´
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.phpy y(A
+%1"Cmagento\framework\model\resourcemodel\db\abstractdb::_getloadselect*<:
+8magento\checkoutagreements\model\resourcemodel\agreement*
+
+
+$field*
+
+
+$value*
+	
+$object¢
+Ÿ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.phpy y(A	
+$select"__id*
+
+%1¨¥
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\ResourceModel\Agreement.phpz z(!
+%2*
+	
+$object2
+getstoreid*
+2
+3:
+$field:
+$value:	
+$objectB<:
+8magento\checkoutagreements\model\resourcemodel\agreement

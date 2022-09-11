@@ -1,0 +1,73 @@
+
+=magento\sales\model\order\pdf\total\defaulttotal::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.php0 0("1*¬
+2
+DefaultTotal.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.php: :(
+implicit return*Ì
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.php6 6('½
+º
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.php0 0(
+
+$taxHelper"__id*'
+%
+
+$taxHelpermagento\tax\helper\dataÍ
+Ê
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.php0 0(
+$taxCalculation"__id*2
+0
+$taxCalculationmagento\tax\model\calculationï
+ì
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.php0 0(
+$ordersFactory"__id*U
+S
+$ordersFactoryAmagento\tax\model\resourcemodel\sales\order\tax\collectionfactory¡
+ž
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.php0 0(
+$data"__id*
+
+$dataarrayÚ
+×
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.php6 6(&B2
+0magento\sales\model\order\pdf\total\defaulttotal"
+
+_taxHelper"__id*
+
+
+$taxHelperä
+á
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.php7 7(0G2
+0magento\sales\model\order\pdf\total\defaulttotal"
+_taxCalculation"__id*
+
+$taxCalculationå
+â
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.php8 8(1I2
+0magento\sales\model\order\pdf\total\defaulttotal"
+_taxOrdersFactory"__id*
+
+$ordersFactoryò
+ï
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.php9 9("
+%1")magento\framework\dataobject::__construct*42
+0magento\sales\model\order\pdf\total\defaulttotal*	
+
+$data*
+2:%
+
+$taxHelpermagento\tax\helper\data:0
+$taxCalculationmagento\tax\model\calculation:S
+$ordersFactoryAmagento\tax\model\resourcemodel\sales\order\tax\collectionfactory:
+$dataarrayB42
+0magento\sales\model\order\pdf\total\defaulttotal

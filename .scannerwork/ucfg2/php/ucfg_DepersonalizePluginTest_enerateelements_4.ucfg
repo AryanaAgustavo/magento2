@@ -1,0 +1,110 @@
+
+Omagento\catalog\model\layout\depersonalizeplugintest::testaftergenerateelements—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpA A(-"1*Ô
+2
+DepersonalizePluginTest.php"¯
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpH H(
+implicit return*¸
+1—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpC C(Ã
+À
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpA A(-	
+$layout"__id*
+
+$layoutstringÒ
+Ï
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpA A(-
+$expectedResult"__id*
+
+$expectedResultarrayî
+ë
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpC C(
+%1"__id*C*A6
+4magento\catalog\model\layout\depersonalizeplugintest"
+cache²¯
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpC C(
+%2*
+
+%12cleanï
+ì
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpD D('
+%3"__id*D*B6
+4magento\catalog\model\layout\depersonalizeplugintest"
+layoutÂ¿
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpD D(:
+%4*
+
+%3*
+	
+$layout2loadfileñî
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpD D(;
+%5*86
+4magento\catalog\model\layout\depersonalizeplugintest*
+
+%42
+asserttrue÷
+ô
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpE E(
+%6"__id*L*J6
+4magento\catalog\model\layout\depersonalizeplugintest"
+catalogSession«¨
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpE' E(9
+%7"$ArrayÊ
+Ç
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpE' E(9
+%8"__mapSet*
+
+%7*
+	some_data*2¼¹
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpE E(:
+%9*
+
+%6*
+
+%72setdatað
+í
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpF F(
+%10"__id*D*B6
+4magento\catalog\model\layout\depersonalizeplugintest"
+layout¿¼
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpF F()
+%11*
+
+%102generateelementsø
+õ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpG- G(B
+%12"__id*L*J6
+4magento\catalog\model\layout\depersonalizeplugintest"
+catalogSession¶³
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpG- G(M
+%13*
+
+%122getdataŠ‡
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Layout\DepersonalizePluginTest.phpG G(N
+%14*86
+4magento\catalog\model\layout\depersonalizeplugintest*
+
+$expectedResult*
+
+%132assertequals*
+2:
+$layoutstring:
+$expectedResultarrayB86
+4magento\catalog\model\layout\depersonalizeplugintest

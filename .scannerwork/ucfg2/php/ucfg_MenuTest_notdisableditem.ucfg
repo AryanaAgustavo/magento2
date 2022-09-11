@@ -1,0 +1,309 @@
+
+cmagento\backend\test\unit\model\menutest::testgetfirstavailablereturnsonlyallowedandnotdisableditemu
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php• •(M"1*¢
+2
+MenuTest.php"å
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php≥ ≥(
+implicit return*ûA
+1u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpß ß(b¿
+Ω
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpß ß(
+%1"__id*8*6*
+(magento\backend\test\unit\model\menutest"
+_itemsù
+ö
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpß ß(
+%2"__mapGet*
+
+%1*	
+item1Ω∫
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpß( ß(9
+%3*,*
+(magento\backend\test\unit\model\menutest*22exactlyôñ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpß ß(:
+%4*
+
+%2*
+
+%32expectsüú
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpß ß(O
+%5*
+
+%4*
+	isAllowed2methodûõ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpß ß(a
+%6*
+
+%5*
+true2
+willreturn¿
+Ω
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php® ®(
+%7"__id*8*6*
+(magento\backend\test\unit\model\menutest"
+_itemsù
+ö
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php® ®(
+%8"__mapGet*
+
+%7*	
+item1Ω∫
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php®( ®(9
+%9*,*
+(magento\backend\test\unit\model\menutest*22exactlyöó
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php® ®(:
+%10*
+
+%8*
+
+%92expects¢ü
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php® ®(P
+%11*
+
+%10*
+
+isDisabled2method†ù
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php® ®(b
+%12*
+
+%11*
+true2
+willreturn¡
+æ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php© ©(
+%13"__id*8*6*
+(magento\backend\test\unit\model\menutest"
+_model¡
+æ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php© ©((
+%14"__id*8*6*
+(magento\backend\test\unit\model\menutest"
+_itemsü
+ú
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php© ©(1
+%15"__mapGet*
+
+%14*	
+item1òï
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php© ©(2
+%16*
+
+%13*
+
+%152add¡
+æ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php´ ´(
+%17"__id*8*6*
+(magento\backend\test\unit\model\menutest"
+_itemsü
+ú
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php´ ´(
+%18"__mapGet*
+
+%17*	
+item2æª
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php´( ´(9
+%19*,*
+(magento\backend\test\unit\model\menutest*22exactlyúô
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php´ ´(:
+%20*
+
+%18*
+
+%192expects°û
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php´ ´(O
+%21*
+
+%20*
+	isAllowed2method°û
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php´ ´(b
+%22*
+
+%21*	
+false2
+willreturn¡
+æ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php¨ ¨(
+%23"__id*8*6*
+(magento\backend\test\unit\model\menutest"
+_model¡
+æ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php¨ ¨((
+%24"__id*8*6*
+(magento\backend\test\unit\model\menutest"
+_itemsü
+ú
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php¨ ¨(1
+%25"__mapGet*
+
+%24*	
+item2òï
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php¨ ¨(2
+%26*
+
+%23*
+
+%252add¡
+æ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpÆ Æ(
+%27"__id*8*6*
+(magento\backend\test\unit\model\menutest"
+_itemsü
+ú
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpÆ Æ(
+%28"__mapGet*
+
+%27*	
+item3æª
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpÆ( Æ(9
+%29*,*
+(magento\backend\test\unit\model\menutest*22exactlyúô
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpÆ Æ(:
+%30*
+
+%28*
+
+%292expects°û
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpÆ Æ(O
+%31*
+
+%30*
+	isAllowed2method†ù
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpÆ Æ(a
+%32*
+
+%31*
+true2
+willreturn¡
+æ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpØ Ø(
+%33"__id*8*6*
+(magento\backend\test\unit\model\menutest"
+_itemsü
+ú
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpØ Ø(
+%34"__mapGet*
+
+%33*	
+item3æª
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpØ( Ø(9
+%35*,*
+(magento\backend\test\unit\model\menutest*22exactlyúô
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpØ Ø(:
+%36*
+
+%34*
+
+%352expects¢ü
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpØ Ø(P
+%37*
+
+%36*
+
+isDisabled2method°û
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.phpØ Ø(c
+%38*
+
+%37*	
+false2
+willreturn¡
+æ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php∞ ∞(
+%39"__id*8*6*
+(magento\backend\test\unit\model\menutest"
+_model¡
+æ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php∞ ∞((
+%40"__id*8*6*
+(magento\backend\test\unit\model\menutest"
+_itemsü
+ú
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php∞ ∞(1
+%41"__mapGet*
+
+%40*	
+item3òï
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php∞ ∞(2
+%42*
+
+%39*
+
+%412add¡
+æ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php≤ ≤()
+%43"__id*8*6*
+(magento\backend\test\unit\model\menutest"
+_itemsü
+ú
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php≤ ≤(2
+%44"__mapGet*
+
+%43*	
+item3¡
+æ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php≤4 ≤(A
+%45"__id*8*6*
+(magento\backend\test\unit\model\menutest"
+_modelùö
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php≤4 ≤(V
+%46*
+
+%452getfirstavailableœÃ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Unit\Model\MenuTest.php≤ ≤(W
+%47*,*
+(magento\backend\test\unit\model\menutest*
+
+%44*
+
+%462assertequals*
+2B,*
+(magento\backend\test\unit\model\menutest

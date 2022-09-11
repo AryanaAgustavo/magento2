@@ -1,0 +1,82 @@
+
+@magento\cardinalcommerce\model\request\tokenbuilder::__construct~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CardinalCommerce\Model\Request\TokenBuilder.php7 7("1*¯
+2
+TokenBuilder.php"•
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CardinalCommerce\Model\Request\TokenBuilder.phpC C(
+implicit return*î
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CardinalCommerce\Model\Request\TokenBuilder.php> >(.Ý
+Ú
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CardinalCommerce\Model\Request\TokenBuilder.php7 7(
+$jwtManagement"__id*@
+>
+$jwtManagement,magento\cardinalcommerce\model\jwtmanagementÓ
+Ð
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CardinalCommerce\Model\Request\TokenBuilder.php7 7(
+$checkoutSession"__id*4
+2
+$checkoutSessionmagento\checkout\model\sessionÈ
+Å
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CardinalCommerce\Model\Request\TokenBuilder.php7 7(	
+$config"__id*2
+0
+$config%magento\cardinalcommerce\model\configð
+í
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CardinalCommerce\Model\Request\TokenBuilder.php7 7(
+$identityGenerator"__id*O
+M
+$identityGenerator7magento\framework\dataobject\identitygeneratorinterfaceÛ
+Ø
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CardinalCommerce\Model\Request\TokenBuilder.php7 7(
+$dateTimeFactory"__id*<
+:
+$dateTimeFactory&magento\framework\intl\datetimefactoryç
+ä
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CardinalCommerce\Model\Request\TokenBuilder.php> >(-H5
+3magento\cardinalcommerce\model\request\tokenbuilder"
+jwtManagement"__id*
+
+$jwtManagementë
+è
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CardinalCommerce\Model\Request\TokenBuilder.php? ?(1J5
+3magento\cardinalcommerce\model\request\tokenbuilder"
+checkoutSession"__id*
+
+$checkoutSessionÙ
+Ö
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CardinalCommerce\Model\Request\TokenBuilder.php@ @(A5
+3magento\cardinalcommerce\model\request\tokenbuilder"
+config"__id*
+	
+$configï
+ì
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CardinalCommerce\Model\Request\TokenBuilder.phpA A(5L5
+3magento\cardinalcommerce\model\request\tokenbuilder"
+identityGenerator"__id*
+
+$identityGeneratorë
+è
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CardinalCommerce\Model\Request\TokenBuilder.phpB B(1J5
+3magento\cardinalcommerce\model\request\tokenbuilder"
+dateTimeFactory"__id*
+
+$dateTimeFactory*
+2:>
+$jwtManagement,magento\cardinalcommerce\model\jwtmanagement:2
+$checkoutSessionmagento\checkout\model\session:0
+$config%magento\cardinalcommerce\model\config:M
+$identityGenerator7magento\framework\dataobject\identitygeneratorinterface::
+$dateTimeFactory&magento\framework\intl\datetimefactoryB75
+3magento\cardinalcommerce\model\request\tokenbuilder

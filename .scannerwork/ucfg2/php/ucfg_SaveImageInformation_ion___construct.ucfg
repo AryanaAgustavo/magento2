@@ -1,0 +1,97 @@
+
+Hmagento\mediagalleryintegration\plugin\saveimageinformation::__construct†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.php> >("1*À
+2
+SaveImageInformation.php"ž
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.phpL L(
+implicit return*…
+1†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.phpF F(Ð
+Í
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.php> >(
+$filesystem"__id*-
++
+$filesystemmagento\framework\filesystem½
+º
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.php> >(
+$log"__id*!
+
+$logpsr\log\loggerinterfaceï
+ì
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.php> >(
+$isPathExcluded"__id*H
+F
+$isPathExcluded3magento\mediagalleryapi\api\ispathexcludedinterface„
+
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.php> >(
+$synchronizeFiles"__id*[
+Y
+$synchronizeFilesDmagento\mediagallerysynchronizationapi\api\synchronizefilesinterfaceÙ
+Ö
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.php> >(	
+$config"__id*:
+8
+$config-magento\mediagalleryuiapi\api\configinterfaceÃ
+À
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.php> >(
+$imageExtensions"__id*
+
+$imageExtensionsarrayä
+á
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.phpF F(F=
+;magento\mediagalleryintegration\plugin\saveimageinformation"
+log"__id*
+
+$logú
+÷
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.phpG G(/Q=
+;magento\mediagalleryintegration\plugin\saveimageinformation"
+isPathExcluded"__id*
+
+$isPathExcludedò
+ï
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.phpH H('M=
+;magento\mediagalleryintegration\plugin\saveimageinformation"
+
+filesystem"__id*
+
+$filesystemþ
+û
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.phpI I(3S=
+;magento\mediagalleryintegration\plugin\saveimageinformation"
+synchronizeFiles"__id*
+
+$synchronizeFilesê
+ç
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.phpJ J(I=
+;magento\mediagalleryintegration\plugin\saveimageinformation"
+config"__id*
+	
+$configü
+ù
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaGalleryIntegration\Plugin\SaveImageInformation.phpK K(1R=
+;magento\mediagalleryintegration\plugin\saveimageinformation"
+imageExtensions"__id*
+
+$imageExtensions*
+2:+
+$filesystemmagento\framework\filesystem:
+$logpsr\log\loggerinterface:F
+$isPathExcluded3magento\mediagalleryapi\api\ispathexcludedinterface:Y
+$synchronizeFilesDmagento\mediagallerysynchronizationapi\api\synchronizefilesinterface:8
+$config-magento\mediagalleryuiapi\api\configinterface:
+$imageExtensionsarrayB?=
+;magento\mediagalleryintegration\plugin\saveimageinformation

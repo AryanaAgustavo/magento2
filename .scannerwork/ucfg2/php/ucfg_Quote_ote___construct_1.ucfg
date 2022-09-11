@@ -1,0 +1,229 @@
+
+0magento\backend\model\session\quote::__constructn
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g("1*œ
+2p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpŠ Š(M½
+º
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpŠ Š(2
+%4"__id*:*8%
+#magento\backend\model\session\quote"
+_storeManager—”
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpŠ Š(B
+%5*
+
+%4*
+true2getstoreŠ‡
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpŠ Š(K
+%6*
+
+%52getid¸µ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpŠ Š(L
+%7*'%
+#magento\backend\model\session\quote*
+
+%62
+setstoreid*
+3*š
+3
+	Quote.php"‡
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpŒ Œ(
+implicit return*“(
+1n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpx x(8·
+´
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+
+$request"__id*0
+.
+$request"magento\framework\app\request\httpË
+È
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+$sidResolver"__id*@
+>
+$sidResolver.magento\framework\session\sidresolverinterfaceÑ
+Î
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+$sessionConfig"__id*D
+B
+$sessionConfig0magento\framework\session\config\configinterfaceË
+È
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+$saveHandler"__id*@
+>
+$saveHandler.magento\framework\session\savehandlerinterfaceÅ
+Â
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+
+$validator"__id*<
+:
+
+$validator,magento\framework\session\validatorinterface¿
+¼
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+
+$storage"__id*8
+6
+$storage*magento\framework\session\storageinterfaceÐ
+Í
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+$cookieManager"__id*C
+A
+$cookieManager/magento\framework\stdlib\cookiemanagerinterfaceæ
+ã
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+$cookieMetadataFactory"__id*Q
+O
+$cookieMetadataFactory5magento\framework\stdlib\cookie\cookiemetadatafactory²
+¯
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+	$appState"__id**
+(
+	$appStatemagento\framework\app\stateÛ
+Ø
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceÎ
+Ë
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+$quoteRepository"__id*?
+=
+$quoteRepository)magento\quote\api\cartrepositoryinterface¿
+¼
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+$orderFactory"__id*3
+1
+$orderFactory magento\sales\model\orderfactoryÈ
+Å
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÒ
+Ï
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+$groupManagement"__id*C
+A
+$groupManagement-magento\customer\api\groupmanagementinterface¿
+¼
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpg g(
+$quoteFactory"__id*3
+1
+$quoteFactory magento\quote\model\quotefactoryÑ
+Î
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpx x(7=%
+#magento\backend\model\session\quote"
+customerRepository"__id*
+
+$customerRepositoryË
+È
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpy y(1:%
+#magento\backend\model\session\quote"
+quoteRepository"__id*
+
+$quoteRepositoryÆ
+Ã
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.phpz z(,8%
+#magento\backend\model\session\quote"
+_orderFactory"__id*
+
+$orderFactoryÆ
+Ã
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.php{ {(,8%
+#magento\backend\model\session\quote"
+_storeManager"__id*
+
+$storeManagerË
+È
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.php| |(1:%
+#magento\backend\model\session\quote"
+groupManagement"__id*
+
+$groupManagementÅ
+Â
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.php} }(+7%
+#magento\backend\model\session\quote"
+quoteFactory"__id*
+
+$quoteFactoryý
+ú
+o
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.php~ ˆ(	
+%1"5magento\framework\session\sessionmanager::__construct*'%
+#magento\backend\model\session\quote*
+
+
+$request*
+
+$sidResolver*
+
+$sessionConfig*
+
+$saveHandler*
+
+
+$validator*
+
+
+$storage*
+
+$cookieManager*
+
+$cookieMetadataFactory*
+
+	$appState½
+º
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.php‰ ‰( 
+%2"__id*:*8%
+#magento\backend\model\session\quote"
+_storeManager“
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\Quote.php‰ ‰(2
+%3*
+
+%22hassinglestore*
+2
+3:.
+$request"magento\framework\app\request\http:>
+$sidResolver.magento\framework\session\sidresolverinterface:B
+$sessionConfig0magento\framework\session\config\configinterface:>
+$saveHandler.magento\framework\session\savehandlerinterface::
+
+$validator,magento\framework\session\validatorinterface:6
+$storage*magento\framework\session\storageinterface:A
+$cookieManager/magento\framework\stdlib\cookiemanagerinterface:O
+$cookieMetadataFactory5magento\framework\stdlib\cookie\cookiemetadatafactory:(
+	$appStatemagento\framework\app\state:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:=
+$quoteRepository)magento\quote\api\cartrepositoryinterface:1
+$orderFactory magento\sales\model\orderfactory::
+$storeManager)magento\store\model\storemanagerinterface:A
+$groupManagement-magento\customer\api\groupmanagementinterface:1
+$quoteFactory magento\quote\model\quotefactoryB'%
+#magento\backend\model\session\quote

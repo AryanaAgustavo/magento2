@@ -1,0 +1,149 @@
+
+>magento\reports\model\product\index\abstractindex::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpE E("1*®
+2
+AbstractIndex.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpY Y(
+implicit return*© 
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpR R(XÂ
+¿
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpE E(
+
+$context"__id*-
++
+$contextmagento\framework\model\context¿
+¼
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpE E(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÖ
+Ó
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpE E(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÑ
+Î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpE E(
+$customerVisitor"__id*4
+2
+$customerVisitormagento\customer\model\visitorÑ
+Î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpE E(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÐ
+Í
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpE E(
+$reportSession"__id*5
+3
+$reportSession!magento\framework\session\genericß
+Ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpE E(
+$productVisibility"__id*@
+>
+$productVisibility(magento\catalog\model\product\visibilityÆ
+Ã
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpE E(
+	$dateTime"__id*0
+.
+	$dateTime!magento\framework\stdlib\datetimeÛ
+Ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpE E(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceå
+â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpE E(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb¢
+Ÿ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpE E(
+$data"__id*
+
+$dataarrayÂ
+¿
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpR R(W
+%1"2magento\framework\model\abstractmodel::__construct*53
+1magento\reports\model\product\index\abstractindex*
+
+
+$context*
+
+	$registry*
+
+	$resource*
+
+$resourceCollection*	
+
+$dataâ
+ß
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpS S(,F3
+1magento\reports\model\product\index\abstractindex"
+_storeManager"__id*
+
+$storeManagerÙ
+Ö
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpT T(#A3
+1magento\reports\model\product\index\abstractindex"
+
+dateTime"__id*
+
+	$dateTimeè
+å
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpU U(2I3
+1magento\reports\model\product\index\abstractindex"
+_customerVisitor"__id*
+
+$customerVisitorè
+å
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpV V(2I3
+1magento\reports\model\product\index\abstractindex"
+_customerSession"__id*
+
+$customerSessionä
+á
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpW W(.G3
+1magento\reports\model\product\index\abstractindex"
+_reportSession"__id*
+
+$reportSessionì
+é
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\AbstractIndex.phpX X(6K3
+1magento\reports\model\product\index\abstractindex"
+_productVisibility"__id*
+
+$productVisibility*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry::
+$storeManager)magento\store\model\storemanagerinterface:2
+$customerVisitormagento\customer\model\visitor:2
+$customerSessionmagento\customer\model\session:3
+$reportSession!magento\framework\session\generic:>
+$productVisibility(magento\catalog\model\product\visibility:.
+	$dateTime!magento\framework\stdlib\datetime:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB53
+1magento\reports\model\product\index\abstractindex

@@ -1,0 +1,115 @@
+
+Kmagento\cataloggraphql\model\pricerangedataprovider::getmaximumproductprice~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.phpw w(+"1*ä
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.phpy y(c–
+Õ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.phpw w(+
+
+$product"__id*9
+7
+$product+magento\framework\pricing\saleableinterface∆
+√
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.phpw w(+
+$store"__id*1
+/
+$store%magento\store\api\data\storeinterfaceﬂ
+‹
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.phpy y(1
+%1"__id*N*L5
+3magento\cataloggraphql\model\pricerangedataprovider"
+priceProviderPool¢ü
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.phpyL y(a
+%2*
+
+
+$product2	gettypeid≥∞
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.phpy y(b
+%3*
+
+%1*
+
+%22getproviderbyproducttype£
+†
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.phpy y(b
+$priceProvider"__id*
+
+%3√¿
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.php{ {(C
+%4*
+
+$priceProvider*
+
+
+$product2getmaximalregularpriceõò
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.php{ {(O
+%5*
+
+%42getvalue§
+°
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.php{ {(O
+%6"__sanitizing_cast*
+
+%5¡æ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.php| |(A
+%7*
+
+$priceProvider*
+
+
+$product2getmaximalfinalpriceõò
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.php| |(M
+%8*
+
+%72getvalue§
+°
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.php| |(M
+%9"__sanitizing_cast*
+
+%8ÏÈ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.phpz ~(	
+%10*75
+3magento\cataloggraphql\model\pricerangedataprovider*
+
+%6*
+
+%9*
+
+
+$store2formatprice§
+°
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.phpz ~(	
+$maxPriceArray"__id*
+
+%10¡
+æ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.php (
+%11"__mapSet*
+
+$maxPriceArray*	
+model*
+
+
+$product"ó
+Ä
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\PriceRangeDataProvider.phpÅ Å(
+
+$maxPriceArray:7
+$product+magento\framework\pricing\saleableinterface:/
+$store%magento\store\api\data\storeinterfaceB75
+3magento\cataloggraphql\model\pricerangedataprovider

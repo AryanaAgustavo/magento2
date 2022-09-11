@@ -1,0 +1,107 @@
+
+Smagento\checkout\test\unit\block\cart\shippingtest::testgetserializedcheckoutconfig
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÊ Ê(3"1*°
+2
+ShippingTest.php"–
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÕ Õ(
+implicit return*ê
+1
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÌ Î(*¹
+¶
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÊ Ê(3
+$checkoutConfig"__id*
+
+$checkoutConfigarray¶
+³
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÊ Ê(3
+$expectedJson"__id*
+
+$expectedJsonstringà
+Ý
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÌ Ì(!
+%1"__id*N*L4
+2magento\checkout\test\unit\block\cart\shippingtest"
+configProviderMockÈÅ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÌ+ Ì(8
+%2*64
+2magento\checkout\test\unit\block\cart\shippingtest2once£ 
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÌ Ì(9
+%3*
+
+%1*
+
+%22expects©¦
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÌ Í(!
+%4*
+
+%3*
+	getConfig2method³°
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÌ Î()
+%5*
+
+%4*
+
+$checkoutConfig2
+willreturnæ
+ã
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÐ Ð('
+%6"__id*T*R4
+2magento\checkout\test\unit\block\cart\shippingtest"
+jsonHexTagSerializerMockÈÅ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÐ1 Ð(>
+%7*64
+2magento\checkout\test\unit\block\cart\shippingtest2once£ 
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÐ Ð(?
+%8*
+
+%6*
+
+%72expects©¦
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÐ Ñ(!
+%9*
+
+%8*
+	serialize2method²¯
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÐ Ò('
+%10*
+
+%9*
+
+$expectedJson2
+willreturnÔ
+Ñ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÔ+ Ô(7
+%11"__id*A*?4
+2magento\checkout\test\unit\block\cart\shippingtest"
+block±®
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÔ+ Ô(V
+%12*
+
+%112getserializedcheckoutconfigíê
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Test\Unit\Block\Cart\ShippingTest.phpÔ Ô(W
+%13*64
+2magento\checkout\test\unit\block\cart\shippingtest*
+
+$expectedJson*
+
+%122assertequals*
+2:
+$checkoutConfigarray:
+$expectedJsonstringB64
+2magento\checkout\test\unit\block\cart\shippingtest

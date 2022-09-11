@@ -1,0 +1,678 @@
+
+Amagento\urlrewrite\controller\urlrewritetest::requestdataproviderè
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php7 7('"1*Ü†
+1ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(
+§°
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%1"$Array£†
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php:k =(
+%2"$Array 
+«
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php:k =(
+%3"__mapSet*
+
+%2*	
+request*
+
+/page-one/…
+∆
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php:k =(
+%4"__mapSet*
+
+%2*
+
+redirect*
+
+/page-a/ï
+í
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%5"__mapSet*
+
+%1*][
+YUse Case #1: Rewrite: page-one/ --(301)--> page-a/; Request: page-one/ --(301)--> page-a/*
+
+%2£†
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php>j A(
+%6"$Array…
+∆
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php>j A(
+%7"__mapSet*
+
+%6*	
+request*
+	/page-one…
+∆
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php>j A(
+%8"__mapSet*
+
+%6*
+
+redirect*
+
+/page-a/î
+ë
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%9"__mapSet*
+
+%1*\Z
+XUse Case #2: Rewrite: page-one/ --(301)--> page-a/; Request: page-one --(301)--> page-a/*
+
+%6§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpBg E(
+%10"$ArrayÀ
+»
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpBg E(
+%11"__mapSet*
+
+%10*	
+request*
+	/page-two 
+«
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpBg E(
+%12"__mapSet*
+
+%10*
+
+redirect*	
+/page-bì
+ê
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%13"__mapSet*
+
+%1*YW
+UUse Case #3: Rewrite: page-two --(301)--> page-b; Request: page-two --(301)--> page-b*
+
+%10§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpFg I(
+%14"$ArrayÃ
+…
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpFg I(
+%15"__mapSet*
+
+%14*	
+request*
+
+/page-two/ 
+«
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpFg I(
+%16"__mapSet*
+
+%14*
+
+redirect*	
+/page-bì
+ê
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%17"__mapSet*
+
+%1*YW
+UUse Case #4: Rewrite: page-two --(301)--> page-b; Request: page-two --(301)--> page-b*
+
+%14§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpJo M(
+%18"$Arrayœ
+Ã
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpJo M(
+%19"__mapSet*
+
+%18*	
+request*
+/page-similar 
+«
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpJo M(
+%20"__mapSet*
+
+%18*
+
+redirect*	
+/page-aõ
+ò
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%21"__mapSet*
+
+%1*a_
+]Use Case #5: Rewrite: page-similar --(301)--> page-a; Request: page-similar --(301)--> page-a*
+
+%18§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpNq Q(
+%22"$Array–
+Õ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpNq Q(
+%23"__mapSet*
+
+%22*	
+request*
+/page-similar/ 
+«
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpNq Q(
+%24"__mapSet*
+
+%22*
+
+redirect*	
+/page-bù
+ö
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%25"__mapSet*
+
+%1*ca
+_Use Case #6: Rewrite: page-similar/ --(301)--> page-b; Request: page-similar/ --(301)--> page-b*
+
+%22ü
+ú
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpR S(G
+%26"__concat*:8
+6Use Case #7: Rewrite: page-similar --(301)--> page-a; *;9
+7Request: page-similar?param=1 --(301)--> page-a?param=1§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpSK V(
+%27"$Array◊
+‘
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpSK V(
+%28"__mapSet*
+
+%27*	
+request*
+/page-similar?param=1“
+œ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpSK V(
+%29"__mapSet*
+
+%27*
+
+redirect*
+/page-a?param=1√
+¿
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%30"
+__arraySet*
+
+%1*
+
+%26*
+
+%27°
+û
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpW X(H
+%31"__concat*;9
+7Use Case #8: Rewrite: page-similar/ --(301)--> page-b; *<:
+8Request: page-similar/?param=1 --(301)--> page-b?param=1§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpXL [(
+%32"$Arrayÿ
+’
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpXL [(
+%33"__mapSet*
+
+%32*	
+request*
+/page-similar/?param=1“
+œ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpXL [(
+%34"__mapSet*
+
+%32*
+
+redirect*
+/page-b?param=1√
+¿
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%35"
+__arraySet*
+
+%1*
+
+%31*
+
+%32∏
+µ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php\ ](L
+%36"__concat*NL
+JUse Case #9: Rewrite: page-similar-query-param --(301)--> page-d?param1=1;*@>
+<Request: page-similar-query-param --(301)--> page-d?param1=1§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php]P `(
+%37"$Array€
+ÿ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php]P `(
+%38"__mapSet*
+
+%37*	
+request*
+/page-similar-query-param”
+–
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php]P `(
+%39"__mapSet*
+
+%37*
+
+redirect*
+/page-d?param1=1√
+¿
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%40"
+__arraySet*
+
+%1*
+
+%36*
+
+%37Ã
+…
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpa b(^
+%41"__concat*PN
+LUse Case #10: Rewrite: page-similar-query-param --(301)--> page-d?param1=1; *RP
+NRequest: page-similar-query-param?param2=1 --(301)--> page-d?param1=1&param2=1§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpbb e(
+%42"$Array‰
+·
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpbb e(
+%43"__mapSet*
+
+%42*	
+request*&$
+"/page-similar-query-param?param2=1‹
+Ÿ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpbb e(
+%44"__mapSet*
+
+%42*
+
+redirect*
+/page-d?param1=1&param2=1√
+¿
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%45"
+__arraySet*
+
+%1*
+
+%41*
+
+%42º
+π
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpf g(M
+%46"__concat*QO
+MUse Case #11: Rewrite: page-similar-query-param/ --(301)--> page-e?param1=1; *A?
+=Request: page-similar-query-param/ --(301)--> page-e?param1=1§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpgQ j(
+%47"$Array‹
+Ÿ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpgQ j(
+%48"__mapSet*
+
+%47*	
+request*
+/page-similar-query-param/”
+–
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpgQ j(
+%49"__mapSet*
+
+%47*
+
+redirect*
+/page-e?param1=1√
+¿
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%50"
+__arraySet*
+
+%1*
+
+%46*
+
+%47Õ
+ 
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpk l(_
+%51"__concat*PN
+LUse Case #12: Rewrite: page-similar-query-param/ --(301)--> page-e?param1=1;*SQ
+ORequest: page-similar-query-param/?param2=1 --(301)--> page-e?param1=1&param2=1§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phplc o(
+%52"$ArrayÂ
+‚
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phplc o(
+%53"__mapSet*
+
+%52*	
+request*'%
+#/page-similar-query-param/?param2=1‹
+Ÿ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phplc o(
+%54"__mapSet*
+
+%52*
+
+redirect*
+/page-e?param1=1&param2=1√
+¿
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%55"
+__arraySet*
+
+%1*
+
+%51*
+
+%52›
+⁄
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpp q(n
+%56"__concat*QO
+MUse Case #13: Rewrite: page-external1 --(301)--> http://example.com/external;*b`
+^Request: page-external1?param1=1 --(301)--> http://example.com/external (not fills get params)§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpqr t(
+%57"$Array⁄
+◊
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpqr t(
+%58"__mapSet*
+
+%57*	
+request*
+/page-external1?param1=1ﬁ
+€
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpqr t(
+%59"__mapSet*
+
+%57*
+
+redirect*
+http://example.com/external√
+¿
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%60"
+__arraySet*
+
+%1*
+
+%56*
+
+%57‰
+·
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpu v(q
+%61"__concat*US
+QUse Case #14: Rewrite: page-external2/ --(301)--> https://example.com/external2/;*ec
+aRequest: page-external2?param2=1 --(301)--> https://example.com/external2/ (not fills get params)§°
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpvu y(
+%62"$Array⁄
+◊
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpvu y(
+%63"__mapSet*
+
+%62*	
+request*
+/page-external2?param2=1·
+ﬁ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpvu y(
+%64"__mapSet*
+
+%62*
+
+redirect*" 
+https://example.com/external2/√
+¿
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%65"
+__arraySet*
+
+%1*
+
+%61*
+
+%62¶
+£
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpz }(3
+%66"__concat*_]
+[Use Case #15: Rewrite: page-external3 --(301)--> http://example.com/external?param1=value1;*EC
+ARequest: page-external3?param1=custom1&param2=custom2 --(301)--> *-+
+)http://example.com/external?param1=value1*'%
+# (fills get param from target path)•¢
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php}7 Ä(
+%67"$Array
+Ì
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php}7 Ä(
+%68"__mapSet*
+
+%67*	
+request*1/
+-/page-external3?param1=custom1&param2=custom2Ì
+Í
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php}7 Ä(
+%69"__mapSet*
+
+%67*
+
+redirect*-+
+)http://example.com/external?param1=value1√
+¿
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%70"
+__arraySet*
+
+%1*
+
+%66*
+
+%67∞
+≠
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpÅ Ñ(3
+%71"__concat*ca
+_Use Case #16: Rewrite: page-external4/ --(301)--> https://example.com/external2/?param2=value2;*EC
+ARequest: page-external4?param1=custom1&param2=custom2 --(301)--> *1/
+-https://example.com/external2/?param2=value2 *'%
+# (fills get param from target path)¶£
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpÑ7 á(
+%72"$ArrayÒ
+Ó
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpÑ7 á(
+%73"__mapSet*
+
+%72*	
+request*1/
+-/page-external4?param1=custom1&param2=custom2Ò
+Ó
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpÑ7 á(
+%74"__mapSet*
+
+%72*
+
+redirect*0.
+,https://example.com/external2/?param2=value2√
+¿
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%75"
+__arraySet*
+
+%1*
+
+%71*
+
+%72¶£
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpàD å(
+%76"$Array≈
+¬
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpàD å(
+%77"__mapSet*
+
+%76*	
+request*
+/∆
+√
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpàD å(
+%78"__mapSet*
+
+%76*
+
+redirect*
+/«
+ƒ
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpàD å(
+%79"__mapSet*
+
+%76*
+expectedCode* 
+Ì
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%80"__mapSet*
+
+%1*64
+2Use Case #17: Rewrite: / --(301)--> /; No redirect*
+
+%76û
+õ
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpç é(=
+%81"__concat*A?
+=Use Case #18: Rewrite: contact/ --(301)--> contact?param1=1; *1/
+-Request: contact/ --(301)--> contact?param1=1¶£
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpéA ë(
+%82"$ArrayÃ
+…
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpéA ë(
+%83"__mapSet*
+
+%82*	
+request*
+
+contact/’
+“
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpéA ë(
+%84"__mapSet*
+
+%82*
+
+redirect*
+contact?param1=1√
+¿
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%85"
+__arraySet*
+
+%1*
+
+%81*
+
+%82√
+¿
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpí ì(P
+%86"__concat*SQ
+OUse Case #19: Rewrite: contact/?param2=2 --(301)--> contact?param1=1&param2=2; *DB
+@Request: contact/?&param2=2 --(301)--> contact?param1=1&param2=2¶£
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpìT ñ(
+%87"$Array÷
+”
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpìT ñ(
+%88"__mapSet*
+
+%87*	
+request*
+contact/?&param2=2ﬁ
+€
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.phpìT ñ(
+%89"__mapSet*
+
+%87*
+
+redirect*
+contact?param1=1&param2=2√
+¿
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(	
+%90"
+__arraySet*
+
+%1*
+
+%86*
+
+%87"õ
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Controller\UrlRewriteTest.php9 ó(
+
+
+%1B0.
+,magento\urlrewrite\controller\urlrewritetest

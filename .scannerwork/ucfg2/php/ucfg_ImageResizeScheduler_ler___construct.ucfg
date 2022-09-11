@@ -1,0 +1,83 @@
+
+>magento\mediastorage\service\imageresizescheduler::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Service\ImageResizeScheduler.php6 6("1*µ
+2
+ImageResizeScheduler.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Service\ImageResizeScheduler.phpB B(
+implicit return*Š
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Service\ImageResizeScheduler.php= =(0ß
+Ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Service\ImageResizeScheduler.php6 6(
+$bulkManagement"__id*C
+A
+$bulkManagement.magento\framework\bulk\bulkmanagementinterfaceø
+õ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Service\ImageResizeScheduler.php6 6(
+$operartionFactory"__id*Y
+W
+$operartionFactoryAmagento\asynchronousoperations\api\data\operationinterfacefactoryê
+ç
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Service\ImageResizeScheduler.php6 6(
+$identityService"__id*M
+K
+$identityService7magento\framework\dataobject\identitygeneratorinterfaceØ
+Õ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Service\ImageResizeScheduler.php6 6(
+$serializer"__id*@
+>
+$serializer/magento\framework\serialize\serializerinterfaceÛ
+Ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Service\ImageResizeScheduler.php6 6(
+$userContext"__id*B
+@
+$userContext0magento\authorization\model\usercontextinterfaceå
+â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Service\ImageResizeScheduler.php= =(/G3
+1magento\mediastorage\service\imageresizescheduler"
+bulkManagement"__id*
+
+$bulkManagementê
+ç
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Service\ImageResizeScheduler.php> >(4I3
+1magento\mediastorage\service\imageresizescheduler"
+operationFactory"__id*
+
+$operartionFactoryç
+ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Service\ImageResizeScheduler.php? ?(1H3
+1magento\mediastorage\service\imageresizescheduler"
+identityService"__id*
+
+$identityServiceÝ
+Ú
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Service\ImageResizeScheduler.php@ @('C3
+1magento\mediastorage\service\imageresizescheduler"
+
+serializer"__id*
+
+$serializerß
+Ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Service\ImageResizeScheduler.phpA A()D3
+1magento\mediastorage\service\imageresizescheduler"
+userContext"__id*
+
+$userContext*
+2:A
+$bulkManagement.magento\framework\bulk\bulkmanagementinterface:W
+$operartionFactoryAmagento\asynchronousoperations\api\data\operationinterfacefactory:K
+$identityService7magento\framework\dataobject\identitygeneratorinterface:>
+$serializer/magento\framework\serialize\serializerinterface:@
+$userContext0magento\authorization\model\usercontextinterfaceB53
+1magento\mediastorage\service\imageresizescheduler

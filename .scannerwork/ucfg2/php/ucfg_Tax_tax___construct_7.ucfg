@@ -1,0 +1,180 @@
+
+#magento\weee\model\tax::__constructa
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpk k("1*Š
+2	
+Tax.php"z
+c
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpƒ ƒ(
+implicit return*É 
+1a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpz z(5§
+¤
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpk k(
+
+$context"__id*-
++
+$contextmagento\framework\model\context¤
+¡
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpk k(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÃ
+À
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpk k(
+$attributeFactory"__id*@
+>
+$attributeFactory)magento\eav\model\entity\attributefactory»
+¸
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpk k(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÂ
+¿
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpk k(
+$calculationFactory"__id*=
+;
+$calculationFactory$magento\tax\model\calculationfactory¶
+³
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpk k(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionË
+È
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpk k(
+$accountManagement"__id*G
+E
+$accountManagement/magento\customer\api\accountmanagementinterfaceŸ
+œ
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpk k(
+
+$taxData"__id*%
+#
+$taxDatamagento\tax\helper\data®
+«
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpk k(
+	$resource"__id*3
+1
+	$resource$magento\weee\model\resourcemodel\tax§
+¤
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpk k(
+$weeeConfig"__id**
+(
+$weeeConfigmagento\weee\model\configÄ
+Á
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpk k(
+$priceCurrency"__id*D
+B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterfaceÊ
+Ç
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpk k(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb‡
+„
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpk k(
+$data"__id*
+
+$dataarray´
+±
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.phpz z(4/
+magento\weee\model\tax"
+_attributeFactory"__id*
+
+$attributeFactory¬
+©
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.php{ {(,+
+magento\weee\model\tax"
+_storeManager"__id*
+
+$storeManager¸
+µ
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.php| |(81
+magento\weee\model\tax"
+_calculationFactory"__id*
+
+$calculationFactory²
+¯
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.php} }(2.
+magento\weee\model\tax"
+_customerSession"__id*
+
+$customerSessionµ
+²
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.php~ ~(5/
+magento\weee\model\tax"
+accountManagement"__id*
+
+$accountManagement¢
+Ÿ
+a
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.php ("&
+magento\weee\model\tax"
+
+_taxData"__id*
+
+
+$taxData©
+¦
+c
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.php€ €('(
+magento\weee\model\tax"
+
+weeeConfig"__id*
+
+$weeeConfig¯
+¬
+c
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.php (-+
+magento\weee\model\tax"
+priceCurrency"__id*
+
+$priceCurrencyŽ
+‹
+c
+WC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\Tax.php‚ ‚(W
+%1"2magento\framework\model\abstractmodel::__construct*
+magento\weee\model\tax*
+
+
+$context*
+
+	$registry*
+
+	$resource*
+
+$resourceCollection*	
+
+$data*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:>
+$attributeFactory)magento\eav\model\entity\attributefactory::
+$storeManager)magento\store\model\storemanagerinterface:;
+$calculationFactory$magento\tax\model\calculationfactory:2
+$customerSessionmagento\customer\model\session:E
+$accountManagement/magento\customer\api\accountmanagementinterface:#
+$taxDatamagento\tax\helper\data:1
+	$resource$magento\weee\model\resourcemodel\tax:(
+$weeeConfigmagento\weee\model\config:B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterface:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB
+magento\weee\model\tax

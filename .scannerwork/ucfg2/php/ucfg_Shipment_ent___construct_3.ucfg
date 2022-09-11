@@ -1,0 +1,152 @@
+
+/magento\sales\model\order\shipment::__constructm
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpz z("1*œ
+2
+Shipment.php"†
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.php– –(
+implicit return*§ 
+1o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpˆ ˆ(O³
+°
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpz z(
+
+$context"__id*-
++
+$contextmagento\framework\model\context°
+­
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpz z(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÖ
+Ó
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpz z(
+$extensionFactory"__id*G
+E
+$extensionFactory0magento\framework\api\extensionattributesfactoryÝ
+Ú
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpz z(
+$customAttributeFactory"__id*H
+F
+$customAttributeFactory+magento\framework\api\attributevaluefactory‡
+„
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpz z( 
+$shipmentItemCollectionFactory"__id*k
+i
+$shipmentItemCollectionFactoryGmagento\sales\model\resourcemodel\order\shipment\item\collectionfactoryú
+÷
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpz z(
+$trackCollectionFactory"__id*e
+c
+$trackCollectionFactoryHmagento\sales\model\resourcemodel\order\shipment\track\collectionfactoryÓ
+Ð
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpz z(
+$commentFactory"__id*F
+D
+$commentFactory1magento\sales\model\order\shipment\commentfactory€
+ý
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpz z(
+$commentCollectionFactory"__id*i
+g
+$commentCollectionFactoryJmagento\sales\model\resourcemodel\order\shipment\comment\collectionfactoryÎ
+Ë
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpz z(
+$orderRepository"__id*@
+>
+$orderRepository*magento\sales\api\orderrepositoryinterfaceÌ
+É
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpz z(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceÖ
+Ó
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpz z(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb“
+
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpz z(
+$data"__id*
+
+$dataarrayè
+å
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpˆ ˆ(NH$
+"magento\sales\model\order\shipment" 
+_shipmentItemCollectionFactory"__id*"
+ 
+$shipmentItemCollectionFactoryÚ
+×
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.php‰ ‰(@A$
+"magento\sales\model\order\shipment"
+_trackCollectionFactory"__id*
+
+$trackCollectionFactoryÊ
+Ç
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpŠ Š(09$
+"magento\sales\model\order\shipment"
+_commentFactory"__id*
+
+$commentFactoryÞ
+Û
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.php‹ ‹(DC$
+"magento\sales\model\order\shipment"
+_commentCollectionFactory"__id*
+
+$commentCollectionFactoryË
+È
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.phpŒ Œ(19$
+"magento\sales\model\order\shipment"
+orderRepository"__id*
+
+$orderRepositoryÖ
+Ó
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Shipment.php •(	
+%1".magento\sales\model\abstractmodel::__construct*&$
+"magento\sales\model\order\shipment*
+
+
+$context*
+
+	$registry*
+
+$extensionFactory*
+
+$customAttributeFactory*
+
+	$resource*
+
+$resourceCollection*	
+
+$data*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:E
+$extensionFactory0magento\framework\api\extensionattributesfactory:F
+$customAttributeFactory+magento\framework\api\attributevaluefactory:i
+$shipmentItemCollectionFactoryGmagento\sales\model\resourcemodel\order\shipment\item\collectionfactory:c
+$trackCollectionFactoryHmagento\sales\model\resourcemodel\order\shipment\track\collectionfactory:D
+$commentFactory1magento\sales\model\order\shipment\commentfactory:g
+$commentCollectionFactoryJmagento\sales\model\resourcemodel\order\shipment\comment\collectionfactory:>
+$orderRepository*magento\sales\api\orderrepositoryinterface:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB&$
+"magento\sales\model\order\shipment

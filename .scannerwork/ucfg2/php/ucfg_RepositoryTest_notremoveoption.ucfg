@@ -1,0 +1,281 @@
+
+kmagento\catalog\test\unit\model\product\option\repositorytest::testdeletebyidentifierwhencannotremoveoptionŠ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÍ Í(@"1*¾
+2
+RepositoryTest.php"¢
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpä ä(
+implicit return*–G
+1Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÏ Ï(T¡ž
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÏ Ï(S
+%1*A?
+=magento\catalog\test\unit\model\product\option\repositorytest*53
+1Magento\Framework\Exception\CouldNotSaveException2expectexception©
+¦
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÐ Ð(
+	$optionId"__id*2¹
+¶
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÑ Ñ(&
+$productSku"__id*
+simple_productú
+÷
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÒ Ò($
+%2"__id*\*Z?
+=magento\catalog\test\unit\model\product\option\repositorytest"
+productRepositoryMockßÜ
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÓ Ó(#
+%3*A?
+=magento\catalog\test\unit\model\product\option\repositorytest2once¯¬
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÒ Ó($
+%4*
+
+%2*
+
+%32expects¯¬
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÒ Ô(
+%5*
+
+%4*
+get2method¿¼
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÒ Õ(%
+%6*
+
+%5*
+
+$productSku*
+true2withð
+í
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÖ Ö(+
+%7"__id*R*P?
+=magento\catalog\test\unit\model\product\option\repositorytest"
+productMock²¯
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÒ Ö(,
+%8*
+
+%6*
+
+%72
+willreturnð
+í
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.php× ×(
+%9"__id*R*P?
+=magento\catalog\test\unit\model\product\option\repositorytest"
+productMockàÝ
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.php×$ ×(1
+%10*A?
+=magento\catalog\test\unit\model\product\option\repositorytest2once±®
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.php× ×(2
+%11*
+
+%9*
+
+%102expects¸µ
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.php× ×(H
+%12*
+
+%11*
+
+getOptions2methodŸœ
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.php×U ×(u
+%13"$Arrayð
+í
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.php×c ×(t
+%14"__id*Q*O?
+=magento\catalog\test\unit\model\product\option\repositorytest"
+
+optionMockÄ
+Á
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.php×U ×(u
+%15"
+__arraySet*
+
+%13*
+
+	$optionId*
+
+%14µ²
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.php× ×(v
+%16*
+
+%12*
+
+%132
+willreturnñ
+î
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpØ Ø(
+%17"__id*R*P?
+=magento\catalog\test\unit\model\product\option\repositorytest"
+productMockàÝ
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÙ Ù(#
+%18*A?
+=magento\catalog\test\unit\model\product\option\repositorytest2once²¯
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpØ Ù($
+%19*
+
+%17*
+
+%182expects»¸
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpØ Ú(%
+%20*
+
+%19*
+getOptionById2methodµ²
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpØ Û(
+%21*
+
+%20*
+
+	$optionId2withð
+í
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÜ Ü(*
+%22"__id*Q*O?
+=magento\catalog\test\unit\model\product\option\repositorytest"
+
+optionMockµ²
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpØ Ü(+
+%23*
+
+%21*
+
+%222
+willreturnø
+õ
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÝ Ý(!
+%24"__id*Y*W?
+=magento\catalog\test\unit\model\product\option\repositorytest"
+optionResourceMockàÝ
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÝ+ Ý(8
+%25*A?
+=magento\catalog\test\unit\model\product\option\repositorytest2once²¯
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÝ Ý(9
+%26*
+
+%24*
+
+%252expects´±
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÝ Ý(K
+%27*
+
+%26*
+
+delete2methodð
+í
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÝR Ý(c
+%28"__id*Q*O?
+=magento\catalog\test\unit\model\product\option\repositorytest"
+
+optionMock¯¬
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÝ Ý(d
+%29*
+
+%27*
+
+%282withû
+ø
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÞ Þ($
+%30"__id*\*Z?
+=magento\catalog\test\unit\model\product\option\repositorytest"
+productRepositoryMockàÝ
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpß ß(#
+%31*A?
+=magento\catalog\test\unit\model\product\option\repositorytest2once²¯
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÞ ß($
+%32*
+
+%30*
+
+%312expects²¯
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÞ à(
+%33*
+
+%32*
+save2methodñ
+î
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpá á(%
+%34"__id*R*P?
+=magento\catalog\test\unit\model\product\option\repositorytest"
+productMock¯¬
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÞ á(&
+%35*
+
+%33*
+
+%342with¢Ÿ
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpâ! â(1
+%36"	exception¸
+µ
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpâ! â(1
+%37"exception::__construct*
+
+%36½º
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpÞ â(2
+%38*
+
+%35*
+
+%362willthrowexceptionö
+ó
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpã ã(1
+%39"__id*W*U?
+=magento\catalog\test\unit\model\product\option\repositorytest"
+optionRepositoryÔÑ
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpã ã(]
+%40*
+
+%39*
+
+$productSku*
+
+	$optionId2deletebyidentifierïì
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Option\RepositoryTest.phpã ã(^
+%41*A?
+=magento\catalog\test\unit\model\product\option\repositorytest*
+
+%402
+asserttrue*
+2BA?
+=magento\catalog\test\unit\model\product\option\repositorytest

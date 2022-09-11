@@ -1,0 +1,45 @@
+
+Vmagento\graphql\configurableproduct\configurableproductmultiplestoreviewtest::getquery²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductMultipleStoreViewTest.phpO O("1*Á
+1²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductMultipleStoreViewTest.phpQ g(Ø
+Õ
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductMultipleStoreViewTest.phpO O(
+$sku"__id*
+
+$skustringë
+è
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductMultipleStoreViewTest.phpQ g(
+%1"__concat*86
+4        {
+            products(filter: {sku: {eq: "*ÜÙ
+Ö"}})
+            {
+                items {
+                    sku
+                    ... on ConfigurableProduct {
+                        variants {
+                            product {
+                                sku
+                                stock_status
+                            }
+                            attributes {
+                                code
+                                label
+                                value_index
+                            }
+                        }
+                    }
+                }
+            }
+        }*
+
+$sku"½
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductMultipleStoreViewTest.phpQ g(
+
+%1:
+$skustringBPN
+Lmagento\graphql\configurableproduct\configurableproductmultiplestoreviewtest

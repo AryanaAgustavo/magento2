@@ -1,0 +1,95 @@
+
+Smagento\sales\controller\adminhtml\invoice\abstractinvoice\pdfinvoices::__construct’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Invoice\AbstractInvoice\Pdfinvoices.php6 6("1*Ã
+2
+Pdfinvoices.php"ª
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Invoice\AbstractInvoice\Pdfinvoices.phpC C(
+implicit return*Â
+1’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Invoice\AbstractInvoice\Pdfinvoices.php> >(*Ü
+Ù
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Invoice\AbstractInvoice\Pdfinvoices.php6 6(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÞ
+Û
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Invoice\AbstractInvoice\Pdfinvoices.php6 6(	
+$filter"__id*3
+1
+$filter&magento\ui\component\massaction\filteræ
+ã
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Invoice\AbstractInvoice\Pdfinvoices.php6 6(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetimeñ
+î
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Invoice\AbstractInvoice\Pdfinvoices.php6 6(
+$fileFactory"__id*A
+?
+$fileFactory/magento\framework\app\response\http\filefactoryå
+â
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Invoice\AbstractInvoice\Pdfinvoices.php6 6(
+$pdfInvoice"__id*6
+4
+$pdfInvoice%magento\sales\model\order\pdf\invoice
+Œ
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Invoice\AbstractInvoice\Pdfinvoices.php6 6(
+$collectionFactory"__id*Y
+W
+$collectionFactoryAmagento\sales\model\resourcemodel\order\invoice\collectionfactory‹
+ˆ
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Invoice\AbstractInvoice\Pdfinvoices.php> >()YH
+Fmagento\sales\controller\adminhtml\invoice\abstractinvoice\pdfinvoices"
+fileFactory"__id*
+
+$fileFactory…
+‚
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Invoice\AbstractInvoice\Pdfinvoices.php? ?(#VH
+Fmagento\sales\controller\adminhtml\invoice\abstractinvoice\pdfinvoices"
+
+dateTime"__id*
+
+	$dateTime‰
+†
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Invoice\AbstractInvoice\Pdfinvoices.php@ @('XH
+Fmagento\sales\controller\adminhtml\invoice\abstractinvoice\pdfinvoices"
+
+pdfInvoice"__id*
+
+$pdfInvoice—
+”
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Invoice\AbstractInvoice\Pdfinvoices.phpA A(5_H
+Fmagento\sales\controller\adminhtml\invoice\abstractinvoice\pdfinvoices"
+collectionFactory"__id*
+
+$collectionFactoryÏ
+Ì
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Invoice\AbstractInvoice\Pdfinvoices.phpB B(.
+%1"Hmagento\sales\controller\adminhtml\order\abstractmassaction::__construct*JH
+Fmagento\sales\controller\adminhtml\invoice\abstractinvoice\pdfinvoices*
+
+
+$context*
+	
+$filter*
+2:.
+$context"magento\backend\app\action\context:1
+$filter&magento\ui\component\massaction\filter:7
+	$dateTime*magento\framework\stdlib\datetime\datetime:?
+$fileFactory/magento\framework\app\response\http\filefactory:4
+$pdfInvoice%magento\sales\model\order\pdf\invoice:W
+$collectionFactoryAmagento\sales\model\resourcemodel\order\invoice\collectionfactoryBJH
+Fmagento\sales\controller\adminhtml\invoice\abstractinvoice\pdfinvoices

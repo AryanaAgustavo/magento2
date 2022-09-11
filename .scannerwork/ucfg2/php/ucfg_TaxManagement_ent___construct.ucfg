@@ -1,0 +1,82 @@
+
+8magento\tax\model\sales\order\taxmanagement::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Sales\Order\TaxManagement.php1 1("1*¨
+2
+TaxManagement.php"
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Sales\Order\TaxManagement.php= =(
+implicit return*×
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Sales\Order\TaxManagement.php8 8(,Ç
+Ä
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Sales\Order\TaxManagement.php1 1(
+$orderFactory"__id*3
+1
+$orderFactory magento\sales\model\orderfactoryì
+é
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Sales\Order\TaxManagement.php1 1(
+$orderItemTaxFactory"__id*Q
+O
+$orderItemTaxFactory7magento\sales\model\resourcemodel\order\tax\itemfactoryƒ
+€
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Sales\Order\TaxManagement.php1 1(#
+!$orderTaxDetailsDataObjectFactory"__id*[
+Y
+!$orderTaxDetailsDataObjectFactory4magento\tax\api\data\ordertaxdetailsinterfacefactoryñ
+î
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Sales\Order\TaxManagement.php1 1(
+$itemDataObjectFactory"__id*T
+R
+$itemDataObjectFactory8magento\tax\api\data\ordertaxdetailsiteminterfacefactoryƒ
+€
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Sales\Order\TaxManagement.php1 1(
+$appliedTaxDataObjectFactory"__id*`
+^
+$appliedTaxDataObjectFactory>magento\tax\api\data\ordertaxdetailsappliedtaxinterfacefactoryÕ
+Ò
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Sales\Order\TaxManagement.php8 8(+?-
++magento\tax\model\sales\order\taxmanagement"
+orderFactory"__id*
+
+$orderFactoryã
+à
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Sales\Order\TaxManagement.php9 9(9F-
++magento\tax\model\sales\order\taxmanagement"
+orderItemTaxFactory"__id*
+
+$orderItemTaxFactoryý
+ú
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Sales\Order\TaxManagement.php: :(SS-
++magento\tax\model\sales\order\taxmanagement""
+ orderTaxDetailsDataObjectFactory"__id*%
+#
+!$orderTaxDetailsDataObjectFactoryç
+ä
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Sales\Order\TaxManagement.php; ;(=H-
++magento\tax\model\sales\order\taxmanagement"
+itemDataObjectFactory"__id*
+
+$itemDataObjectFactoryó
+ð
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Sales\Order\TaxManagement.php< <(IN-
++magento\tax\model\sales\order\taxmanagement"
+appliedTaxDataObjectFactory"__id* 
+
+$appliedTaxDataObjectFactory*
+2:1
+$orderFactory magento\sales\model\orderfactory:O
+$orderItemTaxFactory7magento\sales\model\resourcemodel\order\tax\itemfactory:Y
+!$orderTaxDetailsDataObjectFactory4magento\tax\api\data\ordertaxdetailsinterfacefactory:R
+$itemDataObjectFactory8magento\tax\api\data\ordertaxdetailsiteminterfacefactory:^
+$appliedTaxDataObjectFactory>magento\tax\api\data\ordertaxdetailsappliedtaxinterfacefactoryB/-
++magento\tax\model\sales\order\taxmanagement

@@ -1,0 +1,142 @@
+
+Gmagento\catalog\ui\component\category\form\element\wysiwyg::__construct…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php2 2("1*²
+2
+Wysiwyg.php"
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.phpB B(
+implicit return*Ñ
+1…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php= =( è
+å
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php2 2(
+
+$context"__id*I
+G
+$context;magento\framework\view\element\uicomponent\contextinterface×
+Ô
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php2 2(
+$formFactory"__id*4
+2
+$formFactory"magento\framework\data\formfactoryå
+â
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php2 2(
+$wysiwygConfig"__id*@
+>
+$wysiwygConfig,magento\ui\component\wysiwyg\configinterfaceÑ
+Î
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php2 2(	
+$layout"__id*3
+1
+$layout&magento\framework\view\layoutinterfaceÔ
+Ñ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php2 2(
+$backendHelper"__id*/
+-
+$backendHelpermagento\backend\helper\dataó
+ð
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php2 2(
+$attrRepository"__id*M
+K
+$attrRepository8magento\catalog\api\categoryattributerepositoryinterface¸
+µ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php2 2(
+$components"__id*
+
+$componentsarray¬
+©
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php2 2(
+$data"__id*
+
+$dataarray°
+­
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php2 2(	
+$config"__id*
+
+$configarrayè
+å
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php= =(H<
+:magento\catalog\ui\component\category\form\element\wysiwyg"
+layout"__id*
+	
+$layoutö
+ó
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php> >(-O<
+:magento\catalog\ui\component\category\form\element\wysiwyg"
+backendHelper"__id*
+
+$backendHelper°
+­
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php@8 @(E
+%1"__mapGet*	
+
+$data*
+name³°
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php@# @(F
+%2*
+
+$attrRepository*
+
+%12get®«
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php@# @(]
+%3*
+
+%22getiswysiwygenabled¬
+©
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php@ @(]
+%4"__sanitizing_cast*
+
+%3½
+º
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.php@ @(
+%5"__mapSet*
+	
+$config*	
+wysiwyg*
+
+%4æ
+ã
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\Component\Category\Form\Element\Wysiwyg.phpA A(`
+%6"6magento\ui\component\form\element\wysiwyg::__construct*><
+:magento\catalog\ui\component\category\form\element\wysiwyg*
+
+
+$context*
+
+$formFactory*
+
+$wysiwygConfig*
+
+$components*	
+
+$data*
+	
+$config*
+2:G
+$context;magento\framework\view\element\uicomponent\contextinterface:2
+$formFactory"magento\framework\data\formfactory:>
+$wysiwygConfig,magento\ui\component\wysiwyg\configinterface:1
+$layout&magento\framework\view\layoutinterface:-
+$backendHelpermagento\backend\helper\data:K
+$attrRepository8magento\catalog\api\categoryattributerepositoryinterface:
+$componentsarray:
+$dataarray:
+$configarrayB><
+:magento\catalog\ui\component\category\form\element\wysiwyg

@@ -1,0 +1,88 @@
+
+Smagento\wishlist\model\wishlisttest::testaddnewiteminvalidwishlistitemconfiguration…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phpa a(B"1*·
+2
+WishlistTest.php"
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phpi i(
+implicit return*
+1…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phpc c(¬
+©
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phpc c(
+$productSku"__id*
+
+simple¦
+£
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phpd d(
+$customerId"__id*2×
+Ô
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phpe e(+
+%1"__id*>*<%
+#magento\wishlist\model\wishlisttest"
+productRepository¯¬
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phpe e(=
+%2*
+
+%1*
+
+$productSku2get¥
+¢
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phpe e(=
+
+$product"__id*
+
+%2Ý
+Ú
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phpf f(2
+%3"__id*D*B%
+#magento\wishlist\model\wishlisttest"
+getWishlistByCustomerId³°
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phpf f(H
+%4*
+
+%3*
+
+$customerId2execute¦
+£
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phpf f(H
+	$wishlist"__id*
+
+%4«¨
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phpg% g(j
+%5"invalidargumentexceptionê
+ç
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phpg% g(j
+%6"%invalidargumentexception::__construct*
+
+%5*(&
+$Invalid wishlist item configuration.ÙÖ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phpg g(k
+%7*'%
+#magento\wishlist\model\wishlisttest*
+
+%52expectexceptionobjectÈÅ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Wishlist\Model\WishlistTest.phph h(3
+%8*
+
+	$wishlist*
+
+
+$product*
+
+{"qty":22
+addnewitem*
+2B'%
+#magento\wishlist\model\wishlisttest

@@ -1,0 +1,93 @@
+
+Vmagento\customer\block\adminhtml\edit\tab\newslettertest::testrenderingnewsletterblockõ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.php? ?(0"1*œ
+2
+NewsletterTest.php"≥
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpN N(
+implicit return*¥
+1õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpA A(ª
+∏
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpA A(
+
+$websiteId"__id*2ÒÓ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpB B(
+%1*<:
+8magento\customer\block\adminhtml\edit\tab\newslettertest2
+getrequest«ƒ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpB B(.
+%2*
+
+%1*
+id*22setparamêç
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpC C(6
+%3*<:
+8magento\customer\block\adminhtml\edit\tab\newslettertest*
+backend/customer/index/edit2dispatchÚÔ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpD D($
+%4*<:
+8magento\customer\block\adminhtml\edit\tab\newslettertest2getresponse∏µ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpD D(/
+%5*
+
+%42getbody∏
+µ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpD D(/
+$body"__id*
+
+%5 «
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpF F(l
+%6*<:
+8magento\customer\block\adminhtml\edit\tab\newslettertest*<:
+8\u003Cspan\u003ENewsletter Information\u003C\/span\u003E*	
+
+$body2assertstringcontainsstringˇ
+¸
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpH H(R
+%7"__concat*42
+0\u003Cinput id=\"_newslettersubscription_status_*
+
+
+$websiteId*
+\"îë
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpG J(	
+%8*<:
+8magento\customer\block\adminhtml\edit\tab\newslettertest*
+
+%7*	
+
+$body2assertstringcontainsstring¶£
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpK K(H
+%9*<:
+8magento\customer\block\adminhtml\edit\tab\newslettertest*
+checked="checked"*	
+
+$body2assertstringnotcontainsstringÕ 
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpL L(n
+%10*<:
+8magento\customer\block\adminhtml\edit\tab\newslettertest*><
+:\u003Cspan\u003ESubscribed to Newsletter\u003C\/span\u003E*	
+
+$body2assertstringcontainsstring≤Ø
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Adminhtml\Edit\Tab\NewsletterTest.phpM M(S
+%11*<:
+8magento\customer\block\adminhtml\edit\tab\newslettertest*#!
+\u003ENo Newsletter Found\u003C*	
+
+$body2assertstringcontainsstring*
+2B<:
+8magento\customer\block\adminhtml\edit\tab\newslettertest

@@ -1,0 +1,135 @@
+
+?magento\graphql\catalog\categorytest::testcategoriestreesortingã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpÂ Â(-"1*Ω
+2
+CategoryTest.php"£
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpä ä(
+implicit return*ß 
+1ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpÁ Á(∞
+≠
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpÁ Á(
+$rootCategoryId"__id*2π
+∂
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpË Û(
+%1"__concat*
+{
+  category(id: *ig
+e) {
+      children {
+        name
+        children {
+          name
+        }
+      }
+    }
+}*
+
+$rootCategoryId©
+¶
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpË Û(
+$query"__id*
+
+%1€ÿ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpÙ Ù(/
+%2*(&
+$magento\graphql\catalog\categorytest*
+
+
+$query2graphqlquery¨
+©
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpÙ Ù(/
+	$response"__id*
+
+%2∆√
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpı ı(7
+$responseDataObject"magento\framework\dataobjectÍ
+Á
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpı ı(7
+%3")magento\framework\dataobject::__construct*
+
+$responseDataObject*
+
+	$response◊‘
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.php¯ ¯(D
+%4*
+
+$responseDataObject*
+category/children/0/name2getdataé
+ã
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpˆ ˘(	
+%5"2magento\graphql\catalog\categorytest::assertequals*("&
+$magento\graphql\catalog\categorytest*
+Category 12*
+
+%4◊‘
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.php¸ ¸(D
+%6*
+
+$responseDataObject*
+category/children/1/name2getdataç
+ä
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.php˙ ˝(	
+%7"2magento\graphql\catalog\categorytest::assertequals*("&
+$magento\graphql\catalog\categorytest*
+
+Category 1*
+
+%6◊‘
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpÄ Ä(D
+%8*
+
+$responseDataObject*
+category/children/2/name2getdataç
+ä
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.php˛ Å(	
+%9"2magento\graphql\catalog\categorytest::assertequals*("&
+$magento\graphql\catalog\categorytest*
+
+Category 2*
+
+%8„‡
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpÑ Ñ(O
+%10*
+
+$responseDataObject*'%
+#category/children/1/children/0/name2getdataë
+é
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpÇ Ö(	
+%11"2magento\graphql\catalog\categorytest::assertequals*("&
+$magento\graphql\catalog\categorytest*
+Category 1.2*
+
+%10„‡
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpà à(O
+%12*
+
+$responseDataObject*'%
+#category/children/1/children/1/name2getdataë
+é
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpÜ â(	
+%13"2magento\graphql\catalog\categorytest::assertequals*("&
+$magento\graphql\catalog\categorytest*
+Category 1.1*
+
+%12*
+2B(&
+$magento\graphql\catalog\categorytest

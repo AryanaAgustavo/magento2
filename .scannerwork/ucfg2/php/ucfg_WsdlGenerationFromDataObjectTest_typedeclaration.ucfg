@@ -1,0 +1,294 @@
+
+Pmagento\webapi\wsdlgenerationfromdataobjecttest::_checkreferencedtypedeclarationó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php› ›(6"1*Ÿ
+2ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php· ˇ(Ï
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÂ! Â(0
+%2"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÏ
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÎ) Î(8
+%3"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlï
+í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php· ˇ(
+%4"__concat*ıÚ
+Ô<xsd:complexType name="TestModule5V2EntityAllSoapAndRest">
+    <xsd:annotation>
+        <xsd:documentation>Some Data Object short description. Data Object long multi line description.</xsd:documentation>
+        <xsd:appinfo xmlns:inf="*ÒÓ
+Î"/>
+    </xsd:annotation>
+    <xsd:sequence>
+        <xsd:element name="price" minOccurs="1" maxOccurs="1" type="xsd:int">
+            <xsd:annotation>
+                <xsd:documentation/>
+                <xsd:appinfo xmlns:inf="*ÈÊ
+„">
+                    <inf:min/>
+                    <inf:max/>
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV2Item</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV2Create</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV2Update</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV2Delete</inf:callName>
+                        <inf:returned>Always</inf:returned>
+                    </inf:callInfo>
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV2Create</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV2Update</inf:callName>
+                        <inf:requiredInput>Yes</inf:requiredInput>
+                    </inf:callInfo>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+    </xsd:sequence>
+</xsd:complexType>*
+
+%2*
+
+%3æ
+ª
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php· ˇ(
+$referencedType"__id*
+
+%4*
+4*ÉE
+3ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÅ Ù(Ï
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÖ! Ö(0
+%5"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÏ
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpã) ã(8
+%6"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÏ
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php°) °(8
+%7"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÏ
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php∂) ∂(8
+%8"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÏ
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÀ) À(8
+%9"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÌ
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php‡) ‡(8
+%10"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÅ7
+˛6
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÅ Ù(
+%11"__concat*ıÚ
+Ô<xsd:complexType name="TestModule5V1EntityAllSoapAndRest">
+    <xsd:annotation>
+        <xsd:documentation>Some Data Object short description. Data Object long multi line description.</xsd:documentation>
+        <xsd:appinfo xmlns:inf="*éã
+à"/>
+    </xsd:annotation>
+    <xsd:sequence>
+        <xsd:element name="entityId" minOccurs="1" maxOccurs="1" type="xsd:int">
+            <xsd:annotation>
+                <xsd:documentation>Item ID</xsd:documentation>
+                <xsd:appinfo xmlns:inf="*ˇ	¸	
+˘	">
+                    <inf:min/>
+                    <inf:max/>
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV1Item</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Create</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Update</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1NestedUpdate</inf:callName>
+                        <inf:returned>Always</inf:returned>
+                    </inf:callInfo>
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV1Create</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Update</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1NestedUpdate</inf:callName>
+                        <inf:requiredInput>Yes</inf:requiredInput>
+                    </inf:callInfo>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="name" minOccurs="0" maxOccurs="1" type="xsd:string">
+            <xsd:annotation>
+                <xsd:documentation>Item name</xsd:documentation>
+                <xsd:appinfo xmlns:inf="*˙	˜	
+Ù	">
+                    <inf:maxLength/>
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV1Item</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Create</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Update</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1NestedUpdate</inf:callName>
+                        <inf:returned>Conditionally</inf:returned>
+                    </inf:callInfo>
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV1Create</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Update</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1NestedUpdate</inf:callName>
+                        <inf:requiredInput>No</inf:requiredInput>
+                    </inf:callInfo>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="enabled" minOccurs="1" maxOccurs="1" type="xsd:boolean">
+            <xsd:annotation>
+                <xsd:documentation>If entity is enabled</xsd:documentation>
+                <xsd:appinfo xmlns:inf="*ù
+ö
+
+ó
+">
+                    <inf:default>false</inf:default>
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV1Item</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Create</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Update</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1NestedUpdate</inf:callName>
+                        <inf:returned>Conditionally</inf:returned>
+                    </inf:callInfo>
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV1Create</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Update</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1NestedUpdate</inf:callName>
+                        <inf:requiredInput>No</inf:requiredInput>
+                    </inf:callInfo>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="orders" minOccurs="1" maxOccurs="1" type="xsd:boolean">
+            <xsd:annotation>
+                <xsd:documentation>If current entity has a property defined</xsd:documentation>
+                <xsd:appinfo xmlns:inf="*•
+¢
+
+ü
+">
+                    <inf:default>false</inf:default>
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV1Item</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Create</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Update</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1NestedUpdate</inf:callName>
+                        <inf:returned>Conditionally</inf:returned>
+                    </inf:callInfo>
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV1Create</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Update</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1NestedUpdate</inf:callName>
+                        <inf:requiredInput>No</inf:requiredInput>
+                    </inf:callInfo>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="customAttributes" type="tns:ArrayOfFrameworkAttributeInterface" minOccurs="0">
+            <xsd:annotation>
+                <xsd:documentation>Custom attributes values.</xsd:documentation>
+                <xsd:appinfo xmlns:inf="*œÃ
+…">
+                    <inf:natureOfType>array</inf:natureOfType>
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV1Item</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Create</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Update</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1NestedUpdate</inf:callName>
+                        <inf:returned>Conditionally</inf:returned>
+                    </inf:callInfo>
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV1Create</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1Update</inf:callName>
+                        <inf:callName>testModule5AllSoapAndRestV1NestedUpdate</inf:callName>
+                        <inf:requiredInput>No</inf:requiredInput>
+                    </inf:callInfo>
+                </xsd:appinfo>
+            </xsd:annotation>
+    </xsd:element>
+    </xsd:sequence>
+</xsd:complexType>*
+
+%5*
+
+%6*
+
+%7*
+
+%8*
+
+%9*
+
+%10ø
+º
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÅ Ù(
+$referencedType"__id*
+
+%11*
+4*§
+4ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php˜ ˚(
+ÉÄ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php¯ ¯(7
+%12*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$referencedType2_convertxmltostring˘ˆ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php˜ ˚(	
+%13*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%12*
+
+$wsdlContent*ge
+cDeclaration of complex type generated from Data Object, which is referenced in response, is invalid2assertstringcontainsstring*
+5*›
+5&
+$WsdlGenerationFromDataObjectTest.php"Ø
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php¸ ¸(
+implicit return*õ
+1ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php‡ ‡("Û
+
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php‡ ‡("
+%1"__id*H*F1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+isSingleService*
+2
+3:
+$wsdlContentB31
+/magento\webapi\wsdlgenerationfromdataobjecttest

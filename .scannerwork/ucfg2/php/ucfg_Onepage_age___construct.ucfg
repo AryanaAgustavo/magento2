@@ -1,0 +1,399 @@
+
+0magento\checkout\model\type\onepage::__constructp
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’("1*ú
+2
+Onepage.php"á
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpç ç(
+implicit return*úX
+1p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpÚ Ú(-…
+∆
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterface±
+Æ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(	
+$helper"__id*)
+'
+$helpermagento\checkout\helper\dataπ
+∂
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$customerUrl"__id*,
+*
+$customerUrlmagento\customer\model\url¨
+©
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface≈
+¬
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$checkoutSession"__id*4
+2
+$checkoutSessionmagento\checkout\model\session≈
+¬
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\session 
+«
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceΩ
+∫
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterface“
+œ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$customrAddrFactory"__id*>
+<
+$customrAddrFactory%magento\customer\model\addressfactory—
+Œ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$customerFormFactory"__id*<
+:
+$customerFormFactory"magento\customer\model\formfactoryÕ
+ 
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$customerFactory"__id*<
+:
+$customerFactory&magento\customer\model\customerfactory¡
+æ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$orderFactory"__id*3
+1
+$orderFactory magento\sales\model\orderfactoryÃ
+…
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$objectCopyService"__id*9
+7
+$objectCopyService!magento\framework\dataobject\copyœ
+Ã
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$messageManager"__id*?
+=
+$messageManager*magento\framework\message\managerinterface 
+«
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$formFactory"__id*=
+;
+$formFactory+magento\customer\model\metadata\formfactory·
+ﬁ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$customerDataFactory"__id*L
+J
+$customerDataFactory2magento\customer\api\data\customerinterfacefactory∫
+∑
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$mathRandom"__id*.
+,
+$mathRandommagento\framework\math\random 
+«
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+
+$encryptor"__id*?
+=
+
+$encryptor/magento\framework\encryption\encryptorinterface⁄
+◊
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$addressRepository"__id*G
+E
+$addressRepository/magento\customer\api\addressrepositoryinterface⁄
+◊
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$accountManagement"__id*G
+E
+$accountManagement/magento\customer\api\accountmanagementinterface—
+Œ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$orderSender"__id*D
+B
+$orderSender2magento\sales\model\order\email\sender\ordersender›
+⁄
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterface–
+Õ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$quoteRepository"__id*?
+=
+$quoteRepository)magento\quote\api\cartrepositoryinterfaceˆ
+Û
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’( 
+$extensibleDataObjectConverter"__id*W
+U
+$extensibleDataObjectConverter3magento\framework\api\extensibledataobjectconverter–
+Õ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$quoteManagement"__id*?
+=
+$quoteManagement)magento\quote\api\cartmanagementinterfaceœ
+Ã
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$dataObjectHelper"__id*=
+;
+$dataObjectHelper&magento\framework\api\dataobjecthelper–
+Õ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php’ ’(
+$totalsCollector"__id*?
+=
+$totalsCollector)magento\quote\model\quote\totalscollector»
+≈
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpÚ Ú(,8%
+#magento\checkout\model\type\onepage"
+_eventManager"__id*
+
+$eventManager∆
+√
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpÛ Û(*7%
+#magento\checkout\model\type\onepage"
+_customerUrl"__id*
+
+$customerUrlº
+π
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpÙ Ù( 2%
+#magento\checkout\model\type\onepage"	
+_helper"__id*
+	
+$helperŒ
+À
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpı ı(2;%
+#magento\checkout\model\type\onepage"
+_checkoutSession"__id*
+
+$checkoutSessionŒ
+À
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpˆ ˆ(2;%
+#magento\checkout\model\type\onepage"
+_customerSession"__id*
+
+$customerSessionº
+π
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php˜ ˜( 2%
+#magento\checkout\model\type\onepage"	
+_logger"__id*
+	
+$logger»
+≈
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php¯ ¯(,8%
+#magento\checkout\model\type\onepage"
+_storeManager"__id*
+
+$storeManageræ
+ª
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php˘ ˘("3%
+#magento\checkout\model\type\onepage"
+
+_request"__id*
+
+
+$request‘
+—
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php˙ ˙(8>%
+#magento\checkout\model\type\onepage"
+_customrAddrFactory"__id*
+
+$customrAddrFactory÷
+”
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php˚ ˚(:?%
+#magento\checkout\model\type\onepage"
+_customerFormFactory"__id*
+
+$customerFormFactoryŒ
+À
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php¸ ¸(2;%
+#magento\checkout\model\type\onepage"
+_customerFactory"__id*
+
+$customerFactory»
+≈
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php˝ ˝(,8%
+#magento\checkout\model\type\onepage"
+_orderFactory"__id*
+
+$orderFactory“
+œ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.php˛ ˛(6=%
+#magento\checkout\model\type\onepage"
+_objectCopyService"__id*
+
+$objectCopyServiceÀ
+»
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpˇ ˇ(/9%
+#magento\checkout\model\type\onepage"
+messageManager"__id*
+
+$messageManager∆
+√
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpÄ Ä(*7%
+#magento\checkout\model\type\onepage"
+_formFactory"__id*
+
+$formFactory’
+“
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpÅ Å(9>%
+#magento\checkout\model\type\onepage"
+customerDataFactory"__id*
+
+$customerDataFactory√
+¿
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpÇ Ç('5%
+#magento\checkout\model\type\onepage"
+
+mathRandom"__id*
+
+$mathRandom¬
+ø
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpÉ É(&5%
+#magento\checkout\model\type\onepage"
+
+_encryptor"__id*
+
+
+$encryptor—
+Œ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpÑ Ñ(5<%
+#magento\checkout\model\type\onepage"
+addressRepository"__id*
+
+$addressRepository—
+Œ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpÖ Ö(5<%
+#magento\checkout\model\type\onepage"
+accountManagement"__id*
+
+$accountManagement≈
+¬
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpÜ Ü()6%
+#magento\checkout\model\type\onepage"
+orderSender"__id*
+
+$orderSender”
+–
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpá á(7=%
+#magento\checkout\model\type\onepage"
+customerRepository"__id*
+
+$customerRepositoryÕ
+ 
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpà à(1:%
+#magento\checkout\model\type\onepage"
+quoteRepository"__id*
+
+$quoteRepositoryÈ
+Ê
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpâ â(MH%
+#magento\checkout\model\type\onepage"
+extensibleDataObjectConverter"__id*"
+ 
+$extensibleDataObjectConverterÕ
+ 
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpä ä(1:%
+#magento\checkout\model\type\onepage"
+quoteManagement"__id*
+
+$quoteManagementœ
+Ã
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpã ã(3;%
+#magento\checkout\model\type\onepage"
+dataObjectHelper"__id*
+
+$dataObjectHelperÕ
+ 
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Type\Onepage.phpå å(1:%
+#magento\checkout\model\type\onepage"
+totalsCollector"__id*
+
+$totalsCollector*
+2:9
+$eventManager(magento\framework\event\managerinterface:'
+$helpermagento\checkout\helper\data:*
+$customerUrlmagento\customer\model\url:"
+$loggerpsr\log\loggerinterface:2
+$checkoutSessionmagento\checkout\model\session:2
+$customerSessionmagento\customer\model\session::
+$storeManager)magento\store\model\storemanagerinterface:2
+$request&magento\framework\app\requestinterface:<
+$customrAddrFactory%magento\customer\model\addressfactory::
+$customerFormFactory"magento\customer\model\formfactory::
+$customerFactory&magento\customer\model\customerfactory:1
+$orderFactory magento\sales\model\orderfactory:7
+$objectCopyService!magento\framework\dataobject\copy:=
+$messageManager*magento\framework\message\managerinterface:;
+$formFactory+magento\customer\model\metadata\formfactory:J
+$customerDataFactory2magento\customer\api\data\customerinterfacefactory:,
+$mathRandommagento\framework\math\random:=
+
+$encryptor/magento\framework\encryption\encryptorinterface:E
+$addressRepository/magento\customer\api\addressrepositoryinterface:E
+$accountManagement/magento\customer\api\accountmanagementinterface:B
+$orderSender2magento\sales\model\order\email\sender\ordersender:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:=
+$quoteRepository)magento\quote\api\cartrepositoryinterface:U
+$extensibleDataObjectConverter3magento\framework\api\extensibledataobjectconverter:=
+$quoteManagement)magento\quote\api\cartmanagementinterface:;
+$dataObjectHelper&magento\framework\api\dataobjecthelper:=
+$totalsCollector)magento\quote\model\quote\totalscollectorB'%
+#magento\checkout\model\type\onepage

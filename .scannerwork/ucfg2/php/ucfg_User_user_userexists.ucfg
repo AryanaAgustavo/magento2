@@ -1,0 +1,129 @@
+
+1magento\user\model\resourcemodel\user::userexistsr
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.phpß ß("1*å
+1r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php© ©(-∏
+µ
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.phpß ß(
+$user"__id*0
+.
+$user%magento\framework\model\abstractmodel∑¥
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php© ©(,
+%1*)'
+%magento\user\model\resourcemodel\user2getconnectionî
+ë
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php© ©(,
+$connection"__id*
+
+%1ñì
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php™ ™('
+%2*
+
+$connection2selectê
+ç
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php™ ™('	
+$select"__id*
+
+%2ÖÇ
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php¨ ∞(	
+%3"$Arrayïí
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php≠ ≠(.
+%4*	
+
+$user2getusername•
+¢
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php¨ ∞(	
+%5"__mapSet*
+
+%3*
+
+username*
+
+%4íè
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.phpÆ Æ((
+%6*	
+
+$user2getemail¢
+ü
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php¨ ∞(	
+%7"__mapSet*
+
+%3*	
+email*
+
+%6èå
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.phpØ Ø(,
+%8*	
+
+$user2getidò
+ï
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.phpØ Ø(,
+%9"__sanitizing_cast*
+
+%8•
+¢
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php¨ ∞(	
+%10"__mapSet*
+
+%3*	
+user_id*
+
+%9è
+å
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php¨ ∞(	
+$binds"__id*
+
+%3∑¥
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php≥ ≥(!
+%11*)'
+%magento\user\model\resourcemodel\user2getmaintableöó
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php≤ ¥(	
+%12*
+	
+$select*
+
+%112fromºπ
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php≤ ∂(	
+%13*
+
+%12*,*
+((username = :username OR email = :email)2whereß§
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php≤ ∏(	
+%14*
+
+%13*
+user_id <> :user_id2where≤Ø
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php∫ ∫(5
+%15*
+
+$connection*
+	
+$select*
+
+
+$binds2fetchrow"}
+r
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Model\ResourceModel\User.php∫ ∫(6
+
+%15:.
+$user%magento\framework\model\abstractmodelB)'
+%magento\user\model\resourcemodel\user

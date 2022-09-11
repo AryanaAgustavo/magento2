@@ -1,0 +1,73 @@
+
+jmagento\adminnotification\test\unit\block\grid\renderer\actionstest::testshouldrendermessagewhenurlisgivenè
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Test\Unit\Block\Grid\Renderer\ActionsTest.php8 8(9"1*¿
+2
+ActionsTest.php"ß
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Test\Unit\Block\Grid\Renderer\ActionsTest.phpI I(
+implicit return*®
+1è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Test\Unit\Block\Grid\Renderer\ActionsTest.php: :('¬ø
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Test\Unit\Block\Grid\Renderer\ActionsTest.php: :(&
+$dataObject"magento\framework\dataobject◊
+‘
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Test\Unit\Block\Grid\Renderer\ActionsTest.php: :(&
+%1")magento\framework\dataobject::__construct*
+
+$dataObject◊‘
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Test\Unit\Block\Grid\Renderer\ActionsTest.php; ;(:
+%2*
+
+$dataObject*
+url*
+https://magento.com2setdataÃ…
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Test\Unit\Block\Grid\Renderer\ActionsTest.php< <(-
+%3*
+
+$dataObject*	
+is_read*
+true2setdata√¿
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Test\Unit\Block\Grid\Renderer\ActionsTest.php= =(%
+%4*
+
+$dataObject*
+id*22setdataÛ
+
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Test\Unit\Block\Grid\Renderer\ActionsTest.php? ?(
+%5"__id*P*NE
+Cmagento\adminnotification\test\unit\block\grid\renderer\actionstest"
+sutºπ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Test\Unit\Block\Grid\Renderer\ActionsTest.php? ?(3
+%6*
+
+%5*
+
+$dataObject2renderÆ
+´
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Test\Unit\Block\Grid\Renderer\ActionsTest.php? ?(3	
+$actual"__id*
+
+%6Ü
+É
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Test\Unit\Block\Grid\Renderer\ActionsTest.phpC E(
+	$expected"__id*€ÿ
+’<a class="action-details" target="_blank" href="https://magento.com">Read Details</a><a class="action-delete" href="http://magento.com" onClick="deleteConfirm('Are you sure?', this.href); return false;">Remove</a>éã
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdminNotification\Test\Unit\Block\Grid\Renderer\ActionsTest.phpH H(/
+%7*GE
+Cmagento\adminnotification\test\unit\block\grid\renderer\actionstest*
+	
+$actual*
+
+	$expected2assertequals*
+2BGE
+Cmagento\adminnotification\test\unit\block\grid\renderer\actionstest

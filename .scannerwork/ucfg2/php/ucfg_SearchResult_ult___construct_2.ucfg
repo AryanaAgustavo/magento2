@@ -1,0 +1,93 @@
+
+cmagento\asynchronousoperations\ui\component\dataprovider\operation\failed\searchresult::__construct¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\Operation\Failed\SearchResult.php* *("1*Ô
+2
+SearchResult.php"º
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\Operation\Failed\SearchResult.php@ @(
+implicit return*¤
+1¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\Operation\Failed\SearchResult.php5 5((Ž
+‹
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\Operation\Failed\SearchResult.php* *(
+$entityFactory"__id*L
+J
+$entityFactory8magento\framework\data\collection\entityfactoryinterfaceß
+Ü
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\Operation\Failed\SearchResult.php* *(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface‘
+Ž
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\Operation\Failed\SearchResult.php* *(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceü
+ù
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\Operation\Failed\SearchResult.php* *(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterface°
+­
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\Operation\Failed\SearchResult.php* *(
+$identifierResolver"__id*i
+g
+$identifierResolverPmagento\asynchronousoperations\ui\component\dataprovider\bulk\identifierresolverò
+ï
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\Operation\Failed\SearchResult.php* *(
+$jsonHelper"__id*3
+1
+$jsonHelper"magento\framework\json\helper\data©
+¦
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\Operation\Failed\SearchResult.php5 5('hX
+Vmagento\asynchronousoperations\ui\component\dataprovider\operation\failed\searchresult"
+
+jsonHelper"__id*
+
+$jsonHelper¹
+¶
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\Operation\Failed\SearchResult.php6 6(7pX
+Vmagento\asynchronousoperations\ui\component\dataprovider\operation\failed\searchresult"
+identifierResolver"__id*
+
+$identifierResolverÞ
+Û
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\Operation\Failed\SearchResult.php7 ?(	
+%1"Qmagento\framework\view\element\uicomponent\dataprovider\searchresult::__construct*ZX
+Vmagento\asynchronousoperations\ui\component\dataprovider\operation\failed\searchresult*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+
+$mainTable*
+
+$resourceModel*
+
+$identifierName*
+2:J
+$entityFactory8magento\framework\data\collection\entityfactoryinterface:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:g
+$identifierResolverPmagento\asynchronousoperations\ui\component\dataprovider\bulk\identifierresolver:1
+$jsonHelper"magento\framework\json\helper\data:
+
+$mainTable:
+$resourceModel:
+$identifierNameBZX
+Vmagento\asynchronousoperations\ui\component\dataprovider\operation\failed\searchresult

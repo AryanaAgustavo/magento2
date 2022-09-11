@@ -1,0 +1,103 @@
+
+Jmagento\newsletter\model\subscribertest::assertconfirmationparagraphexistsã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpà à(6"1*ø
+2
+SubscriberTest.php"£
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpì ì(
+implicit return*µ
+1ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpä ä(@…
+∆
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpà à(6
+$expectedMessage"__id*
+
+$expectedMessagestring÷
+”
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpà à(6
+
+$message"__id*1
+/
+$message#magento\framework\mail\emailmessageËÂ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpä ä(?
+%1*+)
+'magento\newsletter\model\subscribertest*
+
+
+$message2getmessagerawcontent≤
+Ø
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpä ä(?
+$messageContent"__id*
+
+%1´®
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpå å(&
+	$emailDom"domdocument¿
+Ω
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpå å(&
+%2"domdocument::__construct*
+
+	$emailDom≈¬
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpç ç(,
+%3*
+
+	$emailDom*
+
+$messageContent2loadhtml™ß
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpè è(.
+$emailXpath"domxpathŒ
+À
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpè è(.
+%4"domxpath::__construct*
+
+$emailXpath*
+
+	$emailDom‹
+Ÿ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpê' ê(R
+%5"__concat*
+//p[contains(text(), '*
+')]*
+
+$expectedMessage∑¥
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpê ê(S
+%6*
+
+$emailXpath*
+
+%52query¨
+©
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpê ê(S
+	$greeting"__id*
+
+%6∏
+µ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpí í(.
+%7"__id**
+
+	$greeting"
+lengthùö
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.phpí í(l
+%8*+)
+'magento\newsletter\model\subscribertest*2*
+
+%7*=;
+9Cannot find the confirmation paragraph in e-mail contents2
+assertsame*
+2:
+$expectedMessagestring:/
+$message#magento\framework\mail\emailmessageB+)
+'magento\newsletter\model\subscribertest

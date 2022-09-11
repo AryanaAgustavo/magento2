@@ -1,0 +1,143 @@
+
+Emagento\catalogsearch\model\search\requestgeneratortest::testgenerateö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php ( "1*‘
+2
+RequestGeneratorTest.php"≤
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php+ +(
+implicit return*à#
+1ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php (-Ù
+Ò
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php ( 
+%1"__id*F*D9
+7magento\catalogsearch\model\search\requestgeneratortest"
+model∏µ
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php (,
+%2*
+
+%12generateª
+∏
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php (,
+	$requests"__id*
+
+%2°û
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php   (E
+%3*;9
+7magento\catalogsearch\model\search\requestgeneratortest*
+quick_search_container*
+
+	$requests2assertarrayhaskey€
+ÿ
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php! !(:
+%4"__mapGet*
+
+	$requests*
+quick_search_containeræ
+ª
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php! !(:
+$quickSearch"__id*
+
+%4Ã
+…
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php" "()
+
+$message"__id*
+Unexpected attribute‘
+—
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php#= #(Y
+%5"__mapGet*
+
+$quickSearch*
+aggregations™ß
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php# #(d
+%6*;9
+7magento\catalogsearch\model\search\requestgeneratortest*
+test_quick_search_bucket*
+
+%5*
+
+
+$message2assertarrayhaskey‘
+—
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php$@ $(\
+%7"__mapGet*
+
+$quickSearch*
+aggregations≠™
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php$ $(g
+%8*;9
+7magento\catalogsearch\model\search\requestgeneratortest*
+test_catalog_view_bucket*
+
+%7*
+
+
+$message2assertarraynothaskey°û
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php' '(E
+%9*;9
+7magento\catalogsearch\model\search\requestgeneratortest*
+catalog_view_container*
+
+	$requests2assertarrayhaskey‹
+Ÿ
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php( ((:
+%10"__mapGet*
+
+	$requests*
+catalog_view_containerø
+º
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php( ((:
+$catalogView"__id*
+
+%10’
+“
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php)@ )(\
+%11"__mapGet*
+
+$catalogView*
+aggregationsØ¨
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php) )(g
+%12*;9
+7magento\catalogsearch\model\search\requestgeneratortest*
+test_quick_search_bucket*
+
+%11*
+
+
+$message2assertarraynothaskey’
+“
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php*= *(Y
+%13"__mapGet*
+
+$catalogView*
+aggregations¨©
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\RequestGeneratorTest.php* *(d
+%14*;9
+7magento\catalogsearch\model\search\requestgeneratortest*
+test_catalog_view_bucket*
+
+%13*
+
+
+$message2assertarrayhaskey*
+2B;9
+7magento\catalogsearch\model\search\requestgeneratortest

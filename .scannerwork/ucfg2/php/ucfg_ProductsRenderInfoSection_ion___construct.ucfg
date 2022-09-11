@@ -1,0 +1,97 @@
+
+Cmagento\catalog\customerdata\productsrenderinfosection::__constructÅ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.php? ?("1*¿
+2
+ProductsRenderInfoSection.php"ô
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.phpM M(
+implicit return*Ø
+1Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.phpG G(,”
+–
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.php? ?(
+$storeManager"__id*3
+1
+$storeManager magento\store\model\storemanager
+Ì
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.php? ?(
+$searchCriteriaBuilder"__id*G
+E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilderÿ
+’
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.php? ?(
+$filterBuilder"__id*7
+5
+$filterBuilder#magento\framework\api\filterbuilder‰
+·
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.php? ?(
+$productRenderList"__id*?
+=
+$productRenderList'magento\catalog\model\productrenderlistÅ
+˛
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.php? ?(
+$actionsSynchronizer"__id*Z
+X
+$actionsSynchronizer@magento\catalog\model\product\productfrontendaction\synchronizer”
+–
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.php? ?(
+	$hydrator"__id*7
+5
+	$hydrator(magento\framework\entitymanager\hydratorÏ
+È
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.phpG G(+J8
+6magento\catalog\customerdata\productsrenderinfosection"
+storeManager"__id*
+
+$storeManager‰
+·
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.phpH H(#F8
+6magento\catalog\customerdata\productsrenderinfosection"
+
+hydrator"__id*
+
+	$hydrator˛
+˚
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.phpI I(=S8
+6magento\catalog\customerdata\productsrenderinfosection"
+searchCriteriaBuilder"__id*
+
+$searchCriteriaBuilderÓ
+Î
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.phpJ J(-K8
+6magento\catalog\customerdata\productsrenderinfosection"
+filterBuilder"__id*
+
+$filterBuilderˆ
+Û
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.phpK K(5O8
+6magento\catalog\customerdata\productsrenderinfosection"
+productRenderList"__id*
+
+$productRenderList˙
+˜
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\CustomerData\ProductsRenderInfoSection.phpL L(9Q8
+6magento\catalog\customerdata\productsrenderinfosection"
+actionsSynchronizer"__id*
+
+$actionsSynchronizer*
+2:1
+$storeManager magento\store\model\storemanager:E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilder:5
+$filterBuilder#magento\framework\api\filterbuilder:=
+$productRenderList'magento\catalog\model\productrenderlist:X
+$actionsSynchronizer@magento\catalog\model\product\productfrontendaction\synchronizer:5
+	$hydrator(magento\framework\entitymanager\hydratorB:8
+6magento\catalog\customerdata\productsrenderinfosection

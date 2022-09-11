@@ -1,0 +1,32 @@
+
+Imagento\graphql\newsletter\guest\subscribeemailtonewslettertest::getquery¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.phpX X("1*Ù
+1¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.phpZ b(Ï
+Ì
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.phpX X(
+$email"__id*
+
+$emailstring¦
+£
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.phpZ b(
+%1"__concat*;9
+7mutation {
+  subscribeEmailToNewsletter(
+    email: "* 
+"
+  ) {
+    status
+  }
+}*
+
+
+$email"°
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.phpZ b(
+
+%1:
+$emailstringBCA
+?magento\graphql\newsletter\guest\subscribeemailtonewslettertest

@@ -1,0 +1,125 @@
+
+=magento\catalog\model\attribute\backend\consumer::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpG G("1*¨
+2
+Consumer.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpY Y(
+implicit return*Ñ
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpQ Q(0Î
+Ë
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpG G(
+$catalogProduct"__id*3
+1
+$catalogProductmagento\catalog\helper\productþ
+û
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpG G(
+$productFlatIndexerProcessor"__id*V
+T
+$productFlatIndexerProcessor4magento\catalog\model\indexer\product\flat\processor
+þ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpG G(
+$productPriceIndexerProcessor"__id*X
+V
+$productPriceIndexerProcessor5magento\catalog\model\indexer\product\price\processorí
+ê
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpG G(
+$operationManagement"__id*M
+K
+$operationManagement3magento\framework\bulk\operationmanagementinterfaceÄ
+Á
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpG G(	
+$action"__id*1
+/
+$action$magento\catalog\model\product\action·
+´
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpG G(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface×
+Ô
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpG G(
+$serializer"__id*@
+>
+$serializer/magento\framework\serialize\serializerinterfaceÛ
+Ø
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpG G(
+$entityManager"__id*A
+?
+$entityManager-magento\framework\entitymanager\entitymanagerã
+à
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpQ Q(/F2
+0magento\catalog\model\attribute\backend\consumer"
+catalogProduct"__id*
+
+$catalogProductý
+ú
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpR R(IS2
+0magento\catalog\model\attribute\backend\consumer"
+productFlatIndexerProcessor"__id* 
+
+$productFlatIndexerProcessorÿ
+ü
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpS S(KT2
+0magento\catalog\model\attribute\backend\consumer"
+productPriceIndexerProcessor"__id*!
+
+$productPriceIndexerProcessorÚ
+×
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpT T(&E2
+0magento\catalog\model\attribute\backend\consumer"
+productAction"__id*
+	
+$actionÓ
+Ð
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpU U(>2
+0magento\catalog\model\attribute\backend\consumer"
+logger"__id*
+	
+$loggerÛ
+Ø
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpV V('B2
+0magento\catalog\model\attribute\backend\consumer"
+
+serializer"__id*
+
+$serializerí
+ê
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpW W(9K2
+0magento\catalog\model\attribute\backend\consumer"
+operationManagement"__id*
+
+$operationManagementá
+Þ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Attribute\Backend\Consumer.phpX X(-E2
+0magento\catalog\model\attribute\backend\consumer"
+entityManager"__id*
+
+$entityManager*
+2:1
+$catalogProductmagento\catalog\helper\product:T
+$productFlatIndexerProcessor4magento\catalog\model\indexer\product\flat\processor:V
+$productPriceIndexerProcessor5magento\catalog\model\indexer\product\price\processor:K
+$operationManagement3magento\framework\bulk\operationmanagementinterface:/
+$action$magento\catalog\model\product\action:"
+$loggerpsr\log\loggerinterface:>
+$serializer/magento\framework\serialize\serializerinterface:?
+$entityManager-magento\framework\entitymanager\entitymanagerB42
+0magento\catalog\model\attribute\backend\consumer

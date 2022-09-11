@@ -1,0 +1,99 @@
+
+6magento\customer\model\delegation\storage::__constructt
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpD D("1* 
+2
+Storage.php"‹
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpR R(
+implicit return*Ò
+1t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpL L((Û
+Ø
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpD D(
+$newFactory"__id*K
+I
+$newFactory:magento\customer\model\delegation\data\newoperationfactoryÝ
+Ú
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpD D(
+$customerFactory"__id*H
+F
+$customerFactory2magento\customer\api\data\customerinterfacefactoryÚ
+×
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpD D(
+$addressFactory"__id*F
+D
+$addressFactory1magento\customer\api\data\addressinterfacefactory×
+Ô
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpD D(
+$regionFactory"__id*D
+B
+$regionFactory0magento\customer\api\data\regioninterfacefactory°
+­
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpD D(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface¿
+¼
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpD D(
+
+$session"__id*2
+0
+$session$magento\customer\model\session\proxyÍ
+Ê
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpL L(';+
+)magento\customer\model\delegation\storage"
+
+newFactory"__id*
+
+$newFactory×
+Ô
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpM M(1@+
+)magento\customer\model\delegation\storage"
+customerFactory"__id*
+
+$customerFactoryÕ
+Ò
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpN N(/?+
+)magento\customer\model\delegation\storage"
+addressFactory"__id*
+
+$addressFactoryÓ
+Ð
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpO O(->+
+)magento\customer\model\delegation\storage"
+regionFactory"__id*
+
+$regionFactoryÅ
+Â
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpP P(7+
+)magento\customer\model\delegation\storage"
+logger"__id*
+	
+$loggerÇ
+Ä
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Delegation\Storage.phpQ Q(!8+
+)magento\customer\model\delegation\storage"	
+session"__id*
+
+
+$session*
+2:I
+$newFactory:magento\customer\model\delegation\data\newoperationfactory:F
+$customerFactory2magento\customer\api\data\customerinterfacefactory:D
+$addressFactory1magento\customer\api\data\addressinterfacefactory:B
+$regionFactory0magento\customer\api\data\regioninterfacefactory:"
+$loggerpsr\log\loggerinterface:0
+$session$magento\customer\model\session\proxyB-+
+)magento\customer\model\delegation\storage

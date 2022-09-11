@@ -1,0 +1,3 @@
+P
+phpS1317Add a "case default" clause to this "switch" statement. 2ee P
+phpS1317Add a "case default" clause to this "switch" statement. 2|| 

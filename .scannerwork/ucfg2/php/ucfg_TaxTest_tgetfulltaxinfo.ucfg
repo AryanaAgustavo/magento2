@@ -1,0 +1,121 @@
+
+Pmagento\sales\test\unit\block\adminhtml\order\totals\taxtest::testgetfulltaxinfo‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpP P(&"1*´
+2
+TaxTest.php"Ÿ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.php[ [(
+implicit return*¾
+1‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpR T(0Æ
+Ã
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpP P(&	
+$source"__id*&
+$
+$sourcemagento\sales\model\orderÂ
+¿
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpP P(&
+$expectedResult"__id*
+
+$expectedResultarrayî
+ë
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpR R(
+%1"__id*S*Q>
+<magento\sales\test\unit\block\adminhtml\order\totals\taxtest"
+taxHelperMockÚ×
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpR& R(2
+%2*@>
+<magento\sales\test\unit\block\adminhtml\order\totals\taxtest2any¬©
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpR R(3
+%3*
+
+%1*
+
+%22expects»¸
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpR S(*
+%4*
+
+%3*
+getCalculatedTaxes2methodï
+ì
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpT T(.
+%5"__id*T*R>
+<magento\sales\test\unit\block\adminhtml\order\totals\taxtest"
+calculatedData¯¬
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpR T(/
+%6*
+
+%4*
+
+%52
+willreturnè
+å
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpU U(
+%7"__id*M*K>
+<magento\sales\test\unit\block\adminhtml\order\totals\taxtest"	
+taxMockÛØ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpU  U(-
+%8*@>
+<magento\sales\test\unit\block\adminhtml\order\totals\taxtest2once¬©
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpU U(.
+%9*
+
+%7*
+
+%82expects²¯
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpU V( 
+%10*
+
+%9*
+
+getOrder2method¶³
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpU W(!
+%11*
+
+%10*
+	
+$source2
+willreturné
+æ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpY Y(&
+%12"__id*M*K>
+<magento\sales\test\unit\block\adminhtml\order\totals\taxtest"	
+taxMock­ª
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpY Y(8
+%13*
+
+%122getfulltaxinfo­
+ª
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpY Y(8
+$actualResult"__id*
+
+%13Š‡
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Block\Adminhtml\Order\Totals\TaxTest.phpZ Z(9
+%14*@>
+<magento\sales\test\unit\block\adminhtml\order\totals\taxtest*
+
+$expectedResult*
+
+$actualResult2
+assertsame*
+2:$
+$sourcemagento\sales\model\order:
+$expectedResultarrayB@>
+<magento\sales\test\unit\block\adminhtml\order\totals\taxtest

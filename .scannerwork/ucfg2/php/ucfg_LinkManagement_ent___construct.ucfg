@@ -1,0 +1,124 @@
+
+0magento\bundle\model\linkmanagement::__constructn
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpU U("1*¡
+2
+LinkManagement.php"…
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpg g(
+implicit return*í
+1n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.php_ _(6×
+Ô
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpU U(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceÉ
+Æ
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpU U(
+$linkFactory"__id*>
+<
+$linkFactory,magento\bundle\api\data\linkinterfacefactoryÊ
+Ç
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpU U(
+$bundleSelection"__id*;
+9
+$bundleSelection%magento\bundle\model\selectionfactoryÑ
+Î
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpU U(
+$bundleFactory"__id*D
+B
+$bundleFactory0magento\bundle\model\resourcemodel\bundlefactoryâ
+ß
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpU U(
+$optionCollection"__id*R
+P
+$optionCollection;magento\bundle\model\resourcemodel\option\collectionfactoryÈ
+Å
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpU U(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÍ
+Ê
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpU U(
+$dataObjectHelper"__id*=
+;
+$dataObjectHelper&magento\framework\api\dataobjecthelperË
+È
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpU U(
+$metadataPool"__id*?
+=
+$metadataPool,magento\framework\entitymanager\metadatapoolÏ
+Ì
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.php_ _(5<%
+#magento\bundle\model\linkmanagement"
+productRepository"__id*
+
+$productRepositoryÃ
+À
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.php` `()6%
+#magento\bundle\model\linkmanagement"
+linkFactory"__id*
+
+$linkFactoryÇ
+Ä
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpa a(-8%
+#magento\bundle\model\linkmanagement"
+bundleFactory"__id*
+
+$bundleFactoryË
+È
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpb b(1:%
+#magento\bundle\model\linkmanagement"
+bundleSelection"__id*
+
+$bundleSelectionÍ
+Ê
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpc c(3;%
+#magento\bundle\model\linkmanagement"
+optionCollection"__id*
+
+$optionCollectionÅ
+Â
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpd d(+7%
+#magento\bundle\model\linkmanagement"
+storeManager"__id*
+
+$storeManagerÍ
+Ê
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpe e(3;%
+#magento\bundle\model\linkmanagement"
+dataObjectHelper"__id*
+
+$dataObjectHelperÅ
+Â
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\LinkManagement.phpf f(+7%
+#magento\bundle\model\linkmanagement"
+metadataPool"__id*
+
+$metadataPool*
+2:D
+$productRepository.magento\catalog\api\productrepositoryinterface:<
+$linkFactory,magento\bundle\api\data\linkinterfacefactory:9
+$bundleSelection%magento\bundle\model\selectionfactory:B
+$bundleFactory0magento\bundle\model\resourcemodel\bundlefactory:P
+$optionCollection;magento\bundle\model\resourcemodel\option\collectionfactory::
+$storeManager)magento\store\model\storemanagerinterface:;
+$dataObjectHelper&magento\framework\api\dataobjecthelper:=
+$metadataPool,magento\framework\entitymanager\metadatapoolB'%
+#magento\bundle\model\linkmanagement

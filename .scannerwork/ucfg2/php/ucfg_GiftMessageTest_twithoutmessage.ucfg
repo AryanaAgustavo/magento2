@@ -1,0 +1,79 @@
+
+Vmagento\graphql\giftmessage\cart\giftmessagetest::testgiftmessageforcartwithoutmessage–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpA A(8"1*Ë
+2
+GiftMessageTest.php"®
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpG G(
+implicit return*§
+1–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpC C(Y…
+‚
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpC C(A
+%1"__id*[*Y2
+0magento\graphql\giftmessage\cart\giftmessagetest"#
+!getMaskedQuoteIdByReservedOrderIdÃÀ
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpC C(X
+%2*
+
+%1*
+
+test_quote2execute¼
+¹
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpC C(X
+$maskedQuoteId"__id*
+
+%2ˆ…
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpD D(E
+%3*42
+0magento\graphql\giftmessage\cart\giftmessagetest*
+
+$maskedQuoteId2requestcartandassertresult·
+´
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpD D(E
+	$response"__id*
+
+%3Å
+Â
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpE0 E(A
+%4"__mapGet*
+
+	$response*
+cart·
+´
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpE E(B
+%5"Cmagento\graphql\giftmessage\cart\giftmessagetest::assertarrayhaskey*4"2
+0magento\graphql\giftmessage\cart\giftmessagetest*
+gift_message*
+
+%4Å
+Â
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpF F(*
+%6"__mapGet*
+
+	$response*
+cartÆ
+Ã
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpF F(:
+%7"__mapGet*
+
+%6*
+gift_messagež
+›
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpF F(;
+%8"<magento\graphql\giftmessage\cart\giftmessagetest::assertnull*4"2
+0magento\graphql\giftmessage\cart\giftmessagetest*
+
+%7*
+2B42
+0magento\graphql\giftmessage\cart\giftmessagetest

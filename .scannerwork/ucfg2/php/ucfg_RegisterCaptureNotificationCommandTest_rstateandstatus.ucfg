@@ -1,0 +1,47 @@
+
+smagento\sales\test\unit\model\order\payment\state\registercapturenotificationcommandtest::assertorderstateandstatus¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Payment\State\RegisterCaptureNotificationCommandTest.phpÆ Æ(."1*ò
+2,
+*RegisterCaptureNotificationCommandTest.php"¾
+¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Payment\State\RegisterCaptureNotificationCommandTest.phpÊ Ê(
+implicit return*Â
+1¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Payment\State\RegisterCaptureNotificationCommandTest.phpÈ È(bÈÅ
+¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Payment\State\RegisterCaptureNotificationCommandTest.phpÈ+ È(=
+%1*
+
+
+$order2getstate¹
+¶
+¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Payment\State\RegisterCaptureNotificationCommandTest.phpÈ È(a
+%2"fmagento\sales\test\unit\model\order\payment\state\registercapturenotificationcommandtest::assertequals*\"Z
+Xmagento\sales\test\unit\model\order\payment\state\registercapturenotificationcommandtest*
+
+$expectedState*
+
+%1*#!
+The order {state} should match.ÉÆ
+¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Payment\State\RegisterCaptureNotificationCommandTest.phpÉ, É(?
+%3*
+
+
+$order2	getstatus»
+¸
+¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Test\Unit\Model\Order\Payment\State\RegisterCaptureNotificationCommandTest.phpÉ É(d
+%4"fmagento\sales\test\unit\model\order\payment\state\registercapturenotificationcommandtest::assertequals*\"Z
+Xmagento\sales\test\unit\model\order\payment\state\registercapturenotificationcommandtest*
+
+$expectedStatus*
+
+%3*$"
+ The order {status} should match.*
+2:
+$order:
+$expectedState:
+$expectedStatusB\Z
+Xmagento\sales\test\unit\model\order\payment\state\registercapturenotificationcommandtest

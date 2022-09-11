@@ -1,0 +1,164 @@
+
+Pmagento\sales\model\order\payment\transaction\builder::linkwithparenttransactionÇ
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpﬁ ﬁ(0"1*ˆ
+2Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.php„ „(? «
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.php„ „(>
+%3*
+
+$transaction*
+
+$parentTransactionId2setparenttxnid‹
+Ÿ
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.php‰ ‰(
+%4"__id*F*D7
+5magento\sales\model\order\payment\transaction\builder"	
+payment∑¥
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.php‰ ‰(A
+%5*
+
+%42getshouldcloseparenttransaction*
+3
+7*É
+3Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÂ È(Í
+Á
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÂ% Â(A
+%6"__id*T*R7
+5magento\sales\model\order\payment\transaction\builder"
+transactionRepository‹
+Ÿ
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÁ Á("
+%7"__id*F*D7
+5magento\sales\model\order\payment\transaction\builder"	
+paymentùö
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÁ Á(+
+%8*
+
+%72getid⁄
+◊
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpË Ë( 
+%9"__id*D*B7
+5magento\sales\model\order\payment\transaction\builder"
+orderûõ
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpË Ë()
+%10*
+
+%92getid÷”
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÂ% È(
+%11*
+
+%6*
+
+$parentTransactionId*
+
+%8*
+
+%102getbytransactionid≠
+™
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÂ È(
+$parentTransaction"__id*
+
+%11*
+4
+7*«
+4Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÎ Î(:¥±
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÎ Î(:
+%12*
+
+$parentTransaction2getisclosed*
+5
+6*⁄
+5Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÏ Ï(Vﬁ
+€
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÏ7 Ï(F
+%13"__id*G*E7
+5magento\sales\model\order\payment\transaction\builder"
+
+failSafeºπ
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÏ Ï(G
+%14*
+
+$parentTransaction*
+
+%132
+isfailsafe™ß
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÏ Ï(U
+%15*
+
+%14*	
+false2close*
+6*∞
+6Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÓ Ó(G€
+ÿ
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÓ Ó( 
+%16"__id*D*B7
+5magento\sales\model\order\payment\transaction\builder"
+order¬ø
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÓ Ó(F
+%17*
+
+%16*
+
+$parentTransaction2addrelatedobject*
+7*ù
+7Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÚ Ú(‘
+—
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÚ Ú(2
+%18+magento\sales\api\data\transactioninterface"__id*
+
+$transaction"ª
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpÚ Ú(4
+2
+%18+magento\sales\api\data\transactioninterface*±
+1Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.php‡ ‡(H›
+⁄
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.phpﬁ ﬁ(0
+$transaction"__id*=
+;
+$transaction+magento\sales\api\data\transactioninterface‹
+Ÿ
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.php‡ ‡(-
+%1"__id*F*D7
+5magento\sales\model\order\payment\transaction\builder"	
+paymentÆ´
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.php‡ ‡(G
+%2*
+
+%12getparenttransactionidÆ
+´
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Builder.php‡ ‡(G
+$parentTransactionId"__id*
+
+%2*
+2
+7:;
+$transaction+magento\sales\api\data\transactioninterfaceB97
+5magento\sales\model\order\payment\transaction\builder

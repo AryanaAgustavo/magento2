@@ -1,0 +1,16 @@
+à
+phpS1117IRename "$order" which has the same name as the field declared at line 65. 2
+áá :!
+ˆùAA Shadowed field.é
+phpS1117ORename "$incrementId" which has the same name as the field declared at line 75. 2
+Ñ	Ñ	 :!
+ˆùKK Shadowed field.ü
+phpS3415VSwap these 2 arguments so they are in the correct order: expected value, actual value. 2
+‚	‚	 :+
+)ˆù
+ﬂ	·	 Other argument to swap.ü
+phpS3415VSwap these 2 arguments so they are in the correct order: expected value, actual value. 2
+ı	ı	 :+
+)ˆù
+Ú	Ù	 Other argument to swap.}
+phpS1448eClass "OrderTest" has 52 methods, which is greater than 20 authorized. Split it into smaller classes. 222 

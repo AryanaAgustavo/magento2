@@ -1,0 +1,66 @@
+
+?magento\graphql\usps\setuspsshippingmethodsoncarttest::getquery
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Usps\SetUspsShippingMethodsOnCartTest.phpã ã("1*ß
+1
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Usps\SetUspsShippingMethodsOnCartTest.phpè ÿ(×
+Ô
+
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Usps\SetUspsShippingMethodsOnCartTest.phpã ã(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringÓ
+Ð
+
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Usps\SetUspsShippingMethodsOnCartTest.phpã ã(
+$carrierCode"__id*
+
+$carrierCodestringÑ
+Î
+
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Usps\SetUspsShippingMethodsOnCartTest.phpã ã(
+$methodCode"__id*
+
+$methodCodestringŠ
+‡
+
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Usps\SetUspsShippingMethodsOnCartTest.phpè ÿ(
+%1"__concat*CA
+?mutation {
+  setShippingMethodsOnCart(input: {
+    cart_id: "*@>
+<"
+    shipping_methods: [
+      {
+        carrier_code: "*
+"
+        method_code: "*÷ô
+ñ"
+      }
+    ]
+  }) {
+    cart {
+      shipping_addresses {
+        selected_shipping_method {
+          carrier_code
+          method_code
+          carrier_title
+          method_title
+        }
+      }
+    } 
+  }
+}        *
+
+$maskedQuoteId*
+
+$carrierCode*
+
+$methodCode"¨
+
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Usps\SetUspsShippingMethodsOnCartTest.phpè ÿ(
+
+%1:
+$maskedQuoteIdstring:
+$carrierCodestring:
+$methodCodestringB97
+5magento\graphql\usps\setuspsshippingmethodsoncarttest

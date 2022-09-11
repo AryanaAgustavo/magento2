@@ -1,0 +1,94 @@
+
+gmagento\customer\controller\adminhtml\cart\product\composite\cart\configuretest::testconfigurenoquoteid²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.php> >(*"1*å
+2
+ConfigureTest.php"Ê
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.phpK K(
+implicit return*×
+1²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.php@ C(ÆÃ
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.php@. C(	
+%1"$Arrayç
+ä
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.php@. C(	
+%2"__mapSet*
+
+%1*
+customer_id*2¬
+©
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.phpB B(0
+%3"__id*f*dQ
+Omagento\customer\controller\adminhtml\cart\product\composite\cart\configuretest"
+baseWebsiteIdè
+å
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.php@. C(	
+%4"__mapSet*
+
+%1*
+
+website_id*
+
+%3»¸
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.php@ C(
+
+%5*SQ
+Omagento\customer\controller\adminhtml\cart\product\composite\cart\configuretest*
+
+%12dispatchcompositecartconfigureÆÃ
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.phpE H(
+%6"$Arrayå
+â
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.phpE H(
+%7"__mapSet*
+
+%6*	
+error*
+true§
+¤
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.phpE H(
+%8"__mapSet*
+
+%6*	
+message*HF
+DThe quote items are incorrect. Verify the quote items and try again.£
+ 
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.phpI I(
+%9"__id*]*[Q
+Omagento\customer\controller\adminhtml\cart\product\composite\cart\configuretest"
+json¡ž
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.phpI% I(9
+%10*SQ
+Omagento\customer\controller\adminhtml\cart\product\composite\cart\configuretest2getresponseÑÎ
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.phpI% I(D
+%11*
+
+%102getbodyÝÚ
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.phpI I(E
+%12*
+
+%9*
+
+%112unserialize³°
+²
+§C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\Cart\Product\Composite\Cart\ConfigureTest.phpD J(	
+%13*SQ
+Omagento\customer\controller\adminhtml\cart\product\composite\cart\configuretest*
+
+%6*
+
+%122assertequals*
+2BSQ
+Omagento\customer\controller\adminhtml\cart\product\composite\cart\configuretest

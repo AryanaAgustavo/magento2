@@ -1,0 +1,148 @@
+
+Hmagento\checkout\model\sessiontest::testmergeguestquotewithcustomerquoteÜ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpç ç(8"1*∑
+2
+SessionTest.php"û
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpó ó(
+implicit return*ﬂ$
+1Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpè è(rﬂ
+‹
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpè è(6
+%1"__id*E*C$
+"magento\checkout\model\sessiontest"
+getQuoteByReservedOrderId◊‘
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpè è(q
+%2*
+
+%1*20
+.test_order_with_simple_product_without_address2execute©
+¶
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpè è(q
+$guestQuote"__id*
+
+%2ﬂ
+‹
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpê ê(9
+%3"__id*E*C$
+"magento\checkout\model\sessiontest"
+getQuoteByReservedOrderId—Œ
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpê ê(n
+%4*
+
+%3*,*
+(test_order_with_customer_without_address2execute¨
+©
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpê ê(n
+$customerQuote"__id*
+
+%4’
+“
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpë ë(
+%5"__id*;*9$
+"magento\checkout\model\sessiontest"
+checkoutSession™ß
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpë+ ë(?
+%6*
+
+$guestQuote2getidÆ´
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpë ë(@
+%7*
+
+%5*
+
+%62
+setquoteid’
+“
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpí í(
+%8"__id*;*9$
+"magento\checkout\model\sessiontest"
+customerSessionØ¨
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpí í(0
+%9*
+
+%8*22setcustomerid÷
+”
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpì ì(.
+%10"__id*;*9$
+"magento\checkout\model\sessiontest"
+checkoutSessionØ¨
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpì ì(C
+%11*
+
+%102loadcustomerquote¶£
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpì ì(O
+%12*
+
+%112getquote¨
+©
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpì ì(O
+$updatedQuote"__id*
+
+%12‡
+›
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpî î(:
+%13"__id*E*C$
+"magento\checkout\model\sessiontest"
+getQuoteByReservedOrderIdŸ÷
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpî î(u
+%14*
+
+%13*20
+.test_order_with_simple_product_without_address2execute–Õ
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpî î(v
+%15*&$
+"magento\checkout\model\sessiontest*
+
+%142
+assertnullÆ´
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpï ï(3
+%16*
+
+$customerQuote2getid≠™
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpï5 ï(K
+%17*
+
+$updatedQuote2getid€ÿ
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpï ï(L
+%18*&$
+"magento\checkout\model\sessiontest*
+
+%16*
+
+%172assertequals∞≠
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpñ ñ(7
+%19*
+
+$updatedQuote2getitems◊‘
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpñ ñ(8
+%20*&$
+"magento\checkout\model\sessiontest*2*
+
+%192assertcount*
+2B&$
+"magento\checkout\model\sessiontest

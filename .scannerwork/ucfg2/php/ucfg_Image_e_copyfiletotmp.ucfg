@@ -1,0 +1,179 @@
+
+1magento\remotestorage\plugin\image::copyfiletotmpo
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php∫ ∫(""1*»
+2o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpΩ Ω(.∂
+≥
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpΩ Ω("
+%2"__id*4*2$
+"magento\remotestorage\plugin\image"
+
+tmpFilesù
+ö
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpΩ Ω(-
+%3"
+__arrayGet*
+
+%2*
+
+	$filePath"y
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpΩ Ω(.
+
+%3*·
+3o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpø ø(P¬
+ø
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpø ø(3
+%4"__id*@*>$
+"magento\remotestorage\plugin\image"
+remoteDirectoryWrite¢ü
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpø ø(O
+%5*
+
+%4*
+
+	$filePath2getabsolutepathì
+ê
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpø ø(O
+$absolutePath"__id*
+
+%5¬
+ø
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php¿ ¿('
+%6"__id*@*>$
+"magento\remotestorage\plugin\image"
+remoteDirectoryWriteùö
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php¿ ¿(>
+%7*
+
+%6*
+
+$absolutePath2isfile*
+4
+8*∫
+4o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php¡ ¡(/ø
+º
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php¡ ¡($
+%8"__id*=*;$
+"magento\remotestorage\plugin\image"
+tmpDirectoryWriteäá
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php¡ ¡(.
+%9*
+
+%82create¿Ω
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php¬ ¬(5
+%10*&$
+"magento\remotestorage\plugin\image*
+
+	$filePath2storetmpnameè
+å
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php¬ ¬(5
+
+$tmpPath"__id*
+
+%10√
+¿
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php√ √(2
+%11"__id*@*>$
+"magento\remotestorage\plugin\image"
+remoteDirectoryWriteèå
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php√ √(?
+%12*
+
+%112	getdriver§°
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php√ √([
+%13*
+
+%12*
+
+	$filePath2filegetcontentsè
+å
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php√ √([
+
+$content"__id*
+
+%13¿
+Ω
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpƒ ƒ(0
+%14"__id*=*;$
+"magento\remotestorage\plugin\image"
+tmpDirectoryWriteèå
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpƒ ƒ(=
+%15*
+
+%142	getdriver±Æ
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpƒ ƒ(b
+%16*
+
+%15*
+
+
+$tmpPath*
+
+
+$content2fileputcontents*
+5
+6*ë
+5o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php≈ ≈(ï
+í
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpƒ ∆(
+	$filePath"__id*
+
+
+$tmpPath*
+8*í
+6o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php∆ ∆(ñ
+ì
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpƒ ∆(
+	$filePath"__id*
+
+	$filePath*
+8*˜
+8o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php» »("Ä
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php» »(
+
+	$filePath*‚
+1o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpº º(-û
+õ
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.php∫ ∫("
+	$filePath"__id*
+
+	$filePathstring¬ø
+o
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\RemoteStorage\Plugin\Image.phpº º(-
+%1*&$
+"magento\remotestorage\plugin\image*
+
+	$filePath2fileexistsintmp*
+2
+3:
+	$filePathstringB&$
+"magento\remotestorage\plugin\image

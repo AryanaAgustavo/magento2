@@ -1,0 +1,38 @@
+
+Fmagento\graphql\catalog\productsearchaggregationstest::getgraphqlqueryù
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchAggregationsTest.phpì ì($"1*ß
+1ù
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchAggregationsTest.phpï §(≈
+¬
+ù
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchAggregationsTest.phpì ì($
+$skus"__id*
+
+$skusstringé
+ã
+ù
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchAggregationsTest.phpï §(
+%1"__concat*(&
+${
+    products(filter: {sku: {in: [*£†
+ù]}}){
+    aggregations{
+      label
+      attribute_code
+      count
+      options{
+        label
+        value
+        count
+      }
+    }
+  }
+}*	
+
+$skus"®
+ù
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchAggregationsTest.phpï §(
+
+%1:
+$skusstringB97
+5magento\graphql\catalog\productsearchaggregationstest

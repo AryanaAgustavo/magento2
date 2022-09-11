@@ -1,0 +1,71 @@
+
+8magento\sales\model\order\total\config\base::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Total\Config\Base.php1 1("1*Ÿ
+2
+
+Base.php"
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Total\Config\Base.php; ;(
+implicit return*
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Total\Config\Base.php9 9(_Ô
+Ñ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Total\Config\Base.php1 1(
+$configCacheType"__id*=
+;
+$configCacheType'magento\framework\app\cache\type\config²
+¯
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Total\Config\Base.php1 1(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface¿
+¼
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Total\Config\Base.php1 1(
+$salesConfig"__id*,
+*
+$salesConfigmagento\sales\model\config×
+Ô
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Total\Config\Base.php1 1(
+$orderTotalFactory"__id*>
+<
+$orderTotalFactory&magento\sales\model\order\totalfactoryÒ
+Ï
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Total\Config\Base.php1 1(
+$serializer"__id*@
+>
+$serializer/magento\framework\serialize\serializerinterfaceº
+·
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Total\Config\Base.php9 9(^
+%1"/magento\sales\model\config\ordered::__construct*/-
++magento\sales\model\order\total\config\base*
+
+$configCacheType*
+	
+$logger*
+
+$salesConfig*
+
+$sourceData*
+
+$serializerà
+Ý
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Total\Config\Base.php: :(6E-
++magento\sales\model\order\total\config\base"
+_orderTotalFactory"__id*
+
+$orderTotalFactory*
+2:;
+$configCacheType'magento\framework\app\cache\type\config:"
+$loggerpsr\log\loggerinterface:*
+$salesConfigmagento\sales\model\config:<
+$orderTotalFactory&magento\sales\model\order\totalfactory:
+$sourceData:>
+$serializer/magento\framework\serialize\serializerinterfaceB/-
++magento\sales\model\order\total\config\base

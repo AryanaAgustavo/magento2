@@ -1,0 +1,48 @@
+
+Lmagento\graphql\giftmessage\cart\giftmessagetest::requestcartandassertresult–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpQ Q(/"1*ú	
+1–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpS ](Ä
+Á
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpQ Q(/
+
+$quoteId"__id*
+
+$quoteIdstringÄ
+Á
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpS ](
+%1"__concat*
+{
+    cart(cart_id: "*lj
+h") {
+        gift_message {
+            to
+            from
+            message
+        }
+    }
+}*
+
+
+$quoteId´
+±
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.phpS ](
+$query"__id*
+
+%1òï
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.php^ ^(*
+%2*42
+0magento\graphql\giftmessage\cart\giftmessagetest*
+
+
+$query2graphqlquery"¡
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GiftMessage\Cart\GiftMessageTest.php^ ^(+
+
+%2:
+$quoteIdstringB42
+0magento\graphql\giftmessage\cart\giftmessagetest

@@ -1,0 +1,48 @@
+
+<magento\graphql\quote\guest\applycouponstocarttest::getqueryš
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponsToCartTest.php” ”("1*¼	
+1š
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponsToCartTest.php– ¥(Ô
+Ñ
+š
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponsToCartTest.php” ”(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringÎ
+Ë
+š
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponsToCartTest.php” ”(
+$couponCode"__id*
+
+$couponCodestringÉ
+Æ
+š
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponsToCartTest.php– ¥(
+%1"__concat*64
+2mutation {
+  applyCouponToCart(input: {cart_id: "*
+", coupon_code: "*¢Ÿ
+œ"}) {
+    cart {
+      applied_coupons {
+        code
+      }
+      prices {
+        grand_total {
+          value
+        }
+      }
+    }
+  }
+}*
+
+$maskedQuoteId*
+
+$couponCode"¥
+š
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponsToCartTest.php– ¥(
+
+%1:
+$maskedQuoteIdstring:
+$couponCodestringB64
+2magento\graphql\quote\guest\applycouponstocarttest

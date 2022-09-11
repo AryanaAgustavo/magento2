@@ -1,0 +1,143 @@
+
+@magento\cataloginventory\model\adminhtml\stock\item::__construct~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.php3 3("1*§
+2
+
+Item.php"•
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.phpR R(
+implicit return*ª
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.phpB O(
+Ä
+Á
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.php3 3(
+
+$context"__id*-
++
+$contextmagento\framework\model\contextÁ
+¾
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.php3 3(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryç
+ä
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.php3 3(
+$extensionFactory"__id*G
+E
+$extensionFactory0magento\framework\api\extensionattributesfactoryî
+ë
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.php3 3(
+$customAttributeFactory"__id*H
+F
+$customAttributeFactory+magento\framework\api\attributevaluefactoryÓ
+Ð
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.php3 3(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionØ
+Õ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.php3 3(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceó
+ð
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.php3 3(
+$stockConfiguration"__id*Q
+O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterfaceä
+á
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.php3 3(
+$stockRegistry"__id*G
+E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterfaceö
+ó
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.php3 3(
+$stockItemRepository"__id*S
+Q
+$stockItemRepository9magento\cataloginventory\api\stockitemrepositoryinterfaceâ
+ß
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.php3 3(
+$groupManagement"__id*C
+A
+$groupManagement-magento\customer\api\groupmanagementinterfaceÝ
+Ú
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.php3 3(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceç
+ä
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.php3 3(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb¤
+¡
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.php3 3(
+$data"__id*
+
+$dataarrayî
+ë
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.phpB O(	
+%1"6magento\cataloginventory\model\stock\item::__construct*75
+3magento\cataloginventory\model\adminhtml\stock\item*
+
+
+$context*
+
+	$registry*
+
+$extensionFactory*
+
+$customAttributeFactory*
+
+$customerSession*
+
+$storeManager*
+
+$stockConfiguration*
+
+$stockRegistry*
+
+$stockItemRepository*
+
+	$resource*
+
+$resourceCollection*	
+
+$dataë
+è
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\Adminhtml\Stock\Item.phpQ Q(1J5
+3magento\cataloginventory\model\adminhtml\stock\item"
+groupManagement"__id*
+
+$groupManagement*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:E
+$extensionFactory0magento\framework\api\extensionattributesfactory:F
+$customAttributeFactory+magento\framework\api\attributevaluefactory:2
+$customerSessionmagento\customer\model\session::
+$storeManager)magento\store\model\storemanagerinterface:O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterface:E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterface:Q
+$stockItemRepository9magento\cataloginventory\api\stockitemrepositoryinterface:A
+$groupManagement-magento\customer\api\groupmanagementinterface:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB75
+3magento\cataloginventory\model\adminhtml\stock\item

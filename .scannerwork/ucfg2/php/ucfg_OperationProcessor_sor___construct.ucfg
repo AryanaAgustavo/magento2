@@ -1,0 +1,125 @@
+
+Dmagento\asynchronousoperations\model\operationprocessor::__construct‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpV V("1*º
+2
+OperationProcessor.php"š
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phph h(
+implicit return*•
+1‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.php` `(4ë
+è
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpV V(
+$messageValidator"__id*F
+D
+$messageValidator/magento\framework\messagequeue\messagevalidatorå
+â
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpV V(
+$messageEncoder"__id*B
+@
+$messageEncoder-magento\framework\messagequeue\messageencoderó
+ð
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpV V(
+$configuration"__id*Q
+O
+$configuration=magento\framework\messagequeue\consumerconfigurationinterfaceÛ
+Ø
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpV V(
+$jsonHelper"__id*<
+:
+$jsonHelper+magento\framework\serialize\serializer\jsonõ
+ò
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpV V(
+$operationManagement"__id*M
+K
+$operationManagement3magento\framework\bulk\operationmanagementinterface÷
+ô
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpV V(
+$serviceOutputProcessor"__id*L
+J
+$serviceOutputProcessor/magento\framework\webapi\serviceoutputprocessorñ
+î
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpV V(
+$communicationConfig"__id*I
+G
+$communicationConfig/magento\framework\communication\configinterface¿
+¼
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpV V(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceö
+ó
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.php` `(3O9
+7magento\asynchronousoperations\model\operationprocessor"
+messageValidator"__id*
+
+$messageValidatorò
+ï
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpa a(/M9
+7magento\asynchronousoperations\model\operationprocessor"
+messageEncoder"__id*
+
+$messageEncoderð
+í
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpb b(-L9
+7magento\asynchronousoperations\model\operationprocessor"
+configuration"__id*
+
+$configurationê
+ç
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpc c('I9
+7magento\asynchronousoperations\model\operationprocessor"
+
+jsonHelper"__id*
+
+$jsonHelperü
+ù
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpd d(9R9
+7magento\asynchronousoperations\model\operationprocessor"
+operationManagement"__id*
+
+$operationManagementâ
+ß
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpe e(E9
+7magento\asynchronousoperations\model\operationprocessor"
+logger"__id*
+	
+$logger‚
+ÿ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpf f(?U9
+7magento\asynchronousoperations\model\operationprocessor"
+serviceOutputProcessor"__id*
+
+$serviceOutputProcessorü
+ù
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationProcessor.phpg g(9R9
+7magento\asynchronousoperations\model\operationprocessor"
+communicationConfig"__id*
+
+$communicationConfig*
+2:D
+$messageValidator/magento\framework\messagequeue\messagevalidator:@
+$messageEncoder-magento\framework\messagequeue\messageencoder:O
+$configuration=magento\framework\messagequeue\consumerconfigurationinterface::
+$jsonHelper+magento\framework\serialize\serializer\json:K
+$operationManagement3magento\framework\bulk\operationmanagementinterface:J
+$serviceOutputProcessor/magento\framework\webapi\serviceoutputprocessor:G
+$communicationConfig/magento\framework\communication\configinterface:"
+$loggerpsr\log\loggerinterfaceB;9
+7magento\asynchronousoperations\model\operationprocessor

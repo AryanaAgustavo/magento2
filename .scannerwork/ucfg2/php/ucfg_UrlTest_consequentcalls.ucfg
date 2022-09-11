@@ -1,0 +1,97 @@
+
+Jmagento\framework\urltest::testgeturldoesntaddqueryparamsonconsequentcalls}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpã ã(C"1*©
+2
+UrlTest.php"î
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpë ë(
+implicit return*Ó
+1}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpç ç(g∏
+µ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpç ç(
+%1"__id*(*&
+magento\framework\urltest"
+modelêç
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpç? ç(e
+%2"$Array≥
+∞
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpç? ç(e
+%3"__mapSet*
+
+%2*
+
+_query*	
+foo=bar¨
+©
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpç? ç(e
+%4"__mapSet*
+
+%2*
+
+_nosid*2∫∑
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpç ç(f
+%5*
+
+%1*
+catalog/product/view*
+
+%22geturlõ
+ò
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpç ç(f	
+$result"__id*
+
+%5Ä˝
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpé é(`
+%6*
+magento\framework\urltest*<:
+8http://localhost/index.php/catalog/product/view/?foo=bar*
+	
+$result2assertequals∏
+µ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpè è(
+%7"__id*(*&
+magento\framework\urltest"
+modelêç
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpè? è(N
+%8"$Array¨
+©
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpè? è(N
+%9"__mapSet*
+
+%8*
+
+_nosid*2ª∏
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpè è(O
+%10*
+
+%7*
+catalog/product/view*
+
+%82geturlú
+ô
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpè è(O	
+$result"__id*
+
+%10˘ˆ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\UrlTest.phpê ê(X
+%11*
+magento\framework\urltest*42
+0http://localhost/index.php/catalog/product/view/*
+	
+$result2assertequals*
+2B
+magento\framework\urltest

@@ -1,0 +1,20 @@
+
+Tmagento\framework\objectmanager\profiler\code\generator\logger::_getinvokemethodbody
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\ObjectManager\Profiler\Code\Generator\Logger.php‰ ‰(+"1*à
+1
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\ObjectManager\Profiler\Code\Generator\Logger.php‹ (©
+¦
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\ObjectManager\Profiler\Code\Generator\Logger.php‹ (
+%1"__concat*:8
+6\n\$this->log->invoked(\$this->subject, \$methodName);*_]
+[\n\$result = call_user_func_array(array(\$this->subject, \$methodName), \$methodArguments);*)'
+%\nif (\$result === \$this->subject) {*
+\n    return \$this;*
+\n}*
+\nreturn \$result;"›
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\ObjectManager\Profiler\Code\Generator\Logger.php‹ (
+
+%1BB@
+>magento\framework\objectmanager\profiler\code\generator\logger

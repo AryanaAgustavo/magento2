@@ -1,0 +1,85 @@
+
+Bmagento\jwtframeworkadapter\model\unsecuredjwtmanager::__construct€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\JwtFrameworkAdapter\Model\UnsecuredJwtManager.php4 4("1*¹
+2
+UnsecuredJwtManager.php"˜
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\JwtFrameworkAdapter\Model\UnsecuredJwtManager.php> >(
+implicit return*å
+1€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\JwtFrameworkAdapter\Model\UnsecuredJwtManager.php: :(6é
+æ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\JwtFrameworkAdapter\Model\UnsecuredJwtManager.php4 4(
+$builderFactory"__id*H
+F
+$builderFactory3magento\jwtframeworkadapter\model\jwsbuilderfactoryþ
+û
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\JwtFrameworkAdapter\Model\UnsecuredJwtManager.php4 4(
+$serializerPoolFactory"__id*V
+T
+$serializerPoolFactory:magento\jwtframeworkadapter\model\jwsserializerpoolfactoryì
+é
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\JwtFrameworkAdapter\Model\UnsecuredJwtManager.php4 4(
+$jwsLoaderFactory"__id*I
+G
+$jwsLoaderFactory2magento\jwtframeworkadapter\model\jwsloaderfactoryã
+à
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\JwtFrameworkAdapter\Model\UnsecuredJwtManager.php4 4(
+$jwtFactory"__id*F
+D
+$jwtFactory5magento\jwtframeworkadapter\model\unsecuredjwtfactory©¦
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\JwtFrameworkAdapter\Model\UnsecuredJwtManager.php: :(5
+%1*
+
+$builderFactory2createÝ
+Ú
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\JwtFrameworkAdapter\Model\UnsecuredJwtManager.php: :(5G7
+5magento\jwtframeworkadapter\model\unsecuredjwtmanager"
+
+jwsBuilder"__id*
+
+%1°­
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\JwtFrameworkAdapter\Model\UnsecuredJwtManager.php; ;(?
+%2*
+
+$serializerPoolFactory2createà
+Ý
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\JwtFrameworkAdapter\Model\UnsecuredJwtManager.php; ;(?J7
+5magento\jwtframeworkadapter\model\unsecuredjwtmanager"
+jwsSerializer"__id*
+
+%2«¨
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\JwtFrameworkAdapter\Model\UnsecuredJwtManager.php< <(6
+%3*
+
+$jwsLoaderFactory2createÜ
+Ù
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\JwtFrameworkAdapter\Model\UnsecuredJwtManager.php< <(6F7
+5magento\jwtframeworkadapter\model\unsecuredjwtmanager"
+	jwsLoader"__id*
+
+%3æ
+ã
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\JwtFrameworkAdapter\Model\UnsecuredJwtManager.php= =('G7
+5magento\jwtframeworkadapter\model\unsecuredjwtmanager"
+
+jwtFactory"__id*
+
+$jwtFactory*
+2:F
+$builderFactory3magento\jwtframeworkadapter\model\jwsbuilderfactory:T
+$serializerPoolFactory:magento\jwtframeworkadapter\model\jwsserializerpoolfactory:G
+$jwsLoaderFactory2magento\jwtframeworkadapter\model\jwsloaderfactory:D
+$jwtFactory5magento\jwtframeworkadapter\model\unsecuredjwtfactoryB97
+5magento\jwtframeworkadapter\model\unsecuredjwtmanager

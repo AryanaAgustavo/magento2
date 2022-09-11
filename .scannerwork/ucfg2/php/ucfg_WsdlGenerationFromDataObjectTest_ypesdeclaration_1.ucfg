@@ -1,0 +1,287 @@
+
+Nmagento\webapi\wsdlgenerationfromdataobjecttest::_checkcomplextypesdeclarationó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php· ·(4"1*Â
+2ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÂ ˚(Ï
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÈ! È(0
+%2"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÏ
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÔ) Ô(8
+%3"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrl§
+°
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÂ ˚(
+%4"__concat*≈¬
+ø<xsd:complexType name="TestModule5AllSoapAndRestV2ItemRequest">
+    <xsd:annotation>
+        <xsd:documentation>Retrieve existing item.</xsd:documentation>
+        <xsd:appinfo xmlns:inf="*ÓÎ
+Ë"/>
+    </xsd:annotation>
+    <xsd:sequence>
+        <xsd:element name="id" minOccurs="1" maxOccurs="1" type="xsd:int">
+            <xsd:annotation>
+                <xsd:documentation/>
+                <xsd:appinfo xmlns:inf="*´®
+•">
+                    <inf:min/>
+                    <inf:max/>
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV2Item</inf:callName>
+                        <inf:requiredInput>Yes</inf:requiredInput>
+                    </inf:callInfo>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+    </xsd:sequence>
+</xsd:complexType>*
+
+%2*
+
+%3ª
+∏
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÂ ˚(
+$requestType"__id*
+
+%4*
+4*Â
+3ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php˝ ì(Ï
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÅ! Å(0
+%5"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÏ
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpá) á(8
+%6"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrl§
+°
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php˝ ì(
+%7"__concat*øº
+π<xsd:complexType name="TestModule5AllSoapAndRestV1ItemRequest">
+    <xsd:annotation>
+        <xsd:documentation>Retrieve an item.</xsd:documentation>
+        <xsd:appinfo xmlns:inf="*ÙÒ
+Ó"/>
+    </xsd:annotation>
+    <xsd:sequence>
+        <xsd:element name="entityId" minOccurs="1" maxOccurs="1" type="xsd:int">
+            <xsd:annotation>
+                <xsd:documentation/>
+                <xsd:appinfo xmlns:inf="*´®
+•">
+                    <inf:min/>
+                    <inf:max/>
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV1Item</inf:callName>
+                        <inf:requiredInput>Yes</inf:requiredInput>
+                    </inf:callInfo>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+    </xsd:sequence>
+</xsd:complexType>*
+
+%5*
+
+%6ª
+∏
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php˝ ì(
+$requestType"__id*
+
+%7*
+4*È
+4ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpñ ö(
+ˇ¸
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpó ó(4
+%8*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$requestType2_convertxmltostring»≈
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpñ ö(	
+%9*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%8*
+
+$wsdlContent*86
+4Request type declaration in types section is invalid2assertstringcontainsstringÙ
+Ò
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpù ù("
+%10"__id*H*F1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+isSingleService*
+5
+6*â
+5ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpû ¥(Ì
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php§! §(0
+%11"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÌ
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php™) ™(8
+%12"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlƒ
+¡
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpû ¥(
+%13"__concat*áÑ
+Å<xsd:complexType name="TestModule5AllSoapAndRestV2ItemResponse">
+    <xsd:annotation>
+        <xsd:documentation>
+            Response container for the testModule5AllSoapAndRestV2Item call.
+        </xsd:documentation>
+        <xsd:appinfo xmlns:inf="*êç
+ä"/>
+    </xsd:annotation>
+    <xsd:sequence>
+        <xsd:element name="result" minOccurs="1" maxOccurs="1" type="tns:TestModule5V2EntityAllSoapAndRest">
+            <xsd:annotation>
+                <xsd:documentation/>
+                <xsd:appinfo xmlns:inf="*‰·
+ﬁ">
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV2Item</inf:callName>
+                        <inf:returned>Always</inf:returned>
+                    </inf:callInfo>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+    </xsd:sequence>
+</xsd:complexType>*
+
+%11*
+
+%12Ω
+∫
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpû ¥(
+$responseType"__id*
+
+%13*
+7*â
+6ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php∂ Ã(Ì
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpº! º(0
+%14"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÌ
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php¬) ¬(8
+%15"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlƒ
+¡
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php∂ Ã(
+%16"__concat*áÑ
+Å<xsd:complexType name="TestModule5AllSoapAndRestV1ItemResponse">
+    <xsd:annotation>
+        <xsd:documentation>
+            Response container for the testModule5AllSoapAndRestV1Item call.
+        </xsd:documentation>
+        <xsd:appinfo xmlns:inf="*êç
+ä"/>
+    </xsd:annotation>
+    <xsd:sequence>
+        <xsd:element name="result" minOccurs="1" maxOccurs="1" type="tns:TestModule5V1EntityAllSoapAndRest">
+            <xsd:annotation>
+                <xsd:documentation/>
+                <xsd:appinfo xmlns:inf="*‰·
+ﬁ">
+                    <inf:callInfo>
+                        <inf:callName>testModule5AllSoapAndRestV1Item</inf:callName>
+                        <inf:returned>Always</inf:returned>
+                    </inf:callInfo>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+    </xsd:sequence>
+</xsd:complexType>*
+
+%14*
+
+%15Ω
+∫
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php∂ Ã(
+$responseType"__id*
+
+%16*
+7*É
+7ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpœ ”(
+Å˛
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php– –(5
+%17*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$responseType2_convertxmltostringÀ»
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpœ ”(	
+%18*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%17*
+
+$wsdlContent*97
+5Response type declaration in types section is invalid2assertstringcontainsstringåâ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php‘ ‘(<
+%19*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$wsdlContent2_checkreferencedtypedeclaration*
+8*›
+8&
+$WsdlGenerationFromDataObjectTest.php"Ø
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php’ ’(
+implicit return*õ
+1ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php‰ ‰("Û
+
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php‰ ‰("
+%1"__id*H*F1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+isSingleService*
+2
+3:
+$wsdlContentB31
+/magento\webapi\wsdlgenerationfromdataobjecttest

@@ -1,0 +1,34 @@
+
+Amagento\graphql\quote\customer\removecouponfromcarttest::getqueryŸ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\RemoveCouponFromCartTest.phpŸ Ÿ("1*Œ
+1Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\RemoveCouponFromCartTest.php¡ ¬(Ù
+Ö
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\RemoveCouponFromCartTest.phpŸ Ÿ(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringÛ
+Ø
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\RemoveCouponFromCartTest.php¡ ¬(
+%1"__concat*97
+5mutation {
+  removeCouponFromCart(input: {cart_id: "*US
+Q"}) {
+    cart {
+      applied_coupon {
+        code
+      }
+    }
+  }
+}
+*
+
+$maskedQuoteId"ª
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\RemoveCouponFromCartTest.php¡ ¬(
+
+%1:
+$maskedQuoteIdstringB;9
+7magento\graphql\quote\customer\removecouponfromcarttest

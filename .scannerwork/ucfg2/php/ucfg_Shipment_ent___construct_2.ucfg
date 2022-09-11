@@ -1,0 +1,77 @@
+
+Rmagento\sales\model\resourcemodel\report\shipping\collection\shipment::__construct‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Shipping\Collection\Shipment.php ("1*¿
+2
+Shipment.php"©
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Shipping\Collection\Shipment.php! !(
+implicit return*¢
+1‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Shipping\Collection\Shipment.php (lô
+ñ
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Shipping\Collection\Shipment.php (
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÎ
+Ë
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Shipping\Collection\Shipment.php (	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface€
+ý
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Shipping\Collection\Shipment.php (
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceë
+è
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Shipping\Collection\Shipment.php (
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceã
+à
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Shipping\Collection\Shipment.php (
+	$resource"__id*7
+5
+	$resource(magento\sales\model\resourcemodel\reportì
+é
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Shipping\Collection\Shipment.php (
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterface¡
+ž
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Shipping\Collection\Shipment.php (k
+%1"Omagento\sales\model\resourcemodel\report\shipping\collection\order::__construct*IG
+Emagento\sales\model\resourcemodel\report\shipping\collection\shipment*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+	$resource*
+
+$connectionÑÎ
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Shipping\Collection\Shipment.php   (4
+%2*
+
+	$resource*
+sales_shipping_aggregated2init*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:5
+	$resource(magento\sales\model\resourcemodel\report:<
+$connection-magento\framework\db\adapter\adapterinterfaceBIG
+Emagento\sales\model\resourcemodel\report\shipping\collection\shipment

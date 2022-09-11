@@ -1,0 +1,85 @@
+
+Hmagento\urlrewrite\model\resourcemodel\urlrewritecollection::__construct†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Model\ResourceModel\UrlRewriteCollection.php ("1*À
+2
+UrlRewriteCollection.php"ž
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Model\ResourceModel\UrlRewriteCollection.php( ((
+implicit return*á
+1†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Model\ResourceModel\UrlRewriteCollection.php& &(lò
+ï
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Model\ResourceModel\UrlRewriteCollection.php (
+$entityFactory"__id*L
+J
+$entityFactory8magento\framework\data\collection\entityfactoryinterfaceÃ
+À
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Model\ResourceModel\UrlRewriteCollection.php (	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceõ
+ò
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Model\ResourceModel\UrlRewriteCollection.php (
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceà
+Ý
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Model\ResourceModel\UrlRewriteCollection.php (
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceá
+Þ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Model\ResourceModel\UrlRewriteCollection.php (
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceá
+Þ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Model\ResourceModel\UrlRewriteCollection.php (
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceã
+à
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Model\ResourceModel\UrlRewriteCollection.php (
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdb
+
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Model\ResourceModel\UrlRewriteCollection.php& &(k
+%1"Smagento\framework\model\resourcemodel\db\collection\abstractcollection::__construct*?=
+;magento\urlrewrite\model\resourcemodel\urlrewritecollection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$connection*
+
+	$resourceö
+ó
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Model\ResourceModel\UrlRewriteCollection.php' '(+O=
+;magento\urlrewrite\model\resourcemodel\urlrewritecollection"
+storeManager"__id*
+
+$storeManager*
+2:J
+$entityFactory8magento\framework\data\collection\entityfactoryinterface:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface::
+$storeManager)magento\store\model\storemanagerinterface:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbB?=
+;magento\urlrewrite\model\resourcemodel\urlrewritecollection

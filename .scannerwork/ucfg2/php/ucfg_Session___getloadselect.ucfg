@@ -1,0 +1,119 @@
+
+>magento\persistent\model\resourcemodel\session::_getloadselecty
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.php= =(%"1*ÿ
+2y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.phpA A(/ÆÃ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.phpA A(.
+%3*20
+.magento\persistent\model\resourcemodel\session2getmaintableš
+—
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.phpA A(.
+
+$tableName"__id*
+
+%3Œ‰
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.phpC C(B
+%4"$Array×Ô
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.phpC C(A
+%5*20
+.magento\persistent\model\resourcemodel\session*
+customer_entity2gettable¬
+©
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.phpC C(B
+%6"__mapSet*
+
+%4*
+
+customer*
+
+%5Ë
+È
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.phpD D(E
+%7"__concat*
+customer.entity_id = *
+
+
+$tableName*
+.customer_id§¤
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.phpB E(
+%8*
+	
+$select*
+
+%4*
+
+%72join´
+±
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.phpF F(/
+%9"__concat*
+
+
+$tableName*
+.updated_at >= ?¤¡
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.phpG G(+
+%10*
+	
+$object2getexpiredbefore¥¢
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.phpB H(
+%11*
+
+%8*
+
+%9*
+
+%102where*
+3*Ú
+3y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.phpK K(µ
+²
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.phpK K("
+%12magento\framework\db\select"__id*
+	
+$select"¡
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.phpK K($
+"
+%12magento\framework\db\select*é
+1y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.php? ?(B¢
+Ÿ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.php? ?(A
+%1"Cmagento\framework\model\resourcemodel\db\abstractdb::_getloadselect*20
+.magento\persistent\model\resourcemodel\session*
+
+
+$field*
+
+
+$value*
+	
+$object—
+”
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.php? ?(A	
+$select"__id*
+
+%1¡ž
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Model\ResourceModel\Session.php@ @(&
+%2*
+	
+$object2getloadexpired*
+2
+3:
+$field:
+$value:	
+$objectB20
+.magento\persistent\model\resourcemodel\session

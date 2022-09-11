@@ -1,0 +1,82 @@
+
+,magento\framework\model\context::__constructn
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Context.php: :("1*š
+2
+Context.php"…
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Context.phpF F(
+implicit return*
+1n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Context.phpA A(3ª
+§
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Context.php: :(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÍ
+Ê
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Context.php: :(
+$eventDispatcher"__id*>
+<
+$eventDispatcher(magento\framework\event\managerinterfaceÃ
+À
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Context.php: :(
+$cacheManager"__id*7
+5
+$cacheManager$magento\framework\app\cacheinterface²
+¯
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Context.php: :(
+	$appState"__id**
+(
+	$appStatemagento\framework\app\stateÙ
+Ö
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Context.php: :(
+$actionValidator"__id*J
+H
+$actionValidator4magento\framework\model\actionvalidator\removeactionÈ
+Å
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Context.phpA A(27!
+magento\framework\model\context"
+_eventDispatcher"__id*
+
+$eventDispatcherÂ
+¿
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Context.phpB B(,4!
+magento\framework\model\context"
+_cacheManager"__id*
+
+$cacheManagerº
+·
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Context.phpC C($0!
+magento\framework\model\context"
+	_appState"__id*
+
+	$appState¶
+³
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Context.phpD D( .!
+magento\framework\model\context"	
+_logger"__id*
+	
+$loggerÈ
+Å
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\Context.phpE E(27!
+magento\framework\model\context"
+_actionValidator"__id*
+
+$actionValidator*
+2:"
+$loggerpsr\log\loggerinterface:<
+$eventDispatcher(magento\framework\event\managerinterface:5
+$cacheManager$magento\framework\app\cacheinterface:(
+	$appStatemagento\framework\app\state:H
+$actionValidator4magento\framework\model\actionvalidator\removeactionB#!
+magento\framework\model\context

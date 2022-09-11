@@ -1,0 +1,267 @@
+
+6magento\shipping\model\shipping::collectratesbyaddressl
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpı ı()"1*Ú/
+1l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php¯ ¯(7Ø
+¨
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpı ı()
+
+$address"__id**
+(
+$addressmagento\framework\dataobject∫
+∑
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php¯ ¯(,
+%1"__id*;*9!
+magento\shipping\model\shipping"
+rateRequestFactoryáÑ
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php¯ ¯(6
+%2*
+
+%12createã
+à
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php¯ ¯(6
+
+$request"__id*
+
+%2íè
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php˘ ˘(5
+%3*
+
+
+$address2getallitemsöó
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php˘ ˘(6
+%4*
+
+
+$request*
+
+%32setallitemsìê
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php˙# ˙(;
+%5*
+
+
+$address2getcountryidüú
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php˙ ˙(<
+%6*
+
+
+$request*
+
+%52setdestcountryidíè
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php˚" ˚(9
+%7*
+
+
+$address2getregionidûõ
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php˚ ˚(:
+%8*
+
+
+$request*
+
+%72setdestregionidíè
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php¸" ¸(9
+%9*
+
+
+$address2getpostcodeüú
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php¸ ¸(:
+%10*
+
+
+$request*
+
+%92setdestpostcodeóî
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php˝" ˝(=
+%11*
+
+
+$address2getbasesubtotal†ù
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php˝ ˝(>
+%12*
+
+
+$request*
+
+%112setpackagevalue£†
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php˛. ˛(U
+%13*
+
+
+$address2getbasesubtotalwithdiscount¨©
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.php˛ ˛(V
+%14*
+
+
+$request*
+
+%132setpackagevaluewithdiscountëé
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpˇ# ˇ(8
+%15*
+
+
+$address2	getweight°û
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpˇ ˇ(9
+%16*
+
+
+$request*
+
+%152setpackageweightõò
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpÄ& Ä(E
+%17*
+
+
+$address2getfreemethodweight§°
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpÄ Ä(F
+%18*
+
+
+$request*
+
+%172setfreemethodweightíè
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpÅ  Å(6
+%19*
+
+
+$address2
+getitemqtyûõ
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpÅ Å(7
+%20*
+
+
+$request*
+
+%192setpackageqty∂
+≥
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpÑ Ñ(%
+%21"__id*6*4!
+magento\shipping\model\shipping"
+_storeManagerãà
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpÑ Ñ(1
+%22*
+
+%212getstoreä
+á
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpÑ Ñ(1
+$store"__id*
+
+%22ãà
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpÖ Ö(,
+%23*
+
+
+$store2getidõò
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpÖ Ö(-
+%24*
+
+
+$request*
+
+%232
+setstoreidíè
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpÜ Ü(5
+%25*
+
+
+$store2getwebsiteidùö
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpÜ Ü(6
+%26*
+
+
+$request*
+
+%252setwebsiteidïí
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpá" á(;
+%27*
+
+
+$store2getbasecurrency†ù
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpá á(<
+%28*
+
+
+$request*
+
+%272setbasecurrencyòï
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpà% à(A
+%29*
+
+
+$store2getcurrentcurrency£†
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpà à(B
+%30*
+
+
+$request*
+
+%292setpackagecurrency™ß
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpâ â(0
+%31*
+
+
+$request*
+
+$limitCarrier2setlimitcarrierûõ
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpã) ã(K
+%32*
+
+
+$address2getbasesubtotalincltaxß§
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpã ã(L
+%33*
+
+
+$request*
+
+%322setbasesubtotalincltaxπ∂
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpç ç(,
+%34*#!
+magento\shipping\model\shipping*
+
+
+$request2collectrates"w
+l
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Shipping.phpç ç(-
+
+%34:(
+$addressmagento\framework\dataobject:
+$limitCarrierB#!
+magento\shipping\model\shipping

@@ -1,0 +1,64 @@
+
+Emagento\graphql\wishlist\deleteproductsfromwishlisttest::getheadermapù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpb b(!"1*é
+1ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpd d(fÕ
+ 
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpb b(!
+	$username"__id*
+
+	$usernamestringÕ
+ 
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpb b(!
+	$password"__id*
+
+	$passwordstringÜ
+É
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpd d(4
+%1"__id*U*S9
+7magento\graphql\wishlist\deleteproductsfromwishlisttest"
+customerTokenServiceÍÁ
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpd d(e
+%2*
+
+%1*
+
+	$username*
+
+	$password2createcustomeraccesstoken√
+¿
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpd d(e
+$customerToken"__id*
+
+%2±Æ
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpf f(>
+%3"$Array‘
+—
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpf# f(=
+%4"__concat*	
+Bearer *
+
+$customerToken÷
+”
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpf f(>
+%5"__mapSet*
+
+%3*
+Authorization*
+
+%4"®
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpf f(?
+
+%3:
+	$usernamestring:
+	$passwordstringB;9
+7magento\graphql\wishlist\deleteproductsfromwishlisttest

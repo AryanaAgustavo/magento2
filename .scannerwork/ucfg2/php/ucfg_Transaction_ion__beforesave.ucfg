@@ -1,0 +1,186 @@
+
+Hmagento\sales\model\resourcemodel\order\payment\transaction::_beforesaveà
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpá á(""1*˘
+6à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpï ï(eß§
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpï ï(d
+%6*?=
+;magento\sales\model\resourcemodel\order\payment\transaction*
+
+
+$orderId*
+
+
+$paymentId*
+
+$parentTxnId*
+
+$idFieldName2_lookupbytxnid∂
+≥
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpï ï(d
+	$parentId"__sanitizing_cast*
+
+%6*
+7
+8*„
+7à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpó ó(>Õ 
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpó ó(=
+%7*
+
+$transaction*
+	parent_id*
+
+	$parentId2setdata*
+8*Ã
+8à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpú ú(&≤Ø
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpú ú(&
+%8*
+
+$transaction2
+isfailsafe*
+9
+11*¸
+9à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpù ù(f°û
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpù$ ù(e
+%9*?=
+;magento\sales\model\resourcemodel\order\payment\transaction*
+
+
+$orderId*
+
+
+$paymentId*
+
+
+$txnId*
+
+$idFieldName2_lookupbytxnidΩ
+∫
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpù ù(e
+$autoincrementId"__sanitizing_cast*
+
+%9*
+10
+11*©
+10à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpü ü(Zÿ’
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpü ü(E
+%10*
+
+$transaction*
+
+$idFieldName*
+
+$autoincrementId2setdata∂≥
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpü ü(Y
+%11*
+
+%10*	
+false2isobjectnew*
+11*–
+11à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php£ £(1ß
+§
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php£ £(0
+%12"=magento\sales\model\resourcemodel\entityabstract::_beforesave*?=
+;magento\sales\model\resourcemodel\order\payment\transaction*
+
+$transaction"î
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php£ £(1
+
+%12*∆
+1à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpâ â(>›
+⁄
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpá á("
+$transaction"__id*7
+5
+$transaction%magento\framework\model\abstractmodel¬ø
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpâ â(=
+%1*
+
+$transaction*
+parent_txn_id2getdata¨
+©
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpâ â(=
+$parentTxnId"__id*
+
+%1ª∏
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpä ä(0
+%2*
+
+$transaction*
+
+txn_id2getdata¶
+£
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpä ä(0
+$txnId"__id*
+
+%2Ω∫
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpã ã(4
+%3*
+
+$transaction*
+
+order_id2getdata®
+•
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpã ã(4
+
+$orderId"__id*
+
+%3øº
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpå å(8
+%4*
+
+$transaction*
+
+payment_id2getdata™
+ß
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpå å(8
+
+$paymentId"__id*
+
+%4Â‚
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpç ç(.
+%5*?=
+;magento\sales\model\resourcemodel\order\payment\transaction2getidfieldname¨
+©
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpç ç(.
+$idFieldName"__id*
+
+%5*
+
+6
+8
+12*∫
+12
+Transaction.php"†
+à
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php§ §(
+implicit return:5
+$transaction%magento\framework\model\abstractmodelB?=
+;magento\sales\model\resourcemodel\order\payment\transaction

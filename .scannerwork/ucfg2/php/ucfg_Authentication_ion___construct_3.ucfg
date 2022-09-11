@@ -1,0 +1,87 @@
+
+2magento\customer\model\authentication::__constructp
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Authentication.phpG G("1*£
+2
+Authentication.php"‡
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Authentication.phpS S(
+implicit return*„
+1p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Authentication.phpN N(8Ý
+Ú
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Authentication.phpG G(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceÐ
+Í
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Authentication.phpG G(
+$customerRegistry"__id*>
+<
+$customerRegistry'magento\customer\model\customerregistryÆ
+Ã
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Authentication.phpG G(
+$backendConfig"__id*7
+5
+$backendConfig#magento\backend\app\configinterfaceº
+·
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Authentication.phpG G(
+	$dateTime"__id*0
+.
+	$dateTime!magento\framework\stdlib\datetimeÊ
+Ç
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Authentication.phpG G(
+
+$encryptor"__id*?
+=
+
+$encryptor/magento\framework\encryption\encryptorinterfaceÕ
+Ò
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Authentication.phpN N(7?'
+%magento\customer\model\authentication"
+customerRepository"__id*
+
+$customerRepositoryÑ
+Î
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Authentication.phpO O(3='
+%magento\customer\model\authentication"
+customerRegistry"__id*
+
+$customerRegistryË
+È
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Authentication.phpP P(-:'
+%magento\customer\model\authentication"
+backendConfig"__id*
+
+$backendConfigÁ
+¾
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Authentication.phpQ Q(#5'
+%magento\customer\model\authentication"
+
+dateTime"__id*
+
+	$dateTimeÃ
+À
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Authentication.phpR R(%6'
+%magento\customer\model\authentication"
+	encryptor"__id*
+
+
+$encryptor*
+2:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:<
+$customerRegistry'magento\customer\model\customerregistry:5
+$backendConfig#magento\backend\app\configinterface:.
+	$dateTime!magento\framework\stdlib\datetime:=
+
+$encryptor/magento\framework\encryption\encryptorinterfaceB)'
+%magento\customer\model\authentication

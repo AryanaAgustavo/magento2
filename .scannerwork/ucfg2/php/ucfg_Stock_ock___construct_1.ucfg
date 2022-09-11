@@ -1,0 +1,104 @@
+
+=magento\bundle\model\resourcemodel\indexer\stock::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\ResourceModel\Indexer\Stock.php2 2("1*¥
+2
+	Stock.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\ResourceModel\Indexer\Stock.phpA A(
+implicit return*ï
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\ResourceModel\Indexer\Stock.php< <(aÒ
+Ï
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\ResourceModel\Indexer\Stock.php2 2(
+
+$context"__id*>
+<
+$context0magento\framework\model\resourcemodel\db\contextß
+Ü
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\ResourceModel\Indexer\Stock.php2 2(
+$tableStrategy"__id*E
+C
+$tableStrategy1magento\framework\indexer\table\strategyinterface¾
+»
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\ResourceModel\Indexer\Stock.php2 2(
+
+$eavConfig"__id*(
+&
+
+$eavConfigmagento\eav\model\configÛ
+Ø
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\ResourceModel\Indexer\Stock.php2 2(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceù
+ö
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\ResourceModel\Indexer\Stock.php2 2(
+$activeTableSwitcher"__id*Y
+W
+$activeTableSwitcher?magento\catalog\model\resourcemodel\indexer\activetableswitcher‡
+„
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\ResourceModel\Indexer\Stock.php2 2(
+$stockStatusSelectBuilder"__id*b
+`
+$stockStatusSelectBuilderCmagento\bundle\model\resourcemodel\indexer\stockstatusselectbuilder¥
+¢
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\ResourceModel\Indexer\Stock.php2 2(%
+#$bundleOptionStockDataSelectBuilder"__id*v
+t
+#$bundleOptionStockDataSelectBuilderMmagento\bundle\model\resourcemodel\indexer\bundleoptionstockdataselectbuilderë
+è
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\ResourceModel\Indexer\Stock.php< <(`
+%1"Tmagento\cataloginventory\model\resourcemodel\indexer\stock\defaultstock::__construct*42
+0magento\bundle\model\resourcemodel\indexer\stock*
+
+
+$context*
+
+$tableStrategy*
+
+
+$eavConfig*
+
+$scopeConfig*
+
+$connectionNameí
+ê
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\ResourceModel\Indexer\Stock.php> >(9K2
+0magento\bundle\model\resourcemodel\indexer\stock"
+activeTableSwitcher"__id*
+
+$activeTableSwitcher÷
+ô
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\ResourceModel\Indexer\Stock.php? ?(CP2
+0magento\bundle\model\resourcemodel\indexer\stock"
+stockStatusSelectBuilder"__id*
+
+$stockStatusSelectBuilder‹
+ˆ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Model\ResourceModel\Indexer\Stock.php@ @(WZ2
+0magento\bundle\model\resourcemodel\indexer\stock"$
+"bundleOptionStockDataSelectBuilder"__id*'
+%
+#$bundleOptionStockDataSelectBuilder*
+2:<
+$context0magento\framework\model\resourcemodel\db\context:C
+$tableStrategy1magento\framework\indexer\table\strategyinterface:&
+
+$eavConfigmagento\eav\model\config:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:W
+$activeTableSwitcher?magento\catalog\model\resourcemodel\indexer\activetableswitcher:`
+$stockStatusSelectBuilderCmagento\bundle\model\resourcemodel\indexer\stockstatusselectbuilder:t
+#$bundleOptionStockDataSelectBuilderMmagento\bundle\model\resourcemodel\indexer\bundleoptionstockdataselectbuilder:
+$connectionNameB42
+0magento\bundle\model\resourcemodel\indexer\stock

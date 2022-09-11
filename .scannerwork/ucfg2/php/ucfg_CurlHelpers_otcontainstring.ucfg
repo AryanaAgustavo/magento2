@@ -1,0 +1,52 @@
+
+Tmagento\backend\test\mftf\helper\curlhelpers::assertcurlresponsedoesnotcontainstringw
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Mftf\Helper\CurlHelpers.phpM M(:"1*§
+2
+CurlHelpers.php"Ž
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Mftf\Helper\CurlHelpers.phpV V(
+implicit return*ö
+1w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Mftf\Helper\CurlHelpers.phpS S(0ÐÍ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Mftf\Helper\CurlHelpers.phpS S(/
+%1*0.
+,magento\backend\test\mftf\helper\curlhelpers*
+
+$cookieName2	getcookie•
+’
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Mftf\Helper\CurlHelpers.phpS S(/	
+$cookie"__id*
+
+%1ëè
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Mftf\Helper\CurlHelpers.phpT T(H
+%2*0.
+,magento\backend\test\mftf\helper\curlhelpers*
+
+$url*
+	
+$cookie*
+
+	$postBody2getcurlresponse›
+˜
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Mftf\Helper\CurlHelpers.phpT T(H
+$curlResponse"__id*
+
+%2ûø
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Test\Mftf\Helper\CurlHelpers.phpU U(L
+%3*0.
+,magento\backend\test\mftf\helper\curlhelpers*
+
+$expectedString*
+
+$curlResponse2assertstringnotcontainsstring*
+2:
+$url:
+$expectedString:
+	$postBody:
+$cookieNameB0.
+,magento\backend\test\mftf\helper\curlhelpers

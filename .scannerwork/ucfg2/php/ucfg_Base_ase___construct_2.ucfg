@@ -1,0 +1,97 @@
+
+>magento\config\model\config\backend\currency\base::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Currency\Base.php" "("1*¥
+2
+
+Base.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Currency\Base.php. .(
+implicit return*ñ
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Currency\Base.php, ,(qÂ
+¿
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Currency\Base.php" "(
+
+$context"__id*-
++
+$contextmagento\framework\model\context¿
+¼
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Currency\Base.php" "(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÒ
+Ï
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Currency\Base.php" "(	
+$config"__id*>
+<
+$config1magento\framework\app\config\scopeconfiginterfaceÜ
+Ù
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Currency\Base.php" "(
+$cacheTypeList"__id*A
+?
+$cacheTypeList-magento\framework\app\cache\typelistinterfaceÚ
+×
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Currency\Base.php" "(
+$currencyFactory"__id*=
+;
+$currencyFactory'magento\directory\model\currencyfactoryÛ
+Ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Currency\Base.php" "(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceå
+â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Currency\Base.php" "(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb¢
+Ÿ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Currency\Base.php" "(
+$data"__id*
+
+$dataarrayû
+ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Currency\Base.php, ,(p
+%1"Jmagento\config\model\config\backend\currency\abstractcurrency::__construct*53
+1magento\config\model\config\backend\currency\base*
+
+
+$context*
+
+	$registry*
+	
+$config*
+
+$cacheTypeList*
+
+	$resource*
+
+$resourceCollection*	
+
+$dataç
+ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Currency\Base.php- -(1H3
+1magento\config\model\config\backend\currency\base"
+currencyFactory"__id*
+
+$currencyFactory*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:<
+$config1magento\framework\app\config\scopeconfiginterface:?
+$cacheTypeList-magento\framework\app\cache\typelistinterface:;
+$currencyFactory'magento\directory\model\currencyfactory:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB53
+1magento\config\model\config\backend\currency\base

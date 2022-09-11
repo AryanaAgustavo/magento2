@@ -1,0 +1,44 @@
+
+Cmagento\graphql\quote\guest\getselectedshippingmethodtest::getquery°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSelectedShippingMethodTest.phpõ õ("1*Û
+1°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSelectedShippingMethodTest.phpù ≤(€
+ÿ
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSelectedShippingMethodTest.phpõ õ(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringº
+π
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSelectedShippingMethodTest.phpù ≤(
+%1"__concat*
+{
+  cart(cart_id: "*‘—
+Œ") {
+    shipping_addresses {
+      available_shipping_methods {
+        carrier_code
+        method_code
+      }
+      selected_shipping_method {
+        carrier_code
+        method_code
+        carrier_title
+        method_title
+        amount {
+            value
+            currency
+        }
+      }
+    }
+  }
+}*
+
+$maskedQuoteId"¨
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetSelectedShippingMethodTest.phpù ≤(
+
+%1:
+$maskedQuoteIdstringB=;
+9magento\graphql\quote\guest\getselectedshippingmethodtest

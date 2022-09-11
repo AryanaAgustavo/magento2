@@ -1,0 +1,189 @@
+
+Tmagento\store\test\unit\model\plugin\storecookietest::testbeforedispatchnosuchentity
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phps s(2"1*∂
+2
+StoreCookieTest.php"ô
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpÑ Ñ(
+implicit return*Ò-
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpu u(£
+†
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpu u(
+
+$storeCode"__id*	
+store‡
+›
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpv v(
+%1"__id*N*L6
+4magento\store\test\unit\model\plugin\storecookietest"
+storeManagerMock «
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpv) v(6
+%2*86
+4magento\store\test\unit\model\plugin\storecookietest2once£†
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpv v(7
+%3*
+
+%1*
+
+%22expects≥∞
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpv w(+
+%4*
+
+%3*
+getDefaultStoreView2methodŸ
+÷
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpx x()
+%5"__id*G*E6
+4magento\store\test\unit\model\plugin\storecookietest"
+	storeMock¶£
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpv x(*
+%6*
+
+%4*
+
+%52
+willreturnÊ
+„
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpy y(%
+%7"__id*T*R6
+4magento\store\test\unit\model\plugin\storecookietest"
+storeCookieManagerMock—Œ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpy/ y(C
+%8*86
+4magento\store\test\unit\model\plugin\storecookietest2atleastonce£†
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpy y(D
+%9*
+
+%7*
+
+%82expects∑¥
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpy z(.
+%10*
+
+%9*
+getStoreCodeFromCookie2method∞≠
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpy {($
+%11*
+
+%10*
+
+
+$storeCode2
+willreturn‰
+·
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.php| |("
+%12"__id*Q*O6
+4magento\store\test\unit\model\plugin\storecookietest"
+storeRepositoryMockÀ»
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.php|, |(9
+%13*86
+4magento\store\test\unit\model\plugin\storecookietest2once¶£
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.php| |(:
+%14*
+
+%12*
+
+%132expects∂≥
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.php| }(,
+%15*
+
+%14*
+getActiveStoreByCode2methodæª
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.php~! ~(<
+%16"1magento\framework\exception\nosuchentityexception‘
+—
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.php~! ~(<
+%17">magento\framework\exception\nosuchentityexception::__construct*
+
+%16±Æ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.php| ~(=
+%18*
+
+%15*
+
+%162willthrowexceptionÁ
+‰
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.php (%
+%19"__id*T*R6
+4magento\store\test\unit\model\plugin\storecookietest"
+storeCookieManagerMockÀ»
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.php/ (<
+%20*86
+4magento\store\test\unit\model\plugin\storecookietest2once¶£
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.php (=
+%21*
+
+%19*
+
+%202expectsµ≤
+Ä
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.php Ä()
+%22*
+
+%21*
+deleteStoreCookie2method›
+⁄
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpÅ Å(#
+%23"__id*G*E6
+4magento\store\test\unit\model\plugin\storecookietest"
+	storeMock•¢
+Ä
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.php Å($
+%24*
+
+%22*
+
+%232with⁄
+◊
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpÉ É(
+%25"__id*D*B6
+4magento\store\test\unit\model\plugin\storecookietest"
+pluginﬂ
+‹
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpÉ& É(8
+%26"__id*I*G6
+4magento\store\test\unit\model\plugin\storecookietest"
+subjectMockﬂ
+‹
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpÉ: É(L
+%27"__id*I*G6
+4magento\store\test\unit\model\plugin\storecookietest"
+requestMockπ∂
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\Test\Unit\Model\Plugin\StoreCookieTest.phpÉ É(M
+%28*
+
+%25*
+
+%26*
+
+%272beforedispatch*
+2B86
+4magento\store\test\unit\model\plugin\storecookietest

@@ -1,0 +1,38 @@
+
+Lmagento\shipping\block\adminhtml\order\addtopackagetest::testgetcommentshtmlö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Shipping\Block\Adminhtml\Order\AddToPackageTest.php: :('"1*–
+2
+AddToPackageTest.php"≤
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Shipping\Block\Adminhtml\Order\AddToPackageTest.phpG G(
+implicit return*Û	
+1ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Shipping\Block\Adminhtml\Order\AddToPackageTest.php< E(Ω
+∫
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Shipping\Block\Adminhtml\Order\AddToPackageTest.php< E(
+$expectedNeedle"__id*Å˛
+˚packaging.setItemQtyCallback(function(itemId){
+            var item = $$('[name=\"shipment[items]['+itemId+']\"]')[0],
+                itemTitle = $('order_item_' + itemId + '_title');
+            if (!itemTitle && !item) {
+                return 0;
+            }
+            if (item && !isNaN(item.value)) {
+                return item.value;
+            }
+        });ÏÈ
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Shipping\Block\Adminhtml\Order\AddToPackageTest.phpF; F(K
+%1*;9
+7magento\shipping\block\adminhtml\order\addtopackagetest2gethtmlúô
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Shipping\Block\Adminhtml\Order\AddToPackageTest.phpF F(L
+%2*;9
+7magento\shipping\block\adminhtml\order\addtopackagetest*
+
+$expectedNeedle*
+
+%12assertstringcontainsstring*
+2B;9
+7magento\shipping\block\adminhtml\order\addtopackagetest

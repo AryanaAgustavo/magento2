@@ -1,0 +1,65 @@
+
+?magento\user\controller\adminhtml\usertest::testrolesgridactionè
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpÌ Ì('"1*Ω
+2
+UserTest.php"ß
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpÛ Û(
+implicit return*®
+1è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpÔ Ô(f◊‘
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpÔ Ô(
+%1*.,
+*magento\user\controller\adminhtml\usertest2
+getrequest¡æ
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpÔ Ô(3
+%2*
+
+%1*
+ajax*
+true2setparam√¿
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpÔ Ô(M
+%3*
+
+%2*
+
+isAjax*
+true2setparam¿Ω
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpÔ Ô(e
+%4*
+
+%3*	
+user_id*22setparam˜Ù
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php (7
+%5*.,
+*magento\user\controller\adminhtml\usertest* 
+backend/admin/user/rolesGrid2dispatch‡
+›
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpÒ Ò(H
+	$expected"__id*64
+2%a<table %a id="permissionsUserRolesGrid_table">%aÿ’
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpÚ4 Ú(H
+%6*.,
+*magento\user\controller\adminhtml\usertest2getresponse¨©
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpÚ4 Ú(S
+%7*
+
+%62getbody˝˙
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpÚ Ú(T
+%8*.,
+*magento\user\controller\adminhtml\usertest*
+
+	$expected*
+
+%72assertstringmatchesformat*
+2B.,
+*magento\user\controller\adminhtml\usertest

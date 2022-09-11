@@ -1,0 +1,125 @@
+
+?magento\sales\model\order\email\sender\ordersender::__construct}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpD D("1*­
+2
+OrderSender.php"”
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpU U(
+implicit return*É
+1}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpO O(vê
+ç
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpD D(
+$templateContainer"__id*J
+H
+$templateContainer2magento\sales\model\order\email\container\templateï
+ì
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpD D(
+$identityContainer"__id*O
+M
+$identityContainer7magento\sales\model\order\email\container\orderidentityò
+ï
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpD D(
+$senderBuilderFactory"__id*O
+M
+$senderBuilderFactory4magento\sales\model\order\email\senderbuilderfactory¹
+¶
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpD D(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÞ
+Û
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpD D(
+$addressRenderer"__id*@
+>
+$addressRenderer*magento\sales\model\order\address\rendererË
+È
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpD D(
+$paymentHelper"__id*/
+-
+$paymentHelpermagento\payment\helper\data×
+Ô
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpD D(
+$orderResource"__id*;
+9
+$orderResource'magento\sales\model\resourcemodel\orderß
+Ü
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpD D(
+$globalConfig"__id*D
+B
+$globalConfig1magento\framework\app\config\scopeconfiginterfaceÖ
+Ó
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpD D(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceã
+à
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpO O(u
+%1"3magento\sales\model\order\email\sender::__construct*64
+2magento\sales\model\order\email\sender\ordersender*
+
+$templateContainer*
+
+$identityContainer*
+
+$senderBuilderFactory*
+	
+$logger*
+
+$addressRendererå
+â
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpP P(-G4
+2magento\sales\model\order\email\sender\ordersender"
+paymentHelper"__id*
+
+$paymentHelperå
+â
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpQ Q(-G4
+2magento\sales\model\order\email\sender\ordersender"
+orderResource"__id*
+
+$orderResourceã
+à
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpR R(+F4
+2magento\sales\model\order\email\sender\ordersender"
+globalConfig"__id*
+
+$globalConfigé
+æ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpS S(1I4
+2magento\sales\model\order\email\sender\ordersender"
+addressRenderer"__id*
+
+$addressRendererã
+à
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpT T(+F4
+2magento\sales\model\order\email\sender\ordersender"
+eventManager"__id*
+
+$eventManager*
+2:H
+$templateContainer2magento\sales\model\order\email\container\template:M
+$identityContainer7magento\sales\model\order\email\container\orderidentity:M
+$senderBuilderFactory4magento\sales\model\order\email\senderbuilderfactory:"
+$loggerpsr\log\loggerinterface:>
+$addressRenderer*magento\sales\model\order\address\renderer:-
+$paymentHelpermagento\payment\helper\data:9
+$orderResource'magento\sales\model\resourcemodel\order:B
+$globalConfig1magento\framework\app\config\scopeconfiginterface:9
+$eventManager(magento\framework\event\managerinterfaceB64
+2magento\sales\model\order\email\sender\ordersender

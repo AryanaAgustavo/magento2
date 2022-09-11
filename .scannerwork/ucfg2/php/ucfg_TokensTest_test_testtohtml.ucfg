@@ -1,0 +1,101 @@
+
+Fmagento\integration\block\adminhtml\integration\tokenstest::testtohtmlù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.phpE E("1*Õ
+2
+TokensTest.php"µ
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.phpe e(
+implicit return*ì 
+1ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.phpG G(?Ä
+˝
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.phpG G(
+%1"__id*O*M<
+:magento\integration\block\adminhtml\integration\tokenstest"
+tokensBlock◊‘
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.phpG G(>
+%2*
+
+%1*
+test_block_name2setnameinlayoutÄ
+˝
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.phpH H()
+%3"__id*O*M<
+:magento\integration\block\adminhtml\integration\tokenstest"
+tokensBlockπ∂
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.phpH H(3
+%4*
+
+%32tohtml¡
+æ
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.phpH H(3
+$htmlContent"__id*
+
+%4∞≠
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.phpJ J(N
+%5*><
+:magento\integration\block\adminhtml\integration\tokenstest*
+name="consumer_key"*
+
+$htmlContent2assertstringcontainsstringàÖ
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.phpK O(	
+%6*><
+:magento\integration\block\adminhtml\integration\tokenstest*
+<span>Consumer Key</span>*
+
+$htmlContent*PN
+LHTML content of token block should contain information about 'Consumer Key'.2assertstringcontainsstring≥∞
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.phpQ Q(Q
+%7*><
+:magento\integration\block\adminhtml\integration\tokenstest*
+name="consumer_secret"*
+
+$htmlContent2assertstringcontainsstringéã
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.phpR V(	
+%8*><
+:magento\integration\block\adminhtml\integration\tokenstest* 
+<span>Consumer Secret</span>*
+
+$htmlContent*SQ
+OHTML content of token block should contain information about 'Consumer Secret'.2assertstringcontainsstring©¶
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.phpX X(G
+%9*><
+:magento\integration\block\adminhtml\integration\tokenstest*
+name="token"*
+
+$htmlContent2assertstringcontainsstringâÜ
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.phpY ](	
+%10*><
+:magento\integration\block\adminhtml\integration\tokenstest*
+<span>Access Token</span>*
+
+$htmlContent*PN
+LHTML content of token block should contain information about 'Access Token'.2assertstringcontainsstring±Æ
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.php_ _(N
+%11*><
+:magento\integration\block\adminhtml\integration\tokenstest*
+name="token_secret"*
+
+$htmlContent2assertstringcontainsstringóî
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Integration\Block\Adminhtml\Integration\TokensTest.php` d(	
+%12*><
+:magento\integration\block\adminhtml\integration\tokenstest*$"
+ <span>Access Token Secret</span>*
+
+$htmlContent*WU
+SHTML content of token block should contain information about 'Access Token Secret'.2assertstringcontainsstring*
+2B><
+:magento\integration\block\adminhtml\integration\tokenstest

@@ -1,0 +1,73 @@
+
+Vmagento\urlrewrite\model\storeswitcher\rewriteurltest::testswitchcmspagetoanotherstoreò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Model\StoreSwitcher\RewriteUrlTest.phpw w(3"1*Ã
+2
+RewriteUrlTest.php"∞
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Model\StoreSwitcher\RewriteUrlTest.php~ ~(
+implicit return*“
+1ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Model\StoreSwitcher\RewriteUrlTest.phpy y(6¸˘
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Model\StoreSwitcher\RewriteUrlTest.phpy y(5
+%1*97
+5magento\urlrewrite\model\storeswitcher\rewriteurltest*	
+default2getstorebycode∫
+∑
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Model\StoreSwitcher\RewriteUrlTest.phpy y(5
+
+$fromStore"__id*
+
+%1âÜ
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Model\StoreSwitcher\RewriteUrlTest.phpz z(@
+%2*97
+5magento\urlrewrite\model\storeswitcher\rewriteurltest*
+fixture_second_store2getstorebycode∏
+µ
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Model\StoreSwitcher\RewriteUrlTest.phpz z(@
+
+$toStore"__id*
+
+%2›
+⁄
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Model\StoreSwitcher\RewriteUrlTest.php{ {(<
+$redirectUrl"__id*'%
+#http://localhost/index.php/page100/›
+⁄
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Model\StoreSwitcher\RewriteUrlTest.php| |(<
+$expectedUrl"__id*'%
+#http://localhost/index.php/page100/¯
+ı
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Model\StoreSwitcher\RewriteUrlTest.php}* }(>
+%3"__id*L*J7
+5magento\urlrewrite\model\storeswitcher\rewriteurltest"
+storeSwitcher‰·
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Model\StoreSwitcher\RewriteUrlTest.php}* }(j
+%4*
+
+%3*
+
+
+$fromStore*
+
+
+$toStore*
+
+$redirectUrl2switcháÑ
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\UrlRewrite\Model\StoreSwitcher\RewriteUrlTest.php} }(k
+%5*97
+5magento\urlrewrite\model\storeswitcher\rewriteurltest*
+
+$expectedUrl*
+
+%42assertequals*
+2B97
+5magento\urlrewrite\model\storeswitcher\rewriteurltest

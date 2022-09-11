@@ -1,0 +1,102 @@
+
+Gmagento\customer\model\resourcemodel\group\grid\collection::__construct…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Group\Grid\Collection.php' '("1*µ
+2
+Collection.php"
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Group\Grid\Collection.php@ @(
+implicit return*à
+1…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Group\Grid\Collection.php4 ;(
+ñ
+î
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Group\Grid\Collection.php' '(
+$entityFactory"__id*L
+J
+$entityFactory8magento\framework\data\collection\entityfactoryinterfaceÂ
+¿
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Group\Grid\Collection.php' '(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceô
+ñ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Group\Grid\Collection.php' '(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceß
+Ü
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Group\Grid\Collection.php' '(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceâ
+ß
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Group\Grid\Collection.php' '(
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbý
+ú
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Group\Grid\Collection.php4 ;(	
+%1"Bmagento\customer\model\resourcemodel\group\collection::__construct*><
+:magento\customer\model\resourcemodel\group\grid\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$connection*
+
+	$resourceó
+ð
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Group\Grid\Collection.php< <(*N<
+:magento\customer\model\resourcemodel\group\grid\collection"
+_eventPrefix"__id*
+
+$eventPrefixó
+ð
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Group\Grid\Collection.php= =(*N<
+:magento\customer\model\resourcemodel\group\grid\collection"
+_eventObject"__id*
+
+$eventObjectøõ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Group\Grid\Collection.php> >(,
+%2*><
+:magento\customer\model\resourcemodel\group\grid\collection*
+
+
+$model*
+
+$resourceModel2_initïì
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Group\Grid\Collection.php? ?('
+%3*><
+:magento\customer\model\resourcemodel\group\grid\collection*
+
+
+$mainTable2setmaintable*
+2:J
+$entityFactory8magento\framework\data\collection\entityfactoryinterface:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:
+
+$mainTable:
+$eventPrefix:
+$eventObject:
+$resourceModel:
+$model:
+$connection:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbB><
+:magento\customer\model\resourcemodel\group\grid\collection

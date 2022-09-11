@@ -1,0 +1,70 @@
+
+=magento\sales\block\adminhtml\report\filter\form::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Report\Filter\Form.php   ("1*¤
+2
+
+Form.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Report\Filter\Form.php) )(
+implicit return*ì
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Report\Filter\Form.php' '(+È
+Å
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Report\Filter\Form.php   (
+
+$context"__id*4
+2
+$context&magento\backend\block\template\context¾
+»
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Report\Filter\Form.php   (
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÌ
+É
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Report\Filter\Form.php   (
+$formFactory"__id*4
+2
+$formFactory"magento\framework\data\formfactoryÑ
+Î
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Report\Filter\Form.php   (
+$orderConfig"__id*9
+7
+$orderConfig'magento\sales\model\order\configfactory¡
+ž
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Report\Filter\Form.php   (
+$data"__id*
+
+$dataarrayÞ
+Û
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Report\Filter\Form.php' '(*D2
+0magento\sales\block\adminhtml\report\filter\form"
+_orderConfig"__id*
+
+$orderConfig°
+­
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Report\Filter\Form.php( ((E
+%1"8magento\reports\block\adminhtml\filter\form::__construct*42
+0magento\sales\block\adminhtml\report\filter\form*
+
+
+$context*
+
+	$registry*
+
+$formFactory*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:'
+	$registrymagento\framework\registry:2
+$formFactory"magento\framework\data\formfactory:7
+$orderConfig'magento\sales\model\order\configfactory:
+$dataarrayB42
+0magento\sales\block\adminhtml\report\filter\form

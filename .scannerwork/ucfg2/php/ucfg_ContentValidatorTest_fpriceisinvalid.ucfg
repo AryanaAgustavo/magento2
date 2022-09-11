@@ -1,0 +1,204 @@
+
+jmagento\downloadable\test\unit\model\link\contentvalidatortest::testisvalidthrowsexceptionifpriceisinvalid‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.php½ ½(>"1*Å
+2
+ContentValidatorTest.php"£
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÏ Ï(
+implicit return*2
+1‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.php¿ ¿(Mœ™
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.php¿ ¿(L
+%1*B@
+>magento\downloadable\test\unit\model\link\contentvalidatortest*.,
+*Magento\Framework\Exception\InputException2expectexception¥¢
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÀ À(U
+%2*B@
+>magento\downloadable\test\unit\model\link\contentvalidatortest*0.
+,Link price must have numeric positive value.2expectexceptionmessageŸœ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÁ É(	
+%3"$Array¿
+¼
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÁ É(	
+%4"__mapSet*
+
+%3*	
+title*	
+Title¿
+¼
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÁ É(	
+%5"__mapSet*
+
+%3*
+
+sort_order*2À
+½
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÁ É(	
+%6"__mapSet*
+
+%3*	
+price*
+
+
+$priceÂ
+¿
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÁ É(	
+%7"__mapSet*
+
+%3*
+	shareable*
+trueÈ
+Å
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÁ É(	
+%8"__mapSet*
+
+%3*
+number_of_downloads*2dÂ
+¿
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÁ É(	
+%9"__mapSet*
+
+%3*
+	link_type*
+fileÅ
+Â
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÁ É(	
+%10"__mapSet*
+
+%3*
+sample_type*
+file³
+°
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÁ É(	
+$linkContentData"__id*
+
+%3ù
+ö
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÊ Ê( 
+%11"__id*Y*W@
+>magento\downloadable\test\unit\model\link\contentvalidatortest"
+fileValidatorMockáÞ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÊ* Ê(6
+%12*B@
+>magento\downloadable\test\unit\model\link\contentvalidatortest2any³°
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÊ Ê(7
+%13*
+
+%11*
+
+%122expects¶³
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÊ Ê(J
+%14*
+
+%13*	
+isValid2method·´
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÊ Ê(\
+%15*
+
+%14*
+true2
+willreturnø
+õ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpË Ë(
+%16"__id*X*V@
+>magento\downloadable\test\unit\model\link\contentvalidatortest"
+urlValidatorMockáÞ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpË) Ë(5
+%17*B@
+>magento\downloadable\test\unit\model\link\contentvalidatortest2any³°
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpË Ë(6
+%18*
+
+%16*
+
+%172expects¶³
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpË Ë(I
+%19*
+
+%18*	
+isValid2method·´
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpË Ë([
+%20*
+
+%19*
+true2
+willreturnû
+ø
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÌ Ì("
+%21"__id*[*Y@
+>magento\downloadable\test\unit\model\link\contentvalidatortest"
+domainValidatorMockáÞ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÌ, Ì(8
+%22*B@
+>magento\downloadable\test\unit\model\link\contentvalidatortest2any³°
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÌ Ì(9
+%23*
+
+%21*
+
+%222expects¶³
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÌ Ì(L
+%24*
+
+%23*	
+isValid2method·´
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÌ Ì(^
+%25*
+
+%24*
+true2
+willreturnÿü
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÍ Í(;
+%26*B@
+>magento\downloadable\test\unit\model\link\contentvalidatortest*
+
+$linkContentData2getlinkmock°
+­
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÍ Í(;
+$contentMock"__id*
+
+%26ñ
+î
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÎ Î(
+%27"__id*Q*O@
+>magento\downloadable\test\unit\model\link\contentvalidatortest"
+	validator¼¹
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Test\Unit\Model\Link\ContentValidatorTest.phpÎ Î(/
+%28*
+
+%27*
+
+$contentMock2isvalid*
+2:
+$priceBB@
+>magento\downloadable\test\unit\model\link\contentvalidatortest

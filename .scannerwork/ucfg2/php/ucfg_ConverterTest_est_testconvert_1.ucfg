@@ -1,0 +1,293 @@
+
+Vmagento\framework\setup\test\unit\declaration\schema\config\convertertest::testconvert™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php) )("1*Ì
+2
+ConverterTest.php"±
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php^ ^(
+implicit return*ÓD
+1™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php+ +("´±
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php+ +(!
+$dom"domdocumentÉ
+Æ
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php+ +(!
+%1"domdocument::__construct*
+
+$domòï
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php, 8(	
+%2*
+
+$dom*·´
+±<?xml version="1.0"?>
+            <schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:noNamespaceSchemaLocation="urn:magento:framework:Setup/Declaration/Schema/etc/schema.xsd">
+                <table name="test_table" resource="default">
+                    <column xsi:type="int" name="id" nullable="false" identity="true" comment="Id"/>
+                    <column xsi:type="varchar" name="data" length="100" identity="false" comment="Data"/>
+                    <constraint xsi:type="primary" referenceId="PRIMARY_INDEX">
+                        <column name="id"/>
+                    </constraint>
+                </table>
+            </schema>2loadxml‰
+†
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php9 9("
+%3"__id*\*ZK
+Imagento\framework\setup\test\unit\declaration\schema\config\convertertest"
+	converterÀ½
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php9 9(1
+%4*
+
+%3*
+
+$dom2convert¸
+µ
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php9 9(1	
+$result"__id*
+
+%4­ª
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php; [(
+%5"$Array­ª
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php< Z(
+%6"$Array­ª
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php=$ Y(
+%7"$Array­ª
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php>$ M(
+%8"$Array­ª
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php?$ E(
+%9"$ArrayË
+È
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php?$ E(
+%10"__mapSet*
+
+%9*
+type*
+intÊ
+Ç
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php?$ E(
+%11"__mapSet*
+
+%9*
+name*
+idÑ
+Î
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php?$ E(
+%12"__mapSet*
+
+%9*
+
+nullable*	
+falseÐ
+Í
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php?$ E(
+%13"__mapSet*
+
+%9*
+
+identity*
+trueÍ
+Ê
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php?$ E(
+%14"__mapSet*
+
+%9*	
+comment*
+IdÈ
+Å
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php>$ M(
+%15"__mapSet*
+
+%8*
+id*
+
+%9®«
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.phpF& L(
+%16"$ArrayÐ
+Í
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.phpF& L(
+%17"__mapSet*
+
+%16*
+type*	
+varcharÍ
+Ê
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.phpF& L(
+%18"__mapSet*
+
+%16*
+name*
+dataÎ
+Ë
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.phpF& L(
+%19"__mapSet*
+
+%16*
+
+length*
+100Ò
+Ï
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.phpF& L(
+%20"__mapSet*
+
+%16*
+
+identity*	
+falseÐ
+Í
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.phpF& L(
+%21"__mapSet*
+
+%16*	
+comment*
+DataË
+È
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php>$ M(
+%22"__mapSet*
+
+%8*
+data*
+
+%16Ì
+É
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php=$ Y(
+%23"__mapSet*
+
+%7*
+
+column*
+
+%8®«
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.phpN( V(
+%24"$Array®«
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.phpO/ U(
+%25"$Array®«
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.phpP, R(!
+%26"$ArrayÉ
+Æ
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.phpP, R(!
+%27"__mapSet*
+
+%26*
+id*
+idÎ
+Ë
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.phpO/ U(
+%28"__mapSet*
+
+%25*
+
+column*
+
+%26Ð
+Í
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.phpO/ U(
+%29"__mapSet*
+
+%25*
+type*	
+primaryÝ
+Ú
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.phpO/ U(
+%30"__mapSet*
+
+%25*
+referenceId*
+PRIMARY_INDEXÕ
+Ò
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.phpN( V(
+%31"__mapSet*
+
+%24*
+PRIMARY_INDEX*
+
+%25Ñ
+Î
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php=$ Y(
+%32"__mapSet*
+
+%7*
+
+constraint*
+
+%24Ò
+Ï
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php=$ Y(
+%33"__mapSet*
+
+%7*
+name*
+
+test_tableÓ
+Ð
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php=$ Y(
+%34"__mapSet*
+
+%7*
+
+resource*	
+defaultÐ
+Í
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php< Z(
+%35"__mapSet*
+
+%6*
+
+test_table*
+
+%7Ë
+È
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php; [(
+%36"__mapSet*
+
+%5*	
+table*
+
+%6˜•
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Test\Unit\Declaration\Schema\Config\ConverterTest.php: ](	
+%37*MK
+Imagento\framework\setup\test\unit\declaration\schema\config\convertertest*
+
+%5*
+	
+$result2assertequals*
+2BMK
+Imagento\framework\setup\test\unit\declaration\schema\config\convertertest

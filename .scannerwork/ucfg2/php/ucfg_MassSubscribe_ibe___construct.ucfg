@@ -1,0 +1,74 @@
+
+Fmagento\customer\controller\adminhtml\index\masssubscribe::__construct„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassSubscribe.php' '("1*·
+2
+MassSubscribe.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassSubscribe.php1 1(
+implicit return*ü
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassSubscribe.php. .(CÎ
+Ë
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassSubscribe.php' '(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÐ
+Í
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassSubscribe.php' '(	
+$filter"__id*3
+1
+$filter&magento\ui\component\massaction\filterÿ
+ü
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassSubscribe.php' '(
+$collectionFactory"__id*W
+U
+$collectionFactory?magento\customer\model\resourcemodel\customer\collectionfactoryò
+ï
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassSubscribe.php' '(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceù
+ö
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassSubscribe.php' '(
+$subscriptionManager"__id*O
+M
+$subscriptionManager5magento\newsletter\model\subscriptionmanagerinterfaceÏ
+Ì
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassSubscribe.php. .(B
+%1"Kmagento\customer\controller\adminhtml\index\abstractmassaction::__construct*=;
+9magento\customer\controller\adminhtml\index\masssubscribe*
+
+
+$context*
+	
+$filter*
+
+$collectionFactoryþ
+û
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassSubscribe.php/ /(7S;
+9magento\customer\controller\adminhtml\index\masssubscribe"
+customerRepository"__id*
+
+$customerRepository€
+ý
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassSubscribe.php0 0(9T;
+9magento\customer\controller\adminhtml\index\masssubscribe"
+subscriptionManager"__id*
+
+$subscriptionManager*
+2:.
+$context"magento\backend\app\action\context:1
+$filter&magento\ui\component\massaction\filter:U
+$collectionFactory?magento\customer\model\resourcemodel\customer\collectionfactory:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:M
+$subscriptionManager5magento\newsletter\model\subscriptionmanagerinterfaceB=;
+9magento\customer\controller\adminhtml\index\masssubscribe

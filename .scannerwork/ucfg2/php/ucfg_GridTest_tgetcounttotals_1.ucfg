@@ -1,0 +1,90 @@
+
+Hmagento\reports\block\adminhtml\sales\sales\gridtest::testgetcounttotals—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpG G(&"1*Å
+2
+GridTest.php"¯
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpT T(
+implicit return*¢
+1—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpI I('ëè
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpI I(&
+%1*86
+4magento\reports\block\adminhtml\sales\sales\gridtest2_createblockµ
+²
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpI I(&
+$block"__id*
+
+%1ÊÇ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpJ J(9
+$filterData"magento\framework\dataobjectß
+Ü
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpJ J(9
+%2")magento\framework\dataobject::__construct*
+
+$filterDataÙÖ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpL L(6
+%3*
+
+$filterData*
+updated_at_order2setreporttypeÌÉ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpM M()
+%4*
+
+$filterData*
+day2setperiodtypeÒÏ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpN N(+
+%5*
+
+$filterData*
+from*	
+
+$from2setdataÎË
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpO O('
+%6*
+
+$filterData*
+to*
+
+$to2setdataÏÌ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpP P(*
+%7*
+
+
+$block*
+
+$filterData2setfilterdata·´
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpR R(
+%8*
+
+
+$block2tohtml¿¼
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpS- S(E
+%9*
+
+
+$block2getcounttotals‰†
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Reports\Block\Adminhtml\Sales\Sales\GridTest.phpS S(F
+%10*86
+4magento\reports\block\adminhtml\sales\sales\gridtest*
+
+$expectedResult*
+
+%92assertequals*
+2:
+$from:
+$to:
+$expectedResultB86
+4magento\reports\block\adminhtml\sales\sales\gridtest

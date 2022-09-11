@@ -1,0 +1,179 @@
+
+Fmagento\catalog\model\resourcemodel\config::getattributesusedinlistingu
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phps s(."1*ë'
+1u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpu u(-¿¼
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpu u(,
+%1*.,
+*magento\catalog\model\resourcemodel\config2getconnection—
+”
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpu u(,
+$connection"__id*
+
+%1åâ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpv v(s
+%2*
+
+$connection*
+al.value IS NOT NULL*
+
+al.value*
+main_table.frontend_label2getchecksql›
+˜
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpv v(s
+$storeLabelExpr"__id*
+
+%2™–
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpx x('
+%3*
+
+$connection2selectˆ…
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpy y(>
+%4"$ArrayÍÊ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpy y(=
+%5*.,
+*magento\catalog\model\resourcemodel\config*
+eav_attribute2gettableª
+§
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpy y(>
+%6"__mapSet*
+
+%4*
+
+main_table*
+
+%5–“
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpx z(	
+%7*
+
+%3*
+
+%42fromˆ…
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.php{ {(L
+%8"$ArrayÕÒ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.php{# {(K
+%9*.,
+*magento\catalog\model\resourcemodel\config*
+catalog_eav_attribute2gettable±
+®
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.php{ {(L
+%10"__mapSet*
+
+%8*
+additional_table*
+
+%9ÔÑ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpx }(	
+%11*
+
+%7*
+
+%8*;9
+7main_table.attribute_id = additional_table.attribute_id2join‰†
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.php~ ~(<
+%12"$ArrayÔÑ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.php~ ~(;
+%13*.,
+*magento\catalog\model\resourcemodel\config*
+eav_attribute_label2gettable¥
+¢
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.php~ ~(<
+%14"__mapSet*
+
+%12*
+al*
+
+%13½º
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpR (e
+%15*.,
+*magento\catalog\model\resourcemodel\config2
+getstoreid
+š
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpM (e
+%16"__sanitizing_cast*
+
+%15Ö
+Ó
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.php (e
+%17"__concat*@>
+<al.attribute_id = main_table.attribute_id AND al.store_id = *
+
+%16‹ˆ
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.php€ €(.
+%18"$Array¼
+¹
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.php€ €(.
+%19"__mapSet*
+
+%18*
+store_label*
+
+$storeLabelExpr°­
+v
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpx (	
+%20*
+
+%11*
+
+%12*
+
+%17*
+
+%182joinleftÄÁ
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpƒ ƒ($
+%21*.,
+*magento\catalog\model\resourcemodel\config2getentitytypeid¾»
+v
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpx „(	
+%22*
+
+%20*!
+main_table.entity_type_id = ?*
+
+%212whereÊÇ
+v
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpx ‡(	
+%23*
+
+%22*0.
+,additional_table.used_in_product_listing = ?*22where•
+’
+v
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpx ‡(		
+$select"__id*
+
+%23«¨
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpˆ ˆ(-
+%24*
+
+$connection*
+	
+$select2fetchall"‚
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Config.phpˆ ˆ(.
+
+%24B.,
+*magento\catalog\model\resourcemodel\config

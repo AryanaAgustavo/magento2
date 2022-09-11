@@ -1,0 +1,282 @@
+
+Lmagento\reports\model\resourcemodel\product\lowstock\collection::__constructã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V("1*Ω
+2
+Collection.php"•
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpê ê(
+implicit return*Ç?
+1å
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phps å(
+Ó
+Î
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactory»
+≈
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface˙
+˜
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceÂ
+‚
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceœ
+Ã
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+
+$eavConfig"__id*(
+&
+
+$eavConfigmagento\eav\model\config›
+⁄
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+	$resource"__id*7
+5
+	$resource(magento\framework\app\resourceconnection‰
+·
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$eavEntityFactory"__id*6
+4
+$eavEntityFactorymagento\eav\model\entityfactoryÎ
+Ë
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$resourceHelper"__id*?
+=
+$resourceHelper*magento\catalog\model\resourcemodel\helperÒ
+Ó
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$universalFactory"__id*C
+A
+$universalFactory,magento\framework\validator\universalfactoryÊ
+„
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceﬂ
+‹
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$moduleManager"__id*4
+2
+$moduleManager magento\framework\module\managerÉ
+Ä
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$catalogProductFlatState"__id*N
+L
+$catalogProductFlatState0magento\catalog\model\indexer\product\flat\stateÏ
+È
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface¯
+ı
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$productOptionFactory"__id*F
+D
+$productOptionFactory+magento\catalog\model\product\optionfactory‡
+›
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$catalogUrl"__id*8
+6
+$catalogUrl'magento\catalog\model\resourcemodel\urlÏ
+È
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface·
+ﬁ
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\session÷
+”
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+	$dateTime"__id*0
+.
+	$dateTime!magento\framework\stdlib\datetime
+Ì
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$groupManagement"__id*C
+A
+$groupManagement-magento\customer\api\groupmanagementinterfaceﬁ
+€
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+
+$product"__id*9
+7
+$product+magento\catalog\model\resourcemodel\productÏ
+È
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$eventTypeFactory"__id*>
+<
+$eventTypeFactory'magento\reports\model\event\typefactory›
+⁄
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$productType"__id*4
+2
+$productType"magento\catalog\model\product\typeÒ
+Ó
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$quoteResource"__id*F
+D
+$quoteResource2magento\quote\model\resourcemodel\quote\collectionÚ
+Ô
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$stockRegistry"__id*G
+E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterfaceÅ
+˛
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$stockConfiguration"__id*Q
+O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterfaceÙ
+Ò
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$itemResource"__id*J
+H
+$itemResource7magento\cataloginventory\model\resourcemodel\stock\itemÊ
+„
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpV V(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterface˜
+Ù
+å
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phps å(	
+%1"Cmagento\reports\model\resourcemodel\product\collection::__construct*CA
+?magento\reports\model\resourcemodel\product\lowstock\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+
+$eavConfig*
+
+	$resource*
+
+$eavEntityFactory*
+
+$resourceHelper*
+
+$universalFactory*
+
+$storeManager*
+
+$moduleManager*
+
+$catalogProductFlatState*
+
+$scopeConfig*
+
+$productOptionFactory*
+
+$catalogUrl*
+
+$localeDate*
+
+$customerSession*
+
+	$dateTime*
+
+$groupManagement*
+
+
+$product*
+
+$eventTypeFactory*
+
+$productType*
+
+$quoteResource*
+
+$connectionÉ
+Ä
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpç ç(-TA
+?magento\reports\model\resourcemodel\product\lowstock\collection"
+stockRegistry"__id*
+
+$stockRegistryç
+ä
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpé é(7YA
+?magento\reports\model\resourcemodel\product\lowstock\collection"
+stockConfiguration"__id*
+
+$stockConfigurationÇ
+ˇ
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Lowstock\Collection.phpè è(,TA
+?magento\reports\model\resourcemodel\product\lowstock\collection"
+_itemResource"__id*
+
+$itemResource*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:&
+
+$eavConfigmagento\eav\model\config:5
+	$resource(magento\framework\app\resourceconnection:4
+$eavEntityFactorymagento\eav\model\entityfactory:=
+$resourceHelper*magento\catalog\model\resourcemodel\helper:A
+$universalFactory,magento\framework\validator\universalfactory::
+$storeManager)magento\store\model\storemanagerinterface:2
+$moduleManager magento\framework\module\manager:L
+$catalogProductFlatState0magento\catalog\model\indexer\product\flat\state:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:D
+$productOptionFactory+magento\catalog\model\product\optionfactory:6
+$catalogUrl'magento\catalog\model\resourcemodel\url:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:2
+$customerSessionmagento\customer\model\session:.
+	$dateTime!magento\framework\stdlib\datetime:A
+$groupManagement-magento\customer\api\groupmanagementinterface:7
+$product+magento\catalog\model\resourcemodel\product:<
+$eventTypeFactory'magento\reports\model\event\typefactory:2
+$productType"magento\catalog\model\product\type:D
+$quoteResource2magento\quote\model\resourcemodel\quote\collection:E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterface:O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterface:H
+$itemResource7magento\cataloginventory\model\resourcemodel\stock\item:<
+$connection-magento\framework\db\adapter\adapterinterfaceBCA
+?magento\reports\model\resourcemodel\product\lowstock\collection

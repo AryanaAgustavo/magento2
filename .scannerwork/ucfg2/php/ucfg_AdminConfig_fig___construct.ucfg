@@ -1,0 +1,171 @@
+
+6magento\backend\model\session\adminconfig::__constructt
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.php9 9("1*¤
+2
+AdminConfig.php"‹
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.phpY Y(
+implicit return*¾#
+1t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.phpG P(
+Ï
+Ì
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.php9 9(
+$validatorFactory"__id*9
+7
+$validatorFactory"magento\framework\validatorfactoryÔ
+Ñ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.php9 9(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceÉ
+Æ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.php9 9(
+$stringHelper"__id*7
+5
+$stringHelper$magento\framework\stdlib\stringutilsÁ
+¾
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.php9 9(
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterface½
+º
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.php9 9(
+$filesystem"__id*-
++
+$filesystemmagento\framework\filesystemÓ
+Ð
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.php9 9(
+$deploymentConfig"__id*=
+;
+$deploymentConfig&magento\framework\app\deploymentconfigË
+È
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.php9 9(
+$backendAppList"__id*7
+5
+$backendAppList"magento\backend\app\backendapplistÙ
+Ö
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.php9 9(
+$frontNameResolver"__id*B
+@
+$frontNameResolver*magento\backend\app\area\frontnameresolverÏ
+Ì
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.php9 9(
+$backendUrlFactory"__id*8
+6
+$backendUrlFactory magento\backend\model\urlfactoryò
+ï
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.phpG P(	
+%1"-magento\framework\session\config::__construct*-+
+)magento\backend\model\session\adminconfig*
+
+$validatorFactory*
+
+$scopeConfig*
+
+$stringHelper*
+
+
+$request*
+
+$filesystem*
+
+$deploymentConfig*
+
+
+$scopeType*
+
+$lifetimePathÜ
+Ù
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.phpQ Q(6C+
+)magento\backend\model\session\adminconfig"
+_frontNameResolver"__id*
+
+$frontNameResolverÕ
+Ò
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.phpR R(/?+
+)magento\backend\model\session\adminconfig"
+backendAppList"__id*
+
+$backendAppListÛ
+Ø
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.phpS S(5B+
+)magento\backend\model\session\adminconfig"
+backendUrlFactory"__id*
+
+$backendUrlFactoryÀ½
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.phpT T(.
+%2*-+
+)magento\backend\model\session\adminconfig2extractadminpath•
+’
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.phpT T(.
+
+$adminPath"__id*
+
+%2ÍÊ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.phpU U((
+%3*-+
+)magento\backend\model\session\adminconfig*
+
+
+$adminPath2setcookiepathÉÆ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.phpV V($
+%4*-+
+)magento\backend\model\session\adminconfig*
+
+$sessionName2setnameÆ
+Ã
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.phpW W(2
+%5"__id*?*=+
+)magento\backend\model\session\adminconfig"
+_httpRequest‘Ž
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.phpW W(>
+%6*
+
+%52issecureÇÄ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.phpW W(?
+%7*-+
+)magento\backend\model\session\adminconfig*
+
+%62setcookiesecureÊÇ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Session\AdminConfig.phpX X('
+%8*-+
+)magento\backend\model\session\adminconfig*
+Lax2setcookiesamesite*
+2:7
+$validatorFactory"magento\framework\validatorfactory:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:5
+$stringHelper$magento\framework\stdlib\stringutils:2
+$request&magento\framework\app\requestinterface:+
+$filesystemmagento\framework\filesystem:;
+$deploymentConfig&magento\framework\app\deploymentconfig:
+
+$scopeType:5
+$backendAppList"magento\backend\app\backendapplist:@
+$frontNameResolver*magento\backend\app\area\frontnameresolver:6
+$backendUrlFactory magento\backend\model\urlfactory:
+$lifetimePath:
+$sessionNameB-+
+)magento\backend\model\session\adminconfig

@@ -1,0 +1,91 @@
+
+Gmagento\reports\model\resourcemodel\wishlist\collection::getsharedcountÇ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php| |(""1*ª
+1Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php (;Í
+Á
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php (0
+%1"__id*T*R9
+7magento\reports\model\resourcemodel\wishlist\collection"
+_customerResFactoryûõ
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php (:
+%2*
+
+%12create•
+¢
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php (:
+$collection"__id*
+
+%2¥±
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.phpÄ Ä(7
+%3*
+
+$collection2getselectcountsql®
+•
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.phpÄ Ä(7
+$countSelect"__id*
+
+%3òï
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.phpÇ Ç(/
+%4"$Arrayﬂ‹
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.phpÇ Ç(.
+%5*;9
+7magento\reports\model\resourcemodel\wishlist\collection2getwishlisttable≤
+Ø
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.phpÇ Ç(/
+%6"__mapSet*
+
+%4*
+wt*
+
+%5òï
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.phpÑ Ñ(
+%7"$Arrayﬁ€
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.phpÅ Ö(	
+%8*
+
+$countSelect*
+
+%4* 
+wt.customer_id = e.entity_id*
+
+%72joinleft≤Ø
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.phpÅ á(	
+%9*
+
+%8*
+wt.shared > 02where¥±
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.phpÅ â(	
+%10*
+
+%9*
+wt.wishlist_id2group≤Ø
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.phpä ä(,
+%11*
+
+$countSelect2getconnection∂≥
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.phpä ä(D
+%12*
+
+%11*
+
+$countSelect2fetchone"ê
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.phpä ä(E
+
+%12B;9
+7magento\reports\model\resourcemodel\wishlist\collection

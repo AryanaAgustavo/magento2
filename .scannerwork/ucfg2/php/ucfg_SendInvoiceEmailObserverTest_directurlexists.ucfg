@@ -1,0 +1,162 @@
+
+amagento\quote\test\unit\observer\sendinvoiceemailobservertest::testsendemailwhenredirecturlexistsä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpƒ ƒ(6"1*Ã
+2"
+ SendInvoiceEmailObserverTest.php"¢
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.php– –(
+implicit return*ê*
+1ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.php∆ …(¯
+ı
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.php∆ ∆("
+%1"__id*Z*X?
+=magento\quote\test\unit\observer\sendinvoiceemailobservertest"
+invoiceIdentityMockﬂ‹
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.php« «(#
+%2*A?
+=magento\quote\test\unit\observer\sendinvoiceemailobservertest2onceØ¨
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.php∆ «($
+%3*
+
+%1*
+
+%22expectsµ≤
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.php∆ »(!
+%4*
+
+%3*
+	isEnabled2method¥±
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.php∆ …(
+%5*
+
+%4*
+true2
+willreturn
+Ì
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpÀ À(
+%6"__id*R*P?
+=magento\quote\test\unit\observer\sendinvoiceemailobservertest"
+paymentMockﬂ‹
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpÀ$ À(1
+%7*A?
+=magento\quote\test\unit\observer\sendinvoiceemailobservertest2onceØ¨
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpÀ À(2
+%8*
+
+%6*
+
+%72expectsƒ¡
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpÀ À(V
+%9*
+
+%8*
+getOrderPlaceRedirectUrl2method∂≥
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpÀ À(i
+%10*
+
+%9*	
+false2
+willreturnÔ
+Ï
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpÃ Ã(
+%11"__id*P*N?
+=magento\quote\test\unit\observer\sendinvoiceemailobservertest"
+	orderMock‡›
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpÃ" Ã(/
+%12*A?
+=magento\quote\test\unit\observer\sendinvoiceemailobservertest2once≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpÃ Ã(0
+%13*
+
+%11*
+
+%122expectsƒ¡
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpÃ Ã(R
+%14*
+
+%13*
+getCanSendNewEmailFlag2method˜
+Ù
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpÕ Õ( 
+%15"__id*X*V?
+=magento\quote\test\unit\observer\sendinvoiceemailobservertest"
+invoiceSenderMock·ﬁ
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpÕ* Õ(8
+%16*A?
+=magento\quote\test\unit\observer\sendinvoiceemailobservertest2never≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpÕ Õ(9
+%17*
+
+%15*
+
+%162expects≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpÕ Õ(I
+%18*
+
+%17*
+send2method
+Ì
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpŒ Œ(
+%19"__id*Q*O?
+=magento\quote\test\unit\observer\sendinvoiceemailobservertest"
+
+loggerMock·ﬁ
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpŒ# Œ(1
+%20*A?
+=magento\quote\test\unit\observer\sendinvoiceemailobservertest2never≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpŒ Œ(2
+%21*
+
+%19*
+
+%202expects∂≥
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpŒ Œ(F
+%22*
+
+%21*
+
+critical2methodÎ
+Ë
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpœ œ(
+%23"__id*L*J?
+=magento\quote\test\unit\observer\sendinvoiceemailobservertest"
+modelÚ
+Ô
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpœ œ(1
+%24"__id*S*Q?
+=magento\quote\test\unit\observer\sendinvoiceemailobservertest"
+observerMock≤Ø
+ä
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Observer\SendInvoiceEmailObserverTest.phpœ œ(2
+%25*
+
+%23*
+
+%242execute*
+2BA?
+=magento\quote\test\unit\observer\sendinvoiceemailobservertest

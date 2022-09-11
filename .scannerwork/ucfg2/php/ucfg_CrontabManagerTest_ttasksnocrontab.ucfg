@@ -1,0 +1,112 @@
+
+Mmagento\framework\crontab\test\unit\crontabmanagertest::testgettasksnocrontab…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.php? ?()"1*½
+2
+CrontabManagerTest.php"
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpJ J(
+implicit return*Õ
+1…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpA A(C¤¡
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpA A(B
+
+$exception"	exceptionÛ
+Ø
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpA A(B
+%1"exception::__construct*
+
+
+$exception* 
+crontab: no crontab for user«¨
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpB5 B(M
+%2"magento\framework\phraseÐ
+Í
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpB5 B(M
+%3"%magento\framework\phrase::__construct*
+
+%2*
+
+Some errorÒÏ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpB B(Z
+$localizedException".magento\framework\exception\localizedexceptionÿ
+ü
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpB B(Z
+%4";magento\framework\exception\localizedexception::__construct*
+
+$localizedException*
+
+%2*
+
+
+$exceptionâ
+ß
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpD D(
+%5"__id*I*G8
+6magento\framework\crontab\test\unit\crontabmanagertest"
+	shellMockÓÐ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpD" D(/
+%6*:8
+6magento\framework\crontab\test\unit\crontabmanagertest2onceª§
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpD D(0
+%7*
+
+%5*
+
+%62expects®«
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpD E(
+%8*
+
+%7*	
+execute2method™–
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpF- F(/
+%9"$ArrayÄÁ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpD F(0
+%10*
+
+%8*
+crontab -l 2>/dev/null*
+
+%92withÈÅ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpD G(5
+%11*
+
+%10*
+
+$localizedException2willthrowexceptionš—
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpI I(
+%12"$Arrayè
+å
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpI  I(5
+%13"__id*N*L8
+6magento\framework\crontab\test\unit\crontabmanagertest"
+crontabManager¥¢
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpI  I(A
+%14*
+
+%132gettasksîë
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpI I(B
+%15*:8
+6magento\framework\crontab\test\unit\crontabmanagertest*
+
+%12*
+
+%142assertequals*
+2B:8
+6magento\framework\crontab\test\unit\crontabmanagertest

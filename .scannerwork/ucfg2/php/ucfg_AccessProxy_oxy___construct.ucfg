@@ -1,0 +1,48 @@
+
+9magento\framework\app\cache\type\accessproxy::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Cache\Type\AccessProxy.php# #("1*«
+2
+AccessProxy.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Cache\Type\AccessProxy.php+ +(
+implicit return*è	
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Cache\Type\AccessProxy.php( (('Í
+Ê
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Cache\Type\AccessProxy.php# #(
+	$frontend"__id*8
+6
+	$frontend)magento\framework\cache\frontendinterfaceÒ
+Ï
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Cache\Type\AccessProxy.php# #(
+$cacheState"__id*;
+9
+$cacheState*magento\framework\app\cache\stateinterface…
+‚
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Cache\Type\AccessProxy.php( ((&
+%1"<magento\framework\cache\frontend\decorator\bare::__construct*0.
+,magento\framework\app\cache\type\accessproxy*
+
+	$frontendØ
+Õ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Cache\Type\AccessProxy.php) )((?.
+,magento\framework\app\cache\type\accessproxy"
+_cacheState"__id*
+
+$cacheStateØ
+Õ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Cache\Type\AccessProxy.php* *((?.
+,magento\framework\app\cache\type\accessproxy"
+_identifier"__id*
+
+$identifier*
+2:6
+	$frontend)magento\framework\cache\frontendinterface:9
+$cacheState*magento\framework\app\cache\stateinterface:
+$identifierB0.
+,magento\framework\app\cache\type\accessproxy

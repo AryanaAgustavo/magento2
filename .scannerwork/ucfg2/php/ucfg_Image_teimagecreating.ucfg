@@ -1,0 +1,101 @@
+
+Umagento\catalog\ui\dataprovider\product\listing\collector\image::emulateimagecreatingç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpî î(("1*‚
+1ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpñ ñ(7ﬁ
+€
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpî î((
+
+$product"__id*7
+5
+$product)magento\catalog\api\data\productinterfaceÊ
+„
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpî î((
+$image"__id*A
+?
+$image5magento\catalog\api\data\productrender\imageinterfaceˆ
+Û
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpñ ñ(
+%1"__id*U*SA
+?magento\catalog\ui\dataprovider\product\listing\collector\image"
+storeManager¿Ω
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpñ ñ(6
+%2*
+
+%1*
+
+
+$storeId2setcurrentstoreˆ
+Û
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpó ó(
+%3"__id*U*SA
+?magento\catalog\ui\dataprovider\product\listing\collector\image"
+designLoaderß§
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpó ó(#
+%4*
+
+%32loadˆ
+Û
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpô ô(*
+%5"__id*U*SA
+?magento\catalog\ui\dataprovider\product\listing\collector\image"
+imageFactory©¶
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpô ô(4
+%6*
+
+%52create±
+Æ
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpô ô(4
+$imageHelper"__id*
+
+%6œÃ
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpö ö(0
+%7*
+
+$imageHelper*
+
+
+$product*
+
+
+$imageCode2init≥∞
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpõ õ(-
+%8*
+
+$imageHelper2geturlµ≤
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpõ õ(.
+%9*
+
+
+$image*
+
+%82seturl–
+Õ
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpú ú(#
+%10magento\catalog\helper\image"__id*
+
+$imageHelper"∑
+ç
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Ui\DataProvider\Product\Listing\Collector\Image.phpú ú(%
+#
+%10magento\catalog\helper\image:5
+$product)magento\catalog\api\data\productinterface:
+
+$imageCode:
+
+$storeId:?
+$image5magento\catalog\api\data\productrender\imageinterfaceBCA
+?magento\catalog\ui\dataprovider\product\listing\collector\image

@@ -1,0 +1,148 @@
+
+Jmagento\webapi\wsdlgenerationfromdataobjecttest::_checkporttypedeclarationó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÉ É(0"1*ï
+2ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÜ à(
+Ì
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÜ à(
+$firstPortType"__id*97
+5<portType name="testModule5AllSoapAndRestV2PortType">*
+4*ï
+3ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpä å(
+Ì
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpä å(
+$firstPortType"__id*97
+5<portType name="testModule5AllSoapAndRestV1PortType">*
+4*·
+4ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpé í(
+Å˛
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpè è(6
+%2*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$firstPortType2_convertxmltostringøº
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpé í(	
+%3*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%2*
+
+$wsdlContent*/-
++Port type declaration is missing or invalid2assertstringcontainsstringÛ
+
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpî î(#
+%4"__id*H*F1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+isSingleService*
+5
+6*›
+5ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpï ó(Ò
+Ó
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpï ó(
+$secondPortType"__id*97
+5<portType name="testModule5AllSoapAndRestV2PortType">Çˇ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpô ô(;
+%5*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$secondPortType2_convertxmltostringøº
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpò ú(
+%6*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%5*
+
+$wsdlContent*/-
++Port type declaration is missing or invalid2assertstringcontainsstring*
+6*õ
+6ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpü ü("Û
+
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpü ü("
+%7"__id*H*F1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+isSingleService*
+7
+8*˘
+7ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php† ´(‘
+—
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php† ´(
+$operationDeclaration"__id*ïí
+è<operation name="testModule5AllSoapAndRestV2Item">
+    <input message="tns:testModule5AllSoapAndRestV2ItemRequest"/>
+    <output message="tns:testModule5AllSoapAndRestV2ItemResponse"/>
+    <fault name="GenericFault" message="tns:GenericFault"/>
+</operation>
+<operation name="testModule5AllSoapAndRestV2Items">
+    <input message="tns:testModule5AllSoapAndRestV2ItemsRequest"/>
+    <output message="tns:testModule5AllSoapAndRestV2ItemsResponse"/>
+    <fault name="GenericFault" message="tns:GenericFault"/>
+</operation>*
+9*˘
+8ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php≠ ∏(‘
+—
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php≠ ∏(
+$operationDeclaration"__id*ïí
+è<operation name="testModule5AllSoapAndRestV2Item">
+    <input message="tns:testModule5AllSoapAndRestV2ItemRequest"/>
+    <output message="tns:testModule5AllSoapAndRestV2ItemResponse"/>
+    <fault name="GenericFault" message="tns:GenericFault"/>
+</operation>
+<operation name="testModule5AllSoapAndRestV2Items">
+    <input message="tns:testModule5AllSoapAndRestV2ItemsRequest"/>
+    <output message="tns:testModule5AllSoapAndRestV2ItemsResponse"/>
+    <fault name="GenericFault" message="tns:GenericFault"/>
+</operation>*
+9*Ê
+9ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php∫ æ(
+àÖ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpª ª(=
+%8*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$operationDeclaration2_convertxmltostringµ≤
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php∫ æ(	
+%9*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%8*
+
+$wsdlContent*%#
+!Operation in port type is invalid2assertstringcontainsstring*
+10*ﬁ
+10&
+$WsdlGenerationFromDataObjectTest.php"Ø
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpø ø(
+implicit return*õ
+1ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÖ Ö("Û
+
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÖ Ö("
+%1"__id*H*F1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+isSingleService*
+2
+3:
+$wsdlContentB31
+/magento\webapi\wsdlgenerationfromdataobjecttest

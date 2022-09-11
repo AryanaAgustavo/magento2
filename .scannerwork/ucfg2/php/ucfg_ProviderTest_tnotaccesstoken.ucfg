@@ -1,0 +1,255 @@
+
+jmagento\integration\test\unit\model\oauth\token\providertest::testvalidateaccesstokenrequestnotaccesstoken‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpŠ Š(@"1*»
+2
+ProviderTest.php"¡
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpŸ Ÿ(
+implicit return*ÊB
+1‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpŒ Œ(DŒ
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpŒ Œ(C
+%1*@>
+<magento\integration\test\unit\model\oauth\token\providertest*%#
+!Magento\Framework\Oauth\Exception2expectexception‘Ž
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php (E
+%2*@>
+<magento\integration\test\unit\model\oauth\token\providertest* 
+Token is not an access token2expectexceptionmessageÑ
+Î
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpŽ Ž(?
+$accessTokenString"__id*$"
+ 12345678901234567890123456789012§
+¤
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php (
+
+$tokenId"__id*2ª
+§
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php (
+$consumerId"__id*2ò
+ï
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php’ ’(
+%3"__id*U*S>
+<magento\integration\test\unit\model\oauth\token\providertest"
+accessTokenMockÝÚ
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php’( ’(5
+%4*@>
+<magento\integration\test\unit\model\oauth\token\providertest2once®«
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php’ ’(6
+%5*
+
+%3*
+
+%42expects¯¬
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php’ “(
+%6*
+
+%5*
+load2methodÆÃ
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php’ ”(/
+%7*
+
+%6*
+
+$accessTokenString*	
+token2with­ª
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php’ •(
+%8*
+
+%72willreturnselfó
+ð
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php– –(
+%9"__id*V*T>
+<magento\integration\test\unit\model\oauth\token\providertest"
+tokenFactoryMockÞÛ
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php–) –(6
+%10*@>
+<magento\integration\test\unit\model\oauth\token\providertest2once°­
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php– –(7
+%11*
+
+%9*
+
+%102expects³°
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php– –(I
+%12*
+
+%11*
+
+create2methodó
+ð
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php–V –(l
+%13"__id*U*S>
+<magento\integration\test\unit\model\oauth\token\providertest"
+accessTokenMock´±
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php– –(m
+%14*
+
+%12*
+
+%132
+willreturnó
+ð
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php— —(
+%15"__id*U*S>
+<magento\integration\test\unit\model\oauth\token\providertest"
+accessTokenMockÝÚ
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php—( —(4
+%16*@>
+<magento\integration\test\unit\model\oauth\token\providertest2any±®
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php— —(5
+%17*
+
+%15*
+
+%162expects²¯
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php— —(F
+%18*
+
+%17*	
+getId2method¹¶
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php— —(\
+%19*
+
+%18*
+
+
+$tokenId2
+willreturnð
+í
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php™ ™(
+%20"__id*R*P>
+<magento\integration\test\unit\model\oauth\token\providertest"
+consumerMockÝÚ
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php™% ™(1
+%21*@>
+<magento\integration\test\unit\model\oauth\token\providertest2any±®
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php™ ™(2
+%22*
+
+%20*
+
+%212expects²¯
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php™ ™(C
+%23*
+
+%22*	
+getId2method¼¹
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php™ ™(\
+%24*
+
+%23*
+
+$consumerId2
+willreturnó
+ð
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpš š(
+%25"__id*U*S>
+<magento\integration\test\unit\model\oauth\token\providertest"
+accessTokenMockÞÛ
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpš( š(5
+%26*@>
+<magento\integration\test\unit\model\oauth\token\providertest2once±®
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpš š(6
+%27*
+
+%25*
+
+%262expectsº·
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpš š(O
+%28*
+
+%27*
+getConsumerId2method¼¹
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpš š(h
+%29*
+
+%28*
+
+$consumerId2
+willreturnó
+ð
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpœ œ(
+%30"__id*U*S>
+<magento\integration\test\unit\model\oauth\token\providertest"
+accessTokenMockÞÛ
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpœ( œ(5
+%31*@>
+<magento\integration\test\unit\model\oauth\token\providertest2once±®
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpœ œ(6
+%32*
+
+%30*
+
+%312expects´±
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpœ œ(I
+%33*
+
+%32*	
+getType2method¿¼
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpœ œ(g
+%34*
+
+%33*
+notAccessToken2
+willreturnñ
+î
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpž ž(
+%35"__id*S*Q>
+<magento\integration\test\unit\model\oauth\token\providertest"
+tokenProviderð
+í
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpžM ž(`
+%36"__id*R*P>
+<magento\integration\test\unit\model\oauth\token\providertest"
+consumerMockÜÙ
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpž ž(a
+%37*
+
+%35*
+
+$accessTokenString*
+
+%362validateaccesstokenrequest*
+2B@>
+<magento\integration\test\unit\model\oauth\token\providertest

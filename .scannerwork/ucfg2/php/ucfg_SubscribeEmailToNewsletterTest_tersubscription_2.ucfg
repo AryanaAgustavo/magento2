@@ -1,0 +1,82 @@
+
+gmagento\graphql\newsletter\guest\subscribeemailtonewslettertest::testaddemailintonewslettersubscription•
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.php" "(:"1*È
+2$
+"SubscribeEmailToNewsletterTest.php"Ω
+•
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.php* *(
+implicit return*…
+1•
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.php$ $(6óî
+•
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.php$ $(5
+%1*CA
+?magento\graphql\newsletter\guest\subscribeemailtonewslettertest*
+guest@example.com2getquery√
+¿
+•
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.php$ $(5
+$query"__id*
+
+%1ìê
+•
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.php% %(2
+%2*CA
+?magento\graphql\newsletter\guest\subscribeemailtonewslettertest*
+
+
+$query2graphqlmutation∆
+√
+•
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.php% %(2
+	$response"__id*
+
+%2˘
+ˆ
+•
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.php' '(H
+%3"Rmagento\graphql\newsletter\guest\subscribeemailtonewslettertest::assertarrayhaskey*C"A
+?magento\graphql\newsletter\guest\subscribeemailtonewslettertest*
+subscribeEmailToNewsletter*
+
+	$responseÍ
+Á
+•
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.php( ((D
+%4"__mapGet*
+
+	$response*
+subscribeEmailToNewsletterœ
+Ã
+•
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.php( ((E
+%5"Omagento\graphql\newsletter\guest\subscribeemailtonewslettertest::assertnotempty*C"A
+?magento\graphql\newsletter\guest\subscribeemailtonewslettertest*
+
+%4Í
+Á
+•
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.php)) )(P
+%6"__mapGet*
+
+	$response*
+subscribeEmailToNewsletterœ
+Ã
+•
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.php)) )(Z
+%7"__mapGet*
+
+%6*
+
+status›
+⁄
+•
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Newsletter\Guest\SubscribeEmailToNewsletterTest.php) )([
+%8"Mmagento\graphql\newsletter\guest\subscribeemailtonewslettertest::assertequals*C"A
+?magento\graphql\newsletter\guest\subscribeemailtonewslettertest*
+
+SUBSCRIBED*
+
+%7*
+2BCA
+?magento\graphql\newsletter\guest\subscribeemailtonewslettertest

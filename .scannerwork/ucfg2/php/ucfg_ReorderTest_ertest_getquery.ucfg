@@ -1,0 +1,43 @@
+
++magento\graphql\sales\reordertest::getqueryˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderTest.php» »("1*©
+1ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderTest.php½ Ñ(	Õ
+Ò
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderTest.php¾ Ñ(
+%1"__concat*-+
+)mutation {
+  reorderItems(orderNumber: "*óð
+í") {
+    userInputErrors {
+      path
+      code
+    }
+    cart {
+        email
+        total_quantity
+        items {
+            quantity
+            product {
+                sku
+            }
+        }
+      }
+    }
+}*
+
+$orderNumber¦
+£
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderTest.php½ Ñ(
+$query"__id*
+
+%1"—
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Sales\ReorderTest.phpÒ Ò(
+
+
+$query:
+$orderNumberB%#
+!magento\graphql\sales\reordertest

@@ -1,0 +1,285 @@
+
+Amagento\graphql\catalog\storeconfigtest::testgetstoreconfigglobalç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpM M(,"1*¬
+2
+StoreConfigTest.php"•
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpo o(
+implicit return*·A
+1ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpO `(«
+ƒ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpO `(
+$query"__id*°û
+õ{
+  storeConfig{
+    product_url_suffix,
+    category_url_suffix,
+    title_separator,
+    list_mode,
+    grid_per_page_values,
+    list_per_page_values,
+    grid_per_page,
+    list_per_page,
+    catalog_default_sort_by,
+    root_category_id
+    root_category_uid
+  }
+}‡›
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpa a(/
+%1*+)
+'magento\graphql\catalog\storeconfigtest*
+
+
+$query2graphqlqueryÆ
+´
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpa a(/
+	$response"__id*
+
+%1˘ˆ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpb b(:
+%2*+)
+'magento\graphql\catalog\storeconfigtest*
+storeConfig*
+
+	$response2assertarrayhaskey√
+¿
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpd: d(R
+%3"__mapGet*
+
+	$response*
+storeConfig√
+¿
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpd: d(h
+%4"__mapGet*
+
+%3*
+product_url_suffix¸˘
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpd d(i
+%5*+)
+'magento\graphql\catalog\storeconfigtest*
+global_test_product_suffix*
+
+%42assertequals√
+¿
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpe; e(S
+%6"__mapGet*
+
+	$response*
+storeConfigƒ
+¡
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpe; e(j
+%7"__mapGet*
+
+%6*
+category_url_suffix˝˙
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpe e(k
+%8*+)
+'magento\graphql\catalog\storeconfigtest*
+global_test_category_suffix*
+
+%72assertequals√
+¿
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpf" f(:
+%9"__mapGet*
+
+	$response*
+storeConfig¡
+æ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpf" f(M
+%10"__mapGet*
+
+%9*
+title_separatorÊ„
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpf f(N
+%11*+)
+'magento\graphql\catalog\storeconfigtest*
+__*
+
+%102assertequalsƒ
+¡
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpg! g(9
+%12"__mapGet*
+
+	$response*
+storeConfigº
+π
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpg! g(F
+%13"__mapGet*
+
+%12*
+	list_modeÂ‚
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpg g(G
+%14*+)
+'magento\graphql\catalog\storeconfigtest*
+3*
+
+%132assertequalsƒ
+¡
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phph" h(:
+%15"__mapGet*
+
+	$response*
+storeConfig«
+ƒ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phph" h(R
+%16"__mapGet*
+
+%15*
+grid_per_page_valuesÊ„
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phph h(S
+%17*+)
+'magento\graphql\catalog\storeconfigtest*
+16*
+
+%162assertequalsƒ
+¡
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpi  i(8
+%18"__mapGet*
+
+	$response*
+storeConfig¿
+Ω
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpi  i(I
+%19"__mapGet*
+
+%18*
+grid_per_page‰·
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpi i(J
+%20*+)
+'magento\graphql\catalog\storeconfigtest*2*
+
+%192assertequalsƒ
+¡
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpj! j(9
+%21"__mapGet*
+
+	$response*
+storeConfig«
+ƒ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpj! j(Q
+%22"__mapGet*
+
+%21*
+list_per_page_valuesÂ‚
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpj j(R
+%23*+)
+'magento\graphql\catalog\storeconfigtest*
+8*
+
+%222assertequalsƒ
+¡
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpk k(7
+%24"__mapGet*
+
+	$response*
+storeConfig¿
+Ω
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpk k(H
+%25"__mapGet*
+
+%24*
+list_per_page‰·
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpk k(I
+%26*+)
+'magento\graphql\catalog\storeconfigtest*2*
+
+%252assertequalsƒ
+¡
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpl# l(;
+%27"__mapGet*
+
+	$response*
+storeConfig 
+«
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpl# l(V
+%28"__mapGet*
+
+%27*
+catalog_default_sort_byÁ‰
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpl l(W
+%29*+)
+'magento\graphql\catalog\storeconfigtest*
+asc*
+
+%282assertequalsƒ
+¡
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpm m(7
+%30"__mapGet*
+
+	$response*
+storeConfig√
+¿
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpm m(K
+%31"__mapGet*
+
+%30*
+root_category_id‰·
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpm m(L
+%32*+)
+'magento\graphql\catalog\storeconfigtest*2*
+
+%312assertequals¥
+±
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpn n(.
+%33"base64_encode* *
+2ƒ
+¡
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpn0 n(H
+%34"__mapGet*
+
+	$response*
+storeConfigƒ
+¡
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpn0 n(]
+%35"__mapGet*
+
+%34*
+root_category_uidÁ‰
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\StoreConfigTest.phpn n(^
+%36*+)
+'magento\graphql\catalog\storeconfigtest*
+
+%33*
+
+%352assertequals*
+2B+)
+'magento\graphql\catalog\storeconfigtest

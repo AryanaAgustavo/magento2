@@ -1,0 +1,513 @@
+
+*magento\catalog\model\product::__constructj
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è("1*ñ
+2
+Product.php"Å
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpﬁ ﬁ(
+implicit return*Ét
+1j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php∂ ∂(2∞
+≠
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+
+$context"__id*-
++
+$contextmagento\framework\model\context≠
+™
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+	$registry"__id*)
+'
+	$registrymagento\framework\registry”
+–
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$extensionFactory"__id*G
+E
+$extensionFactory0magento\framework\api\extensionattributesfactory⁄
+◊
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$customAttributeFactory"__id*H
+F
+$customAttributeFactory+magento\framework\api\attributevaluefactoryƒ
+¡
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÿ
+’
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$metadataService"__id*M
+K
+$metadataService7magento\catalog\api\productattributerepositoryinterface™
+ß
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$url"__id*+
+)
+$url!magento\catalog\model\product\urlª
+∏
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$productLink"__id*4
+2
+$productLink"magento\catalog\model\product\link„
+‡
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$itemOptionFactory"__id*V
+T
+$itemOptionFactory>magento\catalog\model\product\configuration\item\optionfactoryﬁ
+€
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$stockItemFactory"__id*R
+P
+$stockItemFactory;magento\cataloginventory\api\data\stockiteminterfacefactory‰
+·
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$catalogProductOptionFactory"__id*M
+K
+$catalogProductOptionFactory+magento\catalog\model\product\optionfactory€
+ÿ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$catalogProductVisibility"__id*G
+E
+$catalogProductVisibility(magento\catalog\model\product\visibility‡
+›
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$catalogProductStatus"__id*P
+N
+$catalogProductStatus5magento\catalog\model\product\attribute\source\statusﬂ
+‹
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$catalogProductMediaConfig"__id*J
+H
+$catalogProductMediaConfig*magento\catalog\model\product\media\config…
+∆
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$catalogProductType"__id*;
+9
+$catalogProductType"magento\catalog\model\product\typeΩ
+∫
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$moduleManager"__id*4
+2
+$moduleManager magento\framework\module\managerΩ
+∫
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$catalogProduct"__id*3
+1
+$catalogProductmagento\catalog\helper\productæ
+ª
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+	$resource"__id*:
+8
+	$resource+magento\catalog\model\resourcemodel\product›
+⁄
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$resourceCollection"__id*O
+M
+$resourceCollection6magento\catalog\model\resourcemodel\product\collectionÕ
+ 
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$collectionFactory"__id*@
+>
+$collectionFactory(magento\framework\data\collectionfactory≥
+∞
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$filesystem"__id*-
++
+$filesystemmagento\framework\filesystem 
+«
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$indexerRegistry"__id*?
+=
+$indexerRegistry)magento\framework\indexer\indexerregistryÌ
+Í
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$productFlatIndexerProcessor"__id*V
+T
+$productFlatIndexerProcessor4magento\catalog\model\indexer\product\flat\processor
+Ì
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$productPriceIndexerProcessor"__id*X
+V
+$productPriceIndexerProcessor5magento\catalog\model\indexer\product\price\processorÍ
+Á
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$productEavIndexerProcessor"__id*T
+R
+$productEavIndexerProcessor3magento\catalog\model\indexer\product\eav\processor÷
+”
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$categoryRepository"__id*H
+F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface’
+“
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$imageCacheFactory"__id*H
+F
+$imageCacheFactory0magento\catalog\model\product\image\cachefactoryÁ
+‰
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$entityCollectionProvider"__id*S
+Q
+$entityCollectionProvider4magento\catalog\model\productlink\collectionprovider—
+Œ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$linkTypeProvider"__id*E
+C
+$linkTypeProvider.magento\catalog\model\product\linktypeprovider€
+ÿ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$productLinkFactory"__id*M
+K
+$productLinkFactory4magento\catalog\api\data\productlinkinterfacefactoryÌ
+Í
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$productLinkExtensionFactory"__id*V
+T
+$productLinkExtensionFactory4magento\catalog\api\data\productlinkextensionfactoryá
+Ñ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(!
+$mediaGalleryEntryConverterPool"__id*m
+k
+$mediaGalleryEntryConverterPoolHmagento\catalog\model\product\attribute\backend\media\entryconverterpool…
+∆
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$dataObjectHelper"__id*=
+;
+$dataObjectHelper&magento\framework\api\dataobjecthelper‹
+Ÿ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$joinProcessor"__id*S
+Q
+$joinProcessor?magento\framework\api\extensionattribute\joinprocessorinterfaceê
+ç
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$data"__id*
+
+$dataarrayß
+§
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(	
+$config"__id*%
+#
+$configmagento\eav\model\configﬂ
+‹
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpè è(
+$filterCustomAttribute"__id*N
+L
+$filterCustomAttribute2magento\catalog\model\filterproductcustomattribute¡
+æ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php∂ ∂(14
+magento\catalog\model\product"
+metadataService"__id*
+
+$metadataService∆
+√
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php∑ ∑(67
+magento\catalog\model\product"
+_itemOptionFactory"__id*
+
+$itemOptionFactoryƒ
+¡
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php∏ ∏(46
+magento\catalog\model\product"
+_stockItemFactory"__id*
+
+$stockItemFactoryÀ
+»
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpπ π(;2
+magento\catalog\model\product"
+optionFactory"__id* 
+
+$catalogProductOptionFactory‘
+—
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php∫ ∫(D>
+magento\catalog\model\product"
+_catalogProductVisibility"__id*
+
+$catalogProductVisibilityÃ
+…
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpª ª(<:
+magento\catalog\model\product"
+_catalogProductStatus"__id*
+
+$catalogProductStatus÷
+”
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpº º(F?
+magento\catalog\model\product"
+_catalogProductMediaConfig"__id*
+
+$catalogProductMediaConfig»
+≈
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpΩ Ω(88
+magento\catalog\model\product"
+_catalogProductType"__id*
+
+$catalogProductTypeΩ
+∫
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpæ æ(-2
+magento\catalog\model\product"
+moduleManager"__id*
+
+$moduleManager¿
+Ω
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpø ø(04
+magento\catalog\model\product"
+_catalogProduct"__id*
+
+$catalogProduct∆
+√
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php¿ ¿(67
+magento\catalog\model\product"
+_collectionFactory"__id*
+
+$collectionFactoryØ
+¨
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php¡ ¡(.
+magento\catalog\model\product"
+	_urlModel"__id*
+
+$urlª
+∏
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php¬ ¬(+2
+magento\catalog\model\product"
+_linkInstance"__id*
+
+$productLink∏
+µ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php√ √((0
+magento\catalog\model\product"
+_filesystem"__id*
+
+$filesystem¡
+æ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpƒ ƒ(14
+magento\catalog\model\product"
+indexerRegistry"__id*
+
+$indexerRegistry⁄
+◊
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php≈ ≈(JA
+magento\catalog\model\product"
+_productFlatIndexerProcessor"__id* 
+
+$productFlatIndexerProcessor‹
+Ÿ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php∆ ∆(LB
+magento\catalog\model\product"
+_productPriceIndexerProcessor"__id*!
+
+$productPriceIndexerProcessorÿ
+’
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php« «(H@
+magento\catalog\model\product"
+_productEavIndexerProcessor"__id*
+
+$productEavIndexerProcessor«
+ƒ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php» »(77
+magento\catalog\model\product"
+categoryRepository"__id*
+
+$categoryRepository≈
+¬
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php… …(56
+magento\catalog\model\product"
+imageCacheFactory"__id*
+
+$imageCacheFactory”
+–
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php   (C=
+magento\catalog\model\product"
+entityCollectionProvider"__id*
+
+$entityCollectionProvider√
+¿
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpÀ À(35
+magento\catalog\model\product"
+linkTypeProvider"__id*
+
+$linkTypeProvider«
+ƒ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpÃ Ã(77
+magento\catalog\model\product"
+productLinkFactory"__id*
+
+$productLinkFactoryŸ
+÷
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpÕ Õ(I@
+magento\catalog\model\product"
+productLinkExtensionFactory"__id* 
+
+$productLinkExtensionFactoryﬂ
+‹
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpŒ Œ(OC
+magento\catalog\model\product" 
+mediaGalleryEntryConverterPool"__id*#
+!
+$mediaGalleryEntryConverterPool√
+¿
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.phpœ œ(35
+magento\catalog\model\product"
+dataObjectHelper"__id*
+
+$dataObjectHelperΩ
+∫
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php– –(-2
+magento\catalog\model\product"
+joinProcessor"__id*
+
+$joinProcessor–
+Õ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php—& —(B
+%1"0magento\framework\app\objectmanager::getinstance*'"%
+#magento\framework\app\objectmanagerÜÉ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php—& —(i
+%2*
+
+%1* 2get©
+¶
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php— —(i.
+magento\catalog\model\product"
+	eavConfig"__id* –
+Õ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php” ”(+
+%3"0magento\framework\app\objectmanager::getinstance*'"%
+#magento\framework\app\objectmanagerÜÉ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php” ”(U
+%4*
+
+%3* 2getµ
+≤
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php“ ”(U:
+magento\catalog\model\product"
+filterCustomAttribute"__id* ·
+ﬁ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Product.php‘ ›(	
+%5"0magento\catalog\model\abstractmodel::__construct*!
+magento\catalog\model\product*
+
+
+$context*
+
+	$registry*
+
+$extensionFactory*
+
+$customAttributeFactory*
+
+$storeManager*
+
+	$resource*
+
+$resourceCollection*	
+
+$data*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:E
+$extensionFactory0magento\framework\api\extensionattributesfactory:F
+$customAttributeFactory+magento\framework\api\attributevaluefactory::
+$storeManager)magento\store\model\storemanagerinterface:K
+$metadataService7magento\catalog\api\productattributerepositoryinterface:)
+$url!magento\catalog\model\product\url:2
+$productLink"magento\catalog\model\product\link:T
+$itemOptionFactory>magento\catalog\model\product\configuration\item\optionfactory:P
+$stockItemFactory;magento\cataloginventory\api\data\stockiteminterfacefactory:K
+$catalogProductOptionFactory+magento\catalog\model\product\optionfactory:E
+$catalogProductVisibility(magento\catalog\model\product\visibility:N
+$catalogProductStatus5magento\catalog\model\product\attribute\source\status:H
+$catalogProductMediaConfig*magento\catalog\model\product\media\config:9
+$catalogProductType"magento\catalog\model\product\type:2
+$moduleManager magento\framework\module\manager:1
+$catalogProductmagento\catalog\helper\product:8
+	$resource+magento\catalog\model\resourcemodel\product:M
+$resourceCollection6magento\catalog\model\resourcemodel\product\collection:>
+$collectionFactory(magento\framework\data\collectionfactory:+
+$filesystemmagento\framework\filesystem:=
+$indexerRegistry)magento\framework\indexer\indexerregistry:T
+$productFlatIndexerProcessor4magento\catalog\model\indexer\product\flat\processor:V
+$productPriceIndexerProcessor5magento\catalog\model\indexer\product\price\processor:R
+$productEavIndexerProcessor3magento\catalog\model\indexer\product\eav\processor:F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface:F
+$imageCacheFactory0magento\catalog\model\product\image\cachefactory:Q
+$entityCollectionProvider4magento\catalog\model\productlink\collectionprovider:C
+$linkTypeProvider.magento\catalog\model\product\linktypeprovider:K
+$productLinkFactory4magento\catalog\api\data\productlinkinterfacefactory:T
+$productLinkExtensionFactory4magento\catalog\api\data\productlinkextensionfactory:k
+$mediaGalleryEntryConverterPoolHmagento\catalog\model\product\attribute\backend\media\entryconverterpool:;
+$dataObjectHelper&magento\framework\api\dataobjecthelper:Q
+$joinProcessor?magento\framework\api\extensionattribute\joinprocessorinterface:
+$dataarray:#
+$configmagento\eav\model\config:L
+$filterCustomAttribute2magento\catalog\model\filterproductcustomattributeB!
+magento\catalog\model\product

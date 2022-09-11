@@ -1,0 +1,102 @@
+
+Imagento\graphql\customer\createcustomertest::testcreatecustomersubscribedì
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerTest.php≥ ≥(0"1*À
+2
+CreateCustomerTest.php"´
+ì
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerTest.phpŒ Œ(
+implicit return*Ü
+1ì
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerTest.phpµ µ("Ω
+∫
+ì
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerTest.phpµ µ(!
+$newFirstname"__id*	
+Richardπ
+∂
+ì
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerTest.php∂ ∂(
+$newLastname"__id*
+Rowe 
+«
+ì
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerTest.php∑ ∑(.
+	$newEmail"__id*
+new_customer@example.comÅ
+˛
+ì
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerTest.phpπ …(
+%1"__concat*OM
+Kmutation {
+    createCustomer(
+        input: {
+            firstname: "*
+"
+            lastname: "*
+"
+            email: "*ìê
+ç"
+            is_subscribed: true
+        }
+    ) {
+        customer {
+            email
+            is_subscribed
+        }
+    }
+}*
+
+$newFirstname*
+
+$newLastname*
+
+	$newEmail±
+Æ
+ì
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerTest.phpπ …(
+$query"__id*
+
+%1ÌÍ
+ì
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerTest.phpÀ À(2
+%2*/-
++magento\graphql\customer\createcustomertest*
+
+
+$query2graphqlmutation¥
+±
+ì
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerTest.phpÀ À(2
+	$response"__id*
+
+%2Ã
+…
+ì
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerTest.phpÕ Õ(6
+%3"__mapGet*
+
+	$response*
+createCustomerø
+º
+ì
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerTest.phpÕ Õ(B
+%4"__mapGet*
+
+%3*
+
+customerƒ
+¡
+ì
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerTest.phpÕ Õ(S
+%5"__mapGet*
+
+%4*
+is_subscribedÂ‚
+ì
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerTest.phpÕ Õ(T
+%6*/-
++magento\graphql\customer\createcustomertest*
+
+%52assertfalse*
+2B/-
++magento\graphql\customer\createcustomertest

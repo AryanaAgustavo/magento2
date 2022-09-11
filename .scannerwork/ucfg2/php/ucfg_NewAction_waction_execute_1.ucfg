@@ -1,0 +1,400 @@
+
+;magento\newsletter\controller\subscriber\newaction::execute
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpù ù("1*á
+2
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpü- ü(RŒÀ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpü- ü(@
+%3*64
+2magento\newsletter\controller\subscriber\newaction2
+getrequest¶£
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpü- ü(R
+%4*
+
+%3*	
+email2getpost*
+3
+12*Æ
+14
+NewAction.php"ñ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php« «(
+implicit return*–
+3
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php† †(CŒÀ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php† †(0
+%5*64
+2magento\newsletter\controller\subscriber\newaction2
+getrequest¶£
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php† †(B
+%6*
+
+%5*	
+email2getpost™
+ß
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php† †(B
+$email"__passthrough_cast*
+
+%6„‡
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php£ £(2
+%7*64
+2magento\newsletter\controller\subscriber\newaction*
+
+
+$email2validateemailformat›⁄
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php§ §(2
+%8*64
+2magento\newsletter\controller\subscriber\newaction2validateguestsubscriptionÊ„
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php• •(5
+%9*64
+2magento\newsletter\controller\subscriber\newaction*
+
+
+$email2validateemailavailable‹
+Ÿ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpß" ß(6
+%10"__id*I*G4
+2magento\newsletter\controller\subscriber\newaction"
+_storeManagerûõ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpß" ß(B
+%11*
+
+%102getstore¢ü
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpß" ß(R
+%12*
+
+%112getwebsiteidÆ
+´
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpß ß(R
+
+$websiteId"__sanitizing_cast*
+
+%12·
+ﬁ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php© ©(7
+%13"__id*N*L4
+2magento\newsletter\controller\subscriber\newaction"
+_subscriberFactoryúô
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php© ©(A
+%14*
+
+%132create«ƒ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php© ©(l
+%15*
+
+%14*
+
+
+$email*
+
+
+$websiteId2loadbysubscriberemail¢
+ü
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php© ©(l
+$subscriber"__id*
+
+%15£†
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php™ ™((
+%16*
+
+$subscriber2getid*
+4
+6*Î
+4
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php´ ´(`±Æ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php´ ´(>
+%17*
+
+$subscriber2getsubscriberstatusß
+§
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php´ ´(>
+%18"__sanitizing_cast*
+
+%17*
+6
+10*ˆ	
+6
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php± ±(J‹
+Ÿ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php±  ±(4
+%19"__id*I*G4
+2magento\newsletter\controller\subscriber\newaction"
+_storeManagerûõ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php±  ±(@
+%20*
+
+%192getstoreõò
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php±  ±(I
+%21*
+
+%202getid¨
+©
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php± ±(I
+
+$storeId"__sanitizing_cast*
+
+%21ÓÎ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php≤% ≤(M
+%22*64
+2magento\newsletter\controller\subscriber\newaction*
+
+
+$email*
+
+
+$websiteId2getcustomerid©
+¶
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php≤ ≤(M
+$currentCustomerId"__id*
+
+%22*
+7
+8*„
+7
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpµ µ(a‚
+ﬂ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpµ µ(0
+%23"__id*O*M4
+2magento\newsletter\controller\subscriber\newaction"
+subscriptionManagerÕ 
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpµ µ(a
+%24*
+
+%23*
+
+$currentCustomerId*
+
+
+$storeId2subscribecustomer¢
+ü
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php¥ ∂(M
+$subscriber"__id*
+
+%24*
+9*œ
+8
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∂ ∂(M‚
+ﬂ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∂ ∂(0
+%25"__id*O*M4
+2magento\newsletter\controller\subscriber\newaction"
+subscriptionManagerπ∂
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∂ ∂(M
+%26*
+
+%25*
+
+
+$email*
+
+
+$storeId2	subscribe¢
+ü
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php¥ ∂(M
+$subscriber"__id*
+
+%26*
+9*ê
+
+9
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∂M ∂(M±Æ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∑9 ∑([
+%27*
+
+$subscriber2getsubscriberstatusß
+§
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∑4 ∑([
+%28"__sanitizing_cast*
+
+%27ﬂ‹
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∑ ∑(\
+%29*64
+2magento\newsletter\controller\subscriber\newaction*
+
+%282getsuccessmessageü
+ú
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∑ ∑(\
+
+$message"__id*
+
+%29›
+⁄
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∏ ∏(%
+%30"__id*J*H4
+2magento\newsletter\controller\subscriber\newaction"
+messageManagerµ≤
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∏ ∏(B
+%31*
+
+%30*
+
+
+$message2addsuccessmessage*
+14
+10
+11
+12*Ω
+10
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∫ Ω(›
+⁄
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∫ ∫(%
+%32"__id*J*H4
+2magento\newsletter\controller\subscriber\newaction"
+messageManagerìê
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpº º(3
+%33"$Arrayüú
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpº" º(2
+%34*
+
+$e2
+getmessage¥
+±
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpº º(3
+%35"__mapSet*
+
+%33*	
+message*
+
+%34‹Ÿ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∫ Ω(
+%36*
+
+%32*%#
+!localizedSubscriptionErrorMessage*
+
+%332addcomplexerrormessage*
+14
+12*Û
+11
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpø ø(r›
+⁄
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpø ø(%
+%37"__id*J*H4
+2magento\newsletter\controller\subscriber\newaction"
+messageManagerƒ
+¡
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpø? ø(p
+%38"__* */-
++Something went wrong with the subscription.∫∑
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpø ø(q
+%39*
+
+%37*
+
+$e*
+
+%382addexceptionmessage*
+14
+12*è
+12
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php√ √(O‹
+Ÿ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php√ √((
+%40"__id*I*G4
+2magento\newsletter\controller\subscriber\newaction"
+resultFactory†ù
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php√ √(N
+%41*
+
+%40* 2create†
+ù
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php√ √(N
+	$redirect"__id*
+
+%41ÿ
+’
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php≈ ≈('
+%42"__id*E*C4
+2magento\newsletter\controller\subscriber\newaction"
+	_redirect§°
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php≈ ≈(9
+%43*
+
+%422getredirecturl£
+†
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php≈ ≈(9
+$redirectUrl"__id*
+
+%43¥±
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∆ ∆(.
+%44*
+
+	$redirect*
+
+$redirectUrl2seturl»
+≈
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∆ ∆(/3
+%45,magento\framework\controller\result\redirect"__id*
+
+%44"∏
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.php∆ ∆(/5
+3
+%45,magento\framework\controller\result\redirect*˚
+1
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpü ü(RŒÀ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpü ü(
+%1*64
+2magento\newsletter\controller\subscriber\newaction2
+getrequestöó
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Subscriber\NewAction.phpü ü()
+%2*
+
+%12ispost*
+2
+12B64
+2magento\newsletter\controller\subscriber\newaction

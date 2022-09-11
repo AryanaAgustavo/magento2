@@ -1,0 +1,110 @@
+
+8magento\downloadable\model\samplerepository::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.phpU U("1*«
+2
+SampleRepository.php"
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.phpe e(
+implicit return*Ï
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.php^ ^(6ß
+Ü
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.phpU U(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceÖ
+Ó
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.phpU U(
+$downloadableType"__id*>
+<
+$downloadableType'magento\downloadable\model\product\typeñ
+î
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.phpU U(
+$sampleDataObjectFactory"__id*R
+P
+$sampleDataObjectFactory4magento\downloadable\api\data\sampleinterfacefactoryá
+Þ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.phpU U(
+$contentValidator"__id*I
+G
+$contentValidator2magento\downloadable\model\sample\contentvalidatorð
+í
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.phpU U(
+$fileContentUploader"__id*U
+S
+$fileContentUploader;magento\downloadable\api\data\file\contentuploaderinterfaceÌ
+É
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.phpU U(
+$jsonEncoder"__id*9
+7
+$jsonEncoder'magento\framework\json\encoderinterfaceÑ
+Î
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.phpU U(
+$sampleFactory"__id*<
+:
+$sampleFactory(magento\downloadable\model\samplefactoryß
+Ü
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.php^ ^(5D-
++magento\downloadable\model\samplerepository"
+productRepository"__id*
+
+$productRepositoryÝ
+Ú
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.php_ _(3C-
++magento\downloadable\model\samplerepository"
+downloadableType"__id*
+
+$downloadableTypeÝ
+Ú
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.php` `(3C-
++magento\downloadable\model\samplerepository"
+contentValidator"__id*
+
+$contentValidatorã
+à
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.phpa a(9F-
++magento\downloadable\model\samplerepository"
+fileContentUploader"__id*
+
+$fileContentUploaderÓ
+Ð
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.phpb b()>-
++magento\downloadable\model\samplerepository"
+jsonEncoder"__id*
+
+$jsonEncoder×
+Ô
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.phpc c(-@-
++magento\downloadable\model\samplerepository"
+sampleFactory"__id*
+
+$sampleFactoryë
+è
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\SampleRepository.phpd d(AJ-
++magento\downloadable\model\samplerepository"
+sampleDataObjectFactory"__id*
+
+$sampleDataObjectFactory*
+2:D
+$productRepository.magento\catalog\api\productrepositoryinterface:<
+$downloadableType'magento\downloadable\model\product\type:P
+$sampleDataObjectFactory4magento\downloadable\api\data\sampleinterfacefactory:G
+$contentValidator2magento\downloadable\model\sample\contentvalidator:S
+$fileContentUploader;magento\downloadable\api\data\file\contentuploaderinterface:7
+$jsonEncoder'magento\framework\json\encoderinterface::
+$sampleFactory(magento\downloadable\model\samplefactoryB/-
++magento\downloadable\model\samplerepository

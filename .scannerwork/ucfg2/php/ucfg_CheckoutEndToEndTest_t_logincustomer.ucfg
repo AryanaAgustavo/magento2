@@ -1,0 +1,93 @@
+
+Bmagento\graphql\quote\customer\checkoutendtoendtest::logincustomerõ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.phpë ë(""1*©
+1õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.phpì ú(≤
+Ø
+õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.phpì ú(
+$query"__id*}
+{mutation {
+  generateCustomerToken(
+    email: "customer@example.com"
+    password: "123123Qa"
+  ) {
+    token
+  }
+}˝˙
+õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.phpù ù(2
+%1*75
+3magento\graphql\quote\customer\checkoutendtoendtest*
+
+
+$query2graphqlmutationº
+π
+õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.phpù ù(2
+	$response"__id*
+
+%1“
+œ
+õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.phpû û(C
+%2"Fmagento\graphql\quote\customer\checkoutendtoendtest::assertarrayhaskey*7"5
+3magento\graphql\quote\customer\checkoutendtoendtest*
+generateCustomerToken*
+
+	$response€
+ÿ
+õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.phpü) ü(K
+%3"__mapGet*
+
+	$response*
+generateCustomerTokenª
+∏
+õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.phpü ü(L
+%4"Fmagento\graphql\quote\customer\checkoutendtoendtest::assertarrayhaskey*7"5
+3magento\graphql\quote\customer\checkoutendtoendtest*	
+token*
+
+%3€
+ÿ
+õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.php† †(?
+%5"__mapGet*
+
+	$response*
+generateCustomerTokenƒ
+¡
+õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.php† †(H
+%6"__mapGet*
+
+%5*	
+token≠
+™
+õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.php† †(I
+%7"Cmagento\graphql\quote\customer\checkoutendtoendtest::assertnotempty*7"5
+3magento\graphql\quote\customer\checkoutendtoendtest*
+
+%6€
+ÿ
+õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.php¢ ¢(1
+%8"__mapGet*
+
+	$response*
+generateCustomerTokenƒ
+¡
+õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.php¢ ¢(:
+%9"__mapGet*
+
+%8*	
+token"¶
+õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.php¢ ¢(;
+
+%9B75
+3magento\graphql\quote\customer\checkoutendtoendtest

@@ -1,0 +1,71 @@
+
+@magento\framework\search\searchengine\config\reader::__construct‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Search\SearchEngine\Config\Reader.php ("1*®
+2
+
+Reader.php"š
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Search\SearchEngine\Config\Reader.php1 1(
+implicit return*Ö
+1‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Search\SearchEngine\Config\Reader.php' 0(
+â
+ß
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Search\SearchEngine\Config\Reader.php (
+$fileResolver"__id*A
+?
+$fileResolver.magento\framework\config\fileresolverinterfaceä
+á
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Search\SearchEngine\Config\Reader.php (
+
+$converter"__id*F
+D
+
+$converter6magento\framework\search\searchengine\config\converterð
+í
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Search\SearchEngine\Config\Reader.php (
+$schemaLocator"__id*N
+L
+$schemaLocator:magento\framework\search\searchengine\config\schemalocatorë
+è
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Search\SearchEngine\Config\Reader.php (
+$validationState"__id*G
+E
+$validationState1magento\framework\config\validationstateinterface™
+–
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Search\SearchEngine\Config\Reader.php' 0(	
+%1"7magento\framework\config\reader\filesystem::__construct*75
+3magento\framework\search\searchengine\config\reader*
+
+$fileResolver*
+
+
+$converter*
+
+$schemaLocator*
+
+$validationState*
+
+	$fileName*
+
+$idAttributes*
+
+$domDocumentClass*
+
+$defaultScope*
+2:?
+$fileResolver.magento\framework\config\fileresolverinterface:D
+
+$converter6magento\framework\search\searchengine\config\converter:L
+$schemaLocator:magento\framework\search\searchengine\config\schemalocator:E
+$validationState1magento\framework\config\validationstateinterface:
+	$fileName:
+$idAttributes:
+$domDocumentClass:
+$defaultScopeB75
+3magento\framework\search\searchengine\config\reader

@@ -1,0 +1,89 @@
+
+=magento\customer\block\adminhtml\edit\tab\orders::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Adminhtml\Edit\Tab\Orders.php2 2("1*¦
+2
+
+Orders.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Adminhtml\Edit\Tab\Orders.php> >(
+implicit return*®
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Adminhtml\Edit\Tab\Orders.php: :(-È
+Å
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Adminhtml\Edit\Tab\Orders.php2 2(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\contextÉ
+Æ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Adminhtml\Edit\Tab\Orders.php2 2(
+$backendHelper"__id*/
+-
+$backendHelpermagento\backend\helper\dataÿ
+ü
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Adminhtml\Edit\Tab\Orders.php2 2(
+$collectionFactory"__id*a
+_
+$collectionFactoryImagento\framework\view\element\uicomponent\dataprovider\collectionfactoryÈ
+Å
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Adminhtml\Edit\Tab\Orders.php2 2(
+$salesReorder"__id*/
+-
+$salesReordermagento\sales\helper\reorderÆ
+Ã
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Adminhtml\Edit\Tab\Orders.php2 2(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registry¡
+ž
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Adminhtml\Edit\Tab\Orders.php2 2(
+$data"__id*
+
+$dataarrayà
+Ý
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Adminhtml\Edit\Tab\Orders.php: :(,E2
+0magento\customer\block\adminhtml\edit\tab\orders"
+_coreRegistry"__id*
+
+$coreRegistryà
+Ý
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Adminhtml\Edit\Tab\Orders.php; ;(,E2
+0magento\customer\block\adminhtml\edit\tab\orders"
+_salesReorder"__id*
+
+$salesReorderê
+ç
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Adminhtml\Edit\Tab\Orders.php< <(6J2
+0magento\customer\block\adminhtml\edit\tab\orders"
+_collectionFactory"__id*
+
+$collectionFactory¢
+Ÿ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Block\Adminhtml\Edit\Tab\Orders.php= =(<
+%1"7magento\backend\block\widget\grid\extended::__construct*42
+0magento\customer\block\adminhtml\edit\tab\orders*
+
+
+$context*
+
+$backendHelper*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:-
+$backendHelpermagento\backend\helper\data:_
+$collectionFactoryImagento\framework\view\element\uicomponent\dataprovider\collectionfactory:-
+$salesReordermagento\sales\helper\reorder:+
+$coreRegistrymagento\framework\registry:
+$dataarrayB42
+0magento\customer\block\adminhtml\edit\tab\orders

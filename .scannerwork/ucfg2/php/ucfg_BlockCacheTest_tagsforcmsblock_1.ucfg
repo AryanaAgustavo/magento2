@@ -1,0 +1,53 @@
+
+Ymagento\graphqlcache\controller\cms\blockcachetest::assertpagecachehitwithtagsforcmsblockï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\BlockCacheTest.php (:"1*…
+2
+BlockCacheTest.php"≠
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\BlockCacheTest.php" "(
+implicit return*å
+1ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\BlockCacheTest.php   (cÎ
+Ë
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\BlockCacheTest.php (:
+	$response"__id*;
+9
+	$response,magento\framework\app\response\httpinterface‹
+Ÿ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\BlockCacheTest.php (:
+$block"__id*/
+-
+$block#magento\cms\api\data\blockinterface÷”
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\BlockCacheTest.php #  (P
+%1*
+
+	$response*
+X-Magento-Cache-Debug2	getheader∏µ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\BlockCacheTest.php #  (a
+%2*
+
+%12getfieldvalue¯ı
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\BlockCacheTest.php   (b
+%3*64
+2magento\graphqlcache\controller\cms\blockcachetest*
+HIT*
+
+%22assertequalsçä
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Cms\BlockCacheTest.php! !(9
+%4*64
+2magento\graphqlcache\controller\cms\blockcachetest*
+
+	$response*
+
+
+$block2assertcmsblockcachetags*
+2:9
+	$response,magento\framework\app\response\httpinterface:-
+$block#magento\cms\api\data\blockinterfaceB64
+2magento\graphqlcache\controller\cms\blockcachetest

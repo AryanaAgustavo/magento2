@@ -1,0 +1,129 @@
+
+Xmagento\graphql\quote\guest\createemptycarttest::testcreateemptycartwithpredefinedcartidï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.php` `(;"1*Œ
+2
+CreateEmptyCartTest.php"≠
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpq q(
+implicit return*Á
+1ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpb b(?‹
+Ÿ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpb b(>
+$predefinedCartId"__id*$"
+ 572cda51902b5b517c0e1a2b2fd004b4Ö
+Ç
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpd h(
+%1"__concat*53
+1mutation {
+  createEmptyCart (input: {cart_id: "*
+
+"})
+}*
+
+$predefinedCartId≥
+∞
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpd h(
+$query"__id*
+
+%1Û
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpi i(2
+%2*31
+/magento\graphql\quote\guest\createemptycarttest*
+
+
+$query2graphqlmutation∂
+≥
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpi i(2
+	$response"__id*
+
+%2æ
+ª
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpk k(=
+%3"Bmagento\graphql\quote\guest\createemptycarttest::assertarrayhaskey*3"1
+/magento\graphql\quote\guest\createemptycarttest*
+createEmptyCart*
+
+	$responseœ
+Ã
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpl. l(J
+%4"__mapGet*
+
+	$response*
+createEmptyCart¥
+±
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpl l(K
+%5"=magento\graphql\quote\guest\createemptycarttest::assertequals*3"1
+/magento\graphql\quote\guest\createemptycarttest*
+
+$predefinedCartId*
+
+%4ı
+Ú
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpn n(/
+%6"__id*L*J1
+/magento\graphql\quote\guest\createemptycarttest"
+guestCartRepositoryœ
+Ã
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpn5 n(Q
+%7"__mapGet*
+
+	$response*
+createEmptyCart∂≥
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpn n(R
+%8*
+
+%6*
+
+%72get∑
+¥
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpn n(R
+
+$guestCart"__id*
+
+%8∏µ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpo o(/
+%9*
+
+
+$guestCart2getidü
+ú
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpo o(0
+%10">magento\graphql\quote\guest\createemptycarttest::assertnotnull*3"1
+/magento\graphql\quote\guest\createemptycarttest*
+
+%9øº
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpp p(2
+%11*
+
+
+$guestCart2getcustomer≤Ø
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpp p(;
+%12*
+
+%112getidù
+ö
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CreateEmptyCartTest.phpp p(<
+%13";magento\graphql\quote\guest\createemptycarttest::assertnull*3"1
+/magento\graphql\quote\guest\createemptycarttest*
+
+%12*
+2B31
+/magento\graphql\quote\guest\createemptycarttest

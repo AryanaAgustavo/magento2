@@ -1,0 +1,119 @@
+
+Dmagento\sales\model\order\creditmemo\sender\emailsender::__construct‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.php2 2("1*³
+2
+EmailSender.php"š
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.phpI I(
+implicit return*ô
+1‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.php= C(
+ð
+í
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.php2 2(
+$templateContainer"__id*J
+H
+$templateContainer2magento\sales\model\order\email\container\templateú
+÷
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.php2 2(
+$identityContainer"__id*T
+R
+$identityContainer<magento\sales\model\order\email\container\creditmemoidentityø
+õ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.php2 2(
+$senderBuilderFactory"__id*O
+M
+$senderBuilderFactory4magento\sales\model\order\email\senderbuilderfactory¿
+¼
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.php2 2(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceä
+á
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.php2 2(
+$addressRenderer"__id*@
+>
+$addressRenderer*magento\sales\model\order\address\rendererÑ
+Î
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.php2 2(
+$paymentHelper"__id*/
+-
+$paymentHelpermagento\payment\helper\dataò
+ï
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.php2 2(
+$creditmemoResource"__id*K
+I
+$creditmemoResource2magento\sales\model\resourcemodel\order\creditmemoå
+â
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.php2 2(
+$globalConfig"__id*D
+B
+$globalConfig1magento\framework\app\config\scopeconfiginterfaceÜ
+Ù
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.php2 2(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceî
+ë
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.php= C(	
+%1"3magento\sales\model\order\email\sender::__construct*;9
+7magento\sales\model\order\creditmemo\sender\emailsender*
+
+$templateContainer*
+
+$identityContainer*
+
+$senderBuilderFactory*
+	
+$logger*
+
+$addressRendererð
+í
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.phpE E(-L9
+7magento\sales\model\order\creditmemo\sender\emailsender"
+paymentHelper"__id*
+
+$paymentHelperú
+÷
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.phpF F(7Q9
+7magento\sales\model\order\creditmemo\sender\emailsender"
+creditmemoResource"__id*
+
+$creditmemoResourceî
+ë
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.phpG G(+K9
+7magento\sales\model\order\creditmemo\sender\emailsender"
+globalConfig"__id*
+
+$globalConfigî
+ë
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Sender\EmailSender.phpH H(+K9
+7magento\sales\model\order\creditmemo\sender\emailsender"
+eventManager"__id*
+
+$eventManager*
+2:H
+$templateContainer2magento\sales\model\order\email\container\template:R
+$identityContainer<magento\sales\model\order\email\container\creditmemoidentity:M
+$senderBuilderFactory4magento\sales\model\order\email\senderbuilderfactory:"
+$loggerpsr\log\loggerinterface:>
+$addressRenderer*magento\sales\model\order\address\renderer:-
+$paymentHelpermagento\payment\helper\data:I
+$creditmemoResource2magento\sales\model\resourcemodel\order\creditmemo:B
+$globalConfig1magento\framework\app\config\scopeconfiginterface:9
+$eventManager(magento\framework\event\managerinterfaceB;9
+7magento\sales\model\order\creditmemo\sender\emailsender

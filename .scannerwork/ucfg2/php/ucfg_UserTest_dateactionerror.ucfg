@@ -1,0 +1,120 @@
+
+Cmagento\user\controller\adminhtml\usertest::testvalidateactionerrorè
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php∏ ∏(+"1*Ω
+2
+UserTest.php"ß
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpœ œ(
+implicit return*à
+1è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php∫ ¡(
+£†
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php∫ ¡(	
+%1"$Array«
+ƒ
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php∫ ¡(	
+%2"__mapSet*
+
+%1*
+
+username*
+
+admin2œ
+Ã
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php∫ ¡(	
+%3"__mapSet*
+
+%1*
+	firstname*
+new firstnameÕ
+ 
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php∫ ¡(	
+%4"__mapSet*
+
+%1*
+
+lastname*
+new lastname—
+Œ
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php∫ ¡(	
+%5"__mapSet*
+
+%1*	
+email*
+example@-domain.cimÃ
+…
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php∫ ¡(	
+%6"__mapSet*
+
+%1*
+
+password*
+password123Ÿ
+÷
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php∫ ¡(	
+%7"__mapSet*
+
+%1*
+password_confirmation*
+password123¨
+©
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php∫ ¡(	
+$data"__id*
+
+%1◊‘
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php∆ ∆(
+%8*.,
+*magento\user\controller\adminhtml\usertest2
+getrequestºπ
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php∆ ∆(0
+%9*
+
+%8*	
+
+$data2setpostvalue˜Ù
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php« «(6
+%10*.,
+*magento\user\controller\adminhtml\usertest*
+backend/admin/user/validate2dispatchŸ÷
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php» »($
+%11*.,
+*magento\user\controller\adminhtml\usertest2getresponseÆ´
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php» »(/
+%12*
+
+%112getbody≠
+™
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php» »(/
+$body"__id*
+
+%12ìê
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php   (N
+%13*.,
+*magento\user\controller\adminhtml\usertest*
+{"error":1,"html_message":*	
+
+$body2assertstringcontainsstring≈¬
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpÀ Œ(	
+%14*.,
+*magento\user\controller\adminhtml\usertest*PN
+L'-domain.cim' is not a valid hostname for email address 'example@-domain.cim*	
+
+$body2assertstringcontainsstring*
+2B.,
+*magento\user\controller\adminhtml\usertest

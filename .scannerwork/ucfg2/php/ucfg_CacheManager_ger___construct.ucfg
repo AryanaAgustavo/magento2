@@ -1,0 +1,70 @@
+
+?magento\framework\interception\config\cachemanager::__construct
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\Config\CacheManager.php, ,("1*³
+2
+CacheManager.php"™
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\Config\CacheManager.php6 6(
+implicit return*¾
+1
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\Config\CacheManager.php2 2(Î
+Ë
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\Config\CacheManager.php, ,(
+$cache"__id*5
+3
+$cache)magento\framework\cache\frontendinterfaceÞ
+Û
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\Config\CacheManager.php, ,(
+$serializer"__id*@
+>
+$serializer/magento\framework\serialize\serializerinterfaceì
+é
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\Config\CacheManager.php, ,(
+$configWriter"__id*L
+J
+$configWriter9magento\framework\app\objectmanager\configwriterinterfaceð
+í
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\Config\CacheManager.php, ,(
+$compiledLoader"__id*N
+L
+$compiledLoader9magento\framework\app\objectmanager\configloader\compiledÚ
+×
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\Config\CacheManager.php2 2(?4
+2magento\framework\interception\config\cachemanager"
+cache"__id*
+
+
+$cacheä
+á
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\Config\CacheManager.php3 3('D4
+2magento\framework\interception\config\cachemanager"
+
+serializer"__id*
+
+$serializerè
+å
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\Config\CacheManager.php4 4(+F4
+2magento\framework\interception\config\cachemanager"
+configWriter"__id*
+
+$configWriterì
+é
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Interception\Config\CacheManager.php5 5(/H4
+2magento\framework\interception\config\cachemanager"
+compiledLoader"__id*
+
+$compiledLoader*
+2:3
+$cache)magento\framework\cache\frontendinterface:>
+$serializer/magento\framework\serialize\serializerinterface:J
+$configWriter9magento\framework\app\objectmanager\configwriterinterface:L
+$compiledLoader9magento\framework\app\objectmanager\configloader\compiledB64
+2magento\framework\interception\config\cachemanager

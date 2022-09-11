@@ -1,0 +1,99 @@
+
+Hmagento\eav\model\resourcemodel\entity\attribute\group::_getmaxsortorderÅ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phpp p('"1*€
+1Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phpr r(-Ã
+…
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phpp p('	
+$object"__id*2
+0
+$object%magento\framework\model\abstractmodelÿ’
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phpr r(,
+%1*:8
+6magento\eav\model\resourcemodel\entity\attribute\group2getconnection§
+°
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phpr r(,
+$connection"__id*
+
+%1ïí
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phps s(E
+%2"$Array≠™
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phps( s(D
+%3*
+	
+$object2getattributesetidæ
+ª
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phps s(E
+%4"__mapSet*
+
+%2*
+:attribute_set_id*
+
+%3û
+õ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phps s(E
+$bind"__id*
+
+%2¶£
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phpt t('
+%5*
+
+$connection2select◊‘
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phpu u(!
+%6*:8
+6magento\eav\model\resourcemodel\entity\attribute\group2getmaintableõò
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phpv v(0
+%7"zend_db_expr≈
+¬
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phpv v(0
+%8"zend_db_expr::__construct*
+
+%7*
+MAX(sort_order)´®
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phpt w(	
+%9*
+
+%5*
+
+%6*
+
+%72from«ƒ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phpt y(	
+%10*
+
+%9*(&
+$attribute_set_id = :attribute_set_id2where°
+û
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.phpt y(		
+$select"__id*
+
+%10¡æ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.php{ {(4
+%11*
+
+$connection*
+	
+$select*	
+
+$bind2fetchone"ç
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Eav\Model\ResourceModel\Entity\Attribute\Group.php{ {(5
+
+%11:0
+$object%magento\framework\model\abstractmodelB:8
+6magento\eav\model\resourcemodel\entity\attribute\group

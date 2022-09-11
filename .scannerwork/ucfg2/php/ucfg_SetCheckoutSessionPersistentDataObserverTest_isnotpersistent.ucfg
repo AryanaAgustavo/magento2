@@ -1,0 +1,182 @@
+
+ymagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest::testexecutewhensessionisnotpersistentû
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpe e(9"1*
+22
+0SetCheckoutSessionPersistentDataObserverTest.php"∂
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpu u(
+implicit return*ü6
+1û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpg i(+ö
+ó
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpg g(
+%1"__id*h*fT
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest"
+observerMockàÖ
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpg% g(2
+%2*VT
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest2once√¿
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpg g(3
+%3*
+
+%1*
+
+%22expects»≈
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpg h( 
+%4*
+
+%3*
+
+getEvent2methodó
+î
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpi i()
+%5"__id*e*cT
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest"
+	eventMock∆√
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpg i(*
+%6*
+
+%4*
+
+%52
+willreturnó
+î
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpj j(
+%7"__id*e*cT
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest"
+	eventMockàÖ
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpj" j(/
+%8*VT
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest2once√¿
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpj j(0
+%9*
+
+%7*
+
+%82expects»≈
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpj k(
+%10*
+
+%9*	
+getData2method¢
+ü
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpl l(3
+%11"__id*o*mT
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest"
+checkoutSessionMock…∆
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpj l(4
+%12*
+
+%10*
+
+%112
+willreturn†
+ù
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpm m( 
+%13"__id*m*kT
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest"
+sessionHelperMockâÜ
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpm* m(7
+%14*VT
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest2once∆√
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpm m(8
+%15*
+
+%13*
+
+%142expectsŒÀ
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpm n($
+%16*
+
+%15*
+isPersistent2methodÀ»
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpm o(
+%17*
+
+%16*	
+false2
+willreturn¢
+ü
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpp p("
+%18"__id*o*mT
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest"
+checkoutSessionMockäá
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpp, p(:
+%19*VT
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest2never∆√
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpp p(;
+%20*
+
+%18*
+
+%192expects—Œ
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpp q('
+%21*
+
+%20*
+setLoadInactive2method¢
+ü
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpr r("
+%22"__id*o*mT
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest"
+checkoutSessionMockäá
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpr, r(:
+%23*VT
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest2never∆√
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpr r(;
+%24*
+
+%22*
+
+%232expects—Œ
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpr s('
+%25*
+
+%24*
+setCustomerData2methodî
+ë
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpt t(
+%26"__id*a*_T
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest"
+modelõ
+ò
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpt t(1
+%27"__id*h*fT
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest"
+observerMock∆√
+û
+ìC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Persistent\Test\Unit\Observer\SetCheckoutSessionPersistentDataObserverTest.phpt t(2
+%28*
+
+%26*
+
+%272execute*
+2BVT
+Rmagento\persistent\test\unit\observer\setcheckoutsessionpersistentdataobservertest

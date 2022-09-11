@@ -1,0 +1,81 @@
+
+0magento\tax\model\taxratecollection::__constructn
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\TaxRateCollection.php+ +("1*¤
+2
+TaxRateCollection.php"…
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\TaxRateCollection.php6 6(
+implicit return*¯
+1n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\TaxRateCollection.php3 3(gÐ
+Í
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\TaxRateCollection.php+ +(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÄ
+Á
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\TaxRateCollection.php+ +(
+$filterBuilder"__id*7
+5
+$filterBuilder#magento\framework\api\filterbuilderÜ
+Ù
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\TaxRateCollection.php+ +(
+$searchCriteriaBuilder"__id*G
+E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilderÍ
+Ê
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\TaxRateCollection.php+ +(
+$sortOrderBuilder"__id*=
+;
+$sortOrderBuilder&magento\framework\api\sortorderbuilderÇ
+Ä
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\TaxRateCollection.php+ +(
+$rateService"__id*<
+:
+$rateService*magento\tax\api\taxraterepositoryinterfaceÍ
+Ê
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\TaxRateCollection.php+ +(
+$rateConverter"__id*@
+>
+$rateConverter,magento\tax\model\calculation\rate\converter»
+¸
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\TaxRateCollection.php3 3(f
+%1"<magento\framework\api\abstractservicecollection::__construct*'%
+#magento\tax\model\taxratecollection*
+
+$entityFactory*
+
+$filterBuilder*
+
+$searchCriteriaBuilder*
+
+$sortOrderBuilderÉ
+Æ
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\TaxRateCollection.php4 4(/<%
+#magento\tax\model\taxratecollection"
+taxRateRepository"__id*
+
+$rateServiceÇ
+Ä
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\TaxRateCollection.php5 5(-8%
+#magento\tax\model\taxratecollection"
+rateConverter"__id*
+
+$rateConverter*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:5
+$filterBuilder#magento\framework\api\filterbuilder:E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilder:;
+$sortOrderBuilder&magento\framework\api\sortorderbuilder::
+$rateService*magento\tax\api\taxraterepositoryinterface:>
+$rateConverter,magento\tax\model\calculation\rate\converterB'%
+#magento\tax\model\taxratecollection

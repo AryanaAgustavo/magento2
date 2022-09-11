@@ -1,0 +1,83 @@
+
+Lmagento\sales\model\resourcemodel\report\bestsellers\collection::__construct‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php/ /("1*»
+2
+Collection.php"£
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php9 9(
+implicit return*Ú
+1‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php7 7(Eî
+ë
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php/ /(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÈ
+Å
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php/ /(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceú
+÷
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php/ /(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceå
+â
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php/ /(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceÝ
+Ú
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php/ /(
+	$resource"__id*7
+5
+	$resource(magento\sales\model\resourcemodel\reportæ
+ã
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php/ /(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterface„
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php7 7(C
+%1*CA
+?magento\sales\model\resourcemodel\report\bestsellers\collection*	
+daily2gettablebyaggregationperiod´±
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php7 7(D
+%2*
+
+	$resource*
+
+%12init™
+–
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Bestsellers\Collection.php8 8(k
+%3"Smagento\sales\model\resourcemodel\report\collection\abstractcollection::__construct*CA
+?magento\sales\model\resourcemodel\report\bestsellers\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+	$resource*
+
+$connection*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:5
+	$resource(magento\sales\model\resourcemodel\report:<
+$connection-magento\framework\db\adapter\adapterinterfaceBCA
+?magento\sales\model\resourcemodel\report\bestsellers\collection

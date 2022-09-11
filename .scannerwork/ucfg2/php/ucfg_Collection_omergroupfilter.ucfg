@@ -1,0 +1,136 @@
+
+Mmagento\salesrule\model\resourcemodel\rule\collection::addcustomergroupfilter‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php« «(*"1*¹
+2‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php¯ ¯(=ú÷
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php¯ ¯(<
+%3*97
+5magento\salesrule\model\resourcemodel\rule\collection*
+is_customer_group_joined*
+true2setflagÔÑ
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php° °(
+%4*97
+5magento\salesrule\model\resourcemodel\rule\collection2	getselect–“
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php± ±(X
+%5"$ArrayÁ
+¾
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php±5 ±(V
+%6"__mapGet*
+
+$entityInfo*
+associations_tableÛØ
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php±% ±(W
+%7*97
+5magento\salesrule\model\resourcemodel\rule\collection*
+
+%62gettable¼
+¹
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php± ±(X
+%8"__mapSet*
+
+%5*
+customer_group*
+
+%7ØÕ
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php² ²(&
+%9*97
+5magento\salesrule\model\resourcemodel\rule\collection2getconnection¿
+¼
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php³4 ³(R
+%10"__mapGet*
+
+$entityInfo*
+entity_id_fieldÁ
+¾
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php³  ³([
+%11"__concat*
+customer_group.*
+
+%10*
+ = ?Á¾
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php² ³(n
+%12*
+
+%9*
+
+%11*
+
+$customerGroupId2	quoteinto½
+º
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php´' ´(C
+%13"__mapGet*
+
+$entityInfo*
+rule_id_field½
+º
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.phpµ µ(.
+%14"__mapGet*
+
+$entityInfo*
+rule_id_fieldâ
+ß
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php² µ(.
+%15"__concat*
+
+%12*
+ AND main_table.*
+
+%13*
+ = customer_group.*
+
+%14—”
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php¶ ¶(
+%16"$Array·´
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php° ·(
+%17*
+
+%4*
+
+%5*
+
+%15*
+
+%162join*
+3*Ë
+3‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php¹ ¹("À
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php¹ ¹(97
+5magento\salesrule\model\resourcemodel\rule\collection*¥
+1‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php­ ­(H÷ô
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php­ ­(G
+%1*97
+5magento\salesrule\model\resourcemodel\rule\collection*
+customer_group2_getassociatedentityinfo¥
+¢
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php­ ­(G
+$entityInfo"__id*
+
+%1ðí
+‚
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Rule\Collection.php® ®(7
+%2*97
+5magento\salesrule\model\resourcemodel\rule\collection*
+is_customer_group_joined2getflag*
+2
+3:
+$customerGroupIdB97
+5magento\salesrule\model\resourcemodel\rule\collection

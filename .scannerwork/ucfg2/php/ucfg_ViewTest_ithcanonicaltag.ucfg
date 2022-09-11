@@ -1,0 +1,39 @@
+
+Kmagento\catalog\controller\product\viewtest::testviewactionwithcanonicaltagŽ
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ViewTest.phpi i(2"1*¼
+2
+ViewTest.php"¦
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ViewTest.phpt t(
+implicit return*®
+1Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ViewTest.phpk m(
+¼¹
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ViewTest.phpk m(	
+%1*/-
++magento\catalog\controller\product\viewtest*^\
+ZMAGETWO-40724: Canonical url from tests sometimes does not equal canonical url from action2marktestskippedõò
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ViewTest.phpn n(5
+%2*/-
++magento\catalog\controller\product\viewtest*
+catalog/product/view/id/1/2dispatchØÕ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ViewTest.phpr r( 
+%3*/-
++magento\catalog\controller\product\viewtest2getresponse«¨
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ViewTest.phpr r(+
+%4*
+
+%32getbodyÒÏ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Product\ViewTest.phpp s(	
+%5*/-
++magento\catalog\controller\product\viewtest*mk
+i<link  rel="canonical" href="http://localhost/index.php/catalog/product/view/_ignore_category/1/id/1/" />*
+
+%42assertcontains*
+2B/-
++magento\catalog\controller\product\viewtest

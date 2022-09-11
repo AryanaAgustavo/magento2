@@ -1,0 +1,68 @@
+
+Dmagento\quotegraphql\model\resolver\setguestemailoncart::__construct‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\QuoteGraphQl\Model\Resolver\SetGuestEmailOnCart.php4 4("1*»
+2
+SetGuestEmailOnCart.php"š
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\QuoteGraphQl\Model\Resolver\SetGuestEmailOnCart.php> >(
+implicit return*¶
+1‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\QuoteGraphQl\Model\Resolver\SetGuestEmailOnCart.php: :(0æ
+ã
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\QuoteGraphQl\Model\Resolver\SetGuestEmailOnCart.php4 4(
+$getCartForUser"__id*C
+A
+$getCartForUser.magento\quotegraphql\model\cart\getcartforuserá
+Þ
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\QuoteGraphQl\Model\Resolver\SetGuestEmailOnCart.php4 4(
+$cartRepository"__id*>
+<
+$cartRepository)magento\quote\api\cartrepositoryinterfaceà
+Ý
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\QuoteGraphQl\Model\Resolver\SetGuestEmailOnCart.php4 4(
+$emailValidator"__id*=
+;
+$emailValidator(magento\framework\validator\emailaddressŠ
+‡
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\QuoteGraphQl\Model\Resolver\SetGuestEmailOnCart.php4 4(
+$checkCartCheckoutAllowance"__id*[
+Y
+$checkCartCheckoutAllowance:magento\quotegraphql\model\cart\checkcartcheckoutallowanceò
+ï
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\QuoteGraphQl\Model\Resolver\SetGuestEmailOnCart.php: :(/M9
+7magento\quotegraphql\model\resolver\setguestemailoncart"
+getCartForUser"__id*
+
+$getCartForUserò
+ï
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\QuoteGraphQl\Model\Resolver\SetGuestEmailOnCart.php; ;(/M9
+7magento\quotegraphql\model\resolver\setguestemailoncart"
+cartRepository"__id*
+
+$cartRepositoryò
+ï
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\QuoteGraphQl\Model\Resolver\SetGuestEmailOnCart.php< <(/M9
+7magento\quotegraphql\model\resolver\setguestemailoncart"
+emailValidator"__id*
+
+$emailValidatorŠ
+‡
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\QuoteGraphQl\Model\Resolver\SetGuestEmailOnCart.php= =(GY9
+7magento\quotegraphql\model\resolver\setguestemailoncart"
+checkCartCheckoutAllowance"__id*
+
+$checkCartCheckoutAllowance*
+2:A
+$getCartForUser.magento\quotegraphql\model\cart\getcartforuser:<
+$cartRepository)magento\quote\api\cartrepositoryinterface:;
+$emailValidator(magento\framework\validator\emailaddress:Y
+$checkCartCheckoutAllowance:magento\quotegraphql\model\cart\checkcartcheckoutallowanceB;9
+7magento\quotegraphql\model\resolver\setguestemailoncart

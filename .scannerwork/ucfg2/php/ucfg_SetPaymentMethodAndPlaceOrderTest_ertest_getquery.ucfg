@@ -1,0 +1,62 @@
+
+Jmagento\graphql\quote\customer\setpaymentmethodandplaceordertest::getquery®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetPaymentMethodAndPlaceOrderTest.phpÖ Ö("1*É
+1®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetPaymentMethodAndPlaceOrderTest.phpâ £(‚
+ﬂ
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetPaymentMethodAndPlaceOrderTest.phpÖ Ö(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstring‹
+Ÿ
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetPaymentMethodAndPlaceOrderTest.phpÖ Ö(
+$methodCode"__id*
+
+$methodCodestringÿ
+’
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetPaymentMethodAndPlaceOrderTest.phpâ £(
+%1"__concat*IG
+Emutation {
+  setPaymentMethodOnCart(
+    input: {
+      cart_id: "*/-
++"
+      payment_method: {
+        code: "*ùö
+ó"
+      }
+    }
+  ) {
+    cart {
+      selected_payment_method {
+        code
+      }
+    }
+  }
+  placeOrder(
+    input: {
+      cart_id: "*CA
+?"
+    }
+  ) {
+    order {
+      order_number
+    }
+  }
+}*
+
+$maskedQuoteId*
+
+$methodCode*
+
+$maskedQuoteId"≥
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetPaymentMethodAndPlaceOrderTest.phpâ £(
+
+%1:
+$maskedQuoteIdstring:
+$methodCodestringBDB
+@magento\graphql\quote\customer\setpaymentmethodandplaceordertest

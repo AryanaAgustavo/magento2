@@ -1,0 +1,69 @@
+
+Wmagento\graphql\quote\customer\setshippingaddressoncarttest::getsetshippingmethodsquery£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingAddressOnCartTest.phpª ª(/"1*ò
+1£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingAddressOnCartTest.php¯ É(Ý
+Ú
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingAddressOnCartTest.phpª ª(/
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringç
+ä
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingAddressOnCartTest.phpª ª(/
+$shippingMethodCode"__id*
+
+$shippingMethodCodestringé
+æ
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingAddressOnCartTest.phpª ª(/
+$shippingCarrierCode"__id* 
+
+$shippingCarrierCodestringß
+Ü
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingAddressOnCartTest.php¯ É(
+%1"__concat*JH
+Fmutation {
+  setShippingMethodsOnCart(input:
+    {
+      cart_id: "*;9
+7",
+      shipping_methods: [{
+        carrier_code: "*
+"
+        method_code: "*´±
+®"
+      }]
+    }) {
+    cart {
+      shipping_addresses {
+        selected_shipping_method {
+          carrier_code
+          method_code
+          carrier_title
+          method_title
+          amount {
+            value
+            currency
+          }
+        }
+      }
+    }
+  }
+}*
+
+$maskedQuoteId*
+
+$shippingCarrierCode*
+
+$shippingMethodCode"®
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingAddressOnCartTest.php¯ É(
+
+%1:
+$maskedQuoteIdstring:
+$shippingMethodCodestring:
+$shippingCarrierCodestringB?=
+;magento\graphql\quote\customer\setshippingaddressoncarttest

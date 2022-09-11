@@ -1,0 +1,88 @@
+
+Kmagento\sales\model\resourcemodel\order\payment\transaction::_lookupbytxnidˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php± ±(#"1*á
+2ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpµ µ(5ÈÅ
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpµ µ(4
+%2*
+	
+$select*
+txn_type = ?*
+
+
+$txnType2where*
+4
+5*Á
+4ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php¸ ¸(=äá
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php¸ ¸()
+%3*?=
+;magento\sales\model\resourcemodel\order\payment\transaction2getconnection³°
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php¸ ¸(<
+%4*
+
+%3*
+	
+$select2fetchrow"“
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php¸ ¸(=
+
+%4*Á
+5ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpº º(9äá
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpº º(%
+%5*?=
+;magento\sales\model\resourcemodel\order\payment\transaction2getconnection³°
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpº º(8
+%6*
+
+%5*
+	
+$select2fetchone"“
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpº º(9
+
+%6*î
+1ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php³ ³([¨¥
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php³ ³(Z
+%1*?=
+;magento\sales\model\resourcemodel\order\payment\transaction*
+
+
+$orderId*
+
+
+$paymentId*
+
+
+$txnId*
+
+
+$columns2_getloadbyuniquekeyselect§
+¤
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php³ ³(Z	
+$select"__id*
+
+%1*	
+2
+4
+5:
+
+$orderId:
+
+$paymentId:
+$txnId:
+
+$columns:
+$isRow:
+
+$txnTypeB?=
+;magento\sales\model\resourcemodel\order\payment\transaction

@@ -1,0 +1,313 @@
+
+bmagento\cataloginventory\ui\dataprovider\product\form\modifier\advancedinventorymodal::preparemeta¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.php< <( "1*¢L
+1¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.php> >(0›
+˜
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.php> >(!
+%1"__id*f*dW
+Umagento\cataloginventory\ui\dataprovider\product\form\modifier\advancedinventorymodal"	
+locatorÁ¾
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.php> >(/
+%2*
+
+%12
+getproductÁ
+¾
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.php> >(/
+
+$product"__id*
+
+%2ÑÎ
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.php? ?(:
+%3*
+
+
+$product2getinventoryreadonlyÏ
+Ì
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.php? ?(:
+	$readOnly"__sanitizing_cast*
+
+%3˜
+•
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(
+%4"__id*c*aW
+Umagento\cataloginventory\ui\dataprovider\product\form\modifier\advancedinventorymodal"
+metaÝ
+Ú
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(/
+%5"__mapGet*
+
+%4*
+advanced_inventory_modalÍ
+Ê
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(;
+%6"__mapGet*
+
+%5*
+
+childrenÏ
+Ì
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(I
+%7"__mapGet*
+
+%6*
+
+stock_dataÎ
+Ë
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(V
+%8"__mapGet*
+
+%7*
+	argumentsÉ
+Æ
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA B(
+%9"__mapGet*
+
+%8*
+dataÌ
+É
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA B(
+%10"__mapGet*
+
+%9*
+
+configÞ
+Û
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA B(&
+%11"__mapSet*
+
+%10*
+
+disabled*
+
+	$readOnly™
+–
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(
+%12"__id*c*aW
+Umagento\cataloginventory\ui\dataprovider\product\form\modifier\advancedinventorymodal"
+metaß
+Ü
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(/
+%13"__mapGet*
+
+%12*
+advanced_inventory_modalÏ
+Ì
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(;
+%14"__mapGet*
+
+%13*
+
+childrenÑ
+Î
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(I
+%15"__mapGet*
+
+%14*
+
+stock_dataÐ
+Í
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(V
+%16"__mapGet*
+
+%15*
+	argumentsË
+È
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA B(
+%17"__mapGet*
+
+%16*
+dataÖ
+Ó
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA B(
+%18"__mapSet*
+
+%17*
+
+config*
+
+%10™
+–
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(
+%19"__id*c*aW
+Umagento\cataloginventory\ui\dataprovider\product\form\modifier\advancedinventorymodal"
+metaß
+Ü
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(/
+%20"__mapGet*
+
+%19*
+advanced_inventory_modalÏ
+Ì
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(;
+%21"__mapGet*
+
+%20*
+
+childrenÑ
+Î
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(I
+%22"__mapGet*
+
+%21*
+
+stock_dataÐ
+Í
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(V
+%23"__mapGet*
+
+%22*
+	argumentsÔ
+Ñ
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA B(
+%24"__mapSet*
+
+%23*
+data*
+
+%17™
+–
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(
+%25"__id*c*aW
+Umagento\cataloginventory\ui\dataprovider\product\form\modifier\advancedinventorymodal"
+metaß
+Ü
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(/
+%26"__mapGet*
+
+%25*
+advanced_inventory_modalÏ
+Ì
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(;
+%27"__mapGet*
+
+%26*
+
+childrenÑ
+Î
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(I
+%28"__mapGet*
+
+%27*
+
+stock_dataÙ
+Ö
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(V
+%29"__mapSet*
+
+%28*
+	arguments*
+
+%23™
+–
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(
+%30"__id*c*aW
+Umagento\cataloginventory\ui\dataprovider\product\form\modifier\advancedinventorymodal"
+metaß
+Ü
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(/
+%31"__mapGet*
+
+%30*
+advanced_inventory_modalÏ
+Ì
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(;
+%32"__mapGet*
+
+%31*
+
+childrenÚ
+×
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(I
+%33"__mapSet*
+
+%32*
+
+stock_data*
+
+%28™
+–
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(
+%34"__id*c*aW
+Umagento\cataloginventory\ui\dataprovider\product\form\modifier\advancedinventorymodal"
+metaß
+Ü
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(/
+%35"__mapGet*
+
+%34*
+advanced_inventory_modalØ
+Õ
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(;
+%36"__mapSet*
+
+%35*
+
+children*
+
+%32™
+–
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(
+%37"__id*c*aW
+Umagento\cataloginventory\ui\dataprovider\product\form\modifier\advancedinventorymodal"
+metaè
+å
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpA A(/
+%38"__mapSet*
+
+%37*
+advanced_inventory_modal*
+
+%35™
+–
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpD D(
+%39"__id*c*aW
+Umagento\cataloginventory\ui\dataprovider\product\form\modifier\advancedinventorymodal"
+meta"­
+¡
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Ui\DataProvider\Product\Form\Modifier\AdvancedInventoryModal.phpD D(
+
+%39BYW
+Umagento\cataloginventory\ui\dataprovider\product\form\modifier\advancedinventorymodal

@@ -1,0 +1,122 @@
+
+Amagento\framework\app\test\unit\request\httptest::testsetpathinfo
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpó ó(#"1*¯
+2
+HttpTest.php"™
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpş ş(
+implicit return*¢
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpõ õ(OØ
+Õ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpõ õ(N
+$requestUri"__id*:8
+6http://svr.com//module/route/mypage/myproduct?param1=1®
+«
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpö ö($
+	$basePath"__id*
+/module/route/ŞÛ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.php÷ ÷(3
+%1*42
+0magento\framework\app\test\unit\request\httptest*
+
+$requestUri2getmodelÔ
+Ñ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.php÷ ÷(3=2
+0magento\framework\app\test\unit\request\httptest"
+model"__id*
+
+%1Ô
+Ñ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpø ø(
+%2"__id*?*=2
+0magento\framework\app\test\unit\request\httptest"
+model°­
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpø ø(+
+%3*
+
+%2*
+
+	$basePath2
+setbaseurl±
+®
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpù ù('
+	$expected"__id*
+/mypage/myproductÔ
+Ñ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpú' ú(3
+%4"__id*?*=2
+0magento\framework\app\test\unit\request\httptest"
+modelª§
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpú' ú(J
+%5*
+
+%42getoriginalpathinfoèå
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpú ú(K
+%6*42
+0magento\framework\app\test\unit\request\httptest*
+
+	$expected*
+
+%52assertequalsÔ
+Ñ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpû û(
+%7"__id*?*=2
+0magento\framework\app\test\unit\request\httptest"
+modelÏÌ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpû û(L
+%8*
+
+%7*+)
+'http://svr.com/something/route?param1=12setpathinfoÔ
+Ñ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpüG ü(S
+%9"__id*?*=2
+0magento\framework\app\test\unit\request\httptest"
+model£ 
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpüG ü(b
+%10*
+
+%92getpathinfoˆ…
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpü ü(c
+%11*42
+0magento\framework\app\test\unit\request\httptest*+)
+'http://svr.com/something/route?param1=1*
+
+%102assertequalsÕ
+Ò
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpı' ı(3
+%12"__id*?*=2
+0magento\framework\app\test\unit\request\httptest"
+model¬©
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpı' ı(J
+%13*
+
+%122getoriginalpathinfoêç
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Request\HttpTest.phpı ı(K
+%14*42
+0magento\framework\app\test\unit\request\httptest*
+
+	$expected*
+
+%132assertequals*
+2B42
+0magento\framework\app\test\unit\request\httptest

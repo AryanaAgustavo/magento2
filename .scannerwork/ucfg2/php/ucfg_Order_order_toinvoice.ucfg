@@ -1,0 +1,125 @@
+
+,magento\sales\model\convert\order::toinvoicel
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpd d("1*Ë
+1l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpf f(6¨
+¥
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpd d(
+$order"__id*%
+#
+$ordermagento\sales\model\order»
+¸
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpf f(+
+%1"__id*<*:#
+!magento\sales\model\convert\order"
+invoiceRepository‡„
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpf f(5
+%2*
+
+%12create‹
+ˆ
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpf f(5
+
+$invoice"__id*
+
+%2›˜
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpg i(	
+%3*
+
+
+$invoice*
+
+
+$order2setorderŒ
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpj j( 
+%4*
+
+
+$order2
+getstoreid“
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpg k(	
+%5*
+
+%3*
+
+%42
+setstoreid’
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpl l(#
+%6*
+
+
+$order2getcustomerid–“
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpg m(	
+%7*
+
+%5*
+
+%62setcustomerid˜•
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpn n()
+%8*
+
+
+$order2getbillingaddressidœ™
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpg o(	
+%9*
+
+%7*
+
+%82setbillingaddressidš—
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpp p(*
+%10*
+
+
+$order2getshippingaddressidŸœ
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpg q(	
+%11*
+
+%9*
+
+%102setshippingaddressid½
+º
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phps s(!
+%12"__id*=*;#
+!magento\sales\model\convert\order"
+_objectCopyServiceÚ×
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phps s(n
+%13*
+
+%12*
+sales_convert_order*
+
+to_invoice*
+
+
+$order*
+
+
+$invoice2copyfieldsettotarget¯
+¬
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpt t((
+%14!magento\sales\model\order\invoice"__id*
+
+
+$invoice"š
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpt t(*
+(
+%14!magento\sales\model\order\invoice:#
+$ordermagento\sales\model\orderB%#
+!magento\sales\model\convert\order

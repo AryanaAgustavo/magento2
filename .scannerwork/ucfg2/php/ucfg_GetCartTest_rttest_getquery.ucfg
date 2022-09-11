@@ -1,0 +1,36 @@
+
+4magento\graphql\quote\customer\getcarttest::getqueryí
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetCartTest.phpÖ Ö("1*œ
+1í
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetCartTest.phpá î(Ã
+…
+í
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetCartTest.phpÖ Ö(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstring≈
+¬
+í
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetCartTest.phpá î(
+%1"__concat*
+{
+  cart(cart_id: "*mk
+i") {
+    id
+    items {
+      id
+      quantity
+      product {
+        sku
+      }
+    }
+  }
+}*
+
+$maskedQuoteId"ù
+í
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetCartTest.phpá î(
+
+%1:
+$maskedQuoteIdstringB.,
+*magento\graphql\quote\customer\getcarttest

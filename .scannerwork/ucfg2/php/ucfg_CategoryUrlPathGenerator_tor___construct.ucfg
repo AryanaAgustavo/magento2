@@ -1,0 +1,54 @@
+
+Emagento\catalogurlrewrite\model\categoryurlpathgenerator::__constructƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlPathGenerator.php5 5("1*Á
+2
+CategoryUrlPathGenerator.php"›
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlPathGenerator.php= =(
+implicit return*¬
+1ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlPathGenerator.php: :(,Þ
+Û
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlPathGenerator.php5 5(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceä
+á
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlPathGenerator.php5 5(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceð
+í
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlPathGenerator.php5 5(
+$categoryRepository"__id*H
+F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterfaceð
+í
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlPathGenerator.php: :(+L:
+8magento\catalogurlrewrite\model\categoryurlpathgenerator"
+storeManager"__id*
+
+$storeManagerî
+ë
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlPathGenerator.php; ;()K:
+8magento\catalogurlrewrite\model\categoryurlpathgenerator"
+scopeConfig"__id*
+
+$scopeConfigü
+ù
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlPathGenerator.php< <(7R:
+8magento\catalogurlrewrite\model\categoryurlpathgenerator"
+categoryRepository"__id*
+
+$categoryRepository*
+2::
+$storeManager)magento\store\model\storemanagerinterface:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterfaceB<:
+8magento\catalogurlrewrite\model\categoryurlpathgenerator

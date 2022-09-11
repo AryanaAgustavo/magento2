@@ -1,0 +1,77 @@
+
+Zmagento\graphql\quote\guest\addsimpleproducttocarttest::testaddsimpleproducttocustomercartû
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AddSimpleProductToCartTest.phpõ õ(6"1*ﬁ
+2 
+AddSimpleProductToCartTest.php"∂
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AddSimpleProductToCartTest.phpß ß(
+implicit return*Ÿ
+1û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AddSimpleProductToCartTest.phpù ù( ∆
+√
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AddSimpleProductToCartTest.phpù ù(
+$sku"__id*
+simple_productΩ
+∫
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AddSimpleProductToCartTest.phpû û(
+	$quantity"__id*2ì
+ê
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AddSimpleProductToCartTest.phpü ü(A
+%1"__id*a*_8
+6magento\graphql\quote\guest\addsimpleproducttocarttest"#
+!getMaskedQuoteIdByReservedOrderIdÀ»
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AddSimpleProductToCartTest.phpü ü(X
+%2*
+
+%1*
+
+test_quote2executeƒ
+¡
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AddSimpleProductToCartTest.phpü ü(X
+$maskedQuoteId"__id*
+
+%2ùö
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AddSimpleProductToCartTest.php† †(A
+%3*:8
+6magento\graphql\quote\guest\addsimpleproducttocarttest*
+
+$maskedQuoteId*
+
+$sku*
+
+	$quantity2getqueryº
+π
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AddSimpleProductToCartTest.php† †(A
+$query"__id*
+
+%3ã
+à
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AddSimpleProductToCartTest.php£ £(S
+%4"__concat*97
+5The current user cannot perform operations on cart \"*
+\"*
+
+$maskedQuoteIdÜÉ
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AddSimpleProductToCartTest.php¢ §(	
+%5*:8
+6magento\graphql\quote\guest\addsimpleproducttocarttest*
+
+%42expectexceptionmessageÉÄ
+û
+ëC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\AddSimpleProductToCartTest.php¶ ¶(&
+%6*:8
+6magento\graphql\quote\guest\addsimpleproducttocarttest*
+
+
+$query2graphqlmutation*
+2B:8
+6magento\graphql\quote\guest\addsimpleproducttocarttest

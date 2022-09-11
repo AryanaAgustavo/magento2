@@ -1,0 +1,206 @@
+
+8magento\catalog\model\rss\category::getproductcollectionm
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php2 2(("1*ã*
+1m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php5 5(9¥
+±
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php2 2((
+	$category"__id*-
++
+	$categorymagento\catalog\model\category∏
+µ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php5 5($
+%1"__id*8*6$
+"magento\catalog\model\rss\category"
+catalogLayeròï
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php5 5(8
+%2*
+
+%1*
+
+
+$storeId2setstoreä
+á
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php5 5(8
+$layer"__id*
+
+%2ûõ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php6 6(8
+%3*
+
+	$category2getresourcecollectionè
+å
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php6 6(8
+$collection"__id*
+
+%3¨©
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php7 7(4
+%4*
+
+$collection*	
+url_key2addattributetoselect†ù
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php7 8(*
+%5*
+
+%4*
+name2addattributetoselect•¢
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php7 9(/
+%6*
+
+%5*
+	is_anchor2addattributetoselect´®
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php7 :(2
+%7*
+
+%6*
+	is_active*22addattributetofilterîë
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php; ;(2
+%8*
+
+	$category2getchildrenïí
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php7 ;(3
+%9*
+
+%7*
+
+%82addidfilteráÑ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php7 <(
+%10*
+
+%92loadæ
+ª
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php> >(5
+%11"__id*=*;$
+"magento\catalog\model\rss\category"
+collectionFactoryäá
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php> >(?
+%12*
+
+%112createó
+î
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php> >(?
+$productCollection"__id*
+
+%12®•
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php@ @(@
+%13*
+
+
+$layer*
+
+	$category2setcurrentcategoryï
+í
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.php@ @(@
+$currentCategory"__id*
+
+%13∑¥
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.phpA A(<
+%14*
+
+
+$layer*
+
+$productCollection2prepareproductcollection∏µ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.phpB B(=
+%15*
+
+$productCollection*
+
+$collection2addcounttocategoriesûõ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.phpD D()
+%16*
+
+	$category2getproductcollectionúô
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.phpD D(?
+%17*
+
+%16*
+
+
+$storeId2
+setstoreid•¢
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.phpF F(<
+%18*
+
+$currentCategory2getproductcollection∞≠
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.phpF G(6
+%19*
+
+%18*
+
+updated_at*
+desc2addattributetosort∑
+¥
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.phpH H(-
+%20"__id*6*4$
+"magento\catalog\model\rss\category"
+
+visibilityöó
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.phpH H(G
+%21*
+
+%202getvisibleincatalogidsöó
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.phpF H(H
+%22*
+
+%19*
+
+%212setvisibilityîë
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.phpF I(
+%23*
+
+%22*22
+setcurpageïí
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.phpF J(
+%24*
+
+%23*222setpagesizeé
+ã
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.phpF J(
+	$products"__id*
+
+%24∆
+√
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.phpL L(=
+%256magento\catalog\model\resourcemodel\product\collection"__id*
+
+	$products"∞
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Rss\Category.phpL L(?
+=
+%256magento\catalog\model\resourcemodel\product\collection:+
+	$categorymagento\catalog\model\category:
+
+$storeIdB&$
+"magento\catalog\model\rss\category

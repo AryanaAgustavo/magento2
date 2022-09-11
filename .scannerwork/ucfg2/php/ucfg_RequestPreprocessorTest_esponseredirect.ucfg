@@ -1,0 +1,60 @@
+
+Xmagento\store\app\frontcontroller\plugin\requestpreprocessortest::assertresponseredirect•
+òC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Store\App\FrontController\Plugin\RequestPreprocessorTest.phpÃ Ã(+"1*‚
+2
+RequestPreprocessorTest.php"Ω
+•
+òC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Store\App\FrontController\Plugin\RequestPreprocessorTest.php– –(
+implicit return*õ
+1•
+òC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Store\App\FrontController\Plugin\RequestPreprocessorTest.phpŒ Œ(3Ì
+Í
+•
+òC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Store\App\FrontController\Plugin\RequestPreprocessorTest.phpÃ Ã(+
+	$response"__id*-
++
+	$responsemagento\testframework\response€
+ÿ
+•
+òC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Store\App\FrontController\Plugin\RequestPreprocessorTest.phpÃ Ã(+
+$redirectUrl"__id*
+
+$redirectUrlstringÃ…
+•
+òC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Store\App\FrontController\Plugin\RequestPreprocessorTest.phpŒ Œ(1
+%1*
+
+	$response2
+isredirectãà
+•
+òC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Store\App\FrontController\Plugin\RequestPreprocessorTest.phpŒ Œ(2
+%2*DB
+@magento\store\app\frontcontroller\plugin\requestpreprocessortest*
+
+%12
+asserttrueŸ÷
+•
+òC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Store\App\FrontController\Plugin\RequestPreprocessorTest.phpœ( œ(H
+%3*
+
+	$response*
+
+Location2	getheader¡æ
+•
+òC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Store\App\FrontController\Plugin\RequestPreprocessorTest.phpœ( œ(R
+%4*
+
+%32geturiùö
+•
+òC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Store\App\FrontController\Plugin\RequestPreprocessorTest.phpœ œ(S
+%5*DB
+@magento\store\app\frontcontroller\plugin\requestpreprocessortest*
+
+$redirectUrl*
+
+%42
+assertsame*
+2:+
+	$responsemagento\testframework\response:
+$redirectUrlstringBDB
+@magento\store\app\frontcontroller\plugin\requestpreprocessortest

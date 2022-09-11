@@ -1,0 +1,50 @@
+
+Vmagento\graphql\review\createproductreviewstest::testaddproductreviewguestisnotallowedï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.phpk k(9"1*”
+2
+CreateProductReviewsTest.php"≠
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.phpr r(
+implicit return*º
+1ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.phpm m('ƒ
+¡
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.phpm m(&
+$productSku"__id*
+simple_product¿
+Ω
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.phpn n("
+$customerName"__id*
+
+John DoeÑÅ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.phpo o(<
+%1*31
+/magento\graphql\review\createproductreviewstest*
+
+$productSku*
+
+$customerName2getquery≥
+∞
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.phpo o(<
+$query"__id*
+
+%1‹
+Ÿ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.phpp p(_
+%2"Gmagento\graphql\review\createproductreviewstest::expectexceptionmessage*3"1
+/magento\graphql\review\createproductreviewstest*;9
+7Guest customers aren\'t allowed to add product reviews.Û
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.phpq q(&
+%3*31
+/magento\graphql\review\createproductreviewstest*
+
+
+$query2graphqlmutation*
+2B31
+/magento\graphql\review\createproductreviewstest

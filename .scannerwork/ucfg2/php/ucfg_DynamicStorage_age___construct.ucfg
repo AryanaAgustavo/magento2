@@ -1,0 +1,81 @@
+
+Cmagento\catalogurlrewrite\model\storage\dynamicstorage::__construct
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Storage\DynamicStorage.php. .("1*µ
+2
+DynamicStorage.php"™
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Storage\DynamicStorage.php9 9(
+implicit return*è
+1
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Storage\DynamicStorage.php6 6(Wñ
+î
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Storage\DynamicStorage.php. .(
+$urlRewriteFactory"__id*L
+J
+$urlRewriteFactory4magento\urlrewrite\service\v1\data\urlrewritefactoryá
+Þ
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Storage\DynamicStorage.php. .(
+$dataObjectHelper"__id*=
+;
+$dataObjectHelper&magento\framework\api\dataobjecthelperÓ
+Ð
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Storage\DynamicStorage.php. .(
+	$resource"__id*7
+5
+	$resource(magento\framework\app\resourceconnectionØ
+Õ
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Storage\DynamicStorage.php. .(	
+$config"__id*>
+<
+$config1magento\framework\app\config\scopeconfiginterfaceé
+æ
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Storage\DynamicStorage.php. .(
+$productFactory"__id*G
+E
+$productFactory2magento\catalog\model\resourcemodel\productfactory¾
+»
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Storage\DynamicStorage.php. .(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÍ
+Ê
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Storage\DynamicStorage.php6 6(V
+%1"7magento\urlrewrite\model\storage\dbstorage::__construct*:8
+6magento\catalogurlrewrite\model\storage\dynamicstorage*
+
+$urlRewriteFactory*
+
+$dataObjectHelper*
+
+	$resource*
+	
+$loggerà
+Ý
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Storage\DynamicStorage.php7 7(D8
+6magento\catalogurlrewrite\model\storage\dynamicstorage"
+config"__id*
+	
+$configð
+í
+
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Storage\DynamicStorage.php8 8(/L8
+6magento\catalogurlrewrite\model\storage\dynamicstorage"
+productFactory"__id*
+
+$productFactory*
+2:J
+$urlRewriteFactory4magento\urlrewrite\service\v1\data\urlrewritefactory:;
+$dataObjectHelper&magento\framework\api\dataobjecthelper:5
+	$resource(magento\framework\app\resourceconnection:<
+$config1magento\framework\app\config\scopeconfiginterface:E
+$productFactory2magento\catalog\model\resourcemodel\productfactory:"
+$loggerpsr\log\loggerinterfaceB:8
+6magento\catalogurlrewrite\model\storage\dynamicstorage

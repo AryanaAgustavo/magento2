@@ -1,0 +1,134 @@
+
+Nmagento\customer\api\accountmanagementtest::testcreatecustomerwithsubscription’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÅ Å(6"1*Í
+2
+AccountManagementTest.php"ª
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÑ Ñ(
+implicit return*€ 
+1’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÇ É(
+è
+å
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÇ Ç(-
+%1"__id*B*@,
+*magento\customer\api\accountmanagementtest"
+customerHelper¦£
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÈ È(A
+%2"$Array¦£
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÈ' È(@
+%3"$ArrayÍ
+Ê
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÈ' È(@
+%4"__mapSet*
+
+%3*
+is_subscribed*
+trueÒ
+Ï
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÈ È(A
+%5"__mapSet*
+
+%2*
+extension_attributes*
+
+%3ÄÁ
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÇ É(	
+%6*
+
+%1*
+
+%22createsamplecustomer·
+´
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÇ É(	
+$customerData"__id*
+
+%6Ã
+À
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpË Ë(0
+%7"__mapGet*
+
+$customerData*
+idåâ
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpË Ë(1
+%8*.,
+*magento\customer\api\accountmanagementtest*
+
+%72assertnotnullä
+á
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÍ Í(
+%9"__id*>*<,
+*magento\customer\api\accountmanagementtest"
+
+subscriberÄ
+Á
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÍ, Í(?
+%10"__mapGet*
+
+$customerData*
+idÂ¿
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÍ Í(@
+%11*
+
+%9*
+
+%102loadbycustomeridå
+â
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÏ Ï(.
+%12"__id*>*<,
+*magento\customer\api\accountmanagementtest"
+
+subscriber¯¬
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÏ Ï(7
+%13*
+
+%122getidçä
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÏ Ï(8
+%14*.,
+*magento\customer\api\accountmanagementtest*
+
+%132assertnotnullÄ
+Á
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÐ Ð(/
+%15"__mapGet*
+
+$customerData*
+idå
+â
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÐ1 Ð(B
+%16"__id*>*<,
+*magento\customer\api\accountmanagementtest"
+
+subscriber·´
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÐ1 Ð(S
+%17*
+
+%162getcustomeridïì
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Customer\Api\AccountManagementTest.phpÐ Ð(T
+%18*.,
+*magento\customer\api\accountmanagementtest*
+
+%15*
+
+%172assertequals*
+2B.,
+*magento\customer\api\accountmanagementtest

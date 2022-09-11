@@ -1,0 +1,65 @@
+
+>magento\sales\controller\adminhtml\order\masshold::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\MassHold.php$ $("1*©
+2
+MassHold.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\MassHold.php- -(
+implicit return*é
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\MassHold.php* *(/Å
+Â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\MassHold.php$ $(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÇ
+Ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\MassHold.php$ $(	
+$filter"__id*3
+1
+$filter&magento\ui\component\massaction\filterð
+í
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\MassHold.php$ $(
+$collectionFactory"__id*Q
+O
+$collectionFactory9magento\sales\model\resourcemodel\order\collectionfactoryÝ
+Ú
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\MassHold.php$ $(
+$orderManagement"__id*@
+>
+$orderManagement*magento\sales\api\ordermanagementinterface£
+ 
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\MassHold.php* *(.
+%1"Hmagento\sales\controller\adminhtml\order\abstractmassaction::__construct*53
+1magento\sales\controller\adminhtml\order\masshold*
+
+
+$context*
+	
+$filterë
+è
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\MassHold.php+ +(5J3
+1magento\sales\controller\adminhtml\order\masshold"
+collectionFactory"__id*
+
+$collectionFactoryç
+ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\MassHold.php, ,(1H3
+1magento\sales\controller\adminhtml\order\masshold"
+orderManagement"__id*
+
+$orderManagement*
+2:.
+$context"magento\backend\app\action\context:1
+$filter&magento\ui\component\massaction\filter:O
+$collectionFactory9magento\sales\model\resourcemodel\order\collectionfactory:>
+$orderManagement*magento\sales\api\ordermanagementinterfaceB53
+1magento\sales\controller\adminhtml\order\masshold

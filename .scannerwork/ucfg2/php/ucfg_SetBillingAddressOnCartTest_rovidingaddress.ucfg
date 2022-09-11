@@ -1,0 +1,73 @@
+
+emagento\graphql\quote\guest\setbillingaddressoncarttest::testsetbillingaddresswithoutprovidingaddressü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpê ê(@"1*‡
+2!
+SetBillingAddressOnCartTest.php"∑
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php´ ´(
+implicit return*Å
+1ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpí í(Yï
+í
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpí í(A
+%1"__id*b*`9
+7magento\graphql\quote\guest\setbillingaddressoncarttest"#
+!getMaskedQuoteIdByReservedOrderIdÃ…
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpí í(X
+%2*
+
+%1*
+
+test_quote2execute≈
+¬
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpí í(X
+$maskedQuoteId"__id*
+
+%2ª
+∏
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpî •(
+%3"__concat*JH
+Fmutation {
+  setBillingAddressOnCart(
+    input: {
+      cart_id: "*£†
+ù"
+      billing_address: {
+        use_for_shipping: true
+      }
+    }
+  ) {
+    cart {
+      billing_address {
+        city
+      }
+    }
+  }
+}*
+
+$maskedQuoteIdΩ
+∫
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpî •(
+$query"__id*
+
+%3ü
+ú
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpß ©(	
+%4"Omagento\graphql\quote\guest\setbillingaddressoncarttest::expectexceptionmessage*;"9
+7magento\graphql\quote\guest\setbillingaddressoncarttest*db
+`The billing address must contain either "customer_address_id", "address", or "same_as_shipping".ÖÇ
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php™ ™(&
+%5*;9
+7magento\graphql\quote\guest\setbillingaddressoncarttest*
+
+
+$query2graphqlmutation*
+2B;9
+7magento\graphql\quote\guest\setbillingaddressoncarttest

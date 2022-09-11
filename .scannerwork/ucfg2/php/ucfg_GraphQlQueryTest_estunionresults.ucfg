@@ -1,0 +1,92 @@
+
+Fmagento\graphql\testmodule\graphqlquerytest::testquerytestunionresults‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.phph h(-"1*Ç
+2
+GraphQlQueryTest.php"©
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php (
+implicit return*ñ
+1‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.phpj v(Ø
+Õ
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.phpj v(
+$query"__id*®«
+¨{
+    testUnion {
+      __typename
+      ... on TypeCustom1 {
+          custom_name1
+      }
+      ... on TypeCustom2 {
+          custom_name2
+      }
+    }
+}èå
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.phpx x(/
+%1*/-
++magento\graphql\testmodule\graphqlquerytest*
+
+
+$query2graphqlquery²
+¯
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.phpx x(/
+	$response"__id*
+
+%1ÿü
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.phpz z(8
+%2*/-
++magento\graphql\testmodule\graphqlquerytest*
+	testUnion*
+
+	$response2assertarrayhaskeyÅ
+Â
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php{ {(+
+%3"__mapGet*
+
+	$response*
+	testUnion³
+°
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php{ {(+
+
+$testUnion"__id*
+
+%3ƒ€
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php| |(<
+%4*/-
++magento\graphql\testmodule\graphqlquerytest*
+custom_name1*
+
+
+$testUnion2assertarrayhaskeyÉ
+Æ
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php}2 }(L
+%5"__mapGet*
+
+
+$testUnion*
+custom_name1üù
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php} }(M
+%6*/-
++magento\graphql\testmodule\graphqlquerytest*
+custom_name1_value*
+
+%52assertequals†ƒ
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php~ ~(?
+%7*/-
++magento\graphql\testmodule\graphqlquerytest*
+custom_name2*
+
+
+$testUnion2assertarraynothaskey*
+2B/-
++magento\graphql\testmodule\graphqlquerytest

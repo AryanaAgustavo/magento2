@@ -1,0 +1,74 @@
+
+9magento\customer\controller\accounttest::testcreateactionâ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpM M($"1*∫
+2
+AccountTest.php"°
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpX X(
+implicit return*Ò
+1â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpO O(3ÈÊ
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpO O(2
+%1*+)
+'magento\customer\controller\accounttest*
+customer/account/create2dispatchœÃ
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpP P($
+%2*+)
+'magento\customer\controller\accounttest2getresponse¶£
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpP P(/
+%3*
+
+%22getbody¶
+£
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpP P(/
+$body"__id*
+
+%3öó
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpR R(_
+%4*+)
+'magento\customer\controller\accounttest*+)
+'~<input type="text"[^>]*id="firstname"~*	
+
+$body2assertmatchesregularexpressionôñ
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpS S(^
+%5*+)
+'magento\customer\controller\accounttest**(
+&~<input type="text"[^>]*id="lastname"~*	
+
+$body2assertmatchesregularexpression¢ü
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpT T(g
+%6*+)
+'magento\customer\controller\accounttest*31
+/~<input type="checkbox"[^>]*id="is_subscribed"~*	
+
+$body2assertmatchesregularexpressionüú
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpU U(d
+%7*+)
+'magento\customer\controller\accounttest*0.
+,~<input type="email"[^>]*id="email_address"~*	
+
+$body2assertmatchesregularexpressionùö
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpV V(b
+%8*+)
+'magento\customer\controller\accounttest*.,
+*~<input type="password"[^>]*id="password"~*	
+
+$body2assertmatchesregularexpression™ß
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpW W(o
+%9*+)
+'magento\customer\controller\accounttest*;9
+7~<input type="password"[^>]*id="password-confirmation"~*	
+
+$body2assertmatchesregularexpression*
+2B+)
+'magento\customer\controller\accounttest

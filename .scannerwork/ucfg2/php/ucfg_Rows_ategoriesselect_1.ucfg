@@ -1,0 +1,51 @@
+
+Umagento\catalog\model\indexer\category\product\action\rows::getanchorcategoriesselect‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Category\Product\Action\Rows.phpê ê(0"1*ï
+1‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Category\Product\Action\Rows.phpì ì(<Ä
+Á
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Category\Product\Action\Rows.phpê ê(0
+$store"__id*%
+#
+$storemagento\store\model\store¹
+¶
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Category\Product\Action\Rows.phpì ì(;
+%1"Xmagento\catalog\model\indexer\category\product\abstractaction::getanchorcategoriesselect*><
+:magento\catalog\model\indexer\category\product\action\rows*
+
+
+$store¦
+£
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Category\Product\Action\Rows.phpì ì(;	
+$select"__id*
+
+%1õ
+ò
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Category\Product\Action\Rows.phpí5 í(R
+%2"__id*Z*X<
+:magento\catalog\model\indexer\category\product\action\rows"
+limitationByCategoriesÈÅ
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Category\Product\Action\Rows.phpí í(S
+%3*
+	
+$select*
+cc.entity_id IN (?)*
+
+%22where¾
+»
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Category\Product\Action\Rows.phpí í(T!
+%4magento\framework\db\select"__id*
+
+%3"¯
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Category\Product\Action\Rows.phpí í(T#
+!
+%4magento\framework\db\select:#
+$storemagento\store\model\storeB><
+:magento\catalog\model\indexer\category\product\action\rows

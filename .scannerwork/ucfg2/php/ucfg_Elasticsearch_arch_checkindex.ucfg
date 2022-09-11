@@ -1,0 +1,144 @@
+
+=magento\elasticsearch\model\adapter\elasticsearch::checkindex~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.php‰ ‰("1*ê
+2~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÏ Ï(HÇˇ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÏ Ï(G
+%6*53
+1magento\elasticsearch\model\adapter\elasticsearch*
+
+
+$storeId*
+
+
+$indexName*
+
+$mappedIndexerId2prepareindex*
+4
+6*Ú
+4~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÒ Ò(d›
+⁄
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÒ Ò(1
+%7"__id*L*J3
+1magento\elasticsearch\model\adapter\elasticsearch"
+indexNameResolverÀ»
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÒ Ò(c
+%8*
+
+%7*
+
+
+$storeId*
+
+$mappedIndexerId2getindexnameforaliasü
+ú
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÒ Ò(c
+
+$namespace"__id*
+
+%8“
+œ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÚ Ú(
+%9"__id*A*?3
+1magento\elasticsearch\model\adapter\elasticsearch"
+clientøº
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÚ Ú(C
+%10*
+
+%9*
+
+
+$namespace*
+
+
+$indexName2existsalias*
+5
+6*°
+5~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÛ Û(C”
+–
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÛ Û(
+%11"__id*A*?3
+1magento\elasticsearch\model\adapter\elasticsearch"
+client¿Ω
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÛ Û(B
+%12*
+
+%11*
+
+
+$namespace*
+
+
+$indexName2updatealias*
+6*Ω
+6~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpˆ ˆ("∑
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpˆ ˆ(53
+1magento\elasticsearch\model\adapter\elasticsearch*¿
+
+1~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÍ Í(n›
+⁄
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÍ Í(-
+%1"__id*L*J3
+1magento\elasticsearch\model\adapter\elasticsearch"
+indexNameResolverŸ
+÷
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÍX Í(l
+%2"__id*H*F3
+1magento\elasticsearch\model\adapter\elasticsearch"
+preparedIndexÀ»
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÍ Í(m
+%3*
+
+%1*
+
+
+$storeId*
+
+$mappedIndexerId*
+
+%22getindexnameü
+ú
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÍ Í(m
+
+$indexName"__id*
+
+%3“
+œ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÎ Î(
+%4"__id*A*?3
+1magento\elasticsearch\model\adapter\elasticsearch"
+clientÆ´
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Elasticsearch\Model\Adapter\Elasticsearch.phpÎ Î(3
+%5*
+
+%4*
+
+
+$indexName2indexexists*	
+2
+4
+6:
+
+$storeId:
+$mappedIndexerId:
+$checkAliasB53
+1magento\elasticsearch\model\adapter\elasticsearch

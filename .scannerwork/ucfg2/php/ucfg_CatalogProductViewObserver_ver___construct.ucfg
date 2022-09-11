@@ -1,0 +1,97 @@
+
+@magento\reports\observer\catalogproductviewobserver::__construct~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.php7 7("1*½
+2 
+CatalogProductViewObserver.php"•
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.phpE E(
+implicit return*«
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.php? ?(-Ø
+Õ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.php7 7(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceì
+é
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.php7 7(
+$productIndxFactory"__id*J
+H
+$productIndxFactory1magento\reports\model\product\index\viewedfactoryÓ
+Ð
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.php7 7(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÓ
+Ð
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.php7 7(
+$customerVisitor"__id*4
+2
+$customerVisitormagento\customer\model\visitorÎ
+Ë
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.php7 7(
+$eventSaver"__id*4
+2
+$eventSaver#magento\reports\observer\eventsaverÑ
+Î
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.php7 7(
+$reportStatus"__id*5
+3
+$reportStatus"magento\reports\model\reportstatusæ
+ã
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.php? ?(,H5
+3magento\reports\observer\catalogproductviewobserver"
+_storeManager"__id*
+
+$storeManagerò
+ï
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.php@ @(8N5
+3magento\reports\observer\catalogproductviewobserver"
+_productIndxFactory"__id*
+
+$productIndxFactoryì
+é
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.phpA A(2K5
+3magento\reports\observer\catalogproductviewobserver"
+_customerSession"__id*
+
+$customerSessionì
+é
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.phpB B(2K5
+3magento\reports\observer\catalogproductviewobserver"
+_customerVisitor"__id*
+
+$customerVisitorá
+Þ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.phpC C('E5
+3magento\reports\observer\catalogproductviewobserver"
+
+eventSaver"__id*
+
+$eventSaverå
+â
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Observer\CatalogProductViewObserver.phpD D(+G5
+3magento\reports\observer\catalogproductviewobserver"
+reportStatus"__id*
+
+$reportStatus*
+2::
+$storeManager)magento\store\model\storemanagerinterface:H
+$productIndxFactory1magento\reports\model\product\index\viewedfactory:2
+$customerSessionmagento\customer\model\session:2
+$customerVisitormagento\customer\model\visitor:2
+$eventSaver#magento\reports\observer\eventsaver:3
+$reportStatus"magento\reports\model\reportstatusB75
+3magento\reports\observer\catalogproductviewobserver

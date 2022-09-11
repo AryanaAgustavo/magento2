@@ -1,0 +1,135 @@
+
+Gmagento\googleanalytics\test\unit\block\gatest::testgetpagetrackingdata{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.phpº º(+"1*¦
+2
+
+GaTest.php"’
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.phpÇ Ç(
+implicit return*ú
+1{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.php¼ ¼(!£
+ 
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.php¼ ¼( 
+	$pageName"__id*
+
+/page/nameš
+—
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.php½ ½(
+
+$accountId"__id*2dŽ‹
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.php¾ Â(	
+%1"$Array¯
+¬
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.php¿ ¿(3
+%2"__concat*
+, '*
+
+	$pageName*
+'°
+­
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.php¾ Â(	
+%3"__mapSet*
+
+%1*
+
+optPageUrl*
+
+%2¼
+¹
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.php¾ Â(	
+%4"__mapSet*
+
+%1*
+isAnonymizedIpActive*
+true·
+´
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.php¾ Â(	
+%5"__mapSet*
+
+%1*
+	accountId*
+
+
+$accountId¡
+ž
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.php¾ Â(	
+$expectedResult"__id*
+
+%1Í
+Ê
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.phpÃ Ã(
+%6"__id*?*=0
+.magento\googleanalytics\test\unit\block\gatest"	
+gaBlockµ²
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.phpÃ Ã(7
+%7*
+
+%6*
+	page_name*
+
+	$pageName2setdataÝ
+Ú
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.phpÄ Ä(&
+%8"__id*O*M0
+.magento\googleanalytics\test\unit\block\gatest"
+googleAnalyticsDataMockÀ½
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.phpÄ0 Ä(=
+%9*20
+.magento\googleanalytics\test\unit\block\gatest2once 
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.phpÄ Ä(>
+%10*
+
+%8*
+
+%92expects²¯
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.phpÄ Ä(^
+%11*
+
+%10*
+isAnonymizedIpActive2method¦£
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.phpÄ Ä(p
+%12*
+
+%11*
+true2
+willreturnÎ
+Ë
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.phpÆ- Æ(;
+%13"__id*?*=0
+.magento\googleanalytics\test\unit\block\gatest"	
+gaBlockµ²
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.phpÆ- Æ(\
+%14*
+
+%13*
+
+
+$accountId2getpagetrackingdataçä
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GoogleAnalytics\Test\Unit\Block\GaTest.phpÆ Æ(]
+%15*20
+.magento\googleanalytics\test\unit\block\gatest*
+
+$expectedResult*
+
+%142assertequals*
+2B20
+.magento\googleanalytics\test\unit\block\gatest

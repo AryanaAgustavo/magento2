@@ -1,0 +1,94 @@
+
+6magento\newsletter\controller\manage\save::__constructt
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Manage\Save.php4 4("1*ù
+2
+
+Save.php"ã
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Manage\Save.phpA A(
+implicit return*É
+1t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Manage\Save.php< <(,ø
+º
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Manage\Save.php4 4(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\context…
+∆
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Manage\Save.php4 4(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\session⁄
+◊
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Manage\Save.php4 4(
+$formKeyValidator"__id*D
+B
+$formKeyValidator-magento\framework\data\form\formkey\validatorŒ
+À
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Manage\Save.php4 4(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface·
+ﬁ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Manage\Save.php4 4(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceË
+Â
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Manage\Save.php4 4(
+$subscriptionManager"__id*O
+M
+$subscriptionManager5magento\newsletter\model\subscriptionmanagerinterface—
+Œ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Manage\Save.php< <(+=+
+)magento\newsletter\controller\manage\save"
+storeManager"__id*
+
+$storeManagerŸ
+÷
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Manage\Save.php= =(3A+
+)magento\newsletter\controller\manage\save"
+formKeyValidator"__id*
+
+$formKeyValidator›
+⁄
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Manage\Save.php> >(7C+
+)magento\newsletter\controller\manage\save"
+customerRepository"__id*
+
+$customerRepositoryÖ
+Ç
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Manage\Save.php? ?(7
+%1"1magento\newsletter\controller\manage::__construct*-+
+)magento\newsletter\controller\manage\save*
+
+
+$context*
+
+$customerSessionﬂ
+‹
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Controller\Manage\Save.php@ @(9D+
+)magento\newsletter\controller\manage\save"
+subscriptionManager"__id*
+
+$subscriptionManager*
+2:0
+$context$magento\framework\app\action\context:2
+$customerSessionmagento\customer\model\session:B
+$formKeyValidator-magento\framework\data\form\formkey\validator::
+$storeManager)magento\store\model\storemanagerinterface:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:M
+$subscriptionManager5magento\newsletter\model\subscriptionmanagerinterfaceB-+
+)magento\newsletter\controller\manage\save

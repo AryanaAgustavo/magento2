@@ -1,0 +1,68 @@
+
+Bmagento\indexer\controller\adminhtml\indexertest::testindexersmode“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Indexer\Controller\Adminhtml\IndexerTest.php ($"1*Ä
+2
+IndexerTest.php"«
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Indexer\Controller\Adminhtml\IndexerTest.php! !(
+implicit return*Å
+1“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Indexer\Controller\Adminhtml\IndexerTest.php (9‚ÿ
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Indexer\Controller\Adminhtml\IndexerTest.php (8
+%1*42
+0magento\indexer\controller\adminhtml\indexertest*!
+backend/indexer/indexer/list/2dispatchâß
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Indexer\Controller\Adminhtml\IndexerTest.php ($
+%2*42
+0magento\indexer\controller\adminhtml\indexertest2getresponse°­
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Indexer\Controller\Adminhtml\IndexerTest.php (/
+%3*
+
+%22getbody°
+­
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Indexer\Controller\Adminhtml\IndexerTest.php (/
+$body"__id*
+
+%3®«
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Indexer\Controller\Adminhtml\IndexerTest.php (`
+%4*42
+0magento\indexer\controller\adminhtml\indexertest*0.
+,<h1 class="page-title">Index Management</h1>*	
+
+$body2assertstringcontainsstring¾
+»
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Indexer\Controller\Adminhtml\IndexerTest.php (
+%5"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*,*
+(//*[@id="gridIndexer_massaction-select"]*	
+
+$body‘Ž
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Indexer\Controller\Adminhtml\IndexerTest.php (	
+%6*42
+0magento\indexer\controller\adminhtml\indexertest*2*
+
+%5*
+Mode selector is not found2assertequals¥¢
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Indexer\Controller\Adminhtml\IndexerTest.php (W
+%7*42
+0magento\indexer\controller\adminhtml\indexertest*'%
+#option value="change_mode_onthefly"*	
+
+$body2assertstringcontainsstring¦£
+“
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Indexer\Controller\Adminhtml\IndexerTest.php   (X
+%8*42
+0magento\indexer\controller\adminhtml\indexertest*(&
+$option value="change_mode_changelog"*	
+
+$body2assertstringcontainsstring*
+2B42
+0magento\indexer\controller\adminhtml\indexertest

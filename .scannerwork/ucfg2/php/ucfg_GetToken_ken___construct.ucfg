@@ -1,0 +1,68 @@
+
+,magento\adobeims\model\gettoken::__constructj
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\GetToken.php1 1("1*ó
+2
+GetToken.php"Å
+j
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\GetToken.php; ;(
+implicit return*Ö
+1j
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\GetToken.php7 7( ∂
+≥
+j
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\GetToken.php1 1(	
+$config"__id*4
+2
+$config'magento\adobeimsapi\api\configinterface¬
+ø
+j
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\GetToken.php1 1(
+$curlFactory"__id*;
+9
+$curlFactory)magento\framework\http\client\curlfactory∂
+≥
+j
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\GetToken.php1 1(
+$json"__id*6
+4
+$json+magento\framework\serialize\serializer\jsonÂ
+‚
+j
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\GetToken.php1 1(
+$tokenResponseFactory"__id*U
+S
+$tokenResponseFactory:magento\adobeimsapi\api\data\tokenresponseinterfacefactory±
+Æ
+j
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\GetToken.php7 7(-!
+magento\adobeims\model\gettoken"
+config"__id*
+	
+$configª
+∏
+j
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\GetToken.php8 8()2!
+magento\adobeims\model\gettoken"
+curlFactory"__id*
+
+$curlFactory≠
+™
+j
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\GetToken.php9 9(+!
+magento\adobeims\model\gettoken"
+json"__id*	
+
+$jsonÕ
+ 
+j
+`C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Model\GetToken.php: :(;;!
+magento\adobeims\model\gettoken"
+tokenResponseFactory"__id*
+
+$tokenResponseFactory*
+2:2
+$config'magento\adobeimsapi\api\configinterface:9
+$curlFactory)magento\framework\http\client\curlfactory:4
+$json+magento\framework\serialize\serializer\json:S
+$tokenResponseFactory:magento\adobeimsapi\api\data\tokenresponseinterfacefactoryB#!
+magento\adobeims\model\gettoken

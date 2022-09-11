@@ -1,0 +1,146 @@
+
+]magento\checkout\model\guestpaymentinformationmanagement::savepaymentinformationandplaceorderÉ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpp p(7"1*Ö
+2É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.php| |(1Ò
+Ó
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.php| |(0U:
+8magento\checkout\model\guestpaymentinformationmanagement"
+saveRateLimitDisabled"__id*	
+false*
+3
+8*⁄
+3É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.php (BÁ
+‰
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.php (,
+%4"__id*P*N:
+8magento\checkout\model\guestpaymentinformationmanagement"
+cartManagement∞≠
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.php (A
+%5*
+
+%4*
+	
+$cartId2
+placeorder£
+†
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.php (A
+
+$orderId"__id*
+
+%5*
+4
+5
+6
+8*≠
+4Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpÅ É(⁄◊
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpÅ Å(
+%6*<:
+8magento\checkout\model\guestpaymentinformationmanagement2	getlogger•¢
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpÇO Ç(_
+%7*
+
+$e2
+getmessageÁ
+‰
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpÇ Ç(_
+%8"__concat*#!
+Placing an order with quote_id *
+	
+$cartId*
+ is failed: *
+
+%7´®
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpÅ É(
+%9*
+
+%6*
+
+%82critical*
+8*û
+5Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpâ â(-€ÿ
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpâ â(
+%10*<:
+8magento\checkout\model\guestpaymentinformationmanagement2	getlogger≠™
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpâ â(,
+%11*
+
+%10*
+
+$e2critical*
+8*§
+6Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpê ê("ñ
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpê ê(
+
+
+$orderId*Ã
+8'
+%GuestPaymentInformationManagement.php"ù
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpë ë(
+implicit return*ˇ
+1É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpv v(,ﬁ
+€
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpp p(7
+$paymentMethod"__id*;
+9
+$paymentMethod'magento\quote\api\data\paymentinterface‡
+›
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpp p(7
+$billingAddress"__id*<
+:
+$billingAddress'magento\quote\api\data\addressinterfaceÏ
+È
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpv v("
+%1"__id*U*S:
+8magento\checkout\model\guestpaymentinformationmanagement"
+paymentsRateLimiterûõ
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpv v(+
+%2*
+
+%12limit
+Ì
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpy y(/U:
+8magento\checkout\model\guestpaymentinformationmanagement"
+saveRateLimitDisabled"__id*
+trueß§
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\GuestPaymentInformationManagement.phpz z([
+%3*<:
+8magento\checkout\model\guestpaymentinformationmanagement*
+	
+$cartId*
+
+
+$email*
+
+$paymentMethod*
+
+$billingAddress2savepaymentinformation*
+2:	
+$cartId:
+$email:9
+$paymentMethod'magento\quote\api\data\paymentinterface::
+$billingAddress'magento\quote\api\data\addressinterfaceB<:
+8magento\checkout\model\guestpaymentinformationmanagement

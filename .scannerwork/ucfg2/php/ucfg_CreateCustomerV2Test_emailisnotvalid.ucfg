@@ -1,0 +1,101 @@
+
+Rmagento\graphql\customer\createcustomerv2test::testcreatecustomerifemailisnotvalidï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerV2Test.php∂ ∂(7"1*œ
+2
+CreateCustomerV2Test.php"≠
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerV2Test.php” ”(
+implicit return*ç
+1ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerV2Test.php∏ ∏(ø
+º
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerV2Test.php∂ ∂(7
+$email"__id*
+
+$emailstringº
+π
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerV2Test.php∏ ∏(
+
+$firstname"__id*	
+Richard∏
+µ
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerV2Test.phpπ π(
+	$lastname"__id*
+Roweº
+π
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerV2Test.php∫ ∫(
+	$password"__id*
+
+test123#Ë
+Â
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerV2Test.phpº –(
+%1"__concat*QO
+Mmutation {
+    createCustomerV2(
+        input: {
+            firstname: "*
+"
+            lastname: "*
+"
+            email: "*
+"
+            password: "*–Õ
+ "
+            is_subscribed: true
+        }
+    ) {
+        customer {
+            id
+            firstname
+            lastname
+            email
+            is_subscribed
+        }
+    }
+}*
+
+
+$firstname*
+
+	$lastname*
+
+
+$email*
+
+	$password≥
+∞
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerV2Test.phpº –(
+$query"__id*
+
+%1„
+‡
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerV2Test.php—& —(V
+%2"__concat*
+"*
+
+
+$email*#!
+" is not a valid email address.ÙÒ
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerV2Test.php— —(W
+%3*1/
+-magento\graphql\customer\createcustomerv2test*
+
+%22expectexceptionmessageÒÓ
+ï
+àC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\CreateCustomerV2Test.php“ “(&
+%4*1/
+-magento\graphql\customer\createcustomerv2test*
+
+
+$query2graphqlmutation*
+2:
+$emailstringB1/
+-magento\graphql\customer\createcustomerv2test

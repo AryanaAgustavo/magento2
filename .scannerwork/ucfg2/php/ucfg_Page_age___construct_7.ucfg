@@ -1,0 +1,55 @@
+
+@magento\cmsgraphql\model\resolver\dataprovider\page::__construct~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsGraphQl\Model\Resolver\DataProvider\Page.php) )("1*§
+2
+
+Page.php"•
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsGraphQl\Model\Resolver\DataProvider\Page.php2 2(
+implicit return*õ
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsGraphQl\Model\Resolver\DataProvider\Page.php/ /(0Ú
+×
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsGraphQl\Model\Resolver\DataProvider\Page.php) )(
+$pageRepository"__id*<
+:
+$pageRepository'magento\cms\api\pagerepositoryinterfaceÚ
+×
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsGraphQl\Model\Resolver\DataProvider\Page.php) )(
+$widgetFilter"__id*>
+<
+$widgetFilter+magento\widget\model\template\filteremulateé
+æ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsGraphQl\Model\Resolver\DataProvider\Page.php) )(
+$getPageByIdentifier"__id*F
+D
+$getPageByIdentifier,magento\cms\api\getpagebyidentifierinterfaceé
+æ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsGraphQl\Model\Resolver\DataProvider\Page.php/ /(/I5
+3magento\cmsgraphql\model\resolver\dataprovider\page"
+pageRepository"__id*
+
+$pageRepositoryå
+â
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsGraphQl\Model\Resolver\DataProvider\Page.php0 0(+G5
+3magento\cmsgraphql\model\resolver\dataprovider\page"
+widgetFilter"__id*
+
+$widgetFilterð
+í
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CmsGraphQl\Model\Resolver\DataProvider\Page.php1 1(6K5
+3magento\cmsgraphql\model\resolver\dataprovider\page"
+pageByIdentifier"__id*
+
+$getPageByIdentifier*
+2::
+$pageRepository'magento\cms\api\pagerepositoryinterface:<
+$widgetFilter+magento\widget\model\template\filteremulate:D
+$getPageByIdentifier,magento\cms\api\getpagebyidentifierinterfaceB75
+3magento\cmsgraphql\model\resolver\dataprovider\page

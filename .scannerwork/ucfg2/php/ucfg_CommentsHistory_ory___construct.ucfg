@@ -1,0 +1,132 @@
+
+Emagento\sales\controller\adminhtml\order\commentshistory::__constructƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php. .("1*¸
+2
+CommentsHistory.php"›
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.phpJ J(
+implicit return*‰
+1ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php< <(.Í
+Ê
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php. .(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÏ
+Ì
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php. .(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryâ
+ß
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php. .(
+$fileFactory"__id*A
+?
+$fileFactory/magento\framework\app\response\http\filefactoryæ
+ã
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php. .(
+$translateInline"__id*A
+?
+$translateInline+magento\framework\translate\inlineinterfaceè
+å
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php. .(
+$resultPageFactory"__id*A
+?
+$resultPageFactory)magento\framework\view\result\pagefactoryî
+ë
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php. .(
+$resultJsonFactory"__id*G
+E
+$resultJsonFactory/magento\framework\controller\result\jsonfactoryî
+ë
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php. .(
+$resultLayoutFactory"__id*E
+C
+$resultLayoutFactory+magento\framework\view\result\layoutfactoryë
+è
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php. .(
+$resultRawFactory"__id*E
+C
+$resultRawFactory.magento\framework\controller\result\rawfactoryå
+â
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php. .(
+$orderManagement"__id*@
+>
+$orderManagement*magento\sales\api\ordermanagementinterfaceå
+â
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php. .(
+$orderRepository"__id*@
+>
+$orderRepository*magento\sales\api\orderrepositoryinterfaceÀ
+½
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php. .(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÛ
+Ø
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php. .(
+$layoutFactory"__id*8
+6
+$layoutFactory$magento\framework\view\layoutfactoryò
+ï
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php< <(-M:
+8magento\sales\controller\adminhtml\order\commentshistory"
+layoutFactory"__id*
+
+$layoutFactoryç
+ä
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\CommentsHistory.php= I(	
+%1"5magento\sales\controller\adminhtml\order::__construct*<:
+8magento\sales\controller\adminhtml\order\commentshistory*
+
+
+$context*
+
+$coreRegistry*
+
+$fileFactory*
+
+$translateInline*
+
+$resultPageFactory*
+
+$resultJsonFactory*
+
+$resultLayoutFactory*
+
+$resultRawFactory*
+
+$orderManagement*
+
+$orderRepository*
+	
+$logger*
+2:.
+$context"magento\backend\app\action\context:+
+$coreRegistrymagento\framework\registry:?
+$fileFactory/magento\framework\app\response\http\filefactory:?
+$translateInline+magento\framework\translate\inlineinterface:?
+$resultPageFactory)magento\framework\view\result\pagefactory:E
+$resultJsonFactory/magento\framework\controller\result\jsonfactory:C
+$resultLayoutFactory+magento\framework\view\result\layoutfactory:C
+$resultRawFactory.magento\framework\controller\result\rawfactory:>
+$orderManagement*magento\sales\api\ordermanagementinterface:>
+$orderRepository*magento\sales\api\orderrepositoryinterface:"
+$loggerpsr\log\loggerinterface:6
+$layoutFactory$magento\framework\view\layoutfactoryB<:
+8magento\sales\controller\adminhtml\order\commentshistory

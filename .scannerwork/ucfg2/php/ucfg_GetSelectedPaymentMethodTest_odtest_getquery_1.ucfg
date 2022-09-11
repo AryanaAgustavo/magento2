@@ -1,0 +1,31 @@
+
+Emagento\graphql\quote\customer\getselectedpaymentmethodtest::getquery£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSelectedPaymentMethodTest.php• •("1*ç
+1£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSelectedPaymentMethodTest.php— Ÿ(Ý
+Ú
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSelectedPaymentMethodTest.php• •(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringª
+§
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSelectedPaymentMethodTest.php— Ÿ(
+%1"__concat*
+{
+  cart(cart_id:"*B@
+>") {
+    selected_payment_method {
+      code
+    }
+  }
+}*
+
+$maskedQuoteId"®
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\GetSelectedPaymentMethodTest.php— Ÿ(
+
+%1:
+$maskedQuoteIdstringB?=
+;magento\graphql\quote\customer\getselectedpaymentmethodtest

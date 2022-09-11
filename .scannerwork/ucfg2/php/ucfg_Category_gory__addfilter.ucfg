@@ -1,0 +1,604 @@
+
+@magento\sitemap\model\resourcemodel\catalog\category::_addfilterÅ
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpû û(!"1*Ì
+13Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php¡ ¡(R€
+ÿ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php¡ ¡(
+%27"__id*E*C6
+4magento\sitemap\model\resourcemodel\catalog\category"	
+_select»
+≈
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php¡" ¡(H
+%28"__concat*
+e.*
+
+$attributeCode*
+
+$conditionRule≥∞
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php¡ ¡(Q
+%29*
+
+%27*
+
+%28*
+
+
+$value2where*
+17*ô
+14Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php√ À(€
+ÿ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php√ √(
+%30"__id*E*C6
+4magento\sitemap\model\resourcemodel\catalog\category"	
+_selectñì
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpƒ ƒ(?
+%31"$Arrayµ
+≤
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpƒ ƒ('
+%32"__concat*
+t1_*
+
+$attributeCode≥
+∞
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpƒ+ ƒ(>
+%33"__mapGet*
+
+
+$attribute*	
+tableµ
+≤
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpƒ ƒ(?
+%34"
+__arraySet*
+
+%31*
+
+%32*
+
+%33ú
+ô
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php≈ ∆(=
+%35"__concat*
+e.*
+
+
+$linkField*
+
+ = t1_*
+
+$attributeCode*
+.*
+
+
+$linkField*
+
+ AND t1_*
+
+$attributeCode*
+.store_id = 0ñì
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php« «(
+%36"$Array∏µ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php√ »(
+%37*
+
+%30*
+
+%31*
+
+%35*
+
+%362join 
+«
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php… …(:
+%38"__concat*
+t1_*
+
+$attributeCode*
+.attribute_id=?∫
+∑
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php   (*
+%39"__mapGet*
+
+
+$attribute*
+attribute_id∞≠
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php√ À(
+%40*
+
+%37*
+
+%38*
+
+%392where∑
+¥
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpÕ Õ('
+%41"__mapGet*
+
+
+$attribute*
+	is_global*
+15
+16*˙
+15Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpŒ Œ(b€
+ÿ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpŒ Œ(
+%42"__id*E*C6
+4magento\sitemap\model\resourcemodel\catalog\category"	
+_select’
+“
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpŒ& Œ(X
+%43"__concat*
+t1_*
+
+$attributeCode*
+
+.value*
+
+$conditionRule≥∞
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpŒ Œ(a
+%44*
+
+%42*
+
+%43*
+
+
+$value2where*
+17*¡
+16Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php– ‘(◊‘
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php– –(0
+%45*86
+4magento\sitemap\model\resourcemodel\catalog\category2getconnection»
+≈
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php— —(<
+%46"__concat*
+t2_*
+
+$attributeCode*
+.value_id > 0¡
+æ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php“ “(5
+%47"__concat*
+t2_*
+
+$attributeCode*
+
+.value¡
+æ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php” ”(5
+%48"__concat*
+t1_*
+
+$attributeCode*
+
+.valueøº
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php– ‘(
+%49*
+
+%45*
+
+%46*
+
+%47*
+
+%482getchecksql°
+û
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php– ‘(	
+$ifCase"__id*
+
+%49€
+ÿ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php’ ’(
+%50"__id*E*C6
+4magento\sitemap\model\resourcemodel\catalog\category"	
+_selectñì
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php÷ ÷(C
+%51"$Arrayµ
+≤
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php÷ ÷(+
+%52"__concat*
+t2_*
+
+$attributeCode≥
+∞
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php÷/ ÷(B
+%53"__mapGet*
+
+
+$attribute*	
+tableµ
+≤
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php÷ ÷(C
+%54"
+__arraySet*
+
+%51*
+
+%52*
+
+%53◊‘
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php◊ ◊(*
+%55*86
+4magento\sitemap\model\resourcemodel\catalog\category2getconnectioní
+è
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpÿ ‚(%
+%56"__concat*
+t1_*
+
+$attributeCode*
+.*
+
+
+$linkField*
+
+ = t2_*
+
+$attributeCode*
+.*
+
+
+$linkField*
+
+ AND t1_*
+
+$attributeCode*
+.attribute_id = t2_*
+
+$attributeCode*
+.attribute_id AND t2_*
+
+$attributeCode*
+.store_id=?π∂
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php◊ ‰(
+%57*
+
+%55*
+
+%56*
+
+
+$storeId2	quoteintoñì
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpÂ Â(
+%58"$Arrayºπ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php’ Ê(
+%59*
+
+%50*
+
+%51*
+
+%57*
+
+%582joinleft«
+ƒ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpÁ Á(8
+%60"__concat*
+(*
+	
+$ifCase*
+)*
+
+$conditionRule≥∞
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php’ È(
+%61*
+
+%59*
+
+%60*
+
+
+$value2where*
+17*ˆ
+17Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpÌ Ì(€
+ÿ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpÌ Ì(
+%62"__id*E*C6
+4magento\sitemap\model\resourcemodel\catalog\category"	
+_select"ç
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpÌ Ì(
+
+%62*Á	
+1Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php† †(eﬂ
+‹
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php† †(#
+%1"__id*J*H6
+4magento\sitemap\model\resourcemodel\catalog\category"
+metadataPool¶£
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php† †(d
+%2*
+
+%1* 2getmetadataû
+õ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php† †(d
+$meta"__id*
+
+%2¶£
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php° °(*
+%3*	
+
+$meta2getlinkfield£
+†
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php° °(*
+
+$linkField"__id*
+
+%3⁄
+◊
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php£ £(
+%4"__id*E*C6
+4magento\sitemap\model\resourcemodel\catalog\category"	
+_select*
+2
+3*ô
+2Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php§ §("è
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php§ §(	
+false*–
+3Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpß ß(;„
+‡
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpß ß(*
+%5"__id*N*L6
+4magento\sitemap\model\resourcemodel\catalog\category"
+_attributesCacheµ
+≤
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpß ß(:
+%6"
+__arrayGet*
+
+%5*
+
+$attributeCode†
+ù
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpß ß(;
+%7"isset* *
+
+%6*
+4
+5*”
+4Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php® ®(P‰
+·
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php® ®(1
+%8"__id*O*M6
+4magento\sitemap\model\resourcemodel\catalog\category"
+_categoryResource∑¥
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php® ®(O
+%9*
+
+%8*
+
+$attributeCode2getattribute£
+†
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php® ®(O
+
+$attribute"__id*
+
+%9ñì
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php™6 ∞(
+%10"$ArrayØ¨
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php´$ ´(A
+%11*
+
+
+$attribute2getentitytypeidæ
+ª
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php™6 ∞(
+%12"__mapSet*
+
+%10*
+entity_type_id*
+
+%11•¢
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php¨" ¨(5
+%13*
+
+
+$attribute2getidº
+π
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php™6 ∞(
+%14"__mapSet*
+
+%10*
+attribute_id*
+
+%13™ß
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php≠ ≠(3
+%15*
+
+
+$attribute2
+getbackend°û
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php≠ ≠(?
+%16*
+
+%152gettableµ
+≤
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php™6 ∞(
+%17"__mapSet*
+
+%10*	
+table*
+
+%16´®
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpÆ Æ(8
+%18*
+
+
+$attribute2getisglobalπ
+∂
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php™6 ∞(
+%19"__mapSet*
+
+%10*
+	is_global*
+
+%18Æ´
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpØ" Ø(>
+%20*
+
+
+$attribute2getbackendtypeº
+π
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php™6 ∞(
+%21"__mapSet*
+
+%10*
+backend_type*
+
+%20‰
+·
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php™ ™(#
+%22"__id*N*L6
+4magento\sitemap\model\resourcemodel\catalog\category"
+_attributesCache¿
+Ω
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php™ ™(3
+%23"
+__arraySet*
+
+%22*
+
+$attributeCode*
+
+%10*
+5*€
+5Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php≤ ≤(=‰
+·
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php≤ ≤(,
+%24"__id*N*L6
+4magento\sitemap\model\resourcemodel\catalog\category"
+_attributesCache∑
+¥
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php≤ ≤(<
+%25"
+__arrayGet*
+
+%24*
+
+$attributeCode§
+°
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php≤ ≤(<
+
+$attribute"__id*
+
+%25*
+
+7
+9
+10*∑
+7Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php∂ ∂(&ß
+§
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php∂ ∂(%
+$conditionRule"__id*
+=?*
+12*ª
+9Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpπ π(*´
+®
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpπ π()
+$conditionRule"__id*
+
+ IN(?)*
+12*ö
+10Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpº º("è
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.phpº º(	
+false*œ
+12Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php¿ ¿(2∫
+∑
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sitemap\Model\ResourceModel\Catalog\Category.php¿ ¿(&
+%26"__mapGet*
+
+
+$attribute*
+backend_type*
+13
+14:
+
+$storeId:
+$attributeCode:
+$value:
+$typeB86
+4magento\sitemap\model\resourcemodel\catalog\category

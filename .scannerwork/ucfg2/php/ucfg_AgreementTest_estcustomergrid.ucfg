@@ -1,0 +1,65 @@
+
+Kmagento\paypal\controller\adminhtml\billing\agreementtest::testcustomergridœ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Adminhtml\Billing\AgreementTest.php ($"1*Ï
+2
+AgreementTest.php"´
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Adminhtml\Billing\AgreementTest.php( ((
+implicit return*÷
+1œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Adminhtml\Billing\AgreementTest.php (N©¦
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Adminhtml\Billing\AgreementTest.php (M
+%1*=;
+9magento\paypal\controller\adminhtml\billing\agreementtest*64
+2backend/paypal/billing_agreement/customergrid/id/12dispatchôñ
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Adminhtml\Billing\AgreementTest.php ($
+%2*=;
+9magento\paypal\controller\adminhtml\billing\agreementtest2getresponse¹¶
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Adminhtml\Billing\AgreementTest.php (/
+%3*
+
+%22getbodyÅ
+Â
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Adminhtml\Billing\AgreementTest.php (
+%4"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*-+
+)//th[contains(@class,"col-reference_id")]*
+
+%3ßÜ
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Adminhtml\Billing\AgreementTest.php (	
+%5*=;
+9magento\paypal\controller\adminhtml\billing\agreementtest*2*
+
+%4*ZX
+VResponse for billing agreement orders doesn't contain billing agreement customers grid2assertequalsôñ
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Adminhtml\Billing\AgreementTest.php$ $($
+%6*=;
+9magento\paypal\controller\adminhtml\billing\agreementtest2getresponse¹¶
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Adminhtml\Billing\AgreementTest.php$ $(/
+%7*
+
+%62getbodyÅ
+Â
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Adminhtml\Billing\AgreementTest.php" %(
+%8"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*-+
+)//td[contains(text(), "REF-ID-TEST-678")]*
+
+%7ÉÆ
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Paypal\Controller\Adminhtml\Billing\AgreementTest.php  '(	
+%9*=;
+9magento\paypal\controller\adminhtml\billing\agreementtest*2*
+
+%8*DB
+@Response for billing agreement info doesn't contain reference ID2assertequals*
+2B=;
+9magento\paypal\controller\adminhtml\billing\agreementtest

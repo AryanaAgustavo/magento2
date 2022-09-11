@@ -1,0 +1,88 @@
+
+>magento\loginascustomer\plugin\adminlogoutplugin::beforelogout{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php9 9( "1*⁄
+4{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php> >(*òï
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php> >()
+%6*	
+
+$user2getid¶
+£
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php> >()	
+$userId"__sanitizing_cast*
+
+%6Á
+‰
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php? ?(2
+%7"__id*Y*W2
+0magento\loginascustomer\plugin\adminlogoutplugin"!
+deleteAuthenticationDataForUser§°
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php? ?(D
+%8*
+
+%7*
+	
+$userId2execute*
+5*±
+5
+AdminLogoutPlugin.php"í
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.phpA A(
+implicit return*•
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php; ;($º
+π
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php9 9( 
+
+$subject"__id*(
+&
+$subjectmagento\backend\model\authùö
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php; ;(#
+%1*
+
+
+$subject2getuseró
+î
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php; ;(#
+$user"__id*
+
+%1Â
+‚
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php<$ <(H
+%2"__id*W*U2
+0magento\loginascustomer\plugin\adminlogoutplugin"
+getLoggedAsCustomerCustomerIdóî
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php<$ <(S
+%3*
+
+%22execute≤
+Ø
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php< <(S
+$isLoggedAsCustomer"__sanitizing_cast*
+
+%3Œ
+À
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php= =(
+%4"__id*@*>2
+0magento\loginascustomer\plugin\adminlogoutplugin"
+configôñ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Plugin\AdminLogoutPlugin.php= =(&
+%5*
+
+%42	isenabled*
+4
+5:&
+$subjectmagento\backend\model\authB42
+0magento\loginascustomer\plugin\adminlogoutplugin

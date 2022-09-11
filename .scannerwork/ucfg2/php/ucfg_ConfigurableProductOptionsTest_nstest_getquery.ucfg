@@ -1,0 +1,44 @@
+
+Lmagento\graphql\configurableproduct\configurableproductoptionstest::getquery®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.phpd d("1*∏
+1©
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.phpf Å(œ
+Ã
+©
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.phpf Å(
+%1"__concat**(
+&{
+  products(filter: {name: {match: "*«ƒ
+¡"}}) {
+    items {
+      id
+      sku
+      ... on ConfigurableProduct {
+        configurable_options {
+          id
+          attribute_id
+          label
+          position
+          use_default
+          attribute_code
+          values {
+            value_index
+            label
+            store_label
+            default_label
+            use_default_value
+          }
+          product_id
+        }
+      }
+    }
+  }
+}*
+
+$configurableProduct"¥
+©
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.phpf Å(
+
+%1:
+$configurableProductBFD
+Bmagento\graphql\configurableproduct\configurableproductoptionstest

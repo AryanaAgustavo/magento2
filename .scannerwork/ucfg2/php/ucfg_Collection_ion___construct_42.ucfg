@@ -1,0 +1,281 @@
+
+Pmagento\catalog\model\resourcemodel\product\link\product\collection::__constructè
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z("1*©
+2ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpµ µ(,Ö
+Ç
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpµ µ(+UE
+Cmagento\catalog\model\resourcemodel\product\link\product\collection"
+
+productIds"__id*
+
+$productIdsÇ
+ˇ
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.php∂ ∂((YE
+Cmagento\catalog\model\resourcemodel\product\link\product\collection"
+_hasLinkFilter"__id*
+true*
+3*¡
+3
+Collection.php"©
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.php∏ ∏(
+implicit return*Î:
+1ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpó ≤(
+Ú
+Ô
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÃ
+…
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface˛
+˚
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceÈ
+Ê
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterface”
+–
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+
+$eavConfig"__id*(
+&
+
+$eavConfigmagento\eav\model\config·
+ﬁ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+	$resource"__id*7
+5
+	$resource(magento\framework\app\resourceconnectionË
+Â
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$eavEntityFactory"__id*6
+4
+$eavEntityFactorymagento\eav\model\entityfactoryÔ
+Ï
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$resourceHelper"__id*?
+=
+$resourceHelper*magento\catalog\model\resourcemodel\helperı
+Ú
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$universalFactory"__id*C
+A
+$universalFactory,magento\framework\validator\universalfactoryÍ
+Á
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface„
+‡
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$moduleManager"__id*4
+2
+$moduleManager magento\framework\module\managerá
+Ñ
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$catalogProductFlatState"__id*N
+L
+$catalogProductFlatState0magento\catalog\model\indexer\product\flat\state
+Ì
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface¸
+˘
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$productOptionFactory"__id*F
+D
+$productOptionFactory+magento\catalog\model\product\optionfactory‰
+·
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$catalogUrl"__id*8
+6
+$catalogUrl'magento\catalog\model\resourcemodel\url
+Ì
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterfaceÂ
+‚
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\session⁄
+◊
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+	$dateTime"__id*0
+.
+	$dateTime!magento\framework\stdlib\datetimeÙ
+Ò
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$groupManagement"__id*C
+A
+$groupManagement-magento\customer\api\groupmanagementinterfaceÍ
+Á
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterface®
+•
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$productLimitationFactory"__id*n
+l
+$productLimitationFactoryOmagento\catalog\model\resourcemodel\product\collection\productlimitationfactoryÌ
+Í
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$metadataPool"__id*?
+=
+$metadataPool,magento\framework\entitymanager\metadatapoolÖ
+Ç
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$tableMaintainer"__id*T
+R
+$tableMaintainer>magento\catalog\model\indexer\category\product\tablemaintainerã
+à
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$priceTableResolver"__id*W
+U
+$priceTableResolver>magento\catalog\model\indexer\product\price\pricetableresolverÛ
+
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$dimensionFactory"__id*A
+?
+$dimensionFactory*magento\framework\indexer\dimensionfactoryˇ
+¸
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$categoryResourceModel"__id*H
+F
+$categoryResourceModel,magento\catalog\model\resourcemodel\category¬
+ø
+è
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpz z(
+$productIds"__id*
+
+$productIdsarray…
+∆
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Link\Product\Collection.phpó ≤(	
+%1"Cmagento\catalog\model\resourcemodel\product\collection::__construct*GE
+Cmagento\catalog\model\resourcemodel\product\link\product\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+
+$eavConfig*
+
+	$resource*
+
+$eavEntityFactory*
+
+$resourceHelper*
+
+$universalFactory*
+
+$storeManager*
+
+$moduleManager*
+
+$catalogProductFlatState*
+
+$scopeConfig*
+
+$productOptionFactory*
+
+$catalogUrl*
+
+$localeDate*
+
+$customerSession*
+
+	$dateTime*
+
+$groupManagement*
+
+$connection*
+
+$productLimitationFactory*
+
+$metadataPool*
+
+$tableMaintainer*
+
+$priceTableResolver*
+
+$dimensionFactory*
+
+$categoryResourceModel*
+2
+3:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:&
+
+$eavConfigmagento\eav\model\config:5
+	$resource(magento\framework\app\resourceconnection:4
+$eavEntityFactorymagento\eav\model\entityfactory:=
+$resourceHelper*magento\catalog\model\resourcemodel\helper:A
+$universalFactory,magento\framework\validator\universalfactory::
+$storeManager)magento\store\model\storemanagerinterface:2
+$moduleManager magento\framework\module\manager:L
+$catalogProductFlatState0magento\catalog\model\indexer\product\flat\state:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:D
+$productOptionFactory+magento\catalog\model\product\optionfactory:6
+$catalogUrl'magento\catalog\model\resourcemodel\url:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:2
+$customerSessionmagento\customer\model\session:.
+	$dateTime!magento\framework\stdlib\datetime:A
+$groupManagement-magento\customer\api\groupmanagementinterface:<
+$connection-magento\framework\db\adapter\adapterinterface:l
+$productLimitationFactoryOmagento\catalog\model\resourcemodel\product\collection\productlimitationfactory:=
+$metadataPool,magento\framework\entitymanager\metadatapool:R
+$tableMaintainer>magento\catalog\model\indexer\category\product\tablemaintainer:U
+$priceTableResolver>magento\catalog\model\indexer\product\price\pricetableresolver:?
+$dimensionFactory*magento\framework\indexer\dimensionfactory:F
+$categoryResourceModel,magento\catalog\model\resourcemodel\category:
+$productIdsarrayBGE
+Cmagento\catalog\model\resourcemodel\product\link\product\collection

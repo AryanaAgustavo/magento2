@@ -1,0 +1,62 @@
+
+Mmagento\graphql\quote\guest\placeordertest::testplaceorderwithnopaymentmethodí
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpå å(5"1*∆
+2
+PlaceOrderTest.php"™
+í
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpî î(
+implicit return*œ
+1í
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpé é((¬
+ø
+í
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpé é('
+$reservedOrderId"__id*
+
+test_quote˚
+¯
+í
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpè è(A
+%1"__id*U*S,
+*magento\graphql\quote\guest\placeordertest"#
+!getMaskedQuoteIdByReservedOrderId≈¬
+í
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpè è(\
+%2*
+
+%1*
+
+$reservedOrderId2execute∏
+µ
+í
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpè è(\
+$maskedQuoteId"__id*
+
+%2ÏÈ
+í
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpê ê(0
+%3*.,
+*magento\graphql\quote\guest\placeordertest*
+
+$maskedQuoteId2getquery∞
+≠
+í
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpê ê(0
+$query"__id*
+
+%3Ÿ
+÷
+í
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpí í(i
+%4"Bmagento\graphql\quote\guest\placeordertest::expectexceptionmessage*.",
+*magento\graphql\quote\guest\placeordertest*EC
+AUnable to place order: Enter a valid payment method and try againÎË
+í
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpì ì(&
+%5*.,
+*magento\graphql\quote\guest\placeordertest*
+
+
+$query2graphqlmutation*
+2B.,
+*magento\graphql\quote\guest\placeordertest

@@ -1,0 +1,54 @@
+
+=magento\framework\messagequeue\messagecontroller::__construct
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MessageController.php$ $("1*µ
+2
+MessageController.php"–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MessageController.php, ,(
+implicit return*¹
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MessageController.php) )(*á
+Þ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MessageController.php$ $(
+$lockFactory"__id*E
+C
+$lockFactory3magento\framework\messagequeue\lockinterfacefactory×
+Ô
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MessageController.php$ $(	
+$reader"__id*@
+>
+$reader3magento\framework\messagequeue\lock\readerinterface×
+Ô
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MessageController.php$ $(	
+$writer"__id*@
+>
+$writer3magento\framework\messagequeue\lock\writerinterfaceá
+Þ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MessageController.php) )()C2
+0magento\framework\messagequeue\messagecontroller"
+lockFactory"__id*
+
+$lockFactory×
+Ô
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MessageController.php* *(>2
+0magento\framework\messagequeue\messagecontroller"
+reader"__id*
+	
+$reader×
+Ô
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MessageController.php+ +(>2
+0magento\framework\messagequeue\messagecontroller"
+writer"__id*
+	
+$writer*
+2:C
+$lockFactory3magento\framework\messagequeue\lockinterfacefactory:>
+$reader3magento\framework\messagequeue\lock\readerinterface:>
+$writer3magento\framework\messagequeue\lock\writerinterfaceB42
+0magento\framework\messagequeue\messagecontroller

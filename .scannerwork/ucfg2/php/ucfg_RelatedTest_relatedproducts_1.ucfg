@@ -1,0 +1,122 @@
+
+Rmagento\catalog\block\product\productlist\relatedtest::testpositionrelatedproductsò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpl l(/"1*…
+2
+RelatedTest.php"∞
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpy y(
+implicit return*ø
+1ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpn n()Ì
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpn n((
+%1*97
+5magento\catalog\block\product\productlist\relatedtest2getpositiondataµ
+≤
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpn n((
+$data"__id*
+
+%1À
+»
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpo& o(;
+%2"__mapGet*	
+
+$data*
+productLinksÅ˛
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpo o(<
+%3*97
+5magento\catalog\block\product\productlist\relatedtest*
+
+simple*
+
+%22linkproducts¸
+˘
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpp p(1
+%4"__id*P*N7
+5magento\catalog\block\product\productlist\relatedtest"
+productRepositoryΩ∫
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpp p(@
+%5*
+
+%4*
+
+simple2getÚ
+Ô
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpp p(@D7
+5magento\catalog\block\product\productlist\relatedtest"	
+product"__id*
+
+%5
+Ì
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpq q(
+%6"__id*D*B7
+5magento\catalog\block\product\productlist\relatedtest"
+blockÚ
+Ô
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpq! q(/
+%7"__id*F*D7
+5magento\catalog\block\product\productlist\relatedtest"	
+product¿Ω
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpq q(0
+%8*
+
+%6*
+
+%72
+setproduct
+Ì
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpr r(
+%9"__id*D*B7
+5magento\catalog\block\product\productlist\relatedtest"
+block∑¥
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpr r()
+%10*
+
+%92getitems∏µ
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpr r(5
+%11*
+
+%102getitems∑
+¥
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpr r(5
+$items"__id*
+
+%11‘
+—
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpu u()
+%12"__mapGet*	
+
+$data*
+expectedProductLinks¸˘
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpv v()
+%13*97
+5magento\catalog\block\product\productlist\relatedtest*
+
+
+$items2getactuallinks≈¬
+ò
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\ProductList\RelatedTest.phpt x(	
+%14*97
+5magento\catalog\block\product\productlist\relatedtest*
+
+%12*
+
+%13*CA
+?Expected related products do not match actual related products!2assertequals*
+2B97
+5magento\catalog\block\product\productlist\relatedtest

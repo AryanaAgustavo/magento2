@@ -1,0 +1,70 @@
+
+Vmagento\graphql\customer\storeconfigtest::testreturntypeautocompleteonstorefrontconfigŽ
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\StoreConfigTest.php (@"1*Ã
+2
+StoreConfigTest.php"¦
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\StoreConfigTest.php% %(
+implicit return*µ
+1Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\StoreConfigTest.php !(ì
+é
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\StoreConfigTest.php !(
+$query"__id*FD
+B{
+    storeConfig {
+        autocomplete_on_storefront
+    }
+}âß
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\StoreConfigTest.php" "(/
+%1*,*
+(magento\graphql\customer\storeconfigtest*
+
+
+$query2graphqlquery¯
+¬
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\StoreConfigTest.php" "(/
+	$response"__id*
+
+%1Ä
+Á
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\StoreConfigTest.php#> #(V
+%2"__mapGet*
+
+	$response*
+storeConfig­
+ª
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\StoreConfigTest.php# #(W
+%3";magento\graphql\customer\storeconfigtest::assertarrayhaskey*,"*
+(magento\graphql\customer\storeconfigtest*
+autocomplete_on_storefront*
+
+%2Ä
+Á
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\StoreConfigTest.php$ $(1
+%4"__mapGet*
+
+	$response*
+storeConfigÌ
+É
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\StoreConfigTest.php$ $(O
+%5"__mapGet*
+
+%4*
+autocomplete_on_storefront†
+ƒ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Customer\StoreConfigTest.php$ $(P
+%6"4magento\graphql\customer\storeconfigtest::asserttrue*,"*
+(magento\graphql\customer\storeconfigtest*
+
+%5*
+2B,*
+(magento\graphql\customer\storeconfigtest

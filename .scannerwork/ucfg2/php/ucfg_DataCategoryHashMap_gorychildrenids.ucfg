@@ -1,0 +1,129 @@
+
+Rmagento\catalogurlrewrite\model\map\datacategoryhashmap::getallcategorychildrenidsÇ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpM M(."1*˙
+1Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpO O(E÷
+”
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpM M(.
+	$category"__id*9
+7
+	$category*magento\catalog\api\data\categoryinterfaceÓ
+Î
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpO O(:
+%1"__id*X*V9
+7magento\catalogurlrewrite\model\map\datacategoryhashmap"
+categoryResourceFactoryûõ
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpO O(D
+%2*
+
+%12create´
+®
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpO O(D
+$categoryResource"__id*
+
+%2¥±
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpP P(8
+%3*
+
+$categoryResource2getconnection•
+¢
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpP P(8
+$connection"__id*
+
+%3ß§
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpQ Q('
+%4*
+
+$connection2selectµ≤
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpR R(6
+%5*
+
+$categoryResource2getentitytable≥∞
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpQ R(D
+%6*
+
+%4*
+
+%5*
+	entity_id2from∫∑
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpS S(8
+%7*
+
+$connection*
+path2quoteidentifier≥
+∞
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpS S(J
+%8"__concat*
+
+%7*
+ LIKE :c_path•¢
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpQ S(K
+%9*
+
+%6*
+
+%82where°
+û
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpQ S(K	
+$select"__id*
+
+%9óî
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpT T(8
+%10"$Arrayß§
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpT T(1
+%11*
+
+	$category2getpath©
+¶
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpT T(7
+%12"__concat*
+
+%11*
+%∑
+¥
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpT T(8
+%13"__mapSet*
+
+%10*
+
+c_path*
+
+%12†
+ù
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpT T(8
+$bind"__id*
+
+%10¬ø
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpU U(4
+%14*
+
+$connection*
+	
+$select*	
+
+$bind2fetchcol"é
+Ç
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\Map\DataCategoryHashMap.phpU U(5
+
+%14:7
+	$category*magento\catalog\api\data\categoryinterfaceB;9
+7magento\catalogurlrewrite\model\map\datacategoryhashmap

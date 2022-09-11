@@ -1,0 +1,66 @@
+
+=magento\graphql\ups\setupsshippingmethodsoncarttest::getquery›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Ups\SetUpsShippingMethodsOnCartTest.phpÊ Ê("1*Ó
+1›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Ups\SetUpsShippingMethodsOnCartTest.phpÏ æ(Õ
+Ò
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Ups\SetUpsShippingMethodsOnCartTest.phpÊ Ê(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringÑ
+Î
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Ups\SetUpsShippingMethodsOnCartTest.phpÊ Ê(
+$carrierCode"__id*
+
+$carrierCodestringÏ
+Ì
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Ups\SetUpsShippingMethodsOnCartTest.phpÊ Ê(
+$methodCode"__id*
+
+$methodCodestringˆ
+…
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Ups\SetUpsShippingMethodsOnCartTest.phpÏ æ(
+%1"__concat*CA
+?mutation {
+  setShippingMethodsOnCart(input: {
+    cart_id: "*@>
+<"
+    shipping_methods: [
+      {
+        carrier_code: "*
+"
+        method_code: "*÷ô
+ñ"
+      }
+    ]
+  }) {
+    cart {
+      shipping_addresses {
+        selected_shipping_method {
+          carrier_code
+          method_code
+          carrier_title
+          method_title
+        }
+      }
+    } 
+  }
+}        *
+
+$maskedQuoteId*
+
+$carrierCode*
+
+$methodCode"¦
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Ups\SetUpsShippingMethodsOnCartTest.phpÏ æ(
+
+%1:
+$maskedQuoteIdstring:
+$carrierCodestring:
+$methodCodestringB75
+3magento\graphql\ups\setupsshippingmethodsoncarttest

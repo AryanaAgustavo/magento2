@@ -1,0 +1,122 @@
+
+Bmagento\catalog\model\resourcemodel\layer\filter\decimal::getcount…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.php† †("1*¬
+1…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.phpˆ ˆ(-Ý
+Ú
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.php† †(	
+$filter"__id*?
+=
+$filter2magento\catalog\model\layer\filter\filterinterfaceèå
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.phpˆ ˆ(,
+%1*<:
+8magento\catalog\model\resourcemodel\layer\filter\decimal*
+	
+$filter2
+_getselect¤
+¡
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.phpˆ ˆ(,	
+$select"__id*
+
+%1ÞÛ
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.php‰ ‰(,
+%2*<:
+8magento\catalog\model\resourcemodel\layer\filter\decimal2getconnection¨
+¥
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.php‰ ‰(,
+$connection"__id*
+
+%2§¤
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.php‹ ‹(2
+
+$countExpr"zend_db_exprÊ
+Ç
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.php‹ ‹(2
+%3"zend_db_expr::__construct*
+
+
+$countExpr*
+
+COUNT(*)Ô
+Ñ
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.phpŒ' Œ(R
+%4"__concat* 
+FLOOR(decimal_index.value / *	
+) + 1*
+
+
+$range§¤
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.phpŒ Œ(S
+
+$rangeExpr"zend_db_exprÄ
+Á
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.phpŒ Œ(S
+%5"zend_db_expr::__construct*
+
+
+$rangeExpr*
+
+%4™–
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.phpŽ Ž(O
+%6"$ArrayÆ
+Ã
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.phpŽ Ž(O
+%7"__mapSet*
+
+%6*
+decimal_range*
+
+
+$rangeExpr¾
+»
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.phpŽ Ž(O
+%8"__mapSet*
+
+%6*	
+count*
+
+
+$countExpr¯¬
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.phpŽ Ž(P
+%9*
+	
+$select*
+
+%62columns¶³
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.php ("
+%10*
+	
+$select*
+
+
+$rangeExpr2group¼¹
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.php‘ ‘(/
+%11*
+
+$connection*
+	
+$select2
+fetchpairs"‘
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Decimal.php‘ ‘(0
+
+%11:=
+$filter2magento\catalog\model\layer\filter\filterinterface:
+$rangeB<:
+8magento\catalog\model\resourcemodel\layer\filter\decimal

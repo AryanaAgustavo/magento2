@@ -1,0 +1,97 @@
+
+Nmagento\advancedsearch\model\resourcemodel\search\grid\collection::__constructç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdvancedSearch\Model\ResourceModel\Search\Grid\Collection.php   ("1*Ω
+2
+Collection.php"•
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdvancedSearch\Model\ResourceModel\Search\Grid\Collection.php6 6(
+implicit return*á
+1ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdvancedSearch\Model\ResourceModel\Search\Grid\Collection.php+ +(,
+Ì
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdvancedSearch\Model\ResourceModel\Search\Grid\Collection.php   (
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactory 
+«
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdvancedSearch\Model\ResourceModel\Search\Grid\Collection.php   (	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface¸
+˘
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdvancedSearch\Model\ResourceModel\Search\Grid\Collection.php   (
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceÁ
+‰
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdvancedSearch\Model\ResourceModel\Search\Grid\Collection.php   (
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceË
+Â
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdvancedSearch\Model\ResourceModel\Search\Grid\Collection.php   (
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceﬁ
+€
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdvancedSearch\Model\ResourceModel\Search\Grid\Collection.php   (
+$resourceHelper"__id*0
+.
+$resourceHelpermagento\framework\db\helper—
+Œ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdvancedSearch\Model\ResourceModel\Search\Grid\Collection.php   (
+	$registry"__id*)
+'
+	$registrymagento\framework\registryË
+Â
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdvancedSearch\Model\ResourceModel\Search\Grid\Collection.php   (
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceÉ
+Ä
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdvancedSearch\Model\ResourceModel\Search\Grid\Collection.php+ +(+YC
+Amagento\advancedsearch\model\resourcemodel\search\grid\collection"
+_registryManager"__id*
+
+	$registry≤
+Ø
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdvancedSearch\Model\ResourceModel\Search\Grid\Collection.php, 5(	
+%1"@magento\search\model\resourcemodel\query\collection::__construct*EC
+Amagento\advancedsearch\model\resourcemodel\search\grid\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$storeManager*
+
+$resourceHelper*
+
+$connection*
+
+	$resource*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface::
+$storeManager)magento\store\model\storemanagerinterface:.
+$resourceHelpermagento\framework\db\helper:'
+	$registrymagento\framework\registry:<
+$connection-magento\framework\db\adapter\adapterinterface:
+	$resourceBEC
+Amagento\advancedsearch\model\resourcemodel\search\grid\collection

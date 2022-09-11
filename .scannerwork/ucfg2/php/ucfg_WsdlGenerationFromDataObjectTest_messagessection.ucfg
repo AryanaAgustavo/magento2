@@ -1,0 +1,35 @@
+
+Lmagento\webapi\wsdlgenerationfromdataobjecttest::_checkfaultsmessagessection—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpž ž(2"1*Ý
+2&
+$WsdlGenerationFromDataObjectTest.php"¯
+—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpª ª(
+implicit return*®
+1—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php  ¤(«
+¨
+—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php  ¤(
+$genericFaultMessage"__id*nl
+j<message name="GenericFault">
+    <part name="messageParameters" element="tns:GenericFault"/>
+</message>‡„
+—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php¦ ¦(<
+%1*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$genericFaultMessage2_convertxmltostringÑÎ
+—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php¥ ©(	
+%2*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%1*
+
+$wsdlContent*A?
+=Generic SOAP Fault declaration in messages section is invalid2assertstringcontainsstring*
+2:
+$wsdlContentB31
+/magento\webapi\wsdlgenerationfromdataobjecttest

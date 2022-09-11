@@ -1,0 +1,70 @@
+
+=magento\framework\messagequeue\config\reader\xml::__construct
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Reader\Xml.php( (("1*§
+2	
+Xml.php"–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Reader\Xml.php< <(
+implicit return*Ì
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Reader\Xml.php2 ;(
+Þ
+Û
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Reader\Xml.php( ((
+$fileResolver"__id*A
+?
+$fileResolver.magento\framework\config\fileresolverinterfaceí
+ê
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Reader\Xml.php( ((
+
+$converter"__id*S
+Q
+
+$converterCmagento\framework\messagequeue\config\reader\xml\compositeconverterð
+í
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Reader\Xml.php( ((
+$schemaLocator"__id*R
+P
+$schemaLocator>magento\framework\messagequeue\config\reader\xml\schemalocatorç
+ä
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Reader\Xml.php( ((
+$validationState"__id*G
+E
+$validationState1magento\framework\config\validationstateinterface’
+
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Reader\Xml.php2 ;(	
+%1"7magento\framework\config\reader\filesystem::__construct*42
+0magento\framework\messagequeue\config\reader\xml*
+
+$fileResolver*
+
+
+$converter*
+
+$schemaLocator*
+
+$validationState*
+
+	$fileName*
+
+$idAttributes*
+
+$domDocumentClass*
+
+$defaultScope*
+2:?
+$fileResolver.magento\framework\config\fileresolverinterface:Q
+
+$converterCmagento\framework\messagequeue\config\reader\xml\compositeconverter:P
+$schemaLocator>magento\framework\messagequeue\config\reader\xml\schemalocator:E
+$validationState1magento\framework\config\validationstateinterface:
+	$fileName:
+$idAttributes:
+$domDocumentClass:
+$defaultScopeB42
+0magento\framework\messagequeue\config\reader\xml

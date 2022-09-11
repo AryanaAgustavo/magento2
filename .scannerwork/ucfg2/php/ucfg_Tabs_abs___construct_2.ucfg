@@ -1,0 +1,140 @@
+
+>magento\catalog\block\adminhtml\product\edit\tabs::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpZ Z("1*¥
+2
+
+Tabs.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpm m(
+implicit return*Æ
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpf f(/É
+Æ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpZ Z(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\contextÒ
+Ï
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpZ Z(
+$jsonEncoder"__id*9
+7
+$jsonEncoder'magento\framework\json\encoderinterfaceÍ
+Ê
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpZ Z(
+$authSession"__id*4
+2
+$authSession"magento\backend\model\auth\sessionÏ
+Ì
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpZ Z(
+$moduleManager"__id*4
+2
+$moduleManager magento\framework\module\managerÿ
+ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpZ Z(
+$collectionFactory"__id*`
+^
+$collectionFactoryHmagento\eav\model\resourcemodel\entity\attribute\group\collectionfactoryÍ
+Ê
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpZ Z(
+$helperCatalog"__id*2
+0
+$helperCatalogmagento\catalog\helper\catalogÆ
+Ã
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpZ Z(
+$catalogData"__id*-
++
+$catalogDatamagento\catalog\helper\data¿
+¼
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpZ Z(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÞ
+Û
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpZ Z(
+$translateInline"__id*A
+?
+$translateInline+magento\framework\translate\inlineinterface¢
+Ÿ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpZ Z(
+$data"__id*
+
+$dataarrayä
+á
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpf f(.G3
+1magento\catalog\block\adminhtml\product\edit\tabs"
+_moduleManager"__id*
+
+$moduleManagerì
+é
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpg g(6K3
+1magento\catalog\block\adminhtml\product\edit\tabs"
+_collectionFactory"__id*
+
+$collectionFactoryä
+á
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phph h(.G3
+1magento\catalog\block\adminhtml\product\edit\tabs"
+_helperCatalog"__id*
+
+$helperCatalogà
+Ý
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpi i(*E3
+1magento\catalog\block\adminhtml\product\edit\tabs"
+_catalogData"__id*
+
+$catalogDataÞ
+Û
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpj j((F3
+1magento\catalog\block\adminhtml\product\edit\tabs"
+_coreRegistry"__id*
+
+	$registryè
+å
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpk k(2I3
+1magento\catalog\block\adminhtml\product\edit\tabs"
+_translateInline"__id*
+
+$translateInline«
+¨
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tabs.phpl l(H
+%1".magento\backend\block\widget\tabs::__construct*53
+1magento\catalog\block\adminhtml\product\edit\tabs*
+
+
+$context*
+
+$jsonEncoder*
+
+$authSession*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:7
+$jsonEncoder'magento\framework\json\encoderinterface:2
+$authSession"magento\backend\model\auth\session:2
+$moduleManager magento\framework\module\manager:^
+$collectionFactoryHmagento\eav\model\resourcemodel\entity\attribute\group\collectionfactory:0
+$helperCatalogmagento\catalog\helper\catalog:+
+$catalogDatamagento\catalog\helper\data:'
+	$registrymagento\framework\registry:?
+$translateInline+magento\framework\translate\inlineinterface:
+$dataarrayB53
+1magento\catalog\block\adminhtml\product\edit\tabs

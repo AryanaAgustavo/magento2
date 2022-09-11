@@ -1,0 +1,84 @@
+
+@magento\wishlist\controller\index\updateitemoptions::__construct~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\UpdateItemOptions.php2 2("1*´
+2
+UpdateItemOptions.php"•
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\UpdateItemOptions.php> >(
+implicit return*¶
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\UpdateItemOptions.php9 9(3É
+Æ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\UpdateItemOptions.php2 2(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\contextÓ
+Ð
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\UpdateItemOptions.php2 2(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionì
+é
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\UpdateItemOptions.php2 2(
+$wishlistProvider"__id*L
+J
+$wishlistProvider5magento\wishlist\controller\wishlistproviderinterfaceç
+ä
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\UpdateItemOptions.php2 2(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceä
+á
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\UpdateItemOptions.php2 2(
+$formKeyValidator"__id*D
+B
+$formKeyValidator-magento\framework\data\form\formkey\validatorì
+é
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\UpdateItemOptions.php9 9(2K5
+3magento\wishlist\controller\index\updateitemoptions"
+_customerSession"__id*
+
+$customerSessioní
+ê
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\UpdateItemOptions.php: :(3K5
+3magento\wishlist\controller\index\updateitemoptions"
+wishlistProvider"__id*
+
+$wishlistProviderï
+ì
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\UpdateItemOptions.php; ;(5L5
+3magento\wishlist\controller\index\updateitemoptions"
+productRepository"__id*
+
+$productRepositoryí
+ê
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\UpdateItemOptions.php< <(3K5
+3magento\wishlist\controller\index\updateitemoptions"
+formKeyValidator"__id*
+
+$formKeyValidatorˆ
+…
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\Index\UpdateItemOptions.php= =(%
+%1"6magento\wishlist\controller\abstractindex::__construct*75
+3magento\wishlist\controller\index\updateitemoptions*
+
+
+$context*
+2:0
+$context$magento\framework\app\action\context:2
+$customerSessionmagento\customer\model\session:J
+$wishlistProvider5magento\wishlist\controller\wishlistproviderinterface:D
+$productRepository.magento\catalog\api\productrepositoryinterface:B
+$formKeyValidator-magento\framework\data\form\formkey\validatorB75
+3magento\wishlist\controller\index\updateitemoptions

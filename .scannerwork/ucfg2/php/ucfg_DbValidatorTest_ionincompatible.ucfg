@@ -1,0 +1,76 @@
+
+Zmagento\setup\test\unit\validator\dbvalidatortest::testcheckdatabaseconnectionincompatible
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Validator\DbValidatorTest.php« «(;"1*³
+2
+DbValidatorTest.php"–
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Validator\DbValidatorTest.phpµ µ(
+implicit return*š
+1
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Validator\DbValidatorTest.php­ ­(:ïì
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Validator\DbValidatorTest.php­ ­(9
+%1*53
+1magento\setup\test\unit\validator\dbvalidatortest*
+Magento\Setup\Exception2expectexception‚ÿ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Validator\DbValidatorTest.php® ®(L
+%2*53
+1magento\setup\test\unit\validator\dbvalidatortest*'%
+#Sorry, but we support MySQL version2expectexceptionmessage×
+Ô
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Validator\DbValidatorTest.php¯ ¯(
+%3"__id*E*C3
+1magento\setup\test\unit\validator\dbvalidatortest"
+
+connectionÇÄ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Validator\DbValidatorTest.php° °(#
+%4*53
+1magento\setup\test\unit\validator\dbvalidatortest2once£ 
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Validator\DbValidatorTest.php¯ °($
+%5*
+
+%3*
+
+%42expects¨¥
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Validator\DbValidatorTest.php¯ ±( 
+%6*
+
+%5*
+
+fetchOne2method®«
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Validator\DbValidatorTest.php¯ ²(&
+%7*
+
+%6*
+SELECT version()2with»¸
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Validator\DbValidatorTest.php¯ ³(3
+%8*
+
+%7*
+5.5.40-0ubuntu0.12.04.12
+willreturnØ
+Õ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Validator\DbValidatorTest.php´ ´(
+%9"__id*F*D3
+1magento\setup\test\unit\validator\dbvalidatortest"
+dbValidatorØÕ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Test\Unit\Validator\DbValidatorTest.php´ ´(W
+%10*
+
+%9*
+name*
+host*
+user*
+
+password2checkdatabaseconnection*
+2B53
+1magento\setup\test\unit\validator\dbvalidatortest

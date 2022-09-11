@@ -1,0 +1,131 @@
+
+Rmagento\graphql\bundle\addbundleproducttocartsinglemutationtest::getmutationsqueryß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpá á(&"1*Æ
+1ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpè √(·
+ﬁ
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpá á(&
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstring€
+ÿ
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpá á(&
+$optionUid0"__id*
+
+$optionUid0string€
+ÿ
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpá á(&
+$optionUid1"__id*
+
+$optionUid1stringÕ
+ 
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpá á(&
+$sku"__id*
+
+$skustring€
+ÿ
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpá á(&
+$optionQty0"__id*
+
+$optionQty0string€
+ÿ
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpá á(&
+$optionQty1"__id*
+
+$optionQty1stringù
+ö
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpè √(
+%1"__concat*?=
+;mutation {
+      addProductsToCart(
+            cartId: "*OM
+K",
+            cartItems: [
+                {
+                    sku: "*jh
+f"
+                    quantity: 2
+                    selected_options: [
+                        "*
+", "*fd
+b"
+                    ],
+                    entered_options: [{
+                        uid: "*'%
+#"
+                        value: "*VT
+R"
+                     },
+                     {
+                        uid: "*'%
+#"
+                        value: "*øº
+π"
+                     }]
+                }
+            ]
+       ) {
+    cart {
+        items {
+            id
+            uid
+            quantity
+            product {
+                sku
+            }
+            ... on BundleCartItem {
+                bundle_options {
+                    id
+                    uid
+                    label
+                    type
+                    values {
+                        id
+                        uid
+                        label
+                        price
+                        quantity
+                    }
+                }
+            }
+        }
+    }
+    user_errors {
+        message
+    }
+  }
+}*
+
+$maskedQuoteId*
+
+$sku*
+
+$optionUid0*
+
+$optionUid1*
+
+$optionUid0*
+
+$optionQty0*
+
+$optionUid1*
+
+$optionQty1"≤
+ß
+öC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\AddBundleProductToCartSingleMutationTest.phpè √(
+
+%1:
+$maskedQuoteIdstring:
+$optionUid0string:
+$optionUid1string:
+$skustring:
+$optionQty0string:
+$optionQty1stringBCA
+?magento\graphql\bundle\addbundleproducttocartsinglemutationtest

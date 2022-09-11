@@ -1,0 +1,190 @@
+
+:magento\graphql\quote\guest\placeordertest::testplaceorderê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpS S(""1*ƒ
+2
+PlaceOrderTest.php"®
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpb b(
+implicit return*∞,
+1ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpU U((¿
+Ω
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpU U('
+$reservedOrderId"__id*
+
+test_quote˘
+ˆ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpV V(A
+%1"__id*U*S,
+*magento\graphql\quote\guest\placeordertest"#
+!getMaskedQuoteIdByReservedOrderId√¿
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpV V(\
+%2*
+
+%1*
+
+$reservedOrderId2execute∂
+≥
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpV V(\
+$maskedQuoteId"__id*
+
+%2ÍÁ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpX X(0
+%3*.,
+*magento\graphql\quote\guest\placeordertest*
+
+$maskedQuoteId2getqueryÆ
+´
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpX X(0
+$query"__id*
+
+%3ÈÊ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpY Y(2
+%4*.,
+*magento\graphql\quote\guest\placeordertest*
+
+
+$query2graphqlmutation±
+Æ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpY Y(2
+	$response"__id*
+
+%4™
+ß
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php[ [(8
+%5"=magento\graphql\quote\guest\placeordertest::assertarrayhaskey*.",
+*magento\graphql\quote\guest\placeordertest*
+
+placeOrder*
+
+	$response≈
+¬
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php\0 \(G
+%6"__mapGet*
+
+	$response*
+
+placeOrderπ
+∂
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php\0 \(P
+%7"__mapGet*
+
+%6*	
+order•
+¢
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php\ \(Q
+%8"=magento\graphql\quote\guest\placeordertest::assertarrayhaskey*.",
+*magento\graphql\quote\guest\placeordertest*
+order_number*
+
+%7≈
+¬
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php]- ](D
+%9"__mapGet*
+
+	$response*
+
+placeOrder∫
+∑
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php]- ](M
+%10"__mapGet*
+
+%9*	
+order¬
+ø
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php]- ](]
+%11"__mapGet*
+
+%10*
+order_number¶
+£
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php] ](^
+%12"8magento\graphql\quote\guest\placeordertest::assertequals*.",
+*magento\graphql\quote\guest\placeordertest*
+
+$reservedOrderId*
+
+%11∆
+√
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php^ ^(3
+%13"__mapGet*
+
+	$response*
+
+placeOrderª
+∏
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php^ ^(<
+%14"__mapGet*
+
+%13*	
+order¬
+ø
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php^ ^(L
+%15"__mapGet*
+
+%14*
+order_number∫
+∑
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php^ ^(L
+$orderIncrementId"__id*
+
+%15Â
+‚
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php_ _($
+%16"__id*@*>,
+*magento\graphql\quote\guest\placeordertest"
+orderFactoryÆ´
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php_ _(.
+%17*
+
+%162createØ
+¨
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php_ _(.
+$order"__id*
+
+%17”–
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php` `(4
+%18*
+
+
+$order*
+
+$orderIncrementId2loadbyincrementid∑¥
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpa a(4
+%19*
+
+
+$order2getemailsentÊ„
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpa a(5
+%20*.,
+*magento\graphql\quote\guest\placeordertest*
+
+%192assertnotempty*
+2B.,
+*magento\graphql\quote\guest\placeordertest

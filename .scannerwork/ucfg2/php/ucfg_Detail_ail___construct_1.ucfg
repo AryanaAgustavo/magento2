@@ -1,0 +1,80 @@
+
+>magento\sales\block\adminhtml\transactions\detail::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Transactions\Detail.php3 3("1*§
+2
+
+Detail.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Transactions\Detail.php> >(
+implicit return*¾
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Transactions\Detail.php: :()Ç
+Ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Transactions\Detail.php3 3(
+
+$context"__id*2
+0
+$context$magento\backend\block\widget\context¿
+¼
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Transactions\Detail.php3 3(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÅ
+Â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Transactions\Detail.php3 3(
+$adminHelper"__id*,
+*
+$adminHelpermagento\sales\helper\adminò
+ï
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Transactions\Detail.php3 3(
+$orderPaymentRepository"__id*N
+L
+$orderPaymentRepository1magento\sales\api\orderpaymentrepositoryinterface¢
+Ÿ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Transactions\Detail.php3 3(
+$data"__id*
+
+$dataarrayÞ
+Û
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Transactions\Detail.php: :((F3
+1magento\sales\block\adminhtml\transactions\detail"
+_coreRegistry"__id*
+
+	$registryß
+Ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Transactions\Detail.php; ;()D3
+1magento\sales\block\adminhtml\transactions\detail"
+adminHelper"__id*
+
+$adminHelperõ
+ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Transactions\Detail.php< <(?O3
+1magento\sales\block\adminhtml\transactions\detail"
+orderPaymentRepository"__id*
+
+$orderPaymentRepositoryŒ
+‰
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Block\Adminhtml\Transactions\Detail.php= =(,
+%1"3magento\backend\block\widget\container::__construct*53
+1magento\sales\block\adminhtml\transactions\detail*
+
+
+$context*	
+
+$data*
+2:0
+$context$magento\backend\block\widget\context:'
+	$registrymagento\framework\registry:*
+$adminHelpermagento\sales\helper\admin:L
+$orderPaymentRepository1magento\sales\api\orderpaymentrepositoryinterface:
+$dataarrayB53
+1magento\sales\block\adminhtml\transactions\detail

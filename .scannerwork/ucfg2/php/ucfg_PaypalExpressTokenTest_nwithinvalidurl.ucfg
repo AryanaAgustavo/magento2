@@ -1,0 +1,54 @@
+
+gmagento\paypalgraphql\model\resolver\guest\paypalexpresstokentest::getcreatetokenmutationwithinvalidurl¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalExpressTokenTest.phpÇ Ç(;"1*ç
+1¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalExpressTokenTest.phpÉ Þ(Ò
+Ï
+¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalExpressTokenTest.phpÇ Ç(;	
+$cartId"__id*
+
+$cartIdstringà
+Ý
+¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalExpressTokenTest.phpÇ Ç(;
+$paymentMethod"__id*
+
+$paymentMethodstringÌ
+É
+¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalExpressTokenTest.phpÉ Þ(
+%1"__concat*IG
+Emutation {
+    createPaypalExpressToken(input: {
+        cart_id: "*
+",
+        code: "*ˆ…
+‚",
+        urls: {
+            return_url: "paypal/express/return/",
+            cancel_url: "paypal/express/cancel/"
+            success_url: "http://mage.com/checkout/onepage/success/",
+            pending_url: "checkout/onepage/pending/"
+        }
+    })
+    {
+        __typename
+        token
+        paypal_urls{
+            start
+            edit
+        }
+    }
+}*
+	
+$cartId*
+
+$paymentMethod"±
+¦
+™C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalExpressTokenTest.phpÉ Þ(
+
+%1:
+$cartIdstring:
+$paymentMethodstringBEC
+Amagento\paypalgraphql\model\resolver\guest\paypalexpresstokentest

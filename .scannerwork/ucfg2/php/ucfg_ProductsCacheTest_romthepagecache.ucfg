@@ -1,0 +1,119 @@
+
+kmagento\graphqlcache\controller\catalog\productscachetest::testconsecutiverequestsareservedfromthepagecacheœ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpZ Z(D"1*Ó
+2
+ProductsCacheTest.php"´
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpq q(
+implicit return*­
+1œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.php\ k(û
+ø
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.php\ k(
+$query"__id*ÆÃ
+À{
+   products(filter: {sku: {eq: "simple1"}})
+   {
+       items {
+           id
+           name
+           sku
+           description {
+           html
+           }
+       }
+   }
+}°­
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpl6 l(I
+%1"$ArrayÑ
+Î
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpl6 l(I
+%2"__mapSet*
+
+%1*	
+query*
+
+
+$queryŠ‡
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpl l(J
+%3*=;
+9magento\graphqlcache\controller\catalog\productscachetest*
+
+%12dispatchgraphqlgetrequest¾
+»
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpl l(J
+
+$response1"__id*
+
+%3°­
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpm6 m(I
+%4"$ArrayÑ
+Î
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpm6 m(I
+%5"__mapSet*
+
+%4*	
+query*
+
+
+$queryŠ‡
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpm m(J
+%6*=;
+9magento\graphqlcache\controller\catalog\productscachetest*
+
+%42dispatchgraphqlgetrequest¾
+»
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpm m(J
+
+$response2"__id*
+
+%6ÞÛ
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpo$ o(R
+%7*
+
+
+$response1*
+X-Magento-Cache-Debug2	getheader¿¼
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpo$ o(c
+%8*
+
+%72getfieldvalue‡„
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpo o(d
+%9*=;
+9magento\graphqlcache\controller\catalog\productscachetest*
+MISS*
+
+%82assertequalsßÜ
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpp# p(Q
+%10*
+
+
+$response2*
+X-Magento-Cache-Debug2	getheaderÁ¾
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpp# p(b
+%11*
+
+%102getfieldvalueˆ…
+œ
+‘C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\GraphQlCache\Controller\Catalog\ProductsCacheTest.phpp p(c
+%12*=;
+9magento\graphqlcache\controller\catalog\productscachetest*
+HIT*
+
+%112assertequals*
+2B=;
+9magento\graphqlcache\controller\catalog\productscachetest

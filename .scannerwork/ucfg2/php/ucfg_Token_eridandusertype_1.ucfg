@@ -1,0 +1,79 @@
+
+Wmagento\integration\model\resourcemodel\oauth\token::selecttokenbyconsumeridandusertype€
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\ResourceModel\Oauth\Token.php¨ ¨(6"1*å
+1€
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\ResourceModel\Oauth\Token.phpª ª(-ÔÑ
+€
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\ResourceModel\Oauth\Token.phpª ª(,
+%1*75
+3magento\integration\model\resourcemodel\oauth\token2getconnection£
+ 
+€
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\ResourceModel\Oauth\Token.phpª ª(,
+$connection"__id*
+
+%1¥¢
+€
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\ResourceModel\Oauth\Token.php« «('
+%2*
+
+$connection2selectÓÐ
+€
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\ResourceModel\Oauth\Token.php¬ ¬((
+%3*75
+3magento\integration\model\resourcemodel\oauth\token2getmaintable¢Ÿ
+€
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\ResourceModel\Oauth\Token.php« ¬()
+%4*
+
+%2*
+
+%32from°
+­
+€
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\ResourceModel\Oauth\Token.php­' ­(7
+%5"__sanitizing_cast*
+
+$consumerId¸µ
+€
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\ResourceModel\Oauth\Token.php« ­(8
+%6*
+
+%4*
+consumer_id = ?*
+
+%52where®
+«
+€
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\ResourceModel\Oauth\Token.php®% ®(3
+%7"__sanitizing_cast*
+
+	$userType¶³
+€
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\ResourceModel\Oauth\Token.php« ®(4
+%8*
+
+%6*
+user_type = ?*
+
+%72whereŸ
+œ
+€
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\ResourceModel\Oauth\Token.php« ®(4	
+$select"__id*
+
+%8´±
+€
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\ResourceModel\Oauth\Token.php¯ ¯(-
+%9*
+
+$connection*
+	
+$select2fetchrow"‹
+€
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\ResourceModel\Oauth\Token.php¯ ¯(.
+
+%9:
+$consumerId:
+	$userTypeB75
+3magento\integration\model\resourcemodel\oauth\token

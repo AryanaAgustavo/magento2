@@ -1,0 +1,454 @@
+
+Kmagento\customer\model\address\customeraddressdataformatter::prepareaddress†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php8 8(""1*Û
+
+2†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpX X(=´±
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpX X(<
+%56*
+
+$customerAddress2	__toarray¯
+¬
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpX X(<
+$customerAddress"__id*
+
+%56ù
+ö
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpY2 Y(R
+%57"__id*^*\=
+;magento\customer\model\address\customeraddressdataformatter"
+customAttributesProcessorÊ
+Ç
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpZ Z(5
+%58"__mapGet*
+
+$customerAddress*
+custom_attributesÁ¾
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpY2 [(
+%59*
+
+%57*
+
+%582filternotvisibleattributesÑ
+Î
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpY Y(/
+%60"__mapSet*
+
+$resultAddress*
+custom_attributes*
+
+%59*
+3*¬
+3†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php^ ^("
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php^ ^(
+
+$resultAddress*éT
+1†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(
+è
+å
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php8 8("
+$customerAddress"__id*@
+>
+$customerAddress*magento\customer\api\data\addressinterfaceš—
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%1"$Array¯¬
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php; ;(-
+%2*
+
+$customerAddress2getid´
+±
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%3"__mapSet*
+
+%1*
+id*
+
+%2·´
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php< <(>
+%4*
+
+$customerAddress2getcustomerid½
+º
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%5"__mapSet*
+
+%1*
+customer_id*
+
+%4´±
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php= =(7
+%6*
+
+$customerAddress2
+getcompany¹
+¶
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%7"__mapSet*
+
+%1*	
+company*
+
+%6³°
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php> >(5
+%8*
+
+$customerAddress2	getprefix¸
+µ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%9"__mapSet*
+
+%1*
+
+prefix*
+
+%8·´
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php? ?(;
+%10*
+
+$customerAddress2getfirstname½
+º
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%11"__mapSet*
+
+%1*
+	firstname*
+
+%10¶³
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php@ @(9
+%12*
+
+$customerAddress2getlastname¼
+¹
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%13"__mapSet*
+
+%1*
+
+lastname*
+
+%12¸µ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpA A(=
+%14*
+
+$customerAddress2getmiddlename¾
+»
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%15"__mapSet*
+
+%1*
+
+middlename*
+
+%14´±
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpB B(5
+%16*
+
+$customerAddress2	getsuffixº
+·
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%17"__mapSet*
+
+%1*
+
+suffix*
+
+%16´±
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpC C(5
+%18*
+
+$customerAddress2	getstreetº
+·
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%19"__mapSet*
+
+%1*
+
+street*
+
+%18²¯
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpD D(1
+%20*
+
+$customerAddress2getcity¸
+µ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%21"__mapSet*
+
+%1*
+city*
+
+%20›˜
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpE I(
+%22"$Array´±
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpF F(9
+%23*
+
+$customerAddress2	getregion§¤
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpF F(F
+%24*
+
+%232	getregion»
+¸
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpE I(
+%25"__mapSet*
+
+%22*
+
+region*
+
+%24´±
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpG! G(>
+%26*
+
+$customerAddress2	getregion«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpG! G(O
+%27*
+
+%262getregioncodeÀ
+½
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpE I(
+%28"__mapSet*
+
+%22*
+region_code*
+
+%27´±
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpH H(<
+%29*
+
+$customerAddress2	getregion©¦
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpH H(K
+%30*
+
+%292getregionid¾
+»
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpE I(
+%31"__mapSet*
+
+%22*
+	region_id*
+
+%30º
+·
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%32"__mapSet*
+
+%1*
+
+region*
+
+%22¶³
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpJ J(:
+%33*
+
+$customerAddress2getregionid½
+º
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%34"__mapSet*
+
+%1*
+	region_id*
+
+%33¶³
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpK K(9
+%35*
+
+$customerAddress2getpostcode¼
+¹
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%36"__mapSet*
+
+%1*
+
+postcode*
+
+%35·´
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpL L(<
+%37*
+
+$customerAddress2getcountryid¾
+»
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%38"__mapSet*
+
+%1*
+
+country_id*
+
+%37·´
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpM M(;
+%39*
+
+$customerAddress2gettelephone½
+º
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%40"__mapSet*
+
+%1*
+	telephone*
+
+%39±®
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpN N(/
+%41*
+
+$customerAddress2getfax·
+´
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%42"__mapSet*
+
+%1*
+fax*
+
+%41»¸
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpO! O(E
+%43*
+
+$customerAddress2isdefaultbillingÃ
+À
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%44"__mapSet*
+
+%1*
+default_billing*
+
+%43¼¹
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpP" P(G
+%45*
+
+$customerAddress2isdefaultshippingÄ
+Á
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%46"__mapSet*
+
+%1*
+default_shipping*
+
+%45„
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpQ Q(I
+%47*?=
+;magento\customer\model\address\customeraddressdataformatter*
+
+$customerAddress2getcustomeraddressinlineº
+·
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%48"__mapSet*
+
+%1*
+
+inline*
+
+%47›˜
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpR# R(%
+%49"$ArrayÅ
+Â
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%50"__mapSet*
+
+%1*
+custom_attributes*
+
+%49Á¾
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpS& S(P
+%51*
+
+$customerAddress2getextensionattributesÈ
+Å
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%52"__mapSet*
+
+%1*
+extension_attributes*
+
+%51³°
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpT T(4
+%53*
+
+$customerAddress2getvatidº
+·
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+%54"__mapSet*
+
+%1*
+
+vat_id*
+
+%53¬
+©
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.php: U(	
+$resultAddress"__id*
+
+%1¾»
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\CustomerAddressDataFormatter.phpW W(3
+%55*
+
+$customerAddress2getcustomattributes*
+2
+3:>
+$customerAddress*magento\customer\api\data\addressinterfaceB?=
+;magento\customer\model\address\customeraddressdataformatter

@@ -1,0 +1,29 @@
+
+8magento\graphql\wishlist\customerwishliststest::getquery–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\CustomerWishlistsTest.php¶ ¶("1*¿
+1–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\CustomerWishlistsTest.php¸ È(ü
+ù
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\CustomerWishlistsTest.php¸ È(
+%1"__id*ÑÎ
+Ëquery {
+  customer {
+    wishlists {
+      id
+      items_count
+      sharing_code
+      updated_at
+      items_v2 {
+        items {
+        product {name sku}
+        }
+      }
+    }
+  }
+}"¡
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\CustomerWishlistsTest.php¸ È(
+
+%1B20
+.magento\graphql\wishlist\customerwishliststest

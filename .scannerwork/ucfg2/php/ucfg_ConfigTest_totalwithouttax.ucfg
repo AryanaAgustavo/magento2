@@ -1,0 +1,53 @@
+
+\magento\tax\controller\adminhtml\system\configtest::testadditionallyshowordertotalwithouttax•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Controller\Adminhtml\System\ConfigTest.php (<"1*Å
+2
+ConfigTest.php"­
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Controller\Adminhtml\System\ConfigTest.php (
+implicit return*‘
+1•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Controller\Adminhtml\System\ConfigTest.php (I–“
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Controller\Adminhtml\System\ConfigTest.php (H
+%1*64
+2magento\tax\controller\adminhtml\system\configtest*1/
+-backend/admin/system_config/edit/section/tax/2dispatchæã
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Controller\Adminhtml\System\ConfigTest.php ($
+%2*64
+2magento\tax\controller\adminhtml\system\configtest2getresponse²¯
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Controller\Adminhtml\System\ConfigTest.php (/
+%3*
+
+%22getbody²
+¯
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Controller\Adminhtml\System\ConfigTest.php (/
+$body"__id*
+
+%3¦£
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Controller\Adminhtml\System\ConfigTest.php (T
+%4*64
+2magento\tax\controller\adminhtml\system\configtest*$"
+ id="tax_cart_display_grandtotal"*	
+
+$body2assertstringcontainsstring§¤
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Controller\Adminhtml\System\ConfigTest.php (U
+%5*64
+2magento\tax\controller\adminhtml\system\configtest*%#
+!id="tax_sales_display_grandtotal"*	
+
+$body2assertstringcontainsstring¯¬
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Controller\Adminhtml\System\ConfigTest.php (]
+%6*64
+2magento\tax\controller\adminhtml\system\configtest*-+
+)Additionally Show Order Total Without Tax*	
+
+$body2assertstringcontainsstring*
+2B64
+2magento\tax\controller\adminhtml\system\configtest

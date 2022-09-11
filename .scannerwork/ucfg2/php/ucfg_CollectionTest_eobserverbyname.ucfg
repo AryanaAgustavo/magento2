@@ -1,0 +1,157 @@
+
+Smagento\framework\event\test\unit\observer\collectiontest::testremoveobserverbynameà
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpd d(,"1*º
+2
+CollectionTest.php"†
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpt t(
+implicit return*å%
+1à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpf f(>¯ı
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpf f(=
+%1*=;
+9magento\framework\event\test\unit\observer\collectiontest*
+test_observer12getobservermock™
+ß
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpf f(=
+
+$observer1"__id*
+
+%1¯ı
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpg g(=
+%2*=;
+9magento\framework\event\test\unit\observer\collectiontest*
+test_observer22getobservermock™
+ß
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpg g(=
+
+$observer2"__id*
+
+%2Ò
+Ó
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpi i(!
+%3"__id*U*S;
+9magento\framework\event\test\unit\observer\collectiontest"
+observerCollectionπ∂
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpi i(:
+%4*
+
+%3*
+
+
+$observer12addobserverÒ
+Ó
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpj j(!
+%5"__id*U*S;
+9magento\framework\event\test\unit\observer\collectiontest"
+observerCollectionπ∂
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpj j(:
+%6*
+
+%5*
+
+
+$observer22addobserverúô
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpm m(L
+%7"$Array 
+«
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpm m(L
+%8"__mapSet*
+
+%7*
+test_observer1*
+
+
+$observer1 
+«
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpm m(L
+%9"__mapSet*
+
+%7*
+test_observer2*
+
+
+$observer2Ú
+Ô
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpn n(%
+%10"__id*U*S;
+9magento\framework\event\test\unit\observer\collectiontest"
+observerCollectionØ¨
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpn n(8
+%11*
+
+%102getallobserversÛ
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpl o(	
+%12*=;
+9magento\framework\event\test\unit\observer\collectiontest*
+
+%7*
+
+%112assertequalsÚ
+Ô
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpq q(!
+%13"__id*U*S;
+9magento\framework\event\test\unit\observer\collectiontest"
+observerCollectionÆ´
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpq8 q(M
+%14*
+
+
+$observer22getnameΩ∫
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phpq q(N
+%15*
+
+%13*
+
+%142removeobserverbynameùö
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phps s(<
+%16"$ArrayÃ
+…
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phps s(<
+%17"__mapSet*
+
+%16*
+test_observer1*
+
+
+$observer1Ú
+Ô
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phps> s(W
+%18"__id*U*S;
+9magento\framework\event\test\unit\observer\collectiontest"
+observerCollectionØ¨
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phps> s(j
+%19*
+
+%182getallobserversÙÒ
+à
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Test\Unit\Observer\CollectionTest.phps s(k
+%20*=;
+9magento\framework\event\test\unit\observer\collectiontest*
+
+%16*
+
+%192assertequals*
+2B=;
+9magento\framework\event\test\unit\observer\collectiontest

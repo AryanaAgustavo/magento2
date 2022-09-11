@@ -1,0 +1,54 @@
+
+Amagento\graphql\wishlist\deleteproductsfromwishlisttest::getquery
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpq q("1*­
+
+1ž
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpu ‰(	Ñ
+Î
+
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpq q(
+$wishlistId"__id*
+
+$wishlistIdstringÙ
+Ö
+
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpq q(
+$wishlistItemId"__id*
+
+$wishlistItemIdstringª
+§
+ž
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpu ‰(
+%1"__concat*@>
+<mutation {
+  removeProductsFromWishlist(
+    wishlistId: "* 
+",
+    wishlistItemsIds: ["*éæ
+ã"]
+) {
+    user_errors {
+      code
+      message
+    }
+    wishlist {
+      id
+      sharing_code
+      items_count
+      items_v2 {
+        items {id description quantity product {name sku}}
+      }
+    }
+  }
+}*
+
+$wishlistId*
+
+$wishlistItemId"©
+ž
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\DeleteProductsFromWishlistTest.phpu ‰(	
+
+%1:
+$wishlistIdstring:
+$wishlistItemIdstringB;9
+7magento\graphql\wishlist\deleteproductsfromwishlisttest

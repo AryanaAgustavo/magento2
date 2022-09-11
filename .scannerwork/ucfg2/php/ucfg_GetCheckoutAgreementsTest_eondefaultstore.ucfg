@@ -1,0 +1,81 @@
+
+qmagento\graphql\checkoutagreements\getcheckoutagreementstest::testgetactiveagreementfromsecondstoreondefaultstore¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CheckoutAgreements\GetCheckoutAgreementsTest.phpO O(G"1*á
+2
+GetCheckoutAgreementsTest.php"º
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CheckoutAgreements\GetCheckoutAgreementsTest.php\ \(
+implicit return*Ÿ
+1¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CheckoutAgreements\GetCheckoutAgreementsTest.phpQ Q(2Ü
+Ù
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CheckoutAgreements\GetCheckoutAgreementsTest.phpQ Q(1
+$secondStoreCode"__id*
+fixture_second_storeâ
+ß
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CheckoutAgreements\GetCheckoutAgreementsTest.phpR R(7
+$agreementsName"__id*
+Checkout Agreement (active)ú÷
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CheckoutAgreements\GetCheckoutAgreementsTest.phpT T("
+%1*@>
+<magento\graphql\checkoutagreements\getcheckoutagreementstest2getqueryÀ
+½
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CheckoutAgreements\GetCheckoutAgreementsTest.phpT T("
+$query"__id*
+
+%1´±
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CheckoutAgreements\GetCheckoutAgreementsTest.phpU U(I
+%2*@>
+<magento\graphql\checkoutagreements\getcheckoutagreementstest*
+
+$secondStoreCode*
+
+$agreementsName2assignagreementstostoreŠ‡
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CheckoutAgreements\GetCheckoutAgreementsTest.phpW W(/
+%3*@>
+<magento\graphql\checkoutagreements\getcheckoutagreementstest*
+
+
+$query2graphqlqueryÃ
+À
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CheckoutAgreements\GetCheckoutAgreementsTest.phpW W(/
+	$response"__id*
+
+%3è
+å
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CheckoutAgreements\GetCheckoutAgreementsTest.phpY Y(@
+%4"Omagento\graphql\checkoutagreements\getcheckoutagreementstest::assertarrayhaskey*@">
+<magento\graphql\checkoutagreements\getcheckoutagreementstest*
+checkoutAgreements*
+
+	$responseß
+Ü
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CheckoutAgreements\GetCheckoutAgreementsTest.phpZ Z(5
+%5"__mapGet*
+
+	$response*
+checkoutAgreementsÅ
+Â
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CheckoutAgreements\GetCheckoutAgreementsTest.phpZ Z(5
+$agreements"__id*
+
+%5Ì
+É
+¢
+—C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CheckoutAgreements\GetCheckoutAgreementsTest.php[ [(&
+%6"Imagento\graphql\checkoutagreements\getcheckoutagreementstest::assertempty*@">
+<magento\graphql\checkoutagreements\getcheckoutagreementstest*
+
+$agreements*
+2B@>
+<magento\graphql\checkoutagreements\getcheckoutagreementstest

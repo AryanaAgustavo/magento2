@@ -1,0 +1,72 @@
+
+Imagento\theme\model\resourcemodel\theme\collection::addtyperelationfilter}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Theme\Model\ResourceModel\Theme\Collection.phpE E()"1*…
+1}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Theme\Model\ResourceModel\Theme\Collection.phpG Q(
+À»
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Theme\Model\ResourceModel\Theme\Collection.phpG G(
+%1*64
+2magento\theme\model\resourcemodel\theme\collection2	getselectêç
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Theme\Model\ResourceModel\Theme\Collection.phpH H(/
+%2"$ArrayŒÀ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Theme\Model\ResourceModel\Theme\Collection.phpH H(.
+%3*64
+2magento\theme\model\resourcemodel\theme\collection2getmaintableÆ
+´
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Theme\Model\ResourceModel\Theme\Collection.phpH H(/
+%4"__mapSet*
+
+%2*
+
+parent*
+
+%3êç
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Theme\Model\ResourceModel\Theme\Collection.phpJ J(,
+%5"$Arrayº
+π
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Theme\Model\ResourceModel\Theme\Collection.phpJ J(,
+%6"__mapSet*
+
+%5*
+parent_type*
+parent.type“œ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Theme\Model\ResourceModel\Theme\Collection.phpG K(	
+%7*
+
+%1*
+
+%2**(
+&main_table.parent_id = parent.theme_id*
+
+%52joinΩ∫
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Theme\Model\ResourceModel\Theme\Collection.phpG N(	
+%8*
+
+%7*
+parent.type = ?*
+
+$typeParent2where¿Ω
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Theme\Model\ResourceModel\Theme\Collection.phpG Q(	
+%9*
+
+%8*
+main_table.type = ?*
+
+
+$typeChild2where"∑
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Theme\Model\ResourceModel\Theme\Collection.phpR R(64
+2magento\theme\model\resourcemodel\theme\collection:
+$typeParent:
+
+$typeChildB64
+2magento\theme\model\resourcemodel\theme\collection

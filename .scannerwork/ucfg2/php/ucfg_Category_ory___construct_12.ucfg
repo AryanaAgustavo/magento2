@@ -1,0 +1,282 @@
+
++magento\catalog\model\category::__constructk
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î("1*ò
+2
+Category.php"Ç
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpô ô(
+implicit return* 9
+1k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÇ Ç(2±
+Æ
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+
+$context"__id*-
++
+$contextmagento\framework\model\contextÆ
+´
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+	$registry"__id*)
+'
+	$registrymagento\framework\registry‘
+—
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$extensionFactory"__id*G
+E
+$extensionFactory0magento\framework\api\extensionattributesfactory€
+ÿ
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$customAttributeFactory"__id*H
+F
+$customAttributeFactory+magento\framework\api\attributevaluefactory≈
+¬
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface⁄
+◊
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$metadataService"__id*N
+L
+$metadataService8magento\catalog\api\categoryattributerepositoryinterface›
+⁄
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$categoryTreeResource"__id*L
+J
+$categoryTreeResource1magento\catalog\model\resourcemodel\category\tree‚
+ﬂ
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$categoryTreeFactory"__id*R
+P
+$categoryTreeFactory8magento\catalog\model\resourcemodel\category\treefactoryÈ
+Ê
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$storeCollectionFactory"__id*V
+T
+$storeCollectionFactory9magento\store\model\resourcemodel\store\collectionfactory®
+•
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$url"__id*(
+&
+$urlmagento\framework\urlinterfaceÒ
+Ó
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$productCollectionFactory"__id*\
+Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactory∫
+∑
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$catalogConfig"__id*0
+.
+$catalogConfigmagento\catalog\model\config∂
+≥
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(	
+$filter"__id*3
+1
+$filter&magento\framework\filter\filtermanager«
+ƒ
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+
+$flatState"__id*A
+?
+
+$flatState1magento\catalog\model\indexer\category\flat\stateÏ
+È
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$categoryUrlPathGenerator"__id*W
+U
+$categoryUrlPathGenerator8magento\catalogurlrewrite\model\categoryurlpathgenerator¡
+æ
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+
+$urlFinder"__id*;
+9
+
+$urlFinder+magento\urlrewrite\model\urlfinderinterfaceÀ
+»
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$indexerRegistry"__id*?
+=
+$indexerRegistry)magento\framework\indexer\indexerregistry◊
+‘
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$categoryRepository"__id*H
+F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface 
+«
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresource‘
+—
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdbë
+é
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÎ Î(
+$data"__id*
+
+$dataarray√
+¿
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÇ Ç(15 
+magento\catalog\model\category"
+metadataService"__id*
+
+$metadataService√
+¿
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÉ É(10 
+magento\catalog\model\category"
+
+_treeModel"__id*
+
+$categoryTreeResourceÃ
+…
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÑ Ñ(:: 
+magento\catalog\model\category"
+_categoryTreeFactory"__id*
+
+$categoryTreeFactory“
+œ
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÖ Ö(@= 
+magento\catalog\model\category"
+_storeCollectionFactory"__id*
+
+$storeCollectionFactory¨
+©
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpÜ Ü(* 
+magento\catalog\model\category"
+_url"__id*
+
+$url÷
+”
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpá á(D? 
+magento\catalog\model\category"
+_productCollectionFactory"__id*
+
+$productCollectionFactory¿
+Ω
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpà à(.4 
+magento\catalog\model\category"
+_catalogConfig"__id*
+
+$catalogConfig±
+Æ
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpâ â(, 
+magento\catalog\model\category"
+filter"__id*
+	
+$filter∑
+¥
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpä ä(%/ 
+magento\catalog\model\category"
+	flatState"__id*
+
+
+$flatState’
+“
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpã ã(C> 
+magento\catalog\model\category"
+categoryUrlPathGenerator"__id*
+
+$categoryUrlPathGenerator∑
+¥
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpå å(%/ 
+magento\catalog\model\category"
+	urlFinder"__id*
+
+
+$urlFinder√
+¿
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpç ç(15 
+magento\catalog\model\category"
+indexerRegistry"__id*
+
+$indexerRegistry…
+∆
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpé é(78 
+magento\catalog\model\category"
+categoryRepository"__id*
+
+$categoryRepository„
+‡
+k
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Category.phpè ò(	
+%1"0magento\catalog\model\abstractmodel::__construct*" 
+magento\catalog\model\category*
+
+
+$context*
+
+	$registry*
+
+$extensionFactory*
+
+$customAttributeFactory*
+
+$storeManager*
+
+	$resource*
+
+$resourceCollection*	
+
+$data*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:E
+$extensionFactory0magento\framework\api\extensionattributesfactory:F
+$customAttributeFactory+magento\framework\api\attributevaluefactory::
+$storeManager)magento\store\model\storemanagerinterface:L
+$metadataService8magento\catalog\api\categoryattributerepositoryinterface:J
+$categoryTreeResource1magento\catalog\model\resourcemodel\category\tree:P
+$categoryTreeFactory8magento\catalog\model\resourcemodel\category\treefactory:T
+$storeCollectionFactory9magento\store\model\resourcemodel\store\collectionfactory:&
+$urlmagento\framework\urlinterface:Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactory:.
+$catalogConfigmagento\catalog\model\config:1
+$filter&magento\framework\filter\filtermanager:?
+
+$flatState1magento\catalog\model\indexer\category\flat\state:U
+$categoryUrlPathGenerator8magento\catalogurlrewrite\model\categoryurlpathgenerator:9
+
+$urlFinder+magento\urlrewrite\model\urlfinderinterface:=
+$indexerRegistry)magento\framework\indexer\indexerregistry:F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB" 
+magento\catalog\model\category

@@ -1,0 +1,132 @@
+
+8magento\customer\controller\account\confirm::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpX X("1*¢
+2
+Confirm.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpj j(
+implicit return*ª
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpb b(*¡
+æ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpX X(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\contextÀ
+»
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpX X(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\session÷
+”
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpX X(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface–
+Õ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpX X(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface
+Ì
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpX X(
+$customerAccountManagement"__id*O
+M
+$customerAccountManagement/magento\customer\api\accountmanagementinterface„
+‡
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpX X(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterface»
+≈
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpX X(
+$addressHelper"__id*3
+1
+$addressHelpermagento\customer\helper\addressø
+º
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpX X(
+$urlFactory"__id*-
++
+$urlFactorymagento\framework\urlfactory”
+–
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpb b():-
++magento\customer\controller\account\confirm"	
+session"__id*
+
+$customerSession”
+–
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpc c()>-
++magento\customer\controller\account\confirm"
+scopeConfig"__id*
+
+$scopeConfig’
+“
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpd d(+?-
++magento\customer\controller\account\confirm"
+storeManager"__id*
+
+$storeManagerÔ
+Ï
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpe e(EL-
++magento\customer\controller\account\confirm"
+customerAccountManagement"__id*
+
+$customerAccountManagement·
+ﬁ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpf f(7E-
++magento\customer\controller\account\confirm"
+customerRepository"__id*
+
+$customerRepository◊
+‘
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpg g(-@-
++magento\customer\controller\account\confirm"
+addressHelper"__id*
+
+$addressHelperöó
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phph h(/
+%1*
+
+$urlFactory2create∆
+√
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phph h(/;-
++magento\customer\controller\account\confirm"
+
+urlModel"__id*
+
+%1˙
+˜
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Account\Confirm.phpi i(%
+%2"8magento\customer\controller\abstractaccount::__construct*/-
++magento\customer\controller\account\confirm*
+
+
+$context*
+2:0
+$context$magento\framework\app\action\context:2
+$customerSessionmagento\customer\model\session:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface::
+$storeManager)magento\store\model\storemanagerinterface:M
+$customerAccountManagement/magento\customer\api\accountmanagementinterface:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:1
+$addressHelpermagento\customer\helper\address:+
+$urlFactorymagento\framework\urlfactoryB/-
++magento\customer\controller\account\confirm

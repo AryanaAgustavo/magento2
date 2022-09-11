@@ -1,0 +1,181 @@
+
+5magento\sales\model\order\customerassignment::executew
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php2 2("1*Æ
+2
+CustomerAssignment.php"é
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.phpG G(
+implicit return*ì$
+1w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php4 <(:ø
+º
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php2 2(
+$order"__id*1
+/
+$order%magento\sales\api\data\orderinterfaceÀ
+»
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php2 2(
+	$customer"__id*:
+8
+	$customer+magento\customer\api\data\customerinterfaceòï
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php4 4(0
+%1*
+
+	$customer2getid•¢
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php4 4(1
+%2*
+
+
+$order*
+
+%12setcustomerid©¶
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php4 5('
+%3*
+
+%2*	
+false2setcustomerisguestõò
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php6 6(4
+%4*
+
+	$customer2getemail§°
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php4 6(5
+%5*
+
+%3*
+
+%42setcustomeremailüú
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php7# 7(<
+%6*
+
+	$customer2getfirstname®•
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php4 7(=
+%7*
+
+%5*
+
+%62setcustomerfirstnameûõ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php8" 8(:
+%8*
+
+	$customer2getlastnameß§
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php4 8(;
+%9*
+
+%7*
+
+%82setcustomerlastname°û
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php9$ 9(>
+%10*
+
+	$customer2getmiddlename´®
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php4 9(?
+%11*
+
+%9*
+
+%102setcustomermiddlenameùö
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php:  :(6
+%12*
+
+	$customer2	getprefix®•
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php4 :(7
+%13*
+
+%11*
+
+%122setcustomerprefixùö
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php;  ;(6
+%14*
+
+	$customer2	getsuffix®•
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php4 ;(7
+%15*
+
+%13*
+
+%142setcustomersuffixûõ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php<! <(8
+%16*
+
+	$customer2
+getgroupid©¶
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php4 <(9
+%17*
+
+%15*
+
+%162setcustomergroupid–
+Õ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php> >(
+%18"__id*E*C.
+,magento\sales\model\order\customerassignment"
+orderRepositoryûõ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php> >(,
+%19*
+
+%18*
+
+
+$order2saveÕ
+ 
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php@ @(
+%20"__id*B*@.
+,magento\sales\model\order\customerassignment"
+eventManagerãà
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.phpB E(
+%21"$Array≠
+™
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.phpB E(
+%22"__mapSet*
+
+%21*	
+order*
+
+
+$order≥
+∞
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.phpB E(
+%23"__mapSet*
+
+%21*
+
+customer*
+
+	$customer∆√
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\CustomerAssignment.php@ F(	
+%24*
+
+%20*%#
+!sales_order_customer_assign_after*
+
+%212dispatch*
+2:/
+$order%magento\sales\api\data\orderinterface:8
+	$customer+magento\customer\api\data\customerinterfaceB0.
+,magento\sales\model\order\customerassignment

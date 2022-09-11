@@ -1,0 +1,94 @@
+
+Bmagento\catalog\model\indexer\product\eav\abstractaction::syncdataÖ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpã ã("1*ø
+2Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpó ó($¨©
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpó ó(#
+%8*
+
+$connection2rollback*
+4*π
+4
+AbstractAction.php"ù
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpö ö(
+implicit return*ñ
+1Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpç ç(0
+Ì
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpã ã(
+
+$indexer"__id*Q
+O
+$indexerCmagento\catalog\model\resourcemodel\product\indexer\eav\abstracteavÆ´
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpç ç(/
+%1*
+
+
+$indexer2getconnection®
+•
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpç ç(/
+$connection"__id*
+
+%1¥±
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpé é('
+%2*
+
+$connection2begintransaction÷”
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpë ë(L
+%3*
+
+$connection*
+entity_id IN (?)*
+
+$ids*
+INT2	quoteinto£
+†
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpë ë(L
+$where"__id*
+
+%3Õ 
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpí í(:
+%4*
+
+$connection*
+
+$destinationTable*
+
+
+$where2delete¨©
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpî& î(=
+%5*
+
+
+$indexer2getidxtableœÃ
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpî î(Q
+%6*
+
+
+$indexer*
+
+%5*
+
+$destinationTable2insertfromtable™ß
+Ö
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Eav\AbstractAction.phpï ï(!
+%7*
+
+$connection2commit*
+2
+4:O
+$indexerCmagento\catalog\model\resourcemodel\product\indexer\eav\abstracteav:
+$destinationTable:
+$idsB<:
+8magento\catalog\model\indexer\product\eav\abstractaction

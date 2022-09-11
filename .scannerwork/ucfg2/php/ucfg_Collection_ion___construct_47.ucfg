@@ -1,0 +1,86 @@
+
+Vmagento\security\model\resourcemodel\passwordresetrequestevent\collection::__construct•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\ResourceModel\PasswordResetRequestEvent\Collection.php% %("1*Å
+2
+Collection.php"­
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\ResourceModel\PasswordResetRequestEvent\Collection.php0 0(
+implicit return*„
+1•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\ResourceModel\PasswordResetRequestEvent\Collection.php. .(l
+þ
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\ResourceModel\PasswordResetRequestEvent\Collection.php% %(
+$entityFactory"__id*L
+J
+$entityFactory8magento\framework\data\collection\entityfactoryinterfaceÒ
+Ï
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\ResourceModel\PasswordResetRequestEvent\Collection.php% %(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface„
+
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\ResourceModel\PasswordResetRequestEvent\Collection.php% %(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceï
+ì
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\ResourceModel\PasswordResetRequestEvent\Collection.php% %(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceé
+æ
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\ResourceModel\PasswordResetRequestEvent\Collection.php% %(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetimeð
+í
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\ResourceModel\PasswordResetRequestEvent\Collection.php% %(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceò
+ï
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\ResourceModel\PasswordResetRequestEvent\Collection.php% %(
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdb­
+ª
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\ResourceModel\PasswordResetRequestEvent\Collection.php. .(k
+%1"Smagento\framework\model\resourcemodel\db\collection\abstractcollection::__construct*MK
+Imagento\security\model\resourcemodel\passwordresetrequestevent\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$connection*
+
+	$resource‹
+ˆ
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Model\ResourceModel\PasswordResetRequestEvent\Collection.php/ /(#YK
+Imagento\security\model\resourcemodel\passwordresetrequestevent\collection"
+
+dateTime"__id*
+
+	$dateTime*
+2:J
+$entityFactory8magento\framework\data\collection\entityfactoryinterface:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:7
+	$dateTime*magento\framework\stdlib\datetime\datetime:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbBMK
+Imagento\security\model\resourcemodel\passwordresetrequestevent\collection

@@ -1,0 +1,59 @@
+
+Fmagento\catalogrule\model\indexer\indexbuilder::cleanproductpriceindex{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\IndexBuilder.php‚ ‚(+"1*¬
+2
+IndexBuilder.php"’
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\IndexBuilder.php† †(
+implicit return*Š
+1{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\IndexBuilder.php„ „(6­
+ª
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\IndexBuilder.php‚ ‚(+
+$productIds"__id*
+
+$productIdsarrayŽ‹
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\IndexBuilder.php„ „(5
+%1"$ArrayÀ
+½
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\IndexBuilder.php„ „(5
+%2"__mapSet*
+
+%1*
+product_id IN (?)*
+
+$productIds˜
+•
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\IndexBuilder.php„ „(5
+$where"__id*
+
+%1Ð
+Í
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\IndexBuilder.php… …(
+%3"__id*B*@0
+.magento\catalogrule\model\indexer\indexbuilder"
+
+connectionãà
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\IndexBuilder.php…" …(N
+%4*20
+.magento\catalogrule\model\indexer\indexbuilder*
+catalogrule_product_price2gettableª§
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\Indexer\IndexBuilder.php… …(W
+%5*
+
+%3*
+
+%4*
+
+
+$where2delete*
+2:
+$productIdsarrayB20
+.magento\catalogrule\model\indexer\indexbuilder

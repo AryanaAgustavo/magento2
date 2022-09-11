@@ -1,0 +1,72 @@
+
+Bmagento\graphql\quote\guest\checkoutendtoendtest::setpaymentmethod˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpÞ Þ(%"1*Ò
+2
+CheckoutEndToEndTest.php"°
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpó ó(
+implicit return*Þ
+1˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpà ñ(Ä
+Á
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpÞ Þ(%	
+$cartId"__id*
+
+$cartIdstringÃ
+À
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpÞ Þ(%	
+$method"__id*
+
+$methodarrayÅ
+Â
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpæ æ(
+%1"__mapGet*
+	
+$method*
+code°
+­
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpà ñ(
+%2"__concat*IG
+Emutation {
+  setPaymentMethodOnCart(
+    input: {
+      cart_id: "*/-
++"
+      payment_method: {
+        code: "*om
+k"
+      }
+    }
+  ) {
+    cart {
+      selected_payment_method {
+        code
+      }
+    }
+  }
+}*
+	
+$cartId*
+
+%1¶
+³
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpà ñ(
+$query"__id*
+
+%2÷ô
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpò ò(&
+%3*42
+0magento\graphql\quote\guest\checkoutendtoendtest*
+
+
+$query2graphqlmutation*
+2:
+$cartIdstring:
+$methodarrayB42
+0magento\graphql\quote\guest\checkoutendtoendtest

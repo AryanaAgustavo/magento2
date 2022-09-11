@@ -1,0 +1,97 @@
+
+:magento\shipping\block\adminhtml\create\items::__constructx
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Block\Adminhtml\Create\Items.php% %("1*¢
+2
+	Items.php"
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Block\Adminhtml\Create\Items.php1 1(
+implicit return*”
+1x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Block\Adminhtml\Create\Items.php. .('Å
+Â
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Block\Adminhtml\Create\Items.php% %(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\contextÞ
+Û
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Block\Adminhtml\Create\Items.php% %(
+$stockRegistry"__id*G
+E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterfaceí
+ê
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Block\Adminhtml\Create\Items.php% %(
+$stockConfiguration"__id*Q
+O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterface»
+¸
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Block\Adminhtml\Create\Items.php% %(
+	$registry"__id*)
+'
+	$registrymagento\framework\registry¼
+¹
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Block\Adminhtml\Create\Items.php% %(
+
+$salesData"__id*)
+'
+
+$salesDatamagento\sales\helper\dataÒ
+Ï
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Block\Adminhtml\Create\Items.php% %(
+$carrierFactory"__id*:
+8
+$carrierFactory%magento\shipping\model\carrierfactoryž
+›
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Block\Adminhtml\Create\Items.php% %(
+$data"__id*
+
+$dataarrayÔ
+Ñ
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Block\Adminhtml\Create\Items.php. .(&?/
+-magento\shipping\block\adminhtml\create\items"
+
+_salesData"__id*
+
+
+$salesDataÞ
+Û
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Block\Adminhtml\Create\Items.php/ /(0D/
+-magento\shipping\block\adminhtml\create\items"
+_carrierFactory"__id*
+
+$carrierFactoryË
+È
+x
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Block\Adminhtml\Create\Items.php0 0(\
+%1">magento\sales\block\adminhtml\items\abstractitems::__construct*1/
+-magento\shipping\block\adminhtml\create\items*
+
+
+$context*
+
+$stockRegistry*
+
+$stockConfiguration*
+
+	$registry*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterface:O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterface:'
+	$registrymagento\framework\registry:'
+
+$salesDatamagento\sales\helper\data:8
+$carrierFactory%magento\shipping\model\carrierfactory:
+$dataarrayB1/
+-magento\shipping\block\adminhtml\create\items

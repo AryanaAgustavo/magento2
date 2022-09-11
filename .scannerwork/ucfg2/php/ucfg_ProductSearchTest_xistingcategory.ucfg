@@ -1,0 +1,74 @@
+
+Kmagento\graphql\catalog\productsearchtest::testfilterfornonexistingcategoryè
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.phpz z(4"1*»
+2
+ProductSearchTest.php"©
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.phpí í(
+implicit return*“
+1ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.php| Ñ(é
+ã
+ê
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.php| Ñ(
+$query"__id*fd
+b{
+  products(filter: {category_id: {eq: "99999999"}}) {
+    filters {
+      name
+    }
+  }
+}Ê„
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.phpÜ Ü(/
+%1*-+
+)magento\graphql\catalog\productsearchtest*
+
+
+$query2graphqlquery≤
+Ø
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.phpÜ Ü(/
+	$response"__id*
+
+%1ƒ
+¡
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.phpä ä(!
+%2"__mapGet*
+
+	$response*
+
+products¶£
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.phpà å(	
+%3*-+
+)magento\graphql\catalog\productsearchtest*	
+filters*
+
+%2*0.
+,Filters are missing in product query result.2assertarrayhaskeyƒ
+¡
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.phpè è(!
+%4"__mapGet*
+
+	$response*
+
+productsº
+π
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.phpè è(,
+%5"__mapGet*
+
+%4*	
+filtersèå
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\ProductSearchTest.phpé ë(	
+%6*-+
+)magento\graphql\catalog\productsearchtest*
+
+%5*,*
+(Returned filters data set does not empty2assertempty*
+2B-+
+)magento\graphql\catalog\productsearchtest

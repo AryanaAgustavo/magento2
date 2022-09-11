@@ -1,0 +1,152 @@
+
+:magento\sales\model\order\payment\transaction::__constructz
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php ("1*ª
+2
+Transaction.php"‘
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php¬ ¬(
+implicit return*•!
+1z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.phpž ž(-À
+½
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php (
+
+$context"__id*-
++
+$contextmagento\framework\model\context½
+º
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php (
+	$registry"__id*)
+'
+	$registrymagento\framework\registryã
+à
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php (
+$extensionFactory"__id*G
+E
+$extensionFactory0magento\framework\api\extensionattributesfactoryê
+ç
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php (
+$customAttributeFactory"__id*H
+F
+$customAttributeFactory+magento\framework\api\attributevaluefactoryË
+È
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php (
+$orderFactory"__id*3
+1
+$orderFactory magento\sales\model\orderfactoryð
+í
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php (
+$orderPaymentRepository"__id*N
+L
+$orderPaymentRepository1magento\sales\api\orderpaymentrepositoryinterfaceÛ
+Ø
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php (
+$orderRepository"__id*@
+>
+$orderRepository*magento\sales\api\orderrepositoryinterfaceÚ
+×
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php (
+$dateFactory"__id*C
+A
+$dateFactory1magento\framework\stdlib\datetime\datetimefactoryë
+è
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php (
+$transactionFactory"__id*M
+K
+$transactionFactory4magento\sales\model\order\payment\transactionfactoryÙ
+Ö
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php (
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceã
+à
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php (
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb 
+
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php (
+$data"__id*
+
+$dataarrayÜ
+Ù
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.phpž ž(,B/
+-magento\sales\model\order\payment\transaction"
+_orderFactory"__id*
+
+$orderFactoryÚ
+×
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.phpŸ Ÿ(*A/
+-magento\sales\model\order\payment\transaction"
+_dateFactory"__id*
+
+$dateFactoryè
+å
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php   (8H/
+-magento\sales\model\order\payment\transaction"
+_transactionFactory"__id*
+
+$transactionFactoryï
+ì
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php¡ ¡(?K/
+-magento\sales\model\order\payment\transaction"
+orderPaymentRepository"__id*
+
+$orderPaymentRepositoryá
+Þ
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php¢ ¢(1D/
+-magento\sales\model\order\payment\transaction"
+orderRepository"__id*
+
+$orderRepositoryì
+é
+z
+nC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction.php£ «(	
+%1".magento\sales\model\abstractmodel::__construct*1/
+-magento\sales\model\order\payment\transaction*
+
+
+$context*
+
+	$registry*
+
+$extensionFactory*
+
+$customAttributeFactory*
+
+	$resource*
+
+$resourceCollection*	
+
+$data*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:E
+$extensionFactory0magento\framework\api\extensionattributesfactory:F
+$customAttributeFactory+magento\framework\api\attributevaluefactory:1
+$orderFactory magento\sales\model\orderfactory:L
+$orderPaymentRepository1magento\sales\api\orderpaymentrepositoryinterface:>
+$orderRepository*magento\sales\api\orderrepositoryinterface:A
+$dateFactory1magento\framework\stdlib\datetime\datetimefactory:K
+$transactionFactory4magento\sales\model\order\payment\transactionfactory:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB1/
+-magento\sales\model\order\payment\transaction

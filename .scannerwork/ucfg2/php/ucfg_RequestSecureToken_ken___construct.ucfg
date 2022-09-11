@@ -1,0 +1,118 @@
+
+Emagento\paypal\controller\transparent\requestsecuretoken::__constructÉ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.php> >("1*ª
+3É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.phpJ5 J(D™
+ß
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.phpJ  J(D
+%1"__id*
+
+$sessionManager*
+4*˘
+4É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.phpJD J(DÁ
+‰
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.phpJ J(DN:
+8magento\paypal\controller\transparent\requestsecuretoken"
+sessionManager"__id*
+
+%1Ó
+Î
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.phpK K()K:
+8magento\paypal\controller\transparent\requestsecuretoken"
+transparent"__id*
+
+$transparentç
+ä
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.phpL L(%
+%2"0magento\framework\app\action\action::__construct*<:
+8magento\paypal\controller\transparent\requestsecuretoken*
+
+
+$context*
+5*ª
+5
+RequestSecureToken.php"õ
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.phpM M(
+implicit return*„
+1É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.phpG G(6œ
+Ã
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.php> >(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\contextÓ
+Î
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.php> >(
+$resultJsonFactory"__id*G
+E
+$resultJsonFactory/magento\framework\controller\result\jsonfactory‚
+ﬂ
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.php> >(
+$sessionTransparent"__id*:
+8
+$sessionTransparent!magento\framework\session\generic˘
+ˆ
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.php> >(
+$secureTokenService"__id*Q
+O
+$secureTokenService8magento\paypal\model\payflow\service\request\securetoken·
+ﬁ
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.php> >(
+$sessionManager"__id*=
+;
+$sessionManager(magento\framework\session\sessionmanager€
+ÿ
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.php> >(
+$transparent"__id*:
+8
+$transparent(magento\paypal\model\payflow\transparentÓ
+Î
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.php> >(
+$sessionInterface"__id*H
+F
+$sessionInterface1magento\framework\session\sessionmanagerinterface˙
+˜
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.phpG G(5Q:
+8magento\paypal\controller\transparent\requestsecuretoken"
+resultJsonFactory"__id*
+
+$resultJsonFactory¸
+˘
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.phpH H(7R:
+8magento\paypal\controller\transparent\requestsecuretoken"
+sessionTransparent"__id*
+
+$sessionTransparent¸
+˘
+É
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Transparent\RequestSecureToken.phpI I(7R:
+8magento\paypal\controller\transparent\requestsecuretoken"
+secureTokenService"__id*
+
+$secureTokenService*
+3
+4:0
+$context$magento\framework\app\action\context:E
+$resultJsonFactory/magento\framework\controller\result\jsonfactory:8
+$sessionTransparent!magento\framework\session\generic:O
+$secureTokenService8magento\paypal\model\payflow\service\request\securetoken:;
+$sessionManager(magento\framework\session\sessionmanager:8
+$transparent(magento\paypal\model\payflow\transparent:F
+$sessionInterface1magento\framework\session\sessionmanagerinterfaceB<:
+8magento\paypal\controller\transparent\requestsecuretoken

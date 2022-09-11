@@ -1,0 +1,136 @@
+
+8magento\framework\lock\test\unit\proxytest::testislockedy
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php1 1( "1*§
+2
+ProxyTest.php"
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php@ @(
+implicit return*‰
+1y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php3 3(Ÿ
+œ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php3 3(
+	$lockName"__id*
+
+testLockË
+È
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php4 4(
+%1"__id*?*=,
+*magento\framework\lock\test\unit\proxytest"
+factoryMockº·
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php4$ 4(1
+%2*.,
+*magento\framework\lock\test\unit\proxytest2onceš
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php4 4(2
+%3*
+
+%1*
+
+%22expects 
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php4 5(
+%4*
+
+%3*
+
+create2methodÊ
+Ç
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php6 6(*
+%5"__id*>*<,
+*magento\framework\lock\test\unit\proxytest"
+
+lockerMock 
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php4 6(+
+%6*
+
+%4*
+
+%52
+willreturnÊ
+Ç
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php7 7(
+%7"__id*>*<,
+*magento\framework\lock\test\unit\proxytest"
+
+lockerMockÃÀ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php7# 7(4
+%8*.,
+*magento\framework\lock\test\unit\proxytest*22exactlyš
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php7 7(5
+%9*
+
+%7*
+
+%82expects£ 
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php7 8( 
+%10*
+
+%9*
+
+isLocked2method£ 
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php7 9(
+%11*
+
+%10*
+
+	$lockName2with¤¡
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php7 :(
+%12*
+
+%11*
+true2
+willreturnÆ
+Ã
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php< <(&
+%13"__id*9*7,
+*magento\framework\lock\test\unit\proxytest"
+proxy§¤
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php< <(;
+%14*
+
+%13*
+
+	$lockName2islockedÊÇ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php< <(<
+%15*.,
+*magento\framework\lock\test\unit\proxytest*
+
+%142
+asserttrueÆ
+Ã
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php? ?(&
+%16"__id*9*7,
+*magento\framework\lock\test\unit\proxytest"
+proxy§¤
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php? ?(;
+%17*
+
+%16*
+
+	$lockName2islockedÊÇ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\ProxyTest.php? ?(<
+%18*.,
+*magento\framework\lock\test\unit\proxytest*
+
+%172
+asserttrue*
+2B.,
+*magento\framework\lock\test\unit\proxytest

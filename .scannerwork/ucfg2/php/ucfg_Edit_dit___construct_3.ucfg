@@ -1,0 +1,72 @@
+
+>magento\search\controller\adminhtml\synonyms\edit::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\Edit.php) )("1*¥
+2
+
+Edit.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\Edit.php3 3(
+implicit return*
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\Edit.php/ /($Å
+Â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\Edit.php) )(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\context¿
+¼
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\Edit.php) )(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryé
+æ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\Edit.php) )(
+$pageBuilder"__id*P
+N
+$pageBuilder>magento\search\controller\adminhtml\synonyms\resultpagebuilderë
+è
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\Edit.php) )(
+$synGroupRepository"__id*K
+I
+$synGroupRepository2magento\search\api\synonymgrouprepositoryinterfaceÙ
+Ö
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\Edit.php/ /(#A3
+1magento\search\controller\adminhtml\synonyms\edit"
+
+registry"__id*
+
+	$registryí
+ê
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\Edit.php0 0(7K3
+1magento\search\controller\adminhtml\synonyms\edit"
+synGroupRepository"__id*
+
+$synGroupRepositoryß
+Ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\Edit.php1 1()D3
+1magento\search\controller\adminhtml\synonyms\edit"
+pageBuilder"__id*
+
+$pageBuilderõ
+ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Controller\Adminhtml\Synonyms\Edit.php2 2(%
+%1"'magento\backend\app\action::__construct*53
+1magento\search\controller\adminhtml\synonyms\edit*
+
+
+$context*
+2:.
+$context"magento\backend\app\action\context:'
+	$registrymagento\framework\registry:N
+$pageBuilder>magento\search\controller\adminhtml\synonyms\resultpagebuilder:I
+$synGroupRepository2magento\search\api\synonymgrouprepositoryinterfaceB53
+1magento\search\controller\adminhtml\synonyms\edit

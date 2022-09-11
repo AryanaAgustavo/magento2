@@ -1,0 +1,68 @@
+
+9magento\quote\model\billingaddressmanagement::__constructw
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.php; ;("1*´
+2
+BillingAddressManagement.php"Ž
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpE E(
+implicit return*Å
+1w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpA A(4×
+Ô
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.php; ;(
+$quoteRepository"__id*?
+=
+$quoteRepository)magento\quote\api\cartrepositoryinterfaceÙ
+Ö
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.php; ;(
+$addressValidator"__id*@
+>
+$addressValidator)magento\quote\model\quoteaddressvalidator³
+°
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.php; ;(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceá
+Þ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.php; ;(
+$addressRepository"__id*G
+E
+$addressRepository/magento\customer\api\addressrepositoryinterfaceß
+Ü
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpA A(3D.
+,magento\quote\model\billingaddressmanagement"
+addressValidator"__id*
+
+$addressValidatorË
+È
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpB B(:.
+,magento\quote\model\billingaddressmanagement"
+logger"__id*
+	
+$loggerÝ
+Ú
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpC C(1C.
+,magento\quote\model\billingaddressmanagement"
+quoteRepository"__id*
+
+$quoteRepositoryá
+Þ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpD D(5E.
+,magento\quote\model\billingaddressmanagement"
+addressRepository"__id*
+
+$addressRepository*
+2:=
+$quoteRepository)magento\quote\api\cartrepositoryinterface:>
+$addressValidator)magento\quote\model\quoteaddressvalidator:"
+$loggerpsr\log\loggerinterface:E
+$addressRepository/magento\customer\api\addressrepositoryinterfaceB0.
+,magento\quote\model\billingaddressmanagement

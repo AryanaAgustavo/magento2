@@ -1,0 +1,136 @@
+
+\magento\catalog\model\resourcemodel\product\indexer\abstractindexer::_addwebsitejointoselectë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpà à(."1*™
+2ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpã ã(A—
+Œ
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpã ã(@
+%1"__concat*
+cw.website_id = *
+
+$joinCondition∑
+¥
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpã ã(@
+$joinCondition"__id*
+
+%1*
+3*é	
+3ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpé é(V•¢
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpé é(@
+%2"$ArrayÉÄ
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpé é(?
+%3*GE
+Cmagento\catalog\model\resourcemodel\product\indexer\abstractindexer*
+store_website2gettableø
+º
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpé é(@
+%4"__mapSet*
+
+%2*
+cw*
+
+%3•¢
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpéR é(T
+%5"$Array‘—
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpé é(U
+%6*
+	
+$select*
+
+%2*
+
+$joinCondition*
+
+%52join*
+4
+5*°
+4ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpë ô(•¢
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpí í(9
+%7"$ArrayÅ˛
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpí í(8
+%8*GE
+Cmagento\catalog\model\resourcemodel\product\indexer\abstractindexer*
+store_group2gettable¿
+Ω
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpí í(9
+%9"__mapSet*
+
+%7*
+csg*
+
+%8¶£
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpî î(
+%10"$ArrayÍÁ
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpë ï(
+%11*
+	
+$select*
+
+%7*&$
+"csg.group_id = cw.default_group_id*
+
+%102join¶£
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpñ ñ(2
+%12"$Array¸˘
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpñ ñ(1
+%13*GE
+Cmagento\catalog\model\resourcemodel\product\indexer\abstractindexer*	
+store2gettable¬
+ø
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpñ ñ(2
+%14"__mapSet*
+
+%12*
+cs*
+
+%13¶£
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpò ò(
+%15"$ArrayÁ‰
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpë ô(
+%16*
+
+%11*
+
+%12*&$
+"cs.store_id = csg.default_store_id*
+
+%152join*
+5*˜
+5ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpú ú("›
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpú ú(GE
+Cmagento\catalog\model\resourcemodel\product\indexer\abstractindexer*Ù
+1ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpä ä(#“
+œ
+ë
+ÑC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\AbstractIndexer.phpà à(.	
+$select"__id*(
+&
+$selectmagento\framework\db\select*
+2
+3:&
+$selectmagento\framework\db\select:
+$store:
+$joinConditionBGE
+Cmagento\catalog\model\resourcemodel\product\indexer\abstractindexer

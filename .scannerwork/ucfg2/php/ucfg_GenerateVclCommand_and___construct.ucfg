@@ -1,0 +1,74 @@
+
+Amagento\pagecache\console\command\generatevclcommand::__construct
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Console\Command\GenerateVclCommand.phpi i("1*¶
+2
+GenerateVclCommand.php"–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Console\Command\GenerateVclCommand.phpt t(
+implicit return*Ê
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Console\Command\GenerateVclCommand.phpo o(ò
+ï
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Console\Command\GenerateVclCommand.phpi i(
+$vclGeneratorFactory"__id*N
+L
+$vclGeneratorFactory4magento\pagecache\model\vclgeneratorinterfacefactoryÞ
+Û
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Console\Command\GenerateVclCommand.phpi i(
+$writeFactory"__id*A
+?
+$writeFactory.magento\framework\filesystem\file\writefactoryß
+Ü
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Console\Command\GenerateVclCommand.phpi i(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface×
+Ô
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Console\Command\GenerateVclCommand.phpi i(
+$serializer"__id*<
+:
+$serializer+magento\framework\serialize\serializer\jsonü
+ù
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Console\Command\GenerateVclCommand.phpo o(
+%1"6symfony\component\console\command\command::__construct*86
+4magento\pagecache\console\command\generatevclcommandç
+ä
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Console\Command\GenerateVclCommand.phpp p(+H6
+4magento\pagecache\console\command\generatevclcommand"
+writeFactory"__id*
+
+$writeFactoryõ
+ò
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Console\Command\GenerateVclCommand.phpq q(9O6
+4magento\pagecache\console\command\generatevclcommand"
+vclGeneratorFactory"__id*
+
+$vclGeneratorFactoryå
+â
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Console\Command\GenerateVclCommand.phpr r()G6
+4magento\pagecache\console\command\generatevclcommand"
+scopeConfig"__id*
+
+$scopeConfigã
+à
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\PageCache\Console\Command\GenerateVclCommand.phps s('F6
+4magento\pagecache\console\command\generatevclcommand"
+
+serializer"__id*
+
+$serializer*
+2:L
+$vclGeneratorFactory4magento\pagecache\model\vclgeneratorinterfacefactory:?
+$writeFactory.magento\framework\filesystem\file\writefactory:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface::
+$serializer+magento\framework\serialize\serializer\jsonB86
+4magento\pagecache\console\command\generatevclcommand

@@ -1,0 +1,339 @@
+
+6magento\backend\model\menu\item\validator::__constructt
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php* *("1*¢
+2
+Validator.php"ã
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.phpF F(
+implicit return*¿M
+1t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php, ,(,´®
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php, ,(+
+$idValidator" laminas\validator\validatorchain¿
+Ω
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php, ,(+
+%1"-laminas\validator\validatorchain::__construct*
+
+$idValidatoráÑ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php-4 -(@
+%3"$Array†
+ù
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php-4 -(@
+%4"__mapSet*
+
+%3*
+min*2©¶
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php-# -(A
+%2"(magento\framework\validator\stringlength∆
+√
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php-# -(A
+%5"5magento\framework\validator\stringlength::__construct*
+
+%2*
+
+%3ß§
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php- -(B
+%6*
+
+$idValidator*
+
+%22addvalidatoròï
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php.# .(D
+%7"laminas\validator\regex«
+ƒ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php.# .(D
+%8"$laminas\validator\regex::__construct*
+
+%7*
+/^[A-Za-z0-9\/:_]+$/ß§
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php. .(E
+%9*
+
+$idValidator*
+
+%72addvalidator±Æ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php0 0(1
+$resourceValidator" laminas\validator\validatorchain«
+ƒ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php0 0(1
+%10"-laminas\validator\validatorchain::__construct*
+
+$resourceValidatoràÖ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php1: 1(F
+%12"$Array¢
+ü
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php1: 1(F
+%13"__mapSet*
+
+%12*
+min*2™ß
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php1) 1(G
+%11"(magento\framework\validator\stringlength…
+∆
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php1) 1(G
+%14"5magento\framework\validator\stringlength::__construct*
+
+%11*
+
+%12Ø¨
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php1 1(H
+%15*
+
+$resourceValidator*
+
+%112addvalidatorôñ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php3 3(O
+%16"laminas\validator\regexÎ
+Ë
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php3 3(O
+%17"$laminas\validator\regex::__construct*
+
+%16*:8
+6/^[A-Z][A-Za-z0-9]+_[A-Z][A-Za-z0-9]+::[A-Za-z_0-9]+$/Ø¨
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php2 4(	
+%18*
+
+$resourceValidator*
+
+%162addvalidator≤Ø
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php6 6(2
+$attributeValidator" laminas\validator\validatorchain»
+≈
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php6 6(2
+%19"-laminas\validator\validatorchain::__construct*
+
+$attributeValidatoràÖ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php7; 7(G
+%21"$Array¢
+ü
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php7; 7(G
+%22"__mapSet*
+
+%21*
+min*2™ß
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php7* 7(H
+%20"(magento\framework\validator\stringlength…
+∆
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php7* 7(H
+%23"5magento\framework\validator\stringlength::__construct*
+
+%20*
+
+%21∞≠
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php7 7(I
+%24*
+
+$attributeValidator*
+
+%202addvalidatorôñ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php8* 8(L
+%25"laminas\validator\regex 
+«
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php8* 8(L
+%26"$laminas\validator\regex::__construct*
+
+%25*
+/^[A-Za-z0-9\/_\-]+$/∞≠
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php8 8(M
+%27*
+
+$attributeValidator*
+
+%252addvalidatoràÖ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php:* :(C
+%28"$Array¢
+ü
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php:* :(C
+%29"__mapSet*
+
+%28*
+min*2¢
+ü
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php:* :(C
+%30"__mapSet*
+
+%28*
+max*22µ≤
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php: :(D
+$textValidator"(magento\framework\validator\stringlength‘
+—
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php: :(D
+%31"5magento\framework\validator\stringlength::__construct*
+
+$textValidator*
+
+%28®
+•
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php< <(<
+$tooltipValidator"__id*
+
+$textValidator©
+¶
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php< <(<
+$titleValidator"__id*
+
+$tooltipValidatorØ
+¨
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php=1 =(Z
+$configDepValidator"__id*
+
+$attributeValidatorØ
+¨
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php= =(Z
+$moduleDepValidator"__id*
+
+$configDepValidator¨
+©
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php= =(Z
+$actionValidator"__id*
+
+$moduleDepValidator∆
+√
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php? ?(
+%32"__id*>*<+
+)magento\backend\model\menu\item\validator"
+_validators≠
+™
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php? ?( 
+%33"__mapSet*
+
+%32*
+id*
+
+$idValidator∆
+√
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php@ @(
+%34"__id*>*<+
+)magento\backend\model\menu\item\validator"
+_validators≥
+∞
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.php@ @(#
+%35"__mapSet*
+
+%34*	
+title*
+
+$titleValidator∆
+√
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.phpA A(
+%36"__id*>*<+
+)magento\backend\model\menu\item\validator"
+_validatorsµ
+≤
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.phpA A($
+%37"__mapSet*
+
+%36*
+
+action*
+
+$actionValidator∆
+√
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.phpB B(
+%38"__id*>*<+
+)magento\backend\model\menu\item\validator"
+_validatorsπ
+∂
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.phpB B(&
+%39"__mapSet*
+
+%38*
+
+resource*
+
+$resourceValidator∆
+√
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.phpC C(
+%40"__id*>*<+
+)magento\backend\model\menu\item\validator"
+_validators¡
+æ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.phpC C(-
+%41"__mapSet*
+
+%40*
+dependsOnModule*
+
+$moduleDepValidator∆
+√
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.phpD D(
+%42"__id*>*<+
+)magento\backend\model\menu\item\validator"
+_validators¡
+æ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.phpD D(-
+%43"__mapSet*
+
+%42*
+dependsOnConfig*
+
+$configDepValidator∆
+√
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.phpE E(
+%44"__id*>*<+
+)magento\backend\model\menu\item\validator"
+_validators∑
+¥
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Model\Menu\Item\Validator.phpE E(%
+%45"__mapSet*
+
+%44*	
+toolTip*
+
+$tooltipValidator*
+2B-+
+)magento\backend\model\menu\item\validator

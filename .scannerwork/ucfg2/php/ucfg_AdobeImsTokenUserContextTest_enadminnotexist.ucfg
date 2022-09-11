@@ -1,0 +1,80 @@
+
+fmagento\adminadobeims\authorization\adobeimstokenusercontexttest::testuseadobeaccesstokenadminnotexist®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpî î(8"1*é
+2®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpú †(»≈
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpû û( 
+%3*
+
+$e2
+getmessageäá
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpú †(
+%4*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest*86
+4The consumer isn\'t authorized to access %resources.*
+
+%3*0.
+,SoapFault does not contain expected message.2assertstringcontainsstring*
+5
+7*Ê
+3®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php¢ ¢(A≠™
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php¢ ¢(@
+%5*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest*
+
+
+$exception2!assertunauthorizedaccessexception*
+5
+7*ˇ
+5®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php• •(_…∆
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php• •(^
+%6*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest*GE
+CException was expected to be thrown when admin user does not exist.2fail*
+7*Í
+7"
+ AdobeImsTokenUserContextTest.php"¿
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpß ß(
+implicit return*‡
+
+1®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpñ ñ(,çä
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpñ ñ(+
+%1*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest2createaccesstoken∆
+√
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpñ ñ(+
+$token"__id*
+
+%1◊
+‘
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpó ó($
+$noExceptionOccurred"__id*	
+falseïí
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpô ô((
+%2*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest*
+
+
+$token2runwebapicall÷
+”
+®
+õC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpö ö('
+$noExceptionOccurred"__id*
+true*
+2
+3
+5
+7BDB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest

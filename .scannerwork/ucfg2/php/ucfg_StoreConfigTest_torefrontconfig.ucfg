@@ -1,0 +1,72 @@
+
+amagento\graphql\configurableproduct\storeconfigtest::testreturntypeautocompleteonstorefrontconfig™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\StoreConfigTest.php (@"1*Î
+2
+StoreConfigTest.php"±
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\StoreConfigTest.php% %(
+implicit return*æ
+1™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\StoreConfigTest.php !(ú
+÷
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\StoreConfigTest.php !(
+$query"__id*IG
+E{
+    storeConfig {
+        configurable_thumbnail_source
+    }
+}øõ
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\StoreConfigTest.php" "(/
+%1*75
+3magento\graphql\configurableproduct\storeconfigtest*
+
+
+$query2graphqlqueryº
+·
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\StoreConfigTest.php" "(/
+	$response"__id*
+
+%1Ï
+Ì
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\StoreConfigTest.php#A #(Y
+%2"__mapGet*
+
+	$response*
+storeConfigÑ
+Î
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\StoreConfigTest.php# #(Z
+%3"Fmagento\graphql\configurableproduct\storeconfigtest::assertarrayhaskey*7"5
+3magento\graphql\configurableproduct\storeconfigtest*!
+configurable_thumbnail_source*
+
+%2Ï
+Ì
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\StoreConfigTest.php$% $(=
+%4"__mapGet*
+
+	$response*
+storeConfigÚ
+×
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\StoreConfigTest.php$% $(^
+%5"__mapGet*
+
+%4*!
+configurable_thumbnail_sourceµ
+²
+™
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\StoreConfigTest.php$ $(_
+%6"Amagento\graphql\configurableproduct\storeconfigtest::assertequals*7"5
+3magento\graphql\configurableproduct\storeconfigtest*
+
+itself*
+
+%5*
+2B75
+3magento\graphql\configurableproduct\storeconfigtest

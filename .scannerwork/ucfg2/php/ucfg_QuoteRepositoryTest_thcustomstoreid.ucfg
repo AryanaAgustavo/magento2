@@ -1,0 +1,134 @@
+
+Fmagento\quote\model\quoterepositorytest::testgetquotewithcustomstoreid‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php~ ~(1"1*Ä
+2
+QuoteRepositoryTest.php"£
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.phpŒ Œ(
+implicit return*Ê
+1‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php€ €(2Å
+Â
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php€ €(1
+$secondStoreCode"__id*
+fixture_second_store·
+´
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php (#
+$reservedOrderId"__id*
+
+test01ß
+Ü
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php‚ ‚(-
+%1"__id*@*>)
+'magento\quote\model\quoterepositorytest"
+storeRepositoryº·
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php‚ ‚(D
+%2*
+
+%1*
+
+$secondStoreCode2get¯
+¬
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php‚ ‚(D
+$secondStore"__id*
+
+%2é
+æ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.phpƒ ƒ(1
+%3"__id*J*H)
+'magento\quote\model\quoterepositorytest"
+getQuoteByReservedOrderId¾»
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.phpƒ ƒ(L
+%4*
+
+%3*
+
+$reservedOrderId2execute©
+¦
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.phpƒ ƒ(L
+$quote"__id*
+
+%4°­
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php„ „(0
+%5*
+
+$secondStore2getid·´
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php„ „(1
+%6*
+
+
+$quote*
+
+%52
+setstoreidß
+Ü
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php… …(
+%7"__id*@*>)
+'magento\quote\model\quoterepositorytest"
+quoteRepository±®
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php… …(,
+%8*
+
+%7*
+
+
+$quote2saveß
+Ü
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php† †(,
+%9"__id*@*>)
+'magento\quote\model\quoterepositorytest"
+quoteRepository«¨
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php†2 †(A
+%10*
+
+
+$quote2getid®«
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php† †(B
+%11*
+
+%9*
+
+%102get¯
+¬
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php† †(B
+$savedQuote"__id*
+
+%11±®
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.phpˆ ˆ(!
+%12*
+
+$secondStore2getidµ²
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php‰ ‰(%
+%13*
+
+$savedQuote2
+getstoreid£ 
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteRepositoryTest.php‡ ‹(	
+%14*+)
+'magento\quote\model\quoterepositorytest*
+
+%12*
+
+%13*<:
+8Quote store id should be equal with store id value in DB2assertequals*
+2B+)
+'magento\quote\model\quoterepositorytest

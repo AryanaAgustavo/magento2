@@ -1,0 +1,31 @@
+
+7magento\graphql\quote\customer\placeordertest::getquery•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\PlaceOrderTest.php¹ ¹("1*¾
+1•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\PlaceOrderTest.php» Ã(Ï
+Ì
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\PlaceOrderTest.php¹ ¹(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstring«
+¨
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\PlaceOrderTest.php» Ã(
+%1"__concat*/-
++mutation {
+  placeOrder(input: {cart_id: "*97
+5"}) {
+    order {
+      order_number
+    }
+  }
+}*
+
+$maskedQuoteId" 
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\PlaceOrderTest.php» Ã(
+
+%1:
+$maskedQuoteIdstringB1/
+-magento\graphql\quote\customer\placeordertest

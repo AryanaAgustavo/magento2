@@ -1,0 +1,151 @@
+
+Wmagento\sales\model\resourcemodel\report\bestsellers\collectiontest::testtableselection¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php. .(&"1*Ú
+2
+CollectionTest.php"¾
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php< <(
+implicit return*‘'
+1¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php0 0(D’
+
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php0 0()
+%1"__id*X*VE
+Cmagento\sales\model\resourcemodel\report\bestsellers\collectiontest"
+_collectionØÕ
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php0 0(C
+%2*
+
+%1*
+
+$expectedTable2gettableÊ
+Ç
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php0 0(C
+$dbTableName"__id*
+
+%2’
+
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php1 1(
+%3"__id*X*VE
+Cmagento\sales\model\resourcemodel\report\bestsellers\collectiontest"
+_collectionÒÏ
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php1 1(.
+%4*
+
+%3*
+	
+$period2	setperiod’
+
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php2 2(
+%5"__id*X*VE
+Cmagento\sales\model\resourcemodel\report\bestsellers\collectiontest"
+_collectionäá
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php2 2(<
+%6*
+
+%5*
+
+	$dateFrom*
+	
+$dateTo2setdaterange’
+
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php3 3(
+%7"__id*X*VE
+Cmagento\sales\model\resourcemodel\report\bestsellers\collectiontest"
+_collectionÀ½
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php3 3("
+%8*
+
+%72load’
+
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php4 4("
+%9"__id*X*VE
+Cmagento\sales\model\resourcemodel\report\bestsellers\collectiontest"
+_collectionÆÃ
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php4 4(/
+%10*
+
+%92	getselectÏÌ
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php4 4(@
+%11*
+
+%10*
+from2getpartÄ
+Á
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php4 4(@
+$from"__id*
+
+%11¬©
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php6 6(5
+%12*GE
+Cmagento\sales\model\resourcemodel\report\bestsellers\collectiontest*
+
+$dbTableName*	
+
+$from2assertarrayhaskeyÜ
+Ù
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php8. 8(A
+%13"
+__arrayGet*	
+
+$from*
+
+$dbTableName§¤
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php8 8(B
+%14*GE
+Cmagento\sales\model\resourcemodel\report\bestsellers\collectiontest*
+	tableName*
+
+%132assertarrayhaskeyÜ
+Ù
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php9 9(*
+%15"
+__arrayGet*	
+
+$from*
+
+$dbTableNameÕ
+Ò
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php9 9(7
+%16"__mapGet*
+
+%15*
+	tableNameË
+È
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php9 9(7
+$actualTable"__id*
+
+%16®«
+¦
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\ResourceModel\Report\Bestsellers\CollectionTest.php; ;(7
+%17*GE
+Cmagento\sales\model\resourcemodel\report\bestsellers\collectiontest*
+
+$dbTableName*
+
+$actualTable2assertequals*
+2:	
+$period:
+$expectedTable:
+	$dateFrom:	
+$dateToBGE
+Cmagento\sales\model\resourcemodel\report\bestsellers\collectiontest

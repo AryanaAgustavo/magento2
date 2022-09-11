@@ -1,0 +1,74 @@
+
+bmagento\customer\controller\account\loginposttest::testloginfailurewithredirecttodashboarddisabled–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Account\LoginPostTest.php› ›(C"1*É
+2
+LoginPostTest.php"®
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Account\LoginPostTest.php¤ ¤(
+implicit return*³
+1–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Account\LoginPostTest.php (C’
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Account\LoginPostTest.php (B
+%1*53
+1magento\customer\controller\account\loginposttest*
+customer@example.com*
+	incorrect2preparerequestƒ€
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Account\LoginPostTest.phpž ž(5
+%2*53
+1magento\customer\controller\account\loginposttest*
+customer/account/loginPost2dispatchì
+é
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Account\LoginPostTest.phpŸ Ÿ()
+%3"__id*B*@3
+1magento\customer\controller\account\loginposttest"	
+session¶³
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Account\LoginPostTest.phpŸ Ÿ(7
+%4*
+
+%32
+isloggedinîë
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Account\LoginPostTest.phpŸ Ÿ(8
+%5*53
+1magento\customer\controller\account\loginposttest*
+
+%42assertfalse…‚
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Account\LoginPostTest.php¡ ¡(;
+%6*53
+1magento\customer\controller\account\loginposttest*
+customer/account/login2stringcontainsöó
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Account\LoginPostTest.php¢ ¢(>
+%7*53
+1magento\customer\controller\account\loginposttest*	
+referer2stringcontainsíê
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Account\LoginPostTest.php¢ ¢(?
+%8*53
+1magento\customer\controller\account\loginposttest*
+
+%72
+logicalnotõò
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Account\LoginPostTest.php  £(	
+%9*53
+1magento\customer\controller\account\loginposttest*
+
+%6*
+
+%82
+logicalandòï
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Account\LoginPostTest.php  £(
+
+%10*53
+1magento\customer\controller\account\loginposttest*
+
+%92assertredirect*
+2B53
+1magento\customer\controller\account\loginposttest

@@ -1,0 +1,79 @@
+
+8magento\downloadable\block\checkout\success::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Checkout\Success.php# #("1*¢
+2
+Success.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Checkout\Success.php3 3(
+implicit return*»
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Checkout\Success.php+ 1(
+Ã
+…
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Checkout\Success.php# #(
+
+$context"__id*=
+;
+$context/magento\framework\view\element\template\contextÀ
+»
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Checkout\Success.php# #(
+$checkoutSession"__id*4
+2
+$checkoutSessionmagento\checkout\model\session≈
+¬
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Checkout\Success.php# #(
+$orderConfig"__id*2
+0
+$orderConfig magento\sales\model\order\config«
+ƒ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Checkout\Success.php# #(
+$httpContext"__id*4
+2
+$httpContext"magento\framework\app\http\context‹
+Ÿ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Checkout\Success.php# #(
+$currentCustomer"__id*E
+C
+$currentCustomer/magento\customer\helper\session\currentcustomerú
+ô
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Checkout\Success.php# #(
+$data"__id*
+
+$dataarray∫
+∑
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Checkout\Success.php+ 1(	
+%1"3magento\checkout\block\onepage\success::__construct*/-
++magento\downloadable\block\checkout\success*
+
+
+$context*
+
+$checkoutSession*
+
+$orderConfig*
+
+$httpContext*	
+
+$data€
+ÿ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Block\Checkout\Success.php2 2(1B-
++magento\downloadable\block\checkout\success"
+currentCustomer"__id*
+
+$currentCustomer*
+2:;
+$context/magento\framework\view\element\template\context:2
+$checkoutSessionmagento\checkout\model\session:0
+$orderConfig magento\sales\model\order\config:2
+$httpContext"magento\framework\app\http\context:C
+$currentCustomer/magento\customer\helper\session\currentcustomer:
+$dataarrayB/-
++magento\downloadable\block\checkout\success

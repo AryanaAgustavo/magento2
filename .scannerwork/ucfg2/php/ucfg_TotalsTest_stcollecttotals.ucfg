@@ -1,0 +1,182 @@
+
+Imagento\sales\block\adminhtml\order\invoice\totalstest::testcollecttotalsô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpD D(%"1*…
+2
+TotalsTest.php"±
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpP P(
+implicit return*’-
+1ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpF F(O˘
+ˆ
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpF F($
+%1"__id*L*J8
+6magento\sales\block\adminhtml\order\invoice\totalstest"
+orderFactoryµ≤
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpF F(.
+%2*
+
+%12createœÃ
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpF F(N
+%3*
+
+%2*
+	1000000012loadbyincrementid∑
+¥
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpF F(N
+$order"__id*
+
+%3Ö
+Ç
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpG G(2
+%4"__id*X*V8
+6magento\sales\block\adminhtml\order\invoice\totalstest"
+invoiceCollectionFactoryµ≤
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpG G(<
+%5*
+
+%42create…∆
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpG G(T
+%6*
+
+%5*
+
+
+$order2setorderfilter¿Ω
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpG G(d
+%7*
+
+%6*22setpagesizeª∏
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpG G(t
+%8*
+
+%72getfirstitemπ
+∂
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpG G(t
+
+$invoice"__id*
+
+%8ı
+Ú
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpH H(
+%9"__id*H*F8
+6magento\sales\block\adminhtml\order\invoice\totalstest"
+
+registryœÃ
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpH H(6
+%10*
+
+%9*
+current_invoice2
+unregisterˆ
+Û
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpI I(
+%11"__id*H*F8
+6magento\sales\block\adminhtml\order\invoice\totalstest"
+
+registry‹Ÿ
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpI I(>
+%12*
+
+%11*
+current_invoice*
+
+
+$invoice2registerÛ
+
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpK K(
+%13"__id*E*C8
+6magento\sales\block\adminhtml\order\invoice\totalstest"
+block∑¥
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpK K(
+%14*
+
+%132tohtmlÛ
+
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpL L(
+%15"__id*E*C8
+6magento\sales\block\adminhtml\order\invoice\totalstest"
+block∫∑
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpL L(+
+%16*
+
+%152	gettotalsπ
+∂
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpL L(+	
+$totals"__id*
+
+%16êç
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpM M(5
+%17*:8
+6magento\sales\block\adminhtml\order\invoice\totalstest*
+
+shipping*
+	
+$totals2assertarrayhaskeyÀ
+»
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpN& N(9
+%18"__mapGet*
+	
+$totals*
+
+shippingƒ
+¡
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpN& N(B
+%19"__mapGet*
+
+%18*	
+valueÖÇ
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpN N(C
+%20*:8
+6magento\sales\block\adminhtml\order\invoice\totalstest*
+
+0.0000*
+
+%192assertequalsÀ
+»
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpO@ O(S
+%21"__mapGet*
+	
+$totals*
+
+shippingƒ
+¡
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpO@ O(\
+%22"__mapGet*
+
+%21*	
+labelüú
+ô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Block\Adminhtml\Order\Invoice\TotalsTest.phpO O(]
+%23*:8
+6magento\sales\block\adminhtml\order\invoice\totalstest*$"
+ Shipping & Handling (1234567890)*
+
+%222assertequals*
+2B:8
+6magento\sales\block\adminhtml\order\invoice\totalstest

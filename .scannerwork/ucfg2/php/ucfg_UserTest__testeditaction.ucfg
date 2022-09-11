@@ -1,0 +1,71 @@
+
+:magento\user\controller\adminhtml\usertest::testeditaction
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpú ú(""1*½
+2
+UserTest.php"§
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php‰ ‰(
+implicit return*Â
+1
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpü ü(4×Ô
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpü ü(
+%1*.,
+*magento\user\controller\adminhtml\usertest2
+getrequestÀ½
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpü ü(3
+%2*
+
+%1*	
+user_id*22setparamòï
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpı ı(2
+%3*.,
+*magento\user\controller\adminhtml\usertest*
+backend/admin/user/edit2dispatchØÕ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpş ş((
+%4*.,
+*magento\user\controller\adminhtml\usertest2getresponse¬©
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpş ş(3
+%5*
+
+%42getbody°
+­
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.phpş ş(3
+	$response"__id*
+
+%5§¤
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php€ €(c
+%6*.,
+*magento\user\controller\adminhtml\usertest*/-
++data-ui-id="adminhtml-user-edit-tabs-title"*
+
+	$response2assertstringcontainsstringŒ‰
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php (H
+%7*.,
+*magento\user\controller\adminhtml\usertest*
+User Information*
+
+	$response2assertstringcontainsstring³
+°
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php„ ‡(
+%8"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*!
+//*[@id="user_base_fieldset"]*
+
+	$responseçä
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Controller\Adminhtml\UserTest.php‚ ˆ(	
+%9*.,
+*magento\user\controller\adminhtml\usertest*2*
+
+%82assertequals*
+2B.,
+*magento\user\controller\adminhtml\usertest

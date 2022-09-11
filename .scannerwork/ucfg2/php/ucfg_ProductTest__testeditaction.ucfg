@@ -1,0 +1,122 @@
+
+@magento\catalog\controller\adminhtml\producttest::testeditaction•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÊ Ê(""1*Æ
+2
+ProductTest.php"­
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpì ì(
+implicit return*—!
+1•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÍ Í(9ô
+ñ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÍ Í(.
+%1"__id*K*I2
+0magento\catalog\controller\adminhtml\producttest"
+repositoryFactory±®
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÍ Í(8
+%2*
+
+%12create¸
+µ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÍ Í(8
+$repository"__id*
+
+%2ÃÀ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÎ Î(-
+%3*
+
+$repository*
+
+simple2getµ
+²
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÎ Î(-
+
+$product"__id*
+
+%3¼¹
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÏ= Ï(T
+%4*
+
+
+$product2getentityidÙ
+Ö
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÏ Ï(T
+%5"__concat*$"
+ backend/catalog/product/edit/id/*
+
+%4éæ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÏ Ï(U
+%6*42
+0magento\catalog\controller\adminhtml\producttest*
+
+%52dispatchäá
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÐ Ð($
+%7*42
+0magento\catalog\controller\adminhtml\producttest2getresponse²¯
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÐ Ð(/
+%8*
+
+%72getbody²
+¯
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÐ Ð(/
+$body"__id*
+
+%8®
+«
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÔ ×(
+%9"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*
+//*[@id="save-button"]*	
+
+$body«¨
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÒ Ù(	
+%10*42
+0magento\catalog\controller\adminhtml\producttest*2*
+
+%9*53
+1"Save" button isn\'t present on Edit Product page2assertequals°
+­
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÝ à(
+%11"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*
+//*[@id="save_and_new"]*	
+
+$body²¯
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpÛ â(	
+%12*42
+0magento\catalog\controller\adminhtml\producttest*2*
+
+%11*;9
+7"Save & New" button isn\'t present on Edit Product page2assertequals¶
+³
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpæ é(
+%13"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*!
+//*[@id="save_and_duplicate"]*	
+
+$body¸µ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\ProductTest.phpä ë(	
+%14*42
+0magento\catalog\controller\adminhtml\producttest*2*
+
+%13*A?
+="Save & Duplicate" button isn\'t present on Edit Product page2assertequals*
+2B42
+0magento\catalog\controller\adminhtml\producttest

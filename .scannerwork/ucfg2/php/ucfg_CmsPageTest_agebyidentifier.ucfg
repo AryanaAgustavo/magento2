@@ -1,0 +1,71 @@
+
+;magento\graphql\cms\cmspagetest::testgetcmspagebyidentifier„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Cms\CmsPageTest.php= =(."1*µ
+2
+CmsPageTest.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Cms\CmsPageTest.phpL L(
+implicit return*¯
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Cms\CmsPageTest.php? ?('³
+°
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Cms\CmsPageTest.php? ?(&
+$cmsPageIdentifier"__id*	
+page100ô
+ñ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Cms\CmsPageTest.phpB H(
+%1"__concat*
+{
+  cmsPage(identifier: "* 
+") {
+    identifier
+  }
+}*
+
+$cmsPageIdentifier¢
+Ÿ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Cms\CmsPageTest.phpA H(
+$query"__id*
+
+%1ÏÌ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Cms\CmsPageTest.phpJ J(/
+%2*#!
+magento\graphql\cms\cmspagetest*
+
+
+$query2graphqlquery¥
+¢
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Cms\CmsPageTest.phpJ J(/
+	$response"__id*
+
+%2¶
+³
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Cms\CmsPageTest.phpK0 K(D
+%3"__mapGet*
+
+	$response*	
+cmsPage²
+¯
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Cms\CmsPageTest.phpK0 K(R
+%4"__mapGet*
+
+%3*
+
+identifierãà
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Cms\CmsPageTest.phpK K(S
+%5*#!
+magento\graphql\cms\cmspagetest*
+
+$cmsPageIdentifier*
+
+%42assertequals*
+2B#!
+magento\graphql\cms\cmspagetest

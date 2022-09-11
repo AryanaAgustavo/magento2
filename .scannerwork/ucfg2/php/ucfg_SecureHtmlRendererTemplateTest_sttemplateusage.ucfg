@@ -1,0 +1,77 @@
+
+Omagento\framework\view\helper\securehtmlrenderertemplatetest::testtemplateusageŸ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Helper\SecureHtmlRendererTemplateTest.php (%"1*ã
+2$
+"SecureHtmlRendererTemplateTest.php"·
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Helper\SecureHtmlRendererTemplateTest.php/ /(
+implicit return*Û
+1Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Helper\SecureHtmlRendererTemplateTest.php (.ùö
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Helper\SecureHtmlRendererTemplateTest.php (
+%1*@>
+<magento\framework\view\helper\securehtmlrenderertemplatetest2
+getrequestÇÄ
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Helper\SecureHtmlRendererTemplateTest.php (-
+%2*
+
+%1*
+GET2	setmethod•’
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Helper\SecureHtmlRendererTemplateTest.php (3
+%3*@>
+<magento\framework\view\helper\securehtmlrenderertemplatetest*
+securehtml/secure/helper2dispatchú÷
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Helper\SecureHtmlRendererTemplateTest.php ('
+%4*@>
+<magento\framework\view\helper\securehtmlrenderertemplatetest2getresponse¿¼
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Helper\SecureHtmlRendererTemplateTest.php (5
+%5*
+
+%42
+getcontent¿
+¼
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Helper\SecureHtmlRendererTemplateTest.php (5
+
+$content"__id*
+
+%5ÎË
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Helper\SecureHtmlRendererTemplateTest.php "(	
+%6*@>
+<magento\framework\view\helper\securehtmlrenderertemplatetest*53
+1<h1 onclick="alert&#x28;&#x29;">Hello there!</h1>*
+
+
+$content2assertstringcontainsstringôñ
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Helper\SecureHtmlRendererTemplateTest.php# &(	
+%7*@>
+<magento\framework\view\helper\securehtmlrenderertemplatetest*[Y
+W<script src="http&#x3A;&#x2F;&#x2F;my.magento.com&#x2F;static&#x2F;script.js"></script>*
+
+
+$content2assertstringcontainsstringÄÁ
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Helper\SecureHtmlRendererTemplateTest.php' *(	
+%8*@>
+<magento\framework\view\helper\securehtmlrenderertemplatetest*+)
+'<script>\n    let myVar = 1;\n</script>*
+
+
+$content2assertstringcontainsstringÀ½
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\Helper\SecureHtmlRendererTemplateTest.php+ .(	
+%9*@>
+<magento\framework\view\helper\securehtmlrenderertemplatetest*'%
+#<div>I am just &lt;a&gt; text</div>*
+
+
+$content2assertstringcontainsstring*
+2B@>
+<magento\framework\view\helper\securehtmlrenderertemplatetest

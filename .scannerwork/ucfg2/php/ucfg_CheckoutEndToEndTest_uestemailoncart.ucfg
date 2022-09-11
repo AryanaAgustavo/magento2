@@ -1,0 +1,51 @@
+
+Emagento\graphql\quote\guest\checkoutendtoendtest::setguestemailoncartò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpè è(("1*“
+2
+CheckoutEndToEndTest.php"∞
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.php† †(
+implicit return*Ö	
+1ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpë û(ƒ
+¡
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpè è((	
+$cartId"__id*
+
+$cartIdstringÂ
+‚
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpë û(
+%1"__concat*FD
+Bmutation {
+  setGuestEmailOnCart(
+    input: {
+      cart_id: "*`^
+\"
+      email: "customer@example.com"
+    }
+  ) {
+    cart {
+      email
+    }
+  }
+}*
+	
+$cartId∂
+≥
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpë û(
+$query"__id*
+
+%1˜Ù
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpü ü(&
+%2*42
+0magento\graphql\quote\guest\checkoutendtoendtest*
+
+
+$query2graphqlmutation*
+2:
+$cartIdstringB42
+0magento\graphql\quote\guest\checkoutendtoendtest

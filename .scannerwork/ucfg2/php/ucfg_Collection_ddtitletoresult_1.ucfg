@@ -1,0 +1,145 @@
+
+Jmagento\downloadable\model\resourcemodel\link\collection::addtitletoresultƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php_ _($"1*¾"
+1ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpa a(ZÜÙ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpa a(4
+%1*<:
+8magento\downloadable\model\resourcemodel\link\collection2getconnectionÀ½
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpa a(Y
+%2*
+
+%1*
+
+st.title*	
+d.title2getifnullsql®
+«
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpa a(Y
+$ifNullDefaultTitle"__id*
+
+%2ØÕ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpb b(
+%3*<:
+8magento\downloadable\model\resourcemodel\link\collection2	getselect—”
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpd d(C
+%4"$Arrayôñ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpd d(B
+%5*<:
+8magento\downloadable\model\resourcemodel\link\collection*
+downloadable_link_title2gettable°
+­
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpd d(C
+%6"__mapSet*
+
+%4*
+d*
+
+%5—”
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpf f(,
+%7"$Array¿
+¼
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpf f(,
+%8"__mapSet*
+
+%7*
+default_title*	
+titleèå
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpb g(
+%9*
+
+%3*
+
+%4*53
+1d.link_id = main_table.link_id AND d.store_id = 0*
+
+%72joinleft˜•
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phph h(D
+%10"$Arrayõò
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phph h(C
+%11*<:
+8magento\downloadable\model\resourcemodel\link\collection*
+downloadable_link_title2gettable´
+±
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phph h(D
+%12"__mapSet*
+
+%10*
+st*
+
+%11±
+®
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpiE i(R
+%13"__sanitizing_cast*
+
+
+$storeIdÙ
+Ö
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpi i(R
+%14"__concat*42
+0st.link_id=main_table.link_id AND st.store_id = *
+
+%13˜•
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpj m(
+%15"$Array¿
+¼
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpj m(
+%16"__mapSet*
+
+%15*
+store_title*	
+titleÇ
+Ä
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpj m(
+%17"__mapSet*
+
+%15*	
+title*
+
+$ifNullDefaultTitle½º
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpb n(
+%18*
+
+%9*
+
+%10*
+
+%14*
+
+%152joinleft¿¼
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpb n(1
+%19*
+
+%18*
+main_table.sort_order ASC2order¯¬
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpb o( 
+%20*
+
+%19*
+	title ASC2order"Ä
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpp p(<:
+8magento\downloadable\model\resourcemodel\link\collection:
+
+$storeIdB<:
+8magento\downloadable\model\resourcemodel\link\collection

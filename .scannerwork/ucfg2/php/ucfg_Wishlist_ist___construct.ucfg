@@ -1,0 +1,89 @@
+
+5magento\wishlist\block\customer\wishlist::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Block\Customer\Wishlist.php8 8("1* 
+2
+Wishlist.php"Š
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Block\Customer\Wishlist.phpH H(
+implicit return*®
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Block\Customer\Wishlist.php@ D(
+¿
+¼
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Block\Customer\Wishlist.php8 8(
+
+$context"__id*3
+1
+$context%magento\catalog\block\product\contextÄ
+Á
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Block\Customer\Wishlist.php8 8(
+$httpContext"__id*4
+2
+$httpContext"magento\framework\app\http\contextÐ
+Í
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Block\Customer\Wishlist.php8 8(
+$helperPool"__id*A
+?
+$helperPool0magento\catalog\helper\product\configurationpoolÙ
+Ö
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Block\Customer\Wishlist.php8 8(
+$currentCustomer"__id*E
+C
+$currentCustomer/magento\customer\helper\session\currentcustomerÐ
+Í
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Block\Customer\Wishlist.php8 8(
+$postDataHelper"__id*=
+;
+$postDataHelper(magento\framework\data\helper\posthelper™
+–
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Block\Customer\Wishlist.php8 8(
+$data"__id*
+
+$dataarrayŠ
+‡
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Block\Customer\Wishlist.php@ D(	
+%1"1magento\wishlist\block\abstractblock::__construct*,*
+(magento\wishlist\block\customer\wishlist*
+
+
+$context*
+
+$httpContext*	
+
+$dataÌ
+É
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Block\Customer\Wishlist.phpE E((;*
+(magento\wishlist\block\customer\wishlist"
+_helperPool"__id*
+
+$helperPoolÕ
+Ò
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Block\Customer\Wishlist.phpF F(1?*
+(magento\wishlist\block\customer\wishlist"
+currentCustomer"__id*
+
+$currentCustomerÓ
+Ð
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Block\Customer\Wishlist.phpG G(/>*
+(magento\wishlist\block\customer\wishlist"
+postDataHelper"__id*
+
+$postDataHelper*
+2:1
+$context%magento\catalog\block\product\context:2
+$httpContext"magento\framework\app\http\context:?
+$helperPool0magento\catalog\helper\product\configurationpool:C
+$currentCustomer/magento\customer\helper\session\currentcustomer:;
+$postDataHelper(magento\framework\data\helper\posthelper:
+$dataarrayB,*
+(magento\wishlist\block\customer\wishlist

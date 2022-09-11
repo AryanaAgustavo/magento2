@@ -1,0 +1,158 @@
+
+gmagento\catalog\model\resourcemodel\product\indexer\price\customoptionpricemodifier::getselectforupdate°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpÅ Å('"1*ä,
+1°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpÉ É(L◊
+‘
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpÅ Å('
+$sourceTable"__id*
+
+$sourceTablestringö
+ó
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpÉ É(%
+%1"__id*e*cU
+Smagento\catalog\model\resourcemodel\product\indexer\price\customoptionpricemodifier"
+
+resource†
+ù
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpÉ5 É(J
+%2"__id*k*iU
+Smagento\catalog\model\resourcemodel\product\indexer\price\customoptionpricemodifier"
+connectionNameÃ…
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpÉ É(K
+%3*
+
+%1*
+
+%22getconnectionƒ
+¡
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpÉ É(K
+$connection"__id*
+
+%3∆√
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpÖ Ö('
+%4*
+
+$connection2selectµ≤
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpÜ Ü("
+%5"$ArrayŸ
+÷
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpÜ Ü("
+%6"__mapSet*
+
+%5*
+io*
+
+$sourceTable≠
+™
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpá à(/
+%7"__concat*MK
+Ii.entity_id = io.entity_id AND i.customer_group_id = io.customer_group_id*%#
+! AND i.website_id = io.website_idµ≤
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpâ â(
+%8"$Array”–
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpÖ ä(	
+%9*
+
+%4*
+
+%5*
+
+%7*
+
+%82join¿
+Ω
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpÖ ä(		
+$select"__id*
+
+%9∂≥
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpå î(
+%10"$Arrayﬁ€
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpç ç(V
+%11".magento\framework\db\sql\columnvalueexpressionî
+ë
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpç ç(V
+%12";magento\framework\db\sql\columnvalueexpression::__construct*
+
+%11*
+i.min_price + io.min_priceŸ
+÷
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpå î(
+%13"__mapSet*
+
+%10*
+	min_price*
+
+%11ﬁ€
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpé é(V
+%14".magento\framework\db\sql\columnvalueexpressionî
+ë
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpé é(V
+%15";magento\framework\db\sql\columnvalueexpression::__construct*
+
+%14*
+i.max_price + io.max_priceŸ
+÷
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpå î(
+%16"__mapSet*
+
+%10*
+	max_price*
+
+%14ñì
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpè  ì(
+%17*
+
+$connection*
+i.tier_price IS NOT NULL* 
+i.tier_price + io.tier_price*
+NULL2getchecksql⁄
+◊
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpå î(
+%18"__mapSet*
+
+%10*
+
+tier_price*
+
+%17Õ 
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpã ï(	
+%19*
+	
+$select*
+
+%102columnsﬁ
+€
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpó ó("
+%20magento\framework\db\select"__id*
+	
+$select" 
+°
+îC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\CustomOptionPriceModifier.phpó ó($
+"
+%20magento\framework\db\select:
+$sourceTablestringBWU
+Smagento\catalog\model\resourcemodel\product\indexer\price\customoptionpricemodifier

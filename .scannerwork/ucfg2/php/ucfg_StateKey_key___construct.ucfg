@@ -1,0 +1,50 @@
+
+>magento\catalogsearch\model\layer\search\statekey::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Search\StateKey.php ("1*©
+2
+StateKey.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Search\StateKey.php" "(
+implicit return*Ž
+
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Search\StateKey.php   (,Ö
+Ó
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Search\StateKey.php (
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÑ
+Î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Search\StateKey.php (
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÎ
+Ë
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Search\StateKey.php (
+$queryFactory"__id*4
+2
+$queryFactory!magento\search\model\queryfactoryá
+Þ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Search\StateKey.php   (+E3
+1magento\catalogsearch\model\layer\search\statekey"
+queryFactory"__id*
+
+$queryFactory£
+ 
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\Layer\Search\StateKey.php! !(<
+%1":magento\catalog\model\layer\category\statekey::__construct*53
+1magento\catalogsearch\model\layer\search\statekey*
+
+$storeManager*
+
+$customerSession*
+2::
+$storeManager)magento\store\model\storemanagerinterface:2
+$customerSessionmagento\customer\model\session:2
+$queryFactory!magento\search\model\queryfactoryB53
+1magento\catalogsearch\model\layer\search\statekey

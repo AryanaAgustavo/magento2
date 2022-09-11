@@ -1,0 +1,362 @@
+
+Amagento\reports\model\resourcemodel\order\collection::setstoreidsÅ
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php´ ´("1*ú
+2Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php¥ ¡(“œ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php¥ ¥(
+%7*86
+4magento\reports\model\resourcemodel\order\collection2	getselectïí
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpµ ¿(
+%8"$Array–
+Õ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpµ ¿(
+%9"__mapSet*
+
+%8*
+
+subtotal*!
+SUM(main_table.base_subtotal)Œ
+À
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpµ ¿(
+%10"__mapSet*
+
+%8*
+tax*#!
+SUM(main_table.base_tax_amount)ÿ
+’
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpµ ¿(
+%11"__mapSet*
+
+%8*
+
+shipping*(&
+$SUM(main_table.base_shipping_amount)ÿ
+’
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpµ ¿(
+%12"__mapSet*
+
+%8*
+
+discount*(&
+$SUM(main_table.base_discount_amount)—
+Œ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpµ ¿(
+%13"__mapSet*
+
+%8*	
+total*$"
+ SUM(main_table.base_grand_total)”
+–
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpµ ¿(
+%14"__mapSet*
+
+%8*
+
+invoiced*#!
+SUM(main_table.base_total_paid)◊
+‘
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpµ ¿(
+%15"__mapSet*
+
+%8*
+
+refunded*'%
+#SUM(main_table.base_total_refunded)≈
+¬
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpΩ  Ω(?
+%16"__concat*
+SUM(*
+) *
+
+$baseSubtotalInvoiced
+Ì
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpæ æ(T
+%17"__concat*
+
++ SUM(*
+
+) - SUM(*
+) *
+
+$baseDiscountRefunded*
+
+$baseSubtotalRefundedÔ
+Ï
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpø ø(S
+%18"__concat*
+
+- SUM(*
+
+) - SUM(*
+)*
+
+$baseDiscountInvoiced*
+
+$baseTotalInvocedCost≥
+∞
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpΩ  ø(S
+%19"__concat*
+
+%16*
+
+%17*
+
+%18µ
+≤
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpµ ¿(
+%20"__mapSet*
+
+%8*
+
+profit*
+
+%19ß§
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php¥ ¡(
+%21*
+
+%7*
+
+%82columns*
+4*ä
+3Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php√ “(”–
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php√ √(
+%22*86
+4magento\reports\model\resourcemodel\order\collection2	getselectñì
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpƒ —(
+%23"$ArrayÛ
+
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpƒ —(
+%24"__mapSet*
+
+%23*
+
+subtotal*B@
+>SUM(main_table.base_subtotal * main_table.base_to_global_rate)
+Ì
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpƒ —(
+%25"__mapSet*
+
+%23*
+tax*DB
+@SUM(main_table.base_tax_amount * main_table.base_to_global_rate)˙
+˜
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpƒ —(
+%26"__mapSet*
+
+%23*
+
+shipping*IG
+ESUM(main_table.base_shipping_amount * main_table.base_to_global_rate)˙
+˜
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpƒ —(
+%27"__mapSet*
+
+%23*
+
+discount*IG
+ESUM(main_table.base_discount_amount * main_table.base_to_global_rate)Û
+
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpƒ —(
+%28"__mapSet*
+
+%23*	
+total*EC
+ASUM(main_table.base_grand_total * main_table.base_to_global_rate)ı
+Ú
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpƒ —(
+%29"__mapSet*
+
+%23*
+
+invoiced*DB
+@SUM(main_table.base_total_paid * main_table.base_to_global_rate)˘
+ˆ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpƒ —(
+%30"__mapSet*
+
+%23*
+
+refunded*HF
+DSUM(main_table.base_total_refunded * main_table.base_to_global_rate)Á
+‰
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpÃ  Ã(a
+%31"__concat*
+SUM(*(&
+$ *  main_table.base_to_global_rate) *
+
+$baseSubtotalInvoicedË
+Â
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpÕ Õ(V
+%32"__concat*
+
++ SUM(*'%
+# * main_table.base_to_global_rate) *
+
+$baseDiscountRefundedË
+Â
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpŒ Œ(V
+%33"__concat*
+
+- SUM(*'%
+# * main_table.base_to_global_rate) *
+
+$baseSubtotalRefundedË
+Â
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpœ œ(V
+%34"__concat*
+
+- SUM(*'%
+# * main_table.base_to_global_rate) *
+
+$baseDiscountInvoicedÁ
+‰
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php– –(U
+%35"__concat*
+
+- SUM(*&$
+" * main_table.base_to_global_rate)*
+
+$baseTotalInvocedCost≈
+¬
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpÃ  –(U
+%36"__concat*
+
+%31*
+
+%32*
+
+%33*
+
+%34*
+
+%35∂
+≥
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpƒ —(
+%37"__mapSet*
+
+%23*
+
+profit*
+
+%36©¶
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php√ “(
+%38*
+
+%22*
+
+%232columns*
+4*»
+4Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php’ ’("æ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php’ ’(86
+4magento\reports\model\resourcemodel\order\collection*»
+1Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php≠ ≠(-÷”
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php≠ ≠(,
+%1*86
+4magento\reports\model\resourcemodel\order\collection2getconnection§
+°
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php≠ ≠(,
+$connection"__id*
+
+%1◊‘
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpÆ  Æ(a
+%2*
+
+$connection*%#
+!main_table.base_subtotal_invoiced*2 2getifnullsqlÆ
+´
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpÆ Æ(a
+$baseSubtotalInvoiced"__id*
+
+%2◊‘
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpØ  Ø(a
+%3*
+
+$connection*%#
+!main_table.base_discount_refunded*2 2getifnullsqlÆ
+´
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpØ Ø(a
+$baseDiscountRefunded"__id*
+
+%3◊‘
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php∞  ∞(a
+%4*
+
+$connection*%#
+!main_table.base_subtotal_refunded*2 2getifnullsqlÆ
+´
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php∞ ∞(a
+$baseSubtotalRefunded"__id*
+
+%4◊‘
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php±  ±(a
+%5*
+
+$connection*%#
+!main_table.base_discount_invoiced*2 2getifnullsqlÆ
+´
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php± ±(a
+$baseDiscountInvoiced"__id*
+
+%5Ÿ÷
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php≤  ≤(c
+%6*
+
+$connection*'%
+#main_table.base_total_invoiced_cost*2 2getifnullsqlÆ
+´
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.php≤ ≤(c
+$baseTotalInvocedCost"__id*
+
+%6*
+2
+3:
+	$storeIdsB86
+4magento\reports\model\resourcemodel\order\collection

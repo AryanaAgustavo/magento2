@@ -1,0 +1,113 @@
+
+Nmagento\graphql\testmodule\graphqlquerytest::testquerytestmodulereturnsresultsë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php (5"1*«
+2
+GraphQlQueryTest.php"©
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php& &(
+implicit return*Ö
+1ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php (™
+ß
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php (
+$id"__id*2Å
+˛
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php (
+%1"__concat*
+{
+    testItem(id: *53
+1)
+    {
+        item_id
+        name
+    }
+}*
+
+$idØ
+¨
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php (
+$query"__id*
+
+%1ËÂ
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php (/
+%2*/-
++magento\graphql\testmodule\graphqlquerytest*
+
+
+$query2graphqlquery≤
+Ø
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php (/
+	$response"__id*
+
+%2˛˚
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php   (7
+%3*/-
++magento\graphql\testmodule\graphqlquerytest*
+
+testItem*
+
+	$response2assertarrayhaskeyƒ
+¡
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php! !()
+%4"__mapGet*
+
+	$response*
+
+testItem≤
+Ø
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php! !()
+	$testItem"__id*
+
+%4˝˙
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php" "(6
+%5*/-
++magento\graphql\testmodule\graphqlquerytest*	
+item_id*
+
+	$testItem2assertarrayhaskey˙˜
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php# #(3
+%6*/-
++magento\graphql\testmodule\graphqlquerytest*
+name*
+
+	$testItem2assertarrayhaskey√
+¿
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php$ $(3
+%7"__mapGet*
+
+	$testItem*	
+item_idÍÁ
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php$ $(4
+%8*/-
++magento\graphql\testmodule\graphqlquerytest*2*
+
+%72assertequals¿
+Ω
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php%( %(9
+%9"__mapGet*
+
+	$testItem*
+nameÛ
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\TestModule\GraphQlQueryTest.php% %(:
+%10*/-
++magento\graphql\testmodule\graphqlquerytest*
+
+itemName*
+
+%92assertequals*
+2B/-
++magento\graphql\testmodule\graphqlquerytest

@@ -1,0 +1,157 @@
+
+4magento\quote\model\billingaddressmanagement::assignw
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpK K("1*ì
+2w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpW W((Ç
+Ä
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpW W(
+%14"__id*<*:.
+,magento\quote\model\billingaddressmanagement"
+loggerž›
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpW W('
+%15*
+
+%14*
+
+$e2critical*
+5*¼
+3w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpZ Z(4¢Ÿ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpZ Z(*
+%16*
+
+
+$quote2getbillingaddress“
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpZ Z(3
+%17*
+
+%162getid"‚
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpZ Z(4
+
+%17*´
+5
+BillingAddressManagement.php"Ž
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.php[ [(
+implicit return*÷
+1w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpN N(<Å
+Â
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpK K(
+
+$address"__id*5
+3
+$address'magento\quote\api\data\addressinterfaceÏ
+Ì
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpN N('
+%1"__id*E*C.
+,magento\quote\model\billingaddressmanagement"
+quoteRepository¢Ÿ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpN N(;
+%2*
+
+%1*
+	
+$cartId2	getactive”
+‘
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpN N(;
+$quote"__id*
+
+%2š
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpO  O(7
+%3*
+
+
+$quote2getcustomerid§¤
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpO O(8
+%4*
+
+
+$address*
+
+%32setcustomerid¡ž
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpP P(9
+%5*
+
+
+$quote2getbillingaddress‘Ž
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpP P(B
+%6*
+
+%52getid¥¢
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpP P(C
+%7*
+
+
+$quote*
+
+%62removeaddress¯¬
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpQ Q(+
+%8*
+
+
+$quote*
+
+
+$address2setbillingaddressÒÏ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpS S(1
+%9*0.
+,magento\quote\model\billingaddressmanagement2getshippingaddressassignmentÆÃ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpS S(`
+%10*
+
+%9*
+
+
+$quote*
+
+
+$address*
+
+$useForShipping2
+setaddress©¦
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpT T((
+%11*
+
+
+$quote*
+true2setdatachangesÐ
+Í
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpU U("
+%12"__id*E*C.
+,magento\quote\model\billingaddressmanagement"
+quoteRepositoryž›
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\BillingAddressManagement.phpU U(0
+%13*
+
+%12*
+
+
+$quote2save*	
+2
+3
+5:	
+$cartId:3
+$address'magento\quote\api\data\addressinterface:
+$useForShippingB0.
+,magento\quote\model\billingaddressmanagement

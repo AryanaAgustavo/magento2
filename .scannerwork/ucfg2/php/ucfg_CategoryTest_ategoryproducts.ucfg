@@ -1,0 +1,493 @@
+
+:magento\graphql\catalog\categorytest::testcategoryproducts‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpì ì(("1*½
+2
+CategoryTest.php"£
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpþ þ(
+implicit return*’b
+1‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpî î(¬
+©
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpî î(
+$categoryId"__id*2Ì
+É
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpï î(
+%1"__concat*
+{
+  category(id: *ÿü
+ù) {
+    products {
+      total_count
+      page_info {
+        current_page
+        page_size
+      }
+      items {
+        country_of_manufacture
+        description {
+            html
+        }
+        gift_message_available
+        id
+        categories {
+          name
+          url_path
+          available_sort_by
+          level
+        }
+        image { url, label }
+        meta_description
+        meta_keyword
+        meta_title
+        media_gallery_entries {
+          disabled
+          file
+          id
+          label
+          media_type
+          position
+          types
+          content {
+            base64_encoded_data
+            type
+            name
+          }
+          video_content {
+            media_type
+            video_description
+            video_metadata
+            video_provider
+            video_title
+            video_url
+          }
+        }
+        name
+        new_from_date
+        new_to_date
+        options_container
+        price {
+          minimalPrice {
+            amount {
+              value
+              currency
+            }
+            adjustments {
+              amount {
+                value
+                currency
+              }
+              code
+              description
+            }
+          }
+          maximalPrice {
+            amount {
+              value
+              currency
+            }
+            adjustments {
+              amount {
+                value
+                currency
+              }
+              code
+              description
+            }
+          }
+          regularPrice {
+            amount {
+              value
+              currency
+            }
+            adjustments {
+              amount {
+                value
+                currency
+              }
+              code
+              description
+            }
+          }
+        }
+        product_links {
+          link_type
+          linked_product_sku
+          linked_product_type
+          position
+          sku
+        }
+        short_description {
+            html
+        }
+        sku
+        small_image { url, label }
+        thumbnail { url, label }
+        special_price
+        special_to_date
+        swatch_image
+        tier_price
+        tier_prices {
+          customer_group_id
+          percentage_value
+          qty
+          value
+          website_id
+        }
+        type_id
+        url_key
+        url_path
+      }
+    }
+  }
+}*
+
+$categoryId©
+¦
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpï î(
+$query"__id*
+
+%1ÛØ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpï ï(/
+%2*(&
+$magento\graphql\catalog\categorytest*
+
+
+$query2graphqlquery¬
+©
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpï ï(/
+	$response"__id*
+
+%2¾
+»
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpð- ð(B
+%3"__mapGet*
+
+	$response*
+
+categoryêç
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpð ð(C
+%4*(&
+$magento\graphql\catalog\categorytest*
+
+products*
+
+%32assertarrayhaskey¾
+»
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpñ0 ñ(E
+%5"__mapGet*
+
+	$response*
+
+category·
+´
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpñ0 ñ(Q
+%6"__mapGet*
+
+%5*
+
+productsíê
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpñ ñ(R
+%7*(&
+$magento\graphql\catalog\categorytest*
+total_count*
+
+%62assertarrayhaskey¾
+»
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpò+ ò(@
+%8"__mapGet*
+
+	$response*
+
+category·
+´
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpò+ ò(L
+%9"__mapGet*
+
+%8*
+
+products»
+¸
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpò+ ò([
+%10"__mapGet*
+
+%9*
+total_countëè
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpò ò(\
+%11*(&
+$magento\graphql\catalog\categorytest*2*
+
+%102assertgreaterthanorequal¿
+¼
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpó ó(4
+%12"__mapGet*
+
+	$response*
+
+category¹
+¶
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpó ó(@
+%13"__mapGet*
+
+%12*
+
+productsº
+·
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpó ó(M
+%14"__mapGet*
+
+%13*
+	page_info½
+º
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpó ó(]
+%15"__mapGet*
+
+%14*
+current_pageßÜ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpó ó(^
+%16*(&
+$magento\graphql\catalog\categorytest*2*
+
+%152assertequals¿
+¼
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpô  ô(5
+%17"__mapGet*
+
+	$response*
+
+category¹
+¶
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpô  ô(A
+%18"__mapGet*
+
+%17*
+
+productsº
+·
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpô  ô(N
+%19"__mapGet*
+
+%18*
+	page_infoº
+·
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpô  ô([
+%20"__mapGet*
+
+%19*
+	page_sizeßÜ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpô ô(\
+%21*(&
+$magento\graphql\catalog\categorytest*2*
+
+%202assertequals¿
+¼
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpõ( õ(=
+%22"__mapGet*
+
+	$response*
+
+category¹
+¶
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpõ( õ(I
+%23"__mapGet*
+
+%22*
+
+products¶
+³
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpõ( õ(R
+%24"__mapGet*
+
+%23*	
+items±
+®
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpõ( õ(U
+%25"
+__arrayGet*
+
+%24*2 çä
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpõ õ(V
+%26*(&
+$magento\graphql\catalog\categorytest*
+sku*
+
+%252assertarrayhaskey¿
+¼
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpö ö(0
+%27"__mapGet*
+
+	$response*
+
+category¹
+¶
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpö ö(<
+%28"__mapGet*
+
+%27*
+
+products¶
+³
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpö ö(E
+%29"__mapGet*
+
+%28*	
+items±
+®
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpö ö(H
+%30"
+__arrayGet*
+
+%29*2 ´
+±
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpö ö(O
+%31"__mapGet*
+
+%30*
+sku´
+±
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpö ö(O
+$firstProductSku"__id*
+
+%31ó
+ð
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpú ú(9
+%32"0magento\testframework\objectmanager::getinstance*'"%
+#magento\testframework\objectmanagerª§
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpú ú(a
+%33*
+
+%32* 2get¶
+³
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpú ú(a
+$productRepository"__id*
+
+%33äá
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpû û(T
+%34*
+
+$productRepository*
+
+$firstProductSku*	
+false* *
+true2get±
+®
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpû û(T
+$firstProduct"__id*
+
+%34¿
+¼
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpü/ ü(D
+%35"__mapGet*
+
+	$response*
+
+category¹
+¶
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpü/ ü(P
+%36"__mapGet*
+
+%35*
+
+products¶
+³
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpü/ ü(Y
+%37"__mapGet*
+
+%36*	
+items±
+®
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpü/ ü(\
+%38"
+__arrayGet*
+
+%37*2 ðí
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpü ü(]
+%39*(&
+$magento\graphql\catalog\categorytest*
+
+$firstProduct*
+
+%382assertbasefields¿
+¼
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpý  ý(5
+%40"__mapGet*
+
+	$response*
+
+category¹
+¶
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpý  ý(A
+%41"__mapGet*
+
+%40*
+
+products¶
+³
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpý  ý(J
+%42"__mapGet*
+
+%41*	
+items±
+®
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpý  ý(M
+%43"
+__arrayGet*
+
+%42*2 ÝÚ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryTest.phpý ý(N
+%44*(&
+$magento\graphql\catalog\categorytest*
+
+%432assertattributes*
+2B(&
+$magento\graphql\catalog\categorytest

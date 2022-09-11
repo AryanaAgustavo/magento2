@@ -1,0 +1,154 @@
+
+@magento\rss\app\action\plugin\backendauthentication::__construct~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.php: :("1*¸
+2
+BackendAuthentication.php"•
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.phpX X(
+implicit return*‡!
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.phpI I(8¹
+¶
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.php: :(
+$auth"__id*%
+#
+$authmagento\backend\model\auth¿
+¼
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.php: :(
+$url"__id*,
+*
+$url"magento\backend\model\urlinterfaceÎ
+Ë
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.php: :(
+	$response"__id*6
+4
+	$response'magento\framework\app\responseinterfaceË
+È
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.php: :(
+$actionFlag"__id*1
+/
+$actionFlag magento\framework\app\actionflagÝ
+Ú
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.php: :(
+$messageManager"__id*?
+=
+$messageManager*magento\framework\message\managerinterfaceÍ
+Ê
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.php: :(
+$backendUrl"__id*3
+1
+$backendUrl"magento\backend\model\urlinterfaceô
+ñ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.php: :(
+$resultRedirectFactory"__id*O
+M
+$resultRedirectFactory3magento\framework\controller\result\redirectfactoryÕ
+Ò
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.php: :(
+$backendAppList"__id*7
+5
+$backendAppList"magento\backend\app\backendapplistä
+á
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.php: :(
+$formKeyValidator"__id*D
+B
+$formKeyValidator-magento\framework\data\form\formkey\validatorà
+Ý
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.php: :(
+$httpAuthentication"__id*>
+<
+$httpAuthentication%magento\framework\http\authenticationº
+·
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.php: :(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÙ
+Ö
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.php: :(
+$authorization"__id*<
+:
+$authorization(magento\framework\authorizationinterface´
+±
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.php: :(
+$aclResources"__id*
+
+$aclResourcesarrayñ
+î
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.phpI I(7M5
+3magento\rss\app\action\plugin\backendauthentication"
+httpAuthentication"__id*
+
+$httpAuthenticationÙ
+Ö
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.phpJ J(A5
+3magento\rss\app\action\plugin\backendauthentication"
+logger"__id*
+	
+$loggerç
+ä
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.phpK K(-H5
+3magento\rss\app\action\plugin\backendauthentication"
+authorization"__id*
+
+$authorizationå
+â
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.phpL L(+G5
+3magento\rss\app\action\plugin\backendauthentication"
+aclResources"__id*
+
+$aclResources¤
+¡
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Rss\App\Action\Plugin\BackendAuthentication.phpM W(	
+%1"=magento\backend\app\action\plugin\authentication::__construct*75
+3magento\rss\app\action\plugin\backendauthentication*	
+
+$auth*
+
+$url*
+
+	$response*
+
+$actionFlag*
+
+$messageManager*
+
+$backendUrl*
+
+$resultRedirectFactory*
+
+$backendAppList*
+
+$formKeyValidator*
+2:#
+$authmagento\backend\model\auth:*
+$url"magento\backend\model\urlinterface:4
+	$response'magento\framework\app\responseinterface:/
+$actionFlag magento\framework\app\actionflag:=
+$messageManager*magento\framework\message\managerinterface:1
+$backendUrl"magento\backend\model\urlinterface:M
+$resultRedirectFactory3magento\framework\controller\result\redirectfactory:5
+$backendAppList"magento\backend\app\backendapplist:B
+$formKeyValidator-magento\framework\data\form\formkey\validator:<
+$httpAuthentication%magento\framework\http\authentication:"
+$loggerpsr\log\loggerinterface::
+$authorization(magento\framework\authorizationinterface:
+$aclResourcesarrayB75
+3magento\rss\app\action\plugin\backendauthentication

@@ -1,0 +1,122 @@
+
+6magento\rss\controller\feed\indextest::testrssresponse‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php8 8(#"1*¶
+2
+IndexTest.php"Ÿ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.phpB B(
+implicit return*
+1‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php: :(­
+ª
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php: :(
+$firstCustomerId"__id*2Ù
+Ö
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php; ;(
+%1"__id*>*<'
+%magento\rss\controller\feed\indextest"
+customerSessionÀ½
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php; ;(?
+%2*
+
+%1*
+
+$firstCustomerId2setcustomeridÜ
+Ù
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php< <(-
+%3"__id*A*?'
+%magento\rss\controller\feed\indextest"
+customerRepositoryº·
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php< <(H
+%4*
+
+%3*
+
+$firstCustomerId2getbyid¨
+¥
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php< <(H
+	$customer"__id*
+
+%4¬©
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php= =(.
+%5*
+
+	$customer2getemail­
+ª
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php= =(.
+$customerEmail"__id*
+
+%5Ò
+Ï
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php> >(%
+%6"__id*7*5'
+%magento\rss\controller\feed\indextest"
+
+wishlistÃÀ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php> >(I
+%7*
+
+%6*
+
+$firstCustomerId2loadbycustomerid¢Ÿ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php> >(R
+%8*
+
+%72getidª
+§
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php> >(R
+$wishlistId"__id*
+
+%8‚ÿ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php? ?(U
+%9*)'
+%magento\rss\controller\feed\indextest*
+
+$firstCustomerId*
+
+$customerEmail*
+
+$wishlistId2getlinkÑÎ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php? ?(V
+%10*)'
+%magento\rss\controller\feed\indextest*
+
+%92dispatchÌÉ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php@ @($
+%11*)'
+%magento\rss\controller\feed\indextest2getresponse¦£
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php@ @(/
+%12*
+
+%112getbody¥
+¢
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.php@ @(/
+$body"__id*
+
+%12‘Ž
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Rss\Controller\Feed\IndexTest.phpA A(Y
+%13*)'
+%magento\rss\controller\feed\indextest*)'
+%<title>John Smith\'s Wishlist</title>*	
+
+$body2assertstringcontainsstring*
+2B)'
+%magento\rss\controller\feed\indextest

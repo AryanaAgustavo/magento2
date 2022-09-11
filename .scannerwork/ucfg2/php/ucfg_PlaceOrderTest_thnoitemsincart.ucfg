@@ -1,0 +1,69 @@
+
+Kmagento\graphql\quote\guest\placeordertest::testplaceorderwithnoitemsincart’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php· ·(3"1*Æ
+2
+PlaceOrderTest.php"ª
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpÂ Â(
+implicit return*·
+1’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php¹ ¹((Â
+¿
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php¹ ¹('
+$reservedOrderId"__id*
+
+test_quoteû
+ø
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpº º(A
+%1"__id*U*S,
+*magento\graphql\quote\guest\placeordertest"#
+!getMaskedQuoteIdByReservedOrderIdÅÂ
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpº º(\
+%2*
+
+%1*
+
+$reservedOrderId2execute¸
+µ
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpº º(\
+$maskedQuoteId"__id*
+
+%2ìé
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php» »(0
+%3*.,
+*magento\graphql\quote\guest\placeordertest*
+
+$maskedQuoteId2getquery°
+­
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php» »(0
+$query"__id*
+
+%3¤
+¡
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php¾ ¿(2
+%4"__concat*PN
+LUnable to place order: A server error stopped your order from being placed. *(&
+$Please try to place your order againš
+—
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php½ À(	
+%5"Bmagento\graphql\quote\guest\placeordertest::expectexceptionmessage*.",
+*magento\graphql\quote\guest\placeordertest*
+
+%4ëè
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpÁ Á(&
+%6*.,
+*magento\graphql\quote\guest\placeordertest*
+
+
+$query2graphqlmutation*
+2B.,
+*magento\graphql\quote\guest\placeordertest

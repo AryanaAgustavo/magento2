@@ -1,0 +1,120 @@
+
+/magento\sales\model\convert\order::tocreditmemon
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.php¾ ¾( "1*ÿ
+1n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÀ À(<ª
+§
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.php¾ ¾( 
+$order"__id*%
+#
+$ordermagento\sales\model\orderÀ
+½
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÀ À(1
+%1"__id*?*=#
+!magento\sales\model\convert\order"
+creditmemoRepository‰†
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÀ À(;
+%2*
+
+%12create
+
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÀ À(;
+$creditmemo"__id*
+
+%2 
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÁ Ã(	
+%3*
+
+$creditmemo*
+
+
+$order2setorder‘Ž
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÄ Ä( 
+%4*
+
+
+$order2
+getstoreid•’
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÁ Å(	
+%5*
+
+%3*
+
+%42
+setstoreid”‘
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÆ Æ(#
+%6*
+
+
+$order2getcustomerid˜•
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÁ Ç(	
+%7*
+
+%5*
+
+%62setcustomeridš—
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÈ È()
+%8*
+
+
+$order2getbillingaddressidž›
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÁ É(	
+%9*
+
+%7*
+
+%82setbillingaddressidœ™
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÊ Ê(*
+%10*
+
+
+$order2getshippingaddressid¡ž
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÁ Ë(	
+%11*
+
+%9*
+
+%102setshippingaddressid¿
+¼
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÍ Í(!
+%12"__id*=*;#
+!magento\sales\model\convert\order"
+_objectCopyServiceÚ×
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÍ Í(l
+%13*
+
+%12*
+sales_convert_order*	
+to_cm*
+
+
+$order*
+
+$creditmemo2copyfieldsettotarget·
+´
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÎ Î(+
+%14$magento\sales\model\order\creditmemo"__id*
+
+$creditmemo"Ÿ
+n
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpÎ Î(-
++
+%14$magento\sales\model\order\creditmemo:#
+$ordermagento\sales\model\orderB%#
+!magento\sales\model\convert\order

@@ -1,0 +1,67 @@
+
+8magento\translation\controller\ajaxtest::testindexaction‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Translation\Controller\AjaxTest.php (#"1*·
+2
+AjaxTest.php"¡
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Translation\Controller\AjaxTest.php" "(
+implicit return*¨
+1‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Translation\Controller\AjaxTest.php (B¸
+µ
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Translation\Controller\AjaxTest.php (#
+	$postData"__id*
+
+	$postDataarray¹
+¶
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Translation\Controller\AjaxTest.php (#
+	$expected"__id*
+
+	$expectedstringÎË
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Translation\Controller\AjaxTest.php (
+%1*+)
+'magento\translation\controller\ajaxtest2
+getrequestÉÆ
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Translation\Controller\AjaxTest.php (A
+%2*
+
+%1*
+	translate*
+
+	$postData2setpostvalueèå
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Translation\Controller\AjaxTest.php (1
+%3*+)
+'magento\translation\controller\ajaxtest*
+translation/ajax/index2dispatchÏÌ
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Translation\Controller\AjaxTest.php   (&
+%4*+)
+'magento\translation\controller\ajaxtest2getresponse¦£
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Translation\Controller\AjaxTest.php   (1
+%5*
+
+%42getbody¨
+¥
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Translation\Controller\AjaxTest.php   (1	
+$result"__id*
+
+%5ìé
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Translation\Controller\AjaxTest.php! !(/
+%6*+)
+'magento\translation\controller\ajaxtest*
+
+	$expected*
+	
+$result2assertequals*
+2:
+	$postDataarray:
+	$expectedstringB+)
+'magento\translation\controller\ajaxtest

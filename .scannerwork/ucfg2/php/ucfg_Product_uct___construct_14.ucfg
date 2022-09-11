@@ -1,0 +1,70 @@
+
+8magento\review\controller\adminhtml\product::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product.php: :("1*¢
+2
+Product.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product.phpD D(
+implicit return*ö
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product.php@ @(,ø
+º
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product.php: :(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\context¡
+æ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product.php: :(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryÀ
+»
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product.php: :(
+$reviewFactory"__id*6
+4
+$reviewFactory"magento\review\model\reviewfactoryÀ
+»
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product.php: :(
+$ratingFactory"__id*6
+4
+$ratingFactory"magento\review\model\ratingfactory’
+“
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product.php@ @(+?-
++magento\review\controller\adminhtml\product"
+coreRegistry"__id*
+
+$coreRegistry◊
+‘
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product.phpA A(-@-
++magento\review\controller\adminhtml\product"
+reviewFactory"__id*
+
+$reviewFactory◊
+‘
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product.phpB B(-@-
++magento\review\controller\adminhtml\product"
+ratingFactory"__id*
+
+$ratingFactoryÈ
+Ê
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Controller\Adminhtml\Product.phpC C(%
+%1"'magento\backend\app\action::__construct*/-
++magento\review\controller\adminhtml\product*
+
+
+$context*
+2:.
+$context"magento\backend\app\action\context:+
+$coreRegistrymagento\framework\registry:4
+$reviewFactory"magento\review\model\reviewfactory:4
+$ratingFactory"magento\review\model\ratingfactoryB/-
++magento\review\controller\adminhtml\product

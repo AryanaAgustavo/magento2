@@ -1,0 +1,107 @@
+
+cmagento\framework\lock\test\unit\backend\databasetest::testlockwithalreadyacquiredlockinsamesessionÑ
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.php~ ~(@"1*∏
+2
+DatabaseTest.php"û
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpä ä(
+implicit return*›
+1Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpÄ É(È
+Ê
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpÄ Ä(
+%1"__id*O*M7
+5magento\framework\lock\test\unit\backend\databasetest"
+deploymentConfigµ≤
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpÄ Å(%
+%2*
+
+%1*
+isDbAvailable2method†ù
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpÄ Ç(
+%3*
+
+%22with∞≠
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpÄ É(
+%4*
+
+%3*
+true2
+willreturn‚
+ﬂ
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpÑ Ñ(
+%5"__id*H*F7
+5magento\framework\lock\test\unit\backend\databasetest"
+	statement“œ
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpÑ" Ñ(.
+%6*97
+5magento\framework\lock\test\unit\backend\databasetest2any´®
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpÑ Ñ(/
+%7*
+
+%5*
+
+%62expects≥∞
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpÑ Ö(#
+%8*
+
+%7*
+fetchColumn2method∞≠
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpÑ Ü(
+%9*
+
+%8*
+true2
+willreturn‚
+ﬂ
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpà à()
+%10"__id*G*E7
+5magento\framework\lock\test\unit\backend\databasetest"
+
+database∞≠
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpà à(;
+%11*
+
+%10*
+
+testLock2lock„‡
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpà à(<
+%12*97
+5magento\framework\lock\test\unit\backend\databasetest*
+
+%112
+asserttrue‚
+ﬂ
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpâ â()
+%13"__id*G*E7
+5magento\framework\lock\test\unit\backend\databasetest"
+
+databaseµ≤
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpâ â(@
+%14*
+
+%13*
+differentLock2lock„‡
+Ü
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Lock\Test\Unit\Backend\DatabaseTest.phpâ â(A
+%15*97
+5magento\framework\lock\test\unit\backend\databasetest*
+
+%142
+asserttrue*
+2B97
+5magento\framework\lock\test\unit\backend\databasetest

@@ -1,0 +1,50 @@
+
+kmagento\checkoutagreements\model\checkout\plugin\guestvalidation::beforesavepaymentinformationandplaceorderå
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\Checkout\Plugin\GuestValidation.phpH H(="1*†
+2å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\Checkout\Plugin\GuestValidation.phpP P(6ÜÉ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\Checkout\Plugin\GuestValidation.phpP P(5
+%2*DB
+@magento\checkoutagreements\model\checkout\plugin\guestvalidation*
+
+$paymentMethod2validateagreements*
+3*¡
+3
+GuestValidation.php"§
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\Checkout\Plugin\GuestValidation.phpR R(
+implicit return*€
+1å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\Checkout\Plugin\GuestValidation.phpO O('Û
+
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\Checkout\Plugin\GuestValidation.phpH H(=
+
+$subject"__id*M
+K
+$subject?magento\checkout\api\guestpaymentinformationmanagementinterfaceÁ
+‰
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\Checkout\Plugin\GuestValidation.phpH H(=
+$paymentMethod"__id*;
+9
+$paymentMethod'magento\quote\api\data\paymentinterfaceÈ
+Ê
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\Checkout\Plugin\GuestValidation.phpH H(=
+$billingAddress"__id*<
+:
+$billingAddress'magento\quote\api\data\addressinterfaceÚÔ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CheckoutAgreements\Model\Checkout\Plugin\GuestValidation.phpO O('
+%1*DB
+@magento\checkoutagreements\model\checkout\plugin\guestvalidation2isagreementenabled*
+2
+3:K
+$subject?magento\checkout\api\guestpaymentinformationmanagementinterface:	
+$cartId:
+$email:9
+$paymentMethod'magento\quote\api\data\paymentinterface::
+$billingAddress'magento\quote\api\data\addressinterfaceBDB
+@magento\checkoutagreements\model\checkout\plugin\guestvalidation

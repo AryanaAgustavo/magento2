@@ -1,0 +1,83 @@
+
+Bmagento\sales\model\order\creditmemofactorytest::testcreatebyorder’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\CreditmemoFactoryTest.php4 4(%"1*Í
+2
+CreditmemoFactoryTest.php"ª
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\CreditmemoFactoryTest.php: :(
+implicit return*ð
+1’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\CreditmemoFactoryTest.php6 6(.Í
+Ê
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\CreditmemoFactoryTest.php4 4(%
+$creditmemoData"__id*
+
+$creditmemoDataarrayìé
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\CreditmemoFactoryTest.php6 6(-
+%1*31
+/magento\sales\model\order\creditmemofactorytest*
+	1000000012getorder°
+­
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\CreditmemoFactoryTest.php6 6(-
+$order"__id*
+
+%1‹ˆ
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\CreditmemoFactoryTest.php7 7(O
+%2*31
+/magento\sales\model\order\creditmemofactorytest*
+
+
+$order*
+
+$creditmemoData2preparecreditmemodata¹
+¶
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\CreditmemoFactoryTest.php7 7(O
+$creditmemoData"__id*
+
+%2ð
+í
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\CreditmemoFactoryTest.php8 8(.
+%3"__id*J*H1
+/magento\sales\model\order\creditmemofactorytest"
+creditmemoFactoryÖÓ
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\CreditmemoFactoryTest.php8 8(V
+%4*
+
+%3*
+
+
+$order*
+
+$creditmemoData2createbyorderµ
+²
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\CreditmemoFactoryTest.php8 8(V
+$creditmemo"__id*
+
+%4¼¹
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\CreditmemoFactoryTest.php9) 9(C
+%5*
+
+$creditmemo2gettotalqtyÑ
+Î
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\CreditmemoFactoryTest.php9 9(g
+%6"=magento\sales\model\order\creditmemofactorytest::assertequals*3"1
+/magento\sales\model\order\creditmemofactorytest*
+
+$expectedQty*
+
+%5*#!
+Creditmemo has wrong total qty.*
+2:
+$creditmemoDataarray:
+$expectedQtyB31
+/magento\sales\model\order\creditmemofactorytest

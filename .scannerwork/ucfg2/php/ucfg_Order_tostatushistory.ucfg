@@ -1,0 +1,130 @@
+
+4magento\sales\model\order::addcommenttostatushistoryf
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.phpò	 ò	(-"2"4"5*ï
+2f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.phpõ	 õ	()õò
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.phpõ	 õ	((
+%1*
+magento\sales\model\order2	getstatusÑ
+Å
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.phpõ	 õ	((	
+$status"__id*
+
+%1*
+6*Õ
+4f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.phpù	 ù	(Sõò
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.phpù	 ù	((
+%2*
+magento\sales\model\order2	getconfigöó
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.phpù	@ ù	(Q
+%3*
+magento\sales\model\order2getstateòï
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.phpù	 ù	(R
+%4*
+
+%2*
+
+%32getstatedefaultstatusÑ
+Å
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.phpù	 ù	(R	
+$status"__id*
+
+%4*
+6*õ
+5f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.phpü	 ü	(&®•
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.phpü	 ü	(%
+%5*
+magento\sales\model\order*
+	
+$status2	setstatus*
+6*÷
+6f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.php°	 ©	(
+∞
+≠
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.php°	 °	(.
+%6"__id*7*5
+magento\sales\model\order"
+_orderHistoryFactoryÄ~
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.php°	 °	(8
+%7*
+
+%62createëé
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.php°	 £	(	
+%8*
+
+%7*
+	
+$status2	setstatusìê
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.php°	 •	(	
+%9*
+
+%8*
+
+
+$comment2
+setcommentß
+§
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.php¶	 ¶	(
+%10"__id*-*+
+magento\sales\model\order"
+
+entityTypeíè
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.php°	 ß	(	
+%11*
+
+%9*
+
+%102setentitynameß§
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.php°	 ©	(	
+%12*
+
+%11*
+
+$isVisibleOnFront2setisvisibleonfrontÜ
+É
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.php°	 ©	(	
+
+$history"__id*
+
+%12±Æ
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.php™	 ™	()
+%13*
+magento\sales\model\order*
+
+
+$history2addstatushistory∫
+∑
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.php´	 ´	(9
+%142magento\sales\api\data\orderstatushistoryinterface"__id*
+
+
+$history"•
+f
+ZC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order.php´	 ´	(;
+9
+%142magento\sales\api\data\orderstatushistoryinterface:
+
+$comment:	
+$status:
+$isVisibleOnFrontB
+magento\sales\model\order

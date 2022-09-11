@@ -1,0 +1,59 @@
+
+Zmagento\customer\controller\adminhtml\grouptest::testnewactionnocustomergroupdatainsessioní
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\GroupTest.php2 2(="1*¡
+2
+GroupTest.php"™
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\GroupTest.php= =(
+implicit return*ù
+1í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\GroupTest.php4 4(6˝˙
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\GroupTest.php4 4(5
+%1*31
+/magento\customer\controller\adminhtml\grouptest*
+backend/customer/group/new2dispatch‡›
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\GroupTest.php5 5(,
+%2*31
+/magento\customer\controller\adminhtml\grouptest2getresponseØ¨
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\GroupTest.php5 5(7
+%3*
+
+%22getbody∑
+¥
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\GroupTest.php5 5(7
+$responseBody"__id*
+
+%3ƒ¡
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\GroupTest.php6 9(	
+%4*31
+/magento\customer\controller\adminhtml\grouptest*<:
+8/<h1 class\="page-title">\s*New Customer Group\s*<\/h1>/*
+
+$responseBody2assertmatchesregularexpressionù
+ö
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\GroupTest.php: ;(L
+%5"__concat*1/
+-<input id="customer_group_code" name="code"  *@>
+<data-ui-id="group-form-fieldset-element-text-code"  value=""≥
+∞
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\GroupTest.php: ;(L
+	$expected"__id*
+
+%5ëé
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\Adminhtml\GroupTest.php< <(C
+%6*31
+/magento\customer\controller\adminhtml\grouptest*
+
+	$expected*
+
+$responseBody2assertstringcontainsstring*
+2B31
+/magento\customer\controller\adminhtml\grouptest

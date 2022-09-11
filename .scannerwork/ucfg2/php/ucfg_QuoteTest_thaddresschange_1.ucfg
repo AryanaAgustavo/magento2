@@ -1,0 +1,130 @@
+
+Qmagento\quote\model\quotetest::preparequotefortestassigncustomerwithaddresschangeÅ
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.php∂ ∂(G"1*√ 
+1Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.php∏ ∏(…
+∆
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.php∂ ∂(G
+$quote"__id*0
+.
+$quote$magento\quote\api\data\cartinterface©
+¶
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.php∏ ∏(
+$fixtureCustomerId"__id*2Æ
+´
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.phpπ π(#
+$fixtureSecondAddressId"__id*2À
+»
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.php∫ ∫(*
+%1"__id*6*4
+magento\quote\model\quotetest"
+customerFactoryùö
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.php∫ ∫(4
+%2*
+
+%12create¢
+ü
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.php∫ ∫(4
+	$customer"__id*
+
+%2—
+Œ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.phpª ª($
+%3"__id*<*:
+magento\quote\model\quotetest"
+customerResourceModel¬ø
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.phpª ª(I
+%4*
+
+%3*
+
+	$customer*
+
+$fixtureCustomerId2loadÕ 
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.phpº º(>
+%5*
+
+	$customer*
+
+$fixtureSecondAddressId2setdefaultshipping—
+Œ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.phpΩ Ω($
+%6"__id*<*:
+magento\quote\model\quotetest"
+customerResourceModel™ß
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.phpΩ Ω(5
+%7*
+
+%6*
+
+	$customer2save™ß
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.phpæ æ(1
+%8*
+
+	$customer2getdatamodel¶
+£
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.phpæ æ(1
+$customerData"__id*
+
+%8¨©
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.php¿ ¿('
+%9*
+
+
+$quote2getbillingaddressùö
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.php¿ ¿(0
+%10*
+
+%92getidÇˇ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.phpø ¬(	
+%11*!
+magento\quote\model\quotetest*
+
+%10*97
+5Precondition failed: billing address should be empty.2assertemptyÆ´
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.phpƒ ƒ((
+%12*
+
+
+$quote2getshippingaddressûõ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.phpƒ ƒ(1
+%13*
+
+%122getidÉÄ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.php√ ∆(	
+%14*!
+magento\quote\model\quotetest*
+
+%13*:8
+6Precondition failed: shipping address should be empty.2assertempty‘
+—
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.php» »(2
+%15+magento\customer\api\data\customerinterface"__id*
+
+$customerData"∫
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Quote\Model\QuoteTest.php» »(4
+2
+%15+magento\customer\api\data\customerinterface:.
+$quote$magento\quote\api\data\cartinterfaceB!
+magento\quote\model\quotetest

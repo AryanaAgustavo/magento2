@@ -1,0 +1,149 @@
+
+Mmagento\catalog\model\indexer\product\price\action\full::getbatchesforindexerÑ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpì ì()"1*#
+1Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpï ï(F∞
+≠
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpì ì()	
+$typeId"__id*
+
+$typeIdstring
+Ì
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpï ï(4
+%1"__id*X*V9
+7magento\catalog\model\indexer\product\price\action\full"
+_defaultIndexerResourceß§
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpï ï(E
+%2*
+
+%12getconnectionß
+§
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpï ï(E
+$connection"__id*
+
+%2·ﬁ
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpñ ñ(5
+%3*;9
+7magento\catalog\model\indexer\product\price\action\full2getproductmetadata´
+®
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpñ ñ(5
+$entityMetadata"__id*
+
+%3©¶
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpó ó('
+%4*
+
+$connection2select£
+†
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpó ó('	
+$select"__id*
+
+%4±Æ
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpò ò(
+%5*
+	
+$select*
+true2distinctòï
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpô ô(@
+%6"$Arrayµ≤
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpô ô(?
+%7*
+
+$entityMetadata2getentitytable±
+Æ
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpô ô(@
+%8"__mapSet*
+
+%6*
+e*
+
+%7π∂
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpôB ô(g
+%9*
+
+$entityMetadata2getidentifierfield¥±
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpô ô(h
+%10*
+	
+$select*
+
+%6*
+
+%92from√¿
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpö ö(.
+%11*
+	
+$select*
+type_id = ?*
+	
+$typeId2whereÌ
+Í
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpú ú()
+%12"__id*T*R9
+7magento\catalog\model\indexer\product\price\action\full"
+batchQueryGenerator‚ﬂ
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpù ù('
+%13*;9
+7magento\catalog\model\indexer\product\price\action\full2getproductmetadataÆ´
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpù ù(=
+%14*
+
+%132getidentifierfieldÌ
+Í
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpü ü(&
+%15"__id*T*R9
+7magento\catalog\model\indexer\product\price\action\full"
+batchSizeCalculatorÀ»
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpü ¢(
+%16*
+
+%15*
+
+$connection*
+	
+$typeId2estimatebatchsize√¿
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpú £(	
+%17*
+
+%12*
+
+%14*
+	
+$select*
+
+%162generate 
+«
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpú £(
+/
+%18(magento\framework\db\query\batchiterator"__id*
+
+%17"∫
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Indexer\Product\Price\Action\Full.phpú £(
+1
+/
+%18(magento\framework\db\query\batchiterator:
+$typeIdstringB;9
+7magento\catalog\model\indexer\product\price\action\full

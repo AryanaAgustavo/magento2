@@ -1,0 +1,54 @@
+
+;magento\tax\model\resourcemodel\calculation::deletebyruleidv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.phpE E(""1*Î
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.phpG G('¡æ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.phpG G(&
+%1*/-
++magento\tax\model\resourcemodel\calculation2getconnectioní
+è
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.phpG G(&
+$conn"__id*
+
+%1°
+û
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.phpHA H(M
+%2"__sanitizing_cast*
+	
+$ruleId¿Ω
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.phpH H(N
+%3*	
+
+$conn*
+tax_calculation_rule_id = ?*
+
+%22	quoteintoì
+ê
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.phpH H(N
+$where"__id*
+
+%3¿Ω
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.phpI I(+
+%4*/-
++magento\tax\model\resourcemodel\calculation2getmaintable®•
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.phpI I(4
+%5*	
+
+$conn*
+
+%4*
+
+
+$where2delete"©
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Calculation.phpK K(/-
++magento\tax\model\resourcemodel\calculation:	
+$ruleIdB/-
++magento\tax\model\resourcemodel\calculation

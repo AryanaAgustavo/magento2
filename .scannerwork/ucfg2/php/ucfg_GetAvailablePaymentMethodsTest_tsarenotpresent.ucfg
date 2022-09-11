@@ -1,0 +1,100 @@
+
+qmagento\graphql\quote\guest\getavailablepaymentmethodstest::testgetavailablepaymentmethodsifpaymentsarenotpresent 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phph h(I"1*ä
+2$
+"GetAvailablePaymentMethodsTest.php"¸
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpq q(
+implicit return*ü
+1 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpj j(Y™
+–
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpj j(A
+%1"__id*e*c<
+:magento\graphql\quote\guest\getavailablepaymentmethodstest"#
+!getMaskedQuoteIdByReservedOrderIdÍÊ
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpj j(X
+%2*
+
+%1*
+
+test_quote2executeÆ
+Ã
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpj j(X
+$maskedQuoteId"__id*
+
+%2Š‡
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpk k(0
+%3*><
+:magento\graphql\quote\guest\getavailablepaymentmethodstest*
+
+$maskedQuoteId2getquery¾
+»
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpk k(0
+$query"__id*
+
+%3†ƒ
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpl l(/
+%4*><
+:magento\graphql\quote\guest\getavailablepaymentmethodstest*
+
+
+$query2graphqlqueryÁ
+¾
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpl l(/
+	$response"__id*
+
+%4Ô
+Ñ
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpn n(2
+%5"Mmagento\graphql\quote\guest\getavailablepaymentmethodstest::assertarrayhaskey*>"<
+:magento\graphql\quote\guest\getavailablepaymentmethodstest*
+cart*
+
+	$responseÏ
+Ì
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpo= o(N
+%6"__mapGet*
+
+	$response*
+cartâ
+ß
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpo o(O
+%7"Mmagento\graphql\quote\guest\getavailablepaymentmethodstest::assertarrayhaskey*>"<
+:magento\graphql\quote\guest\getavailablepaymentmethodstest*
+available_payment_methods*
+
+%6Ï
+Ì
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpp p(+
+%8"__mapGet*
+
+	$response*
+cartÝ
+Ú
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpp p(H
+%9"__mapGet*
+
+%8*
+available_payment_methods¾
+»
+ 
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\GetAvailablePaymentMethodsTest.phpp p(I
+%10"Gmagento\graphql\quote\guest\getavailablepaymentmethodstest::assertempty*>"<
+:magento\graphql\quote\guest\getavailablepaymentmethodstest*
+
+%9*
+2B><
+:magento\graphql\quote\guest\getavailablepaymentmethodstest

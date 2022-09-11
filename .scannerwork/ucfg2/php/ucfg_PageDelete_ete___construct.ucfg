@@ -1,0 +1,111 @@
+
+8magento\mediacontentcms\observer\pagedelete::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpJ J("1*•
+2
+PageDelete.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpZ Z(
+implicit return*·
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpS S(D¸
+˘
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpJ J(
+$extractAssetsFromContent"__id*\
+Z
+$extractAssetsFromContent=magento\mediacontentapi\api\extractassetsfromcontentinterface€
+ÿ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpJ J(
+$getContent"__id*I
+G
+$getContent8magento\mediacontentapi\model\getentitycontentsinterface˘
+ˆ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpJ J(
+$deleteContentAssetLinks"__id*Z
+X
+$deleteContentAssetLinks<magento\mediacontentapi\api\deletecontentassetlinksinterface˚
+¯
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpJ J(
+$contentIdentityFactory"__id*]
+[
+$contentIdentityFactory@magento\mediacontentapi\api\data\contentidentityinterfacefactory˛
+˚
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpJ J(
+$contentAssetLinkFactory"__id*_
+]
+$contentAssetLinkFactoryAmagento\mediacontentapi\api\data\contentassetlinkinterfacefactoryø
+º
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpJ J(	
+$config"__id*1
+/
+$config$magento\mediacontentapi\model\config†
+ù
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpJ J(	
+$fields"__id*
+
+$fieldsarrayÌ
+Í
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpS S(CK-
++magento\mediacontentcms\observer\pagedelete"
+extractAssetsFromContent"__id*
+
+$extractAssetsFromContent—
+Œ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpT T('=-
++magento\mediacontentcms\observer\pagedelete"
+
+getContent"__id*
+
+$getContentÎ
+Ë
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpU U(AJ-
++magento\mediacontentcms\observer\pagedelete"
+deleteContentAssetLinks"__id*
+
+$deleteContentAssetLinksÎ
+Ë
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpV V(AJ-
++magento\mediacontentcms\observer\pagedelete"
+contentAssetLinkFactory"__id*
+
+$contentAssetLinkFactoryÈ
+Ê
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpW W(?I-
++magento\mediacontentcms\observer\pagedelete"
+contentIdentityFactory"__id*
+
+$contentIdentityFactory…
+∆
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpX X(9-
++magento\mediacontentcms\observer\pagedelete"
+config"__id*
+	
+$config…
+∆
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCms\Observer\PageDelete.phpY Y(9-
++magento\mediacontentcms\observer\pagedelete"
+fields"__id*
+	
+$fields*
+2:Z
+$extractAssetsFromContent=magento\mediacontentapi\api\extractassetsfromcontentinterface:G
+$getContent8magento\mediacontentapi\model\getentitycontentsinterface:X
+$deleteContentAssetLinks<magento\mediacontentapi\api\deletecontentassetlinksinterface:[
+$contentIdentityFactory@magento\mediacontentapi\api\data\contentidentityinterfacefactory:]
+$contentAssetLinkFactoryAmagento\mediacontentapi\api\data\contentassetlinkinterfacefactory:/
+$config$magento\mediacontentapi\model\config:
+$fieldsarrayB/-
++magento\mediacontentcms\observer\pagedelete

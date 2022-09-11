@@ -1,0 +1,189 @@
+
+Omagento\framework\app\test\unit\deploymentconfig\commentparsertest::testexecuteí
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpJ J("1*À
+2
+CommentParserTest.php"¨
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpä ä(
+implicit return* )
+1í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpL L(∑
+¥
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpL L(
+$file"__id*
+
+config.phpÛ
+
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpM y(
+
+$content"__id*∆√
+¿<?php
+return array (
+  'ns1' => 
+  array (
+    's1' => 
+    array (
+      0 => 's11',
+      1 => 's12',
+    ),
+    's2' => 
+    array (
+      0 => 's21',
+      1 => 's22',
+    ),
+  ),
+  /**
+   * comment for namespace 2.
+   * Next comment for' namespace 2
+   */
+  'ns2' => 
+  array (
+    's1' => 
+    array (
+      0 => 's11',
+    ),
+  ),
+  // This comment will be ignored
+  'ns3' => 'just text',
+  /**
+   * comment for namespace 4
+   *     second line
+   * For the section: ns4
+   */
+  'ns4' => 'just text',
+  /**
+   * For the section: ns5
+   * *comment for namespace *5*
+   */
+  'ns5' => 'just text',
+  # This comment will be ignored
+  'ns6' => 'just text',
+);
+¶£
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.php{ ~(	
+%1"$ArrayÁ
+‰
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.php{ ~(	
+%2"__mapSet*
+
+%1*
+ns4*,*
+(comment for namespace 4\n    second lineŸ
+÷
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.php{ ~(	
+%3"__mapSet*
+
+%1*
+ns5*
+*comment for namespace *5*π
+∂
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.php{ ~(	
+$expectedResult"__id*
+
+%1Ö
+Ç
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpÄ Ä( 
+%4"__id*]*[D
+Bmagento\framework\app\test\unit\deploymentconfig\commentparsertest"
+readDirectoryMockÓÎ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpÄ* Ä(7
+%5*FD
+Bmagento\framework\app\test\unit\deploymentconfig\commentparsertest2onceπ∂
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpÄ Ä(8
+%6*
+
+%4*
+
+%52expectsΩ∫
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpÄ Å(
+%7*
+
+%6*	
+isExist2methodπ∂
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpÄ Ç(
+%8*
+
+%7*	
+
+$file2withæª
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpÄ É(
+%9*
+
+%8*
+true2
+willreturnÜ
+É
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpÑ Ñ( 
+%10"__id*]*[D
+Bmagento\framework\app\test\unit\deploymentconfig\commentparsertest"
+readDirectoryMockÔÏ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpÑ* Ñ(7
+%11*FD
+Bmagento\framework\app\test\unit\deploymentconfig\commentparsertest2onceºπ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpÑ Ñ(8
+%12*
+
+%10*
+
+%112expects¿Ω
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpÑ Ö( 
+%13*
+
+%12*
+
+readFile2methodª∏
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpÑ Ü(
+%14*
+
+%13*	
+
+$file2withƒ¡
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpÑ á("
+%15*
+
+%14*
+
+
+$content2
+willreturnÇ
+ˇ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpâ- â(A
+%16"__id*Y*WD
+Bmagento\framework\app\test\unit\deploymentconfig\commentparsertest"
+commentParseræª
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpâ- â(Q
+%17*
+
+%16*	
+
+$file2executeïí
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\DeploymentConfig\CommentParserTest.phpâ â(R
+%18*FD
+Bmagento\framework\app\test\unit\deploymentconfig\commentparsertest*
+
+$expectedResult*
+
+%172assertequals*
+2BFD
+Bmagento\framework\app\test\unit\deploymentconfig\commentparsertest

@@ -1,0 +1,69 @@
+
+Bmagento\graphql\quote\guest\setshippingmethodsoncarttest::getquery 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingMethodsOnCartTest.phpÔ Ô("1*â
+1 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingMethodsOnCartTest.phpÙ ó(Ú
+×
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingMethodsOnCartTest.phpÔ Ô(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringä
+á
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingMethodsOnCartTest.phpÔ Ô(
+$shippingMethodCode"__id*
+
+$shippingMethodCodestringæ
+ã
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingMethodsOnCartTest.phpÔ Ô(
+$shippingCarrierCode"__id* 
+
+$shippingCarrierCodestringÞ
+Û
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingMethodsOnCartTest.phpÙ ó(
+%1"__concat*KI
+Gmutation {
+  setShippingMethodsOnCart(input: 
+    {
+      cart_id: "*<:
+8", 
+      shipping_methods: [{
+        carrier_code: "*
+"
+        method_code: "*´±
+®"
+      }]
+    }) {
+    cart {
+      shipping_addresses {
+        selected_shipping_method {
+          carrier_code
+          method_code
+          carrier_title
+          method_title
+          amount {
+            value
+            currency
+          }
+        }
+      }
+    }
+  }
+}*
+
+$maskedQuoteId*
+
+$shippingCarrierCode*
+
+$shippingMethodCode"«
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingMethodsOnCartTest.phpÙ ó(
+
+%1:
+$maskedQuoteIdstring:
+$shippingMethodCodestring:
+$shippingCarrierCodestringB<:
+8magento\graphql\quote\guest\setshippingmethodsoncarttest

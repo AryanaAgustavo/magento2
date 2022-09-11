@@ -1,0 +1,96 @@
+
+Amagento\cataloggraphql\model\category\categoryfilter::__construct
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpA A("1*²
+2
+CategoryFilter.php"–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpO O(
+implicit return*¿
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpI I(Fˆ
+…
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpA A(
+$categoryCollectionFactory"__id*^
+\
+$categoryCollectionFactory>magento\catalog\model\resourcemodel\category\collectionfactory¡
+ž
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpA A(
+$collectionProcessor"__id*}
+{
+$collectionProcessorcmagento\cataloggraphql\model\resolver\categories\dataprovider\category\collectionprocessorinterface—
+”
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpA A(#
+!$extensionAttributesJoinProcessor"__id*f
+d
+!$extensionAttributesJoinProcessor?magento\framework\api\extensionattribute\joinprocessorinterfaceŽ
+‹
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpA A(
+$categorySearchResultsFactory"__id*a
+_
+$categorySearchResultsFactory>magento\catalog\api\data\categorysearchresultsinterfacefactoryë
+è
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpA A(
+$categoryRepository"__id*H
+F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterfaceï
+ì
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpA A(
+$searchCriteria"__id*P
+N
+$searchCriteria;magento\cataloggraphql\model\category\filter\searchcriteria
+þ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpI I(EU6
+4magento\cataloggraphql\model\category\categoryfilter"
+categoryCollectionFactory"__id*
+
+$categoryCollectionFactoryõ
+ò
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpJ J(9O6
+4magento\cataloggraphql\model\category\categoryfilter"
+collectionProcessor"__id*
+
+$collectionProcessor
+Œ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpK K(S\6
+4magento\cataloggraphql\model\category\categoryfilter""
+ extensionAttributesJoinProcessor"__id*%
+#
+!$extensionAttributesJoinProcessor‡
+„
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpL L(KX6
+4magento\cataloggraphql\model\category\categoryfilter"
+categorySearchResultsFactory"__id*!
+
+$categorySearchResultsFactoryó
+ð
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpM M(7N6
+4magento\cataloggraphql\model\category\categoryfilter"
+categoryRepository"__id*
+
+$categoryRepositoryë
+è
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Category\CategoryFilter.phpN N(/J6
+4magento\cataloggraphql\model\category\categoryfilter"
+searchCriteria"__id*
+
+$searchCriteria*
+2:\
+$categoryCollectionFactory>magento\catalog\model\resourcemodel\category\collectionfactory:{
+$collectionProcessorcmagento\cataloggraphql\model\resolver\categories\dataprovider\category\collectionprocessorinterface:d
+!$extensionAttributesJoinProcessor?magento\framework\api\extensionattribute\joinprocessorinterface:_
+$categorySearchResultsFactory>magento\catalog\api\data\categorysearchresultsinterfacefactory:F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface:N
+$searchCriteria;magento\cataloggraphql\model\category\filter\searchcriteriaB86
+4magento\cataloggraphql\model\category\categoryfilter

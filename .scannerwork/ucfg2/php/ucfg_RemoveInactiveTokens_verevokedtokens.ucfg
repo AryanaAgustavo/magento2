@@ -1,0 +1,67 @@
+
+Nmagento\integration\setup\patch\data\removeinactivetokens::removerevokedtokens„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\RemoveInactiveTokens.phpM M(("1*¾
+2
+RemoveInactiveTokens.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\RemoveInactiveTokens.phpS S(
+implicit return*¹
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\RemoveInactiveTokens.phpO O(Kê
+ç
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\RemoveInactiveTokens.phpO O(1
+%1"__id*R*P;
+9magento\integration\setup\patch\data\removeinactivetokens"
+moduleDataSetup³°
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\RemoveInactiveTokens.phpO O(J
+%2*
+
+%1*
+oauth_token2gettable¬
+©
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\RemoveInactiveTokens.phpO O(J
+$oauthTokenTable"__id*
+
+%2˜•
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\RemoveInactiveTokens.phpQ Q(%
+%3"$Array¹
+¶
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\RemoveInactiveTokens.phpQ Q(%
+%4"__mapSet*
+
+%3*
+revoked = ?*2¢
+Ÿ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\RemoveInactiveTokens.phpQ Q(%
+$where"__id*
+
+%3ê
+ç
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\RemoveInactiveTokens.phpR R(
+%5"__id*R*P;
+9magento\integration\setup\patch\data\removeinactivetokens"
+moduleDataSetup§¤
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\RemoveInactiveTokens.phpR R(/
+%6*
+
+%52getconnectionÂ¿
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Setup\Patch\Data\RemoveInactiveTokens.phpR R(Q
+%7*
+
+%6*
+
+$oauthTokenTable*
+
+
+$where2delete*
+2B=;
+9magento\integration\setup\patch\data\removeinactivetokens

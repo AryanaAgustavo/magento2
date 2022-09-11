@@ -1,0 +1,91 @@
+
+|magento\framework\stdlib\test\unit\datetime\timezone\validatortest::testvalidatewithtimestampoutofsystemrangethrowsexception’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest.php (L"1*Å
+2
+ValidatorTest.php"ª
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest.php   (
+implicit return*å
+1’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest.php (Q«¨
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest.php (P
+%1*FD
+Bmagento\framework\stdlib\test\unit\datetime\timezone\validatortest*20
+.Magento\Framework\Exception\ValidatorException2expectexception½
+º
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest.php* (7
+%3"__mapGet*
+
+
+$range*
+min½
+º
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest.php9 (F
+%4"__mapGet*
+
+
+$range*
+maxÔÑ
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest.php (G
+%2"4magento\framework\stdlib\datetime\timezone\validatorù
+ö
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest.php (G
+%5"Amagento\framework\stdlib\datetime\timezone\validator::__construct*
+
+%2*
+
+%3*
+
+%4ü
+ù
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest.php (GTD
+Bmagento\framework\stdlib\test\unit\datetime\timezone\validatortest"
+
+_validator"__id*
+
+%2ü
+ù
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest.php (
+%6"__id*V*TD
+Bmagento\framework\stdlib\test\unit\datetime\timezone\validatortest"
+
+_validatorÊ
+Ç
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest.php$ (>
+%7"__mapGet*
+
+$validateArgs*
+	timestampÈ
+Å
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest.php@ (X
+%8"__mapGet*
+
+$validateArgs*	
+to_dateÀ½
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest.php (Y
+%9*
+
+%6*
+
+%7*
+
+%82validateëè
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Stdlib\Test\Unit\DateTime\Timezone\ValidatorTest.php (	
+%10*FD
+Bmagento\framework\stdlib\test\unit\datetime\timezone\validatortest*jh
+fThe transition year isn't included in the system date range. Verify the year date range and try again.2expectexceptionmessage*
+2:
+$range:
+$validateArgsBFD
+Bmagento\framework\stdlib\test\unit\datetime\timezone\validatortest

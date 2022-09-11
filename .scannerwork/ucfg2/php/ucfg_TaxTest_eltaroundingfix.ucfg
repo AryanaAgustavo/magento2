@@ -1,0 +1,142 @@
+
+Qmagento\tax\model\sales\total\quote\taxtest::testfulldiscountwithdeltaroundingfixê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpí í(8"1*Ω
+2
+TaxTest.php"®
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpß ß(
+implicit return*„!
+1ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpî î(#–
+Õ
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpï ï(8
+%1"__mapGet*
+
+$fullDiscountIncTax*
+config_data≥
+∞
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpï ï(8
+$configData"__id*
+
+%1œ
+Ã
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpñ ñ(6
+%2"__mapGet*
+
+$fullDiscountIncTax*
+
+quote_data≤
+Ø
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpñ ñ(6
+
+$quoteData"__id*
+
+%2‘
+—
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpó ó(A
+%3"__mapGet*
+
+$fullDiscountIncTax*
+expected_result∏
+µ
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpó ó(A
+$expectedResults"__id*
+
+%3Ç
+ˇ
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpö ö(6
+%4"8magento\testframework\helper\bootstrap::getobjectmanager**"(
+&magento\testframework\helper\bootstrap∂
+≥
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpö ö(6
+$objectManager"__id*
+
+%4À»
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpù ù(8
+%5"-magento\tax\model\sales\total\quote\setuputilÙ
+Ò
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpù ù(8
+%6":magento\tax\model\sales\total\quote\setuputil::__construct*
+
+%5*
+
+$objectManager‚
+ﬂ
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpù ù(8<-
++magento\tax\model\sales\total\quote\taxtest"
+	setupUtil"__id*
+
+%5‚
+ﬂ
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpû û(
+%7"__id*>*<-
++magento\tax\model\sales\total\quote\taxtest"
+	setupUtiløº
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.phpû û(/
+%8*
+
+%7*
+
+$configData2setuptax‚
+ﬂ
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.php† †(!
+%9"__id*>*<-
++magento\tax\model\sales\total\quote\taxtest"
+	setupUtil¡æ
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.php† †(9
+%10*
+
+%9*
+
+
+$quoteData2
+setupquoteØ
+¨
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.php† †(9
+$quote"__id*
+
+%10∏µ
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.php¢ ¢(
+%11*
+
+
+$quote2collecttotalsΩ∫
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.php§ §(4
+%12*
+
+
+$quote2getshippingaddress∂
+≥
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.php§ §(4
+$quoteAddress"__id*
+
+%12ÖÇ
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Tax\Model\Sales\Total\Quote\TaxTest.php¶ ¶(<
+%13*/-
++magento\tax\model\sales\total\quote\taxtest*
+
+$quoteAddress*
+
+$expectedResults2verifyresult*
+2B/-
++magento\tax\model\sales\total\quote\taxtest

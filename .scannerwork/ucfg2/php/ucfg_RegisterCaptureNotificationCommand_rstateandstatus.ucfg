@@ -1,0 +1,64 @@
+
+bmagento\sales\model\order\payment\state\registercapturenotificationcommand::setorderstateandstatus–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\State\RegisterCaptureNotificationCommand.phpS S(-"1*å
+2–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\State\RegisterCaptureNotificationCommand.phpV V(I¹¶
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\State\RegisterCaptureNotificationCommand.phpV V()
+%1*
+
+
+$order2	getconfigÍÊ
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\State\RegisterCaptureNotificationCommand.phpV V(H
+%2*
+
+%1*
+
+
+$state2getstatedefaultstatusµ
+²
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\State\RegisterCaptureNotificationCommand.phpV V(H	
+$status"__id*
+
+%2*
+3*­
+3–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\State\RegisterCaptureNotificationCommand.phpY Y(5ÄÁ
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\State\RegisterCaptureNotificationCommand.phpY Y( 
+%3*
+
+
+$order*
+
+
+$state2setstateÂ¿
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\State\RegisterCaptureNotificationCommand.phpY Y(4
+%4*
+
+%3*
+	
+$status2	setstatus*
+4*Þ
+4(
+&RegisterCaptureNotificationCommand.php"®
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\State\RegisterCaptureNotificationCommand.phpZ Z(
+implicit return*ú
+1–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\State\RegisterCaptureNotificationCommand.phpU U(Ó
+Ð
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\State\RegisterCaptureNotificationCommand.phpS S(-
+$order"__id*%
+#
+$ordermagento\sales\model\order*
+2
+3:#
+$ordermagento\sales\model\order:	
+$status:
+$stateBNL
+Jmagento\sales\model\order\payment\state\registercapturenotificationcommand

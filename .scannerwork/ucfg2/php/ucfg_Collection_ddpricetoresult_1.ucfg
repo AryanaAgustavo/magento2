@@ -1,0 +1,133 @@
+
+Jmagento\downloadable\model\resourcemodel\link\collection::addpricetoresultƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpy y($"1*ì
+1ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php{ {(\ÜÙ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php{ {(4
+%1*<:
+8magento\downloadable\model\resourcemodel\link\collection2getconnectionÂ¿
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php{ {([
+%2*
+
+%1*
+	stp.price*
+
+dp.price2getifnullsql®
+«
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php{ {([
+$ifNullDefaultPrice"__id*
+
+%2ØÕ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php| |(
+%3*<:
+8magento\downloadable\model\resourcemodel\link\collection2	getselect—”
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php} }(@
+%4"$Arrayôñ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php} }(?
+%5*<:
+8magento\downloadable\model\resourcemodel\link\collection*
+downloadable_link_price2gettable±
+®
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php} }(@
+%6"__mapSet*
+
+%4*
+dp*
+
+%5—”
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php ((
+%7"$Array¿
+¼
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php ((
+%8"__mapSet*
+
+%7*
+default_price*	
+priceëè
+„
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php| €(	
+%9*
+
+%3*
+
+%4*75
+3dp.link_id=main_table.link_id AND dp.website_id = 0*
+
+%72joinleftš—
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php (A
+%10"$Array÷ô
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php (@
+%11*<:
+8magento\downloadable\model\resourcemodel\link\collection*
+downloadable_link_price2gettable·
+´
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php (A
+%12"__mapSet*
+
+%10*
+stp*
+
+%11µ
+²
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php‚E ‚(T
+%13"__sanitizing_cast*
+
+
+$websiteIdß
+Ü
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php‚ ‚(T
+%14"__concat*86
+4stp.link_id=main_table.link_id AND stp.website_id = *
+
+%13š—
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpƒ ƒ(H
+%15"$ArrayÃ
+À
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpƒ ƒ(H
+%16"__mapSet*
+
+%15*
+website_price*	
+priceÉ
+Æ
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.phpƒ ƒ(H
+%17"__mapSet*
+
+%15*	
+price*
+
+$ifNullDefaultPrice¾»
+„
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php| „(	
+%18*
+
+%9*
+
+%10*
+
+%14*
+
+%152joinleft"Æ
+…
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Downloadable\Model\ResourceModel\Link\Collection.php† †(<:
+8magento\downloadable\model\resourcemodel\link\collection:
+
+$websiteIdB<:
+8magento\downloadable\model\resourcemodel\link\collection

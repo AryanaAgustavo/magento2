@@ -1,0 +1,87 @@
+
+7magento\customer\controller\accounttest::testeditactionã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpø ø(""1*º
+2
+AccountTest.php"£
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpÕ Õ(
+implicit return*∏
+1ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.php¡ ¡(—Œ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.php¡ ¡(
+%1*+)
+'magento\customer\controller\accounttest*22loginÈÊ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.php√ √(0
+%2*+)
+'magento\customer\controller\accounttest*
+customer/account/edit2dispatch—Œ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.php≈ ≈($
+%3*+)
+'magento\customer\controller\accounttest2getresponse®•
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.php≈ ≈(/
+%4*
+
+%32getbody®
+•
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.php≈ ≈(/
+$body"__id*
+
+%4—Œ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.php∆! ∆(5
+%5*+)
+'magento\customer\controller\accounttest2getresponse¥±
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.php∆! ∆(L
+%6*
+
+%52gethttpresponsecodeÏÈ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.php∆ ∆(T
+%7*+)
+'magento\customer\controller\accounttest*2»*
+
+%6*	
+
+$body2assertequals¢ü
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.php« «(e
+%8*+)
+'magento\customer\controller\accounttest*53
+1<div class="field field-name-firstname required">*	
+
+$body2assertstringcontainsstring›
+⁄
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.php…  (e
+%9"__concat*][
+Y//input[@type="checkbox"][@name="change_password"][@id="change-password"][not (@checked)]*[Y
+W[@data-role="change-password"][@value="1"][@title="Change Password"][@class="checkbox"]±
+Æ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.php…  (e
+$checkboxXpath"__id*
+
+%9ù
+ö
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpÃ Ã(U
+%10"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*
+
+$checkboxXpath*	
+
+$body‚ﬂ
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Controller\AccountTest.phpÃ Ã(V
+%11*+)
+'magento\customer\controller\accounttest*2*
+
+%102assertequals*
+2B+)
+'magento\customer\controller\accounttest

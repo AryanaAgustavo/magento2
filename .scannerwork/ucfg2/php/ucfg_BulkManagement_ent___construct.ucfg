@@ -1,0 +1,128 @@
+
+@magento\asynchronousoperations\model\bulkmanagement::__construct~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.phpS S("1*±
+2
+BulkManagement.php"ï
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.phpe e(
+implicit return*™
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.php] ](.ﬁ
+€
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.phpS S(
+$entityManager"__id*A
+?
+$entityManager-magento\framework\entitymanager\entitymanager˛
+˚
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.phpS S(
+$bulkSummaryFactory"__id*\
+Z
+$bulkSummaryFactoryCmagento\asynchronousoperations\api\data\bulksummaryinterfacefactoryô
+ñ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.phpS S(
+$operationCollectionFactory"__id*o
+m
+$operationCollectionFactoryNmagento\asynchronousoperations\model\resourcemodel\operation\collectionfactoryﬁ
+€
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.phpS S(
+
+$publisher"__id*E
+C
+
+$publisher5magento\framework\messagequeue\bulkpublisherinterface€
+ÿ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.phpS S(
+$metadataPool"__id*?
+=
+$metadataPool,magento\framework\entitymanager\metadatapool„
+‡
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.phpS S(
+$resourceConnection"__id*A
+?
+$resourceConnection(magento\framework\app\resourceconnection∫
+∑
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.phpS S(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface›
+⁄
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.phpS S(
+$userContext"__id*B
+@
+$userContext0magento\authorization\model\usercontextinterfaceÁ
+‰
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.php] ](-H5
+3magento\asynchronousoperations\model\bulkmanagement"
+entityManager"__id*
+
+$entityManagerÒ
+Ó
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.php^ ^(6M5
+3magento\asynchronousoperations\model\bulkmanagement"
+bulkSummaryFactory"__id*
+
+$bulkSummaryFactoryÅ
+˛
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.php_ _(GU5
+3magento\asynchronousoperations\model\bulkmanagement"
+operationCollectionFactory"__id*
+
+$operationCollectionFactoryÂ
+‚
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.php` `(+G5
+3magento\asynchronousoperations\model\bulkmanagement"
+metadataPool"__id*
+
+$metadataPoolÒ
+Ó
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.phpa a(7M5
+3magento\asynchronousoperations\model\bulkmanagement"
+resourceConnection"__id*
+
+$resourceConnectionﬂ
+‹
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.phpb b(%D5
+3magento\asynchronousoperations\model\bulkmanagement"
+	publisher"__id*
+
+
+$publisherŸ
+÷
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.phpc c(A5
+3magento\asynchronousoperations\model\bulkmanagement"
+logger"__id*
+	
+$logger„
+‡
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\BulkManagement.phpd d()F5
+3magento\asynchronousoperations\model\bulkmanagement"
+userContext"__id*
+
+$userContext*
+2:?
+$entityManager-magento\framework\entitymanager\entitymanager:Z
+$bulkSummaryFactoryCmagento\asynchronousoperations\api\data\bulksummaryinterfacefactory:m
+$operationCollectionFactoryNmagento\asynchronousoperations\model\resourcemodel\operation\collectionfactory:C
+
+$publisher5magento\framework\messagequeue\bulkpublisherinterface:=
+$metadataPool,magento\framework\entitymanager\metadatapool:?
+$resourceConnection(magento\framework\app\resourceconnection:"
+$loggerpsr\log\loggerinterface:@
+$userContext0magento\authorization\model\usercontextinterfaceB75
+3magento\asynchronousoperations\model\bulkmanagement

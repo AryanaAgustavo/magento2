@@ -1,0 +1,85 @@
+
+Dmagento\reports\model\resourcemodel\wishlist\collection::__construct‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php) )("1*²
+2
+Collection.php"š
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php4 4(
+implicit return*×
+1‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php2 2(lå
+â
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php) )(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactory¿
+¼
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php) )(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceñ
+î
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php) )(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceÜ
+Ù
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php) )(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceÿ
+ü
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php) )(
+$customerResFactory"__id*X
+V
+$customerResFactory?magento\customer\model\resourcemodel\customer\collectionfactoryÝ
+Ú
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php) )(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceß
+Ü
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php) )(
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbˆ
+…
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php2 2(k
+%1"Smagento\framework\model\resourcemodel\db\collection\abstractcollection::__construct*;9
+7magento\reports\model\resourcemodel\wishlist\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$connection*
+
+	$resourceû
+ø
+‚
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Wishlist\Collection.php3 3(8R9
+7magento\reports\model\resourcemodel\wishlist\collection"
+_customerResFactory"__id*
+
+$customerResFactory*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:V
+$customerResFactory?magento\customer\model\resourcemodel\customer\collectionfactory:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbB;9
+7magento\reports\model\resourcemodel\wishlist\collection

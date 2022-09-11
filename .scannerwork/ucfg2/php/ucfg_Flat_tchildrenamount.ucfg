@@ -1,0 +1,142 @@
+
+Dmagento\catalog\model\resourcemodel\category\flat::getchildrenamount~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpË Ë(%"1*î
+1~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÍ Í(DÅ
+Â
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpË Ë(%
+	$category"__id*-
++
+	$categorymagento\catalog\model\category¤¡
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÍ+ Í(B
+%1*
+
+	$category2
+getstoreidÛØ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÍ Í(C
+%2*53
+1magento\catalog\model\resourcemodel\category\flat*
+
+%12getmainstoretableœ
+™
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÍ Í(C	
+$_table"__id*
+
+%2ÏÌ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÎ Î((
+%3*53
+1magento\catalog\model\resourcemodel\category\flat2getconnection™–
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÎ Î(2
+%4*
+
+%32select½
+º
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÐ Ð((
+%5"__concat*
+
+COUNT(*
+.entity_id)*
+	
+$_table¬©
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÎ Ñ(	
+%6*
+
+%4*
+	
+$_table*
+
+%52from²
+¯
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÒ Ò(#
+%7"__concat*
+.path LIKE ?*
+	
+$_table¡ž
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÓ Ó( 
+%8*
+
+	$category2getpath£
+ 
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÓ Ó('
+%9"__concat*
+
+%8*
+/%©¦
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÎ Ô(	
+%10*
+
+%6*
+
+%7*
+
+%92whereµ
+²
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÕ Õ(%
+%11"__concat*
+.is_active = ?*
+	
+$_table°
+­
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÖ Ö(
+%12"__sanitizing_cast*
+
+$isActiveFlag¬©
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÎ ×(	
+%13*
+
+%10*
+
+%11*
+
+%122where
+š
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpÎ ×(		
+$select"__id*
+
+%13ÐÍ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpØ Ø(*
+%14*53
+1magento\catalog\model\resourcemodel\category\flat2getconnectionª§
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpØ Ø(=
+%15*
+
+%14*
+	
+$select2fetchone¦
+£
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpØ Ø(=
+%16"__sanitizing_cast*
+
+%15Ï
+Ì
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpØ Ø(>;
+%174magento\catalog\model\resourcemodel\category\integer"__id*
+
+%16"¿
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category\Flat.phpØ Ø(>=
+;
+%174magento\catalog\model\resourcemodel\category\integer:+
+	$categorymagento\catalog\model\category:
+$isActiveFlagB53
+1magento\catalog\model\resourcemodel\category\flat

@@ -1,0 +1,70 @@
+
+9magento\wishlist\controller\wishlistprovider::__constructw
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\WishlistProvider.php1 1("1*¬
+2
+WishlistProvider.php"Ž
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\WishlistProvider.php; ;(
+implicit return*µ
+1w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\WishlistProvider.php7 7("Ô
+Ñ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\WishlistProvider.php1 1(
+$wishlistFactory"__id*<
+:
+$wishlistFactory&magento\wishlist\model\wishlistfactoryÌ
+É
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\WishlistProvider.php1 1(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÖ
+Ó
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\WishlistProvider.php1 1(
+$messageManager"__id*?
+=
+$messageManager*magento\framework\message\managerinterfaceÄ
+Á
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\WishlistProvider.php1 1(
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterfaceÍ
+Ê
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\WishlistProvider.php7 7(!;.
+,magento\wishlist\controller\wishlistprovider"	
+request"__id*
+
+
+$requestÝ
+Ú
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\WishlistProvider.php8 8(1C.
+,magento\wishlist\controller\wishlistprovider"
+wishlistFactory"__id*
+
+$wishlistFactoryÝ
+Ú
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\WishlistProvider.php9 9(1C.
+,magento\wishlist\controller\wishlistprovider"
+customerSession"__id*
+
+$customerSessionÛ
+Ø
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Controller\WishlistProvider.php: :(/B.
+,magento\wishlist\controller\wishlistprovider"
+messageManager"__id*
+
+$messageManager*
+2::
+$wishlistFactory&magento\wishlist\model\wishlistfactory:2
+$customerSessionmagento\customer\model\session:=
+$messageManager*magento\framework\message\managerinterface:2
+$request&magento\framework\app\requestinterfaceB0.
+,magento\wishlist\controller\wishlistprovider

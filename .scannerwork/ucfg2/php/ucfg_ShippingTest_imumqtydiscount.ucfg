@@ -1,0 +1,86 @@
+
+dmagento\salesrule\model\quote\address\total\shippingtest::testfreemethodweightwithmaximumqtydiscountõ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phpk k(>"1*Õ
+2
+ShippingTest.php"≥
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phpt t(
+implicit return*≈
+1õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phpm m(:ñì
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phpm m(9
+%1*<:
+8magento\salesrule\model\quote\address\total\shippingtest*
+
+simple-249*22setfreeshippingforproductˇ
+¸
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phpn n('
+%2"__id*P*N:
+8magento\salesrule\model\quote\address\total\shippingtest"
+cartManagement¿Ω
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phpn n(:
+%3*
+
+%22createemptycart∫
+∑
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phpn n(:	
+$cartId"__id*
+
+%3ìê
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phpo o(2
+%4*<:
+8magento\salesrule\model\quote\address\total\shippingtest*
+	
+$cartId*
+
+simple-249*22	addtocartìê
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phpp p(2
+%5*<:
+8magento\salesrule\model\quote\address\total\shippingtest*
+	
+$cartId*
+
+simple-156*22	addtocartÑÅ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phpq q((
+%6*<:
+8magento\salesrule\model\quote\address\total\shippingtest*
+	
+$cartId2estimateshipping¸˘
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phpr r()
+%7*<:
+8magento\salesrule\model\quote\address\total\shippingtest*
+	
+$cartId2getquoteπ
+∂
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phpr r()
+$quote"__id*
+
+%7«ƒ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phps  s(<
+%8*
+
+
+$quote2getshippingaddressƒ¡
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phps  s(S
+%9*
+
+%82getfreemethodweightÇˇ
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\SalesRule\Model\Quote\Address\Total\ShippingTest.phps s(T
+%10*<:
+8magento\salesrule\model\quote\address\total\shippingtest*2(*
+
+%92assertequals*
+2B<:
+8magento\salesrule\model\quote\address\total\shippingtest

@@ -1,0 +1,114 @@
+
+Ymagento\newsletter\model\subscribertest::testsubscribeandverifycustomersubscriptionstatus‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php¡ ¡(D"1*¿
+2
+SubscriberTest.php"£
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php­ ­(
+implicit return*Ê
+1‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php£ £(:â
+ß
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php£ £(-
+%1"__id*C*A)
+'magento\newsletter\model\subscribertest"
+customerRepository®«
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php£ £(9
+%2*
+
+%1*22getbyid¬
+©
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php£ £(9
+	$customer"__id*
+
+%2¾»
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php¤ ¤(A
+%3*
+
+	$customer2getextensionattributes°­
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php¤ ¥(
+%4*
+
+%32getissubscribed¶
+³
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php¤ ¥(
+$subscriptionBefore"__id*
+
+%4á
+Þ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php¦ ¦(.
+%5"__id*B*@)
+'magento\newsletter\model\subscribertest"
+subscriberFactory§¤
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php¦ ¦(8
+%6*
+
+%52create®
+«
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php¦ ¦(8
+$subscriber"__id*
+
+%6­ª
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php§+ §(=
+%7*
+
+	$customer2getidÇÄ
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php§ §(>
+%8*
+
+$subscriber*
+
+%72subscribecustomerbyidâ
+ß
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php© ©(-
+%9"__id*C*A)
+'magento\newsletter\model\subscribertest"
+customerRepository¯¬
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php© ©(9
+%10*
+
+%9*22getbyid­
+ª
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php© ©(9
+	$customer"__id*
+
+%10ëè
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php« «(/
+%11*+)
+'magento\newsletter\model\subscribertest*
+
+$subscriptionBefore2assertfalse¿¼
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php¬ ¬(=
+%12*
+
+	$customer2getextensionattributes²¯
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php¬ ¬(P
+%13*
+
+%122getissubscribedÚ×
+‹
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Newsletter\Model\SubscriberTest.php¬ ¬(Q
+%14*+)
+'magento\newsletter\model\subscribertest*
+
+%132
+asserttrue*
+2B+)
+'magento\newsletter\model\subscribertest

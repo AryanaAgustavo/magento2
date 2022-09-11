@@ -1,0 +1,68 @@
+
+=magento\sales\model\order\validation\refundorder::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\RefundOrder.php3 3("1*´
+2
+RefundOrder.php"í
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\RefundOrder.php= =(
+implicit return*ì
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\RefundOrder.php9 9(0·
+ﬁ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\RefundOrder.php3 3(
+$orderValidator"__id*F
+D
+$orderValidator1magento\sales\model\order\ordervalidatorinterface˚
+¯
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\RefundOrder.php3 3(
+$creditmemoValidator"__id*[
+Y
+$creditmemoValidatorAmagento\sales\model\order\creditmemo\creditmemovalidatorinterfaceÅ
+˛
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\RefundOrder.php3 3(
+$itemCreationValidator"__id*_
+]
+$itemCreationValidatorCmagento\sales\model\order\creditmemo\itemcreationvalidatorinterfaceÁ
+‰
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\RefundOrder.php3 3(
+$validatorResultMerger"__id*E
+C
+$validatorResultMerger)magento\sales\model\validatorresultmerger„
+‡
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\RefundOrder.php9 9(/F2
+0magento\sales\model\order\validation\refundorder"
+orderValidator"__id*
+
+$orderValidatorÌ
+Í
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\RefundOrder.php: :(9K2
+0magento\sales\model\order\validation\refundorder"
+creditmemoValidator"__id*
+
+$creditmemoValidatorÒ
+Ó
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\RefundOrder.php; ;(=M2
+0magento\sales\model\order\validation\refundorder"
+itemCreationValidator"__id*
+
+$itemCreationValidatorÒ
+Ó
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\RefundOrder.php< <(=M2
+0magento\sales\model\order\validation\refundorder"
+validatorResultMerger"__id*
+
+$validatorResultMerger*
+2:D
+$orderValidator1magento\sales\model\order\ordervalidatorinterface:Y
+$creditmemoValidatorAmagento\sales\model\order\creditmemo\creditmemovalidatorinterface:]
+$itemCreationValidatorCmagento\sales\model\order\creditmemo\itemcreationvalidatorinterface:C
+$validatorResultMerger)magento\sales\model\validatorresultmergerB42
+0magento\sales\model\order\validation\refundorder

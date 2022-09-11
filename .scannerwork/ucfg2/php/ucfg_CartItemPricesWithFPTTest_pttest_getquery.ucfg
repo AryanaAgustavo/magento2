@@ -1,0 +1,79 @@
+
+8magento\graphql\weee\cartitempriceswithfpttest::getqueryñ
+âC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Weee\CartItemPricesWithFPTTest.phpæ æ("1*Ä
+1ñ
+âC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Weee\CartItemPricesWithFPTTest.php¿ ¯(–
+Õ
+ñ
+âC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Weee\CartItemPricesWithFPTTest.phpæ æ(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringÍ
+Á
+ñ
+âC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Weee\CartItemPricesWithFPTTest.php¿ ¯(
+%1"__concat*
+{
+  cart(cart_id: "*çä
+á") {
+    items {
+      prices {
+        price {
+          value
+          currency
+        }
+        price_including_tax {
+            value
+            currency
+          }
+        row_total {
+          value
+          currency
+        }
+        row_total_including_tax {
+          value
+          currency
+        }
+        fixed_product_taxes {
+          label
+          amount {
+            value
+          }
+        }
+      }
+    }
+    prices {
+      grand_total {
+        value
+        currency
+      }
+      subtotal_including_tax {
+        value
+        currency
+      }
+      subtotal_excluding_tax {
+        value
+        currency
+      }
+      subtotal_with_discount_excluding_tax {
+        value
+        currency
+      }
+      applied_taxes {
+        label
+        amount {
+          value
+          currency
+        }
+      }
+    }
+  }
+}*
+
+$maskedQuoteId"°
+ñ
+âC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Weee\CartItemPricesWithFPTTest.php¿ ¯(
+
+%1:
+$maskedQuoteIdstringB20
+.magento\graphql\weee\cartitempriceswithfpttest

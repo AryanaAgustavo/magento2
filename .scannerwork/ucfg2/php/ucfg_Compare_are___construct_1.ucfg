@@ -1,0 +1,168 @@
+
+7magento\catalog\controller\product\compare::__constructu
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpj j("1*£
+2
+Compare.php"é
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpÇ Ç(
+implicit return*±'
+1u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpw w(-¿
+Ω
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpj j(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\context„
+‡
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpj j(
+$compareItemFactory"__id*J
+H
+$compareItemFactory1magento\catalog\model\product\compare\itemfactoryÇ
+ˇ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpj j(
+$itemCollectionFactory"__id*f
+d
+$itemCollectionFactoryJmagento\catalog\model\resourcemodel\product\compare\item\collectionfactory 
+«
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpj j(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\session 
+«
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpj j(
+$customerVisitor"__id*4
+2
+$customerVisitormagento\customer\model\visitorÒ
+Ó
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpj j(
+$catalogProductCompareList"__id*Q
+O
+$catalogProductCompareList1magento\catalog\model\product\compare\listcompare«
+ƒ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpj j(
+$catalogSession"__id*2
+0
+$catalogSessionmagento\catalog\model\sessionœ
+Ã
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpj j(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface€
+ÿ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpj j(
+$formKeyValidator"__id*D
+B
+$formKeyValidator-magento\framework\data\form\formkey\validatorŸ
+÷
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpj j(
+$resultPageFactory"__id*A
+?
+$resultPageFactory)magento\framework\view\result\pagefactoryﬁ
+€
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpj j(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterface‘
+—
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpw w(,?,
+*magento\catalog\controller\product\compare"
+_storeManager"__id*
+
+$storeManager‡
+›
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpx x(8E,
+*magento\catalog\controller\product\compare"
+_compareItemFactory"__id*
+
+$compareItemFactoryÊ
+„
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpy y(>H,
+*magento\catalog\controller\product\compare"
+_itemCollectionFactory"__id*
+
+$itemCollectionFactory⁄
+◊
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpz z(2B,
+*magento\catalog\controller\product\compare"
+_customerSession"__id*
+
+$customerSession⁄
+◊
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.php{ {(2B,
+*magento\catalog\controller\product\compare"
+_customerVisitor"__id*
+
+$customerVisitorÓ
+Î
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.php| |(FL,
+*magento\catalog\controller\product\compare"
+_catalogProductCompareList"__id*
+
+$catalogProductCompareListÿ
+’
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.php} }(0A,
+*magento\catalog\controller\product\compare"
+_catalogSession"__id*
+
+$catalogSession‹
+Ÿ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.php~ ~(4C,
+*magento\catalog\controller\product\compare"
+_formKeyValidator"__id*
+
+$formKeyValidator›
+⁄
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.php (5C,
+*magento\catalog\controller\product\compare"
+resultPageFactory"__id*
+
+$resultPageFactoryﬂ
+‹
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpÄ Ä(5C,
+*magento\catalog\controller\product\compare"
+productRepository"__id*
+
+$productRepositoryÚ
+Ô
+w
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Controller\Product\Compare.phpÅ Å(%
+%1"0magento\framework\app\action\action::__construct*.,
+*magento\catalog\controller\product\compare*
+
+
+$context*
+2:0
+$context$magento\framework\app\action\context:H
+$compareItemFactory1magento\catalog\model\product\compare\itemfactory:d
+$itemCollectionFactoryJmagento\catalog\model\resourcemodel\product\compare\item\collectionfactory:2
+$customerSessionmagento\customer\model\session:2
+$customerVisitormagento\customer\model\visitor:O
+$catalogProductCompareList1magento\catalog\model\product\compare\listcompare:0
+$catalogSessionmagento\catalog\model\session::
+$storeManager)magento\store\model\storemanagerinterface:B
+$formKeyValidator-magento\framework\data\form\formkey\validator:?
+$resultPageFactory)magento\framework\view\result\pagefactory:D
+$productRepository.magento\catalog\api\productrepositoryinterfaceB.,
+*magento\catalog\controller\product\compare

@@ -1,0 +1,134 @@
+
+Nmagento\mediastorage\model\file\storage\database\abstractdatabase::__constructç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.php: :("1*À
+2ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.phpJ J(?˘ˆ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.phpJ J(>
+%2*EC
+Amagento\mediastorage\model\file\storage\database\abstractdatabase2getconfigconnectionname¥
+±
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.phpJ J(>
+$connectionName"__id*
+
+%2*
+3*£
+3ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.phpL L(2àÖ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.phpL L(1
+%3*EC
+Amagento\mediastorage\model\file\storage\database\abstractdatabase*
+
+$connectionName2setconnectionname*
+4*√
+4
+AbstractDatabase.php"•
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.phpM M(
+implicit return*º
+1ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.phpE E(X‘
+—
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.php: :(
+
+$context"__id*-
++
+$contextmagento\framework\model\context—
+Œ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.php: :(
+	$registry"__id*)
+'
+	$registrymagento\framework\registry˙
+˜
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.php: :(
+$coreFileStorageDb"__id*I
+G
+$coreFileStorageDb1magento\mediastorage\helper\file\storage\database„
+‡
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.php: :(
+
+$dateModel"__id*:
+8
+
+$dateModel*magento\framework\stdlib\datetime\datetimeÚ
+Ô
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.php: :(
+$configuration"__id*E
+C
+$configuration1magento\framework\app\config\scopeconfiginterfaceÌ
+Í
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.php: :(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresource˜
+Ù
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.php: :(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb¥
+±
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.php: :(
+$data"__id*
+
+$dataarray‰
+·
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.phpE E(W
+%1"2magento\framework\model\abstractmodel::__construct*EC
+Amagento\mediastorage\model\file\storage\database\abstractdatabase*
+
+
+$context*
+
+	$registry*
+
+	$resource*
+
+$resourceCollection*	
+
+$dataÜ
+É
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.phpF F(.WC
+Amagento\mediastorage\model\file\storage\database\abstractdatabase"
+_configuration"__id*
+
+$configurationé
+ã
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.phpG G(6[C
+Amagento\mediastorage\model\file\storage\database\abstractdatabase"
+_coreFileStorageDb"__id*
+
+$coreFileStorageDb˘
+ˆ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Database\AbstractDatabase.phpH H(!NC
+Amagento\mediastorage\model\file\storage\database\abstractdatabase"
+_date"__id*
+
+
+$dateModel*
+2
+3:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:G
+$coreFileStorageDb1magento\mediastorage\helper\file\storage\database:8
+
+$dateModel*magento\framework\stdlib\datetime\datetime:C
+$configuration1magento\framework\app\config\scopeconfiginterface:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$connectionName:
+$dataarrayBEC
+Amagento\mediastorage\model\file\storage\database\abstractdatabase

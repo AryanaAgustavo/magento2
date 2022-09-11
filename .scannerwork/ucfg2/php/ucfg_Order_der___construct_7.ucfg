@@ -1,0 +1,138 @@
+
+.magento\sales\model\convert\order::__constructl
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpH H("1*ñ
+2
+	Order.php"É
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.php\ \(
+implicit return*õ
+1l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpS S(-≈
+¬
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpH H(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterface”
+–
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpH H(
+$invoiceRepository"__id*D
+B
+$invoiceRepository,magento\sales\api\invoicerepositoryinterface÷
+”
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpH H(
+$invoiceItemFactory"__id*F
+D
+$invoiceItemFactory-magento\sales\model\order\invoice\itemfactory÷
+”
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpH H(
+$shipmentRepository"__id*F
+D
+$shipmentRepository-magento\sales\api\shipmentrepositoryinterfaceŸ
+÷
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpH H(
+$shipmentItemFactory"__id*H
+F
+$shipmentItemFactory.magento\sales\model\order\shipment\itemfactory‹
+Ÿ
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpH H(
+$creditmemoRepository"__id*J
+H
+$creditmemoRepository/magento\sales\api\creditmemorepositoryinterfaceﬂ
+‹
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpH H(
+$creditmemoItemFactory"__id*L
+J
+$creditmemoItemFactory0magento\sales\model\order\creditmemo\itemfactory»
+≈
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpH H(
+$objectCopyService"__id*9
+7
+$objectCopyService!magento\framework\dataobject\copyí
+è
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpH H(
+$data"__id*
+
+$dataarray¬
+ø
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpS S(,6#
+!magento\sales\model\convert\order"
+_eventManager"__id*
+
+$eventManagerÀ
+»
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpT T(5:#
+!magento\sales\model\convert\order"
+invoiceRepository"__id*
+
+$invoiceRepositoryŒ
+À
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpU U(8<#
+!magento\sales\model\convert\order"
+_invoiceItemFactory"__id*
+
+$invoiceItemFactoryÕ
+ 
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpV V(7;#
+!magento\sales\model\convert\order"
+shipmentRepository"__id*
+
+$shipmentRepository–
+Õ
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpW W(:=#
+!magento\sales\model\convert\order"
+_shipmentItemFactory"__id*
+
+$shipmentItemFactory—
+Œ
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpX X(;=#
+!magento\sales\model\convert\order"
+creditmemoRepository"__id*
+
+$creditmemoRepository‘
+—
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpY Y(>?#
+!magento\sales\model\convert\order"
+_creditmemoItemFactory"__id*
+
+$creditmemoItemFactoryÃ
+…
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.phpZ Z(6;#
+!magento\sales\model\convert\order"
+_objectCopyService"__id*
+
+$objectCopyService‘
+—
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Convert\Order.php[ [("
+%1")magento\framework\dataobject::__construct*%#
+!magento\sales\model\convert\order*	
+
+$data*
+2:9
+$eventManager(magento\framework\event\managerinterface:B
+$invoiceRepository,magento\sales\api\invoicerepositoryinterface:D
+$invoiceItemFactory-magento\sales\model\order\invoice\itemfactory:D
+$shipmentRepository-magento\sales\api\shipmentrepositoryinterface:F
+$shipmentItemFactory.magento\sales\model\order\shipment\itemfactory:H
+$creditmemoRepository/magento\sales\api\creditmemorepositoryinterface:J
+$creditmemoItemFactory0magento\sales\model\order\creditmemo\itemfactory:7
+$objectCopyService!magento\framework\dataobject\copy:
+$dataarrayB%#
+!magento\sales\model\convert\order

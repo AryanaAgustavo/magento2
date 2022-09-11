@@ -1,0 +1,48 @@
+
+Vmagento\shipping\test\unit\model\carrier\abstractcarrieronlinetest::testparsexmlxqbxmlê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Test\Unit\Model\Carrier\AbstractCarrierOnlineTest.phpè è(&"1*œ
+2
+AbstractCarrierOnlineTest.php"®
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Test\Unit\Model\Carrier\AbstractCarrierOnlineTest.phpú ú(
+implicit return*›
+1ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Test\Unit\Model\Carrier\AbstractCarrierOnlineTest.phpë ë(Q©¶
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Test\Unit\Model\Carrier\AbstractCarrierOnlineTest.phpë ë(P
+%1*FD
+Bmagento\shipping\test\unit\model\carrier\abstractcarrieronlinetest*20
+.Magento\Framework\Exception\LocalizedException2expectexceptionπ∂
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Test\Unit\Model\Carrier\AbstractCarrierOnlineTest.phpí í(`
+%2*FD
+Bmagento\shipping\test\unit\model\carrier\abstractcarrieronlinetest*;9
+7The security validation of the XML document has failed.2expectexceptionmessageú
+ô
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Test\Unit\Model\Carrier\AbstractCarrierOnlineTest.phpì ô("
+
+$xmlString"__id*ÔÏ
+È<?xml version="1.0"?>
+            <!DOCTYPE test [
+              <!ENTITY value "value">
+              <!ENTITY value1 "&value;&value;&value;&value;&value;&value;&value;&value;&value;&value;">
+              <!ENTITY value2 "&value1;&value1;&value1;&value1;&value1;&value1;&value1;&value1;&value1;&value1;">
+            ]>
+            <test>&value2;</test>˜
+Ù
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Test\Unit\Model\Carrier\AbstractCarrierOnlineTest.phpõ õ(
+%3"__id*S*QD
+Bmagento\shipping\test\unit\model\carrier\abstractcarrieronlinetest"	
+carrieræª
+ê
+ÉC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Test\Unit\Model\Carrier\AbstractCarrierOnlineTest.phpõ õ(,
+%4*
+
+%3*
+
+
+$xmlString2parsexml*
+2BFD
+Bmagento\shipping\test\unit\model\carrier\abstractcarrieronlinetest

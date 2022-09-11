@@ -1,0 +1,68 @@
+
+/magento\cms\setup\contentconverter::__constructm
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Setup\ContentConverter.php& &("1*¢
+2
+ContentConverter.php"„
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Setup\ContentConverter.php/ /(
+implicit return*¹
+1m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Setup\ContentConverter.php, ,(4È
+Å
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Setup\ContentConverter.php& &(
+
+$serialize"__id*@
+>
+
+$serialize0magento\framework\serialize\serializer\serialize¹
+¶
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Setup\ContentConverter.php& &(
+$json"__id*6
+4
+$json+magento\framework\serialize\serializer\jsonâ
+ß
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Setup\ContentConverter.php& &(
+$parameterFactory"__id*S
+Q
+$parameterFactory<magento\framework\filter\template\tokenizer\parameterfactoryÃ
+À
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Setup\ContentConverter.php& &(
+$normalizer"__id*:
+8
+$normalizer)magento\framework\data\wysiwyg\normalizerË
+È
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Setup\ContentConverter.php, ,(3:$
+"magento\cms\setup\contentconverter"
+parameterFactory"__id*
+
+$parameterFactory¿
+¼
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Setup\ContentConverter.php- -('4$
+"magento\cms\setup\contentconverter"
+
+normalizer"__id*
+
+$normalizerý
+ú
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Setup\ContentConverter.php. .(.
+%1"@magento\framework\db\dataconverter\serializedtojson::__construct*&$
+"magento\cms\setup\contentconverter*
+
+
+$serialize*	
+
+$json*
+2:>
+
+$serialize0magento\framework\serialize\serializer\serialize:4
+$json+magento\framework\serialize\serializer\json:Q
+$parameterFactory<magento\framework\filter\template\tokenizer\parameterfactory:8
+$normalizer)magento\framework\data\wysiwyg\normalizerB&$
+"magento\cms\setup\contentconverter

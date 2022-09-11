@@ -1,0 +1,112 @@
+
+mmagento\asynchronousoperations\model\resourcemodel\system\message\collection\synchronized\plugin::__construct¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.php; ;("1*ÿ
+2
+
+Plugin.php"ƒ
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.phpK K(
+implicit return*‡"
+1¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.phpD D(0ó
+î
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.php; ;(
+$messageFactory"__id*J
+H
+$messageFactory5magento\adminnotification\model\system\messagefactoryÑ
+Å
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.php; ;(
+$bulkStatus"__id*;
+9
+$bulkStatus*magento\framework\bulk\bulkstatusinterfaceπ
+∂
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.php; ;(
+$bulkNotificationManagement"__id*`
+^
+$bulkNotificationManagement?magento\asynchronousoperations\model\bulknotificationmanagementå
+â
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.php; ;(
+$userContext"__id*B
+@
+$userContext0magento\authorization\model\usercontextinterfaceú
+ô
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.php; ;(
+$operationDetails"__id*M
+K
+$operationDetails6magento\asynchronousoperations\model\operation\detailsà
+Ö
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.php; ;(
+$authorization"__id*<
+:
+$authorization(magento\framework\authorizationinterfaceè
+å
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.php; ;(
+$statusMapper"__id*D
+B
+$statusMapper1magento\asynchronousoperations\model\statusmapper≈
+¬
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.phpD D(/vb
+`magento\asynchronousoperations\model\resourcemodel\system\message\collection\synchronized\plugin"
+messageFactory"__id*
+
+$messageFactoryΩ
+∫
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.phpE E('rb
+`magento\asynchronousoperations\model\resourcemodel\system\message\collection\synchronized\plugin"
+
+bulkStatus"__id*
+
+$bulkStatusø
+º
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.phpF F()sb
+`magento\asynchronousoperations\model\resourcemodel\system\message\collection\synchronized\plugin"
+userContext"__id*
+
+$userContext…
+∆
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.phpG G(3xb
+`magento\asynchronousoperations\model\resourcemodel\system\message\collection\synchronized\plugin"
+operationDetails"__id*
+
+$operationDetailsﬁ
+€
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.phpH H(GÇb
+`magento\asynchronousoperations\model\resourcemodel\system\message\collection\synchronized\plugin"
+bulkNotificationManagement"__id*
+
+$bulkNotificationManagement√
+¿
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.phpI I(-ub
+`magento\asynchronousoperations\model\resourcemodel\system\message\collection\synchronized\plugin"
+authorization"__id*
+
+$authorization¡
+æ
+¨
+°C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\ResourceModel\System\Message\Collection\Synchronized\Plugin.phpJ J(+tb
+`magento\asynchronousoperations\model\resourcemodel\system\message\collection\synchronized\plugin"
+statusMapper"__id*
+
+$statusMapper*
+2:H
+$messageFactory5magento\adminnotification\model\system\messagefactory:9
+$bulkStatus*magento\framework\bulk\bulkstatusinterface:^
+$bulkNotificationManagement?magento\asynchronousoperations\model\bulknotificationmanagement:@
+$userContext0magento\authorization\model\usercontextinterface:K
+$operationDetails6magento\asynchronousoperations\model\operation\details::
+$authorization(magento\framework\authorizationinterface:B
+$statusMapper1magento\asynchronousoperations\model\statusmapperBdb
+`magento\asynchronousoperations\model\resourcemodel\system\message\collection\synchronized\plugin

@@ -1,0 +1,116 @@
+
+Vmagento\groupedproduct\ui\dataprovider\product\groupedproductdataprovider::__construct•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.php3 3("1*Õ
+2 
+GroupedProductDataProvider.php"­
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.phpN N(
+implicit return*À
+1•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.php@ I(
+Ž
+‹
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.php3 3(
+$collectionFactory"__id*U
+S
+$collectionFactory=magento\catalog\model\resourcemodel\product\collectionfactoryã
+à
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.php3 3(
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterfaceí
+ê
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.php3 3(	
+$config"__id*?
+=
+$config2magento\catalog\model\producttypes\configinterface÷
+ô
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.php3 3(
+$storeRepository"__id*@
+>
+$storeRepository*magento\store\api\storerepositoryinterface¼
+¹
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.php3 3(
+$meta"__id*
+
+$metaarray¼
+¹
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.php3 3(
+$data"__id*
+
+$dataarrayØ
+Õ
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.php3 3(
+$addFieldStrategies"__id*
+
+$addFieldStrategiesarrayÚ
+×
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.php3 3(
+$addFilterStrategies"__id*
+
+$addFilterStrategiesarrayÔ
+Ñ
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.php@ I(	
+%1"Hmagento\catalog\ui\dataprovider\product\productdataprovider::__construct*MK
+Imagento\groupedproduct\ui\dataprovider\product\groupedproductdataprovider*	
+
+$name*
+
+$primaryFieldName*
+
+$requestFieldName*
+
+$collectionFactory*
+
+$addFieldStrategies*
+
+$addFilterStrategies*	
+
+$meta*	
+
+$data‰
+†
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.phpK K(!XK
+Imagento\groupedproduct\ui\dataprovider\product\groupedproductdataprovider"	
+request"__id*
+
+
+$request™
+–
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.phpL L(1`K
+Imagento\groupedproduct\ui\dataprovider\product\groupedproductdataprovider"
+storeRepository"__id*
+
+$storeRepository‡
+„
+•
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\GroupedProduct\Ui\DataProvider\Product\GroupedProductDataProvider.phpM M(WK
+Imagento\groupedproduct\ui\dataprovider\product\groupedproductdataprovider"
+config"__id*
+	
+$config*
+2:
+$name:
+$primaryFieldName:
+$requestFieldName:S
+$collectionFactory=magento\catalog\model\resourcemodel\product\collectionfactory:2
+$request&magento\framework\app\requestinterface:=
+$config2magento\catalog\model\producttypes\configinterface:>
+$storeRepository*magento\store\api\storerepositoryinterface:
+$metaarray:
+$dataarray:
+$addFieldStrategiesarray:
+$addFilterStrategiesarrayBMK
+Imagento\groupedproduct\ui\dataprovider\product\groupedproductdataprovider

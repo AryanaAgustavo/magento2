@@ -1,0 +1,128 @@
+
+;magento\urlrewrite\block\catalog\category\tree::__constructy
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpD D("1*¢
+2
+
+Tree.php"ê
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpU U(
+implicit return*˛
+1y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpO O(+ƒ
+¡
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpD D(
+
+$context"__id*2
+0
+$context$magento\backend\block\widget\context€
+ÿ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpD D(
+$categoryTree"__id*D
+B
+$categoryTree1magento\catalog\model\resourcemodel\category\treeº
+π
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpD D(
+	$registry"__id*)
+'
+	$registrymagento\framework\registry’
+“
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpD D(
+$categoryFactory"__id*;
+9
+$categoryFactory%magento\catalog\model\categoryfactoryœ
+Ã
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpD D(
+$jsonEncoder"__id*9
+7
+$jsonEncoder'magento\framework\json\encoderinterface“
+œ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpD D(
+$productFactory"__id*9
+7
+$productFactory$magento\catalog\model\productfactory«
+ƒ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpD D(
+$adminhtmlData"__id*/
+-
+$adminhtmlDatamagento\backend\helper\dataÂ
+‚
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpD D(
+$categoryRepository"__id*H
+F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterfaceü
+ú
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpD D(
+$data"__id*
+
+$dataarray⁄
+◊
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpO O(*B0
+.magento\urlrewrite\block\catalog\category\tree"
+_jsonEncoder"__id*
+
+$jsonEncoder‚
+ﬂ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpP P(2F0
+.magento\urlrewrite\block\catalog\category\tree"
+_categoryFactory"__id*
+
+$categoryFactory‡
+›
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpQ Q(0E0
+.magento\urlrewrite\block\catalog\category\tree"
+_productFactory"__id*
+
+$productFactoryﬁ
+€
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpR R(.D0
+.magento\urlrewrite\block\catalog\category\tree"
+_adminhtmlData"__id*
+
+$adminhtmlData—
+Œ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpS S(X
+%1"Fmagento\catalog\block\adminhtml\category\abstractcategory::__construct*20
+.magento\urlrewrite\block\catalog\category\tree*
+
+
+$context*
+
+$categoryTree*
+
+	$registry*
+
+$categoryFactory*	
+
+$dataÁ
+‰
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\UrlRewrite\Block\Catalog\Category\Tree.phpT T(7H0
+.magento\urlrewrite\block\catalog\category\tree"
+categoryRepository"__id*
+
+$categoryRepository*
+2:0
+$context$magento\backend\block\widget\context:B
+$categoryTree1magento\catalog\model\resourcemodel\category\tree:'
+	$registrymagento\framework\registry:9
+$categoryFactory%magento\catalog\model\categoryfactory:7
+$jsonEncoder'magento\framework\json\encoderinterface:7
+$productFactory$magento\catalog\model\productfactory:-
+$adminhtmlDatamagento\backend\helper\data:F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface:
+$dataarrayB20
+.magento\urlrewrite\block\catalog\category\tree

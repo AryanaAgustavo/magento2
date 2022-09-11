@@ -1,0 +1,221 @@
+
+0magento\testmoduleups\model\carrier::__construct…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5("1*²
+2
+Carrier.php"
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.phpe e(
+implicit return*Î/
+1…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.phpM c(
+æ
+ã
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceø
+õ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$rateErrorFactory"__id*P
+N
+$rateErrorFactory9magento\quote\model\quote\address\rateresult\errorfactoryÂ
+¿
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÓ
+Ð
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$xmlSecurity"__id*0
+.
+$xmlSecuritymagento\framework\xml\securityæ
+ã
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$xmlElFactory"__id*B
+@
+$xmlElFactory/magento\shipping\model\simplexml\elementfactoryÞ
+Û
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$rateFactory"__id*;
+9
+$rateFactory)magento\shipping\model\rate\resultfactoryû
+ø
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$rateMethodFactory"__id*R
+P
+$rateMethodFactory:magento\quote\model\quote\address\rateresult\methodfactoryä
+á
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$trackFactory"__id*@
+>
+$trackFactory-magento\shipping\model\tracking\resultfactoryô
+ñ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$trackErrorFactory"__id*K
+I
+$trackErrorFactory3magento\shipping\model\tracking\result\errorfactory÷
+ô
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$trackStatusFactory"__id*M
+K
+$trackStatusFactory4magento\shipping\model\tracking\result\statusfactoryÞ
+Û
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$regionFactory"__id*9
+7
+$regionFactory%magento\directory\model\regionfactoryá
+Þ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$countryFactory"__id*;
+9
+$countryFactory&magento\directory\model\countryfactoryä
+á
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$currencyFactory"__id*=
+;
+$currencyFactory'magento\directory\model\currencyfactoryÖ
+Ó
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$directoryData"__id*1
+/
+$directoryDatamagento\directory\helper\dataì
+é
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$stockRegistry"__id*G
+E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterfaceß
+Ü
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$localeFormat"__id*;
+9
+$localeFormat(magento\framework\locale\formatinterfaceÐ
+Í
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$configHelper"__id*,
+*
+$configHelpermagento\ups\helper\configå
+â
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$httpClientFactory"__id*<
+:
+$httpClientFactory$magento\framework\http\clientfactoryè
+å
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$asyncHttpClient"__id*A
+?
+$asyncHttpClient+magento\framework\http\asyncclientinterfaceþ
+û
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$proxyDeferredFactory"__id*R
+P
+$proxyDeferredFactory7magento\shipping\model\rate\result\proxydeferredfactoryõ
+ò
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$mockResponseLoader"__id*K
+I
+$mockResponseLoader2magento\testmoduleups\model\mockresponsebodyloader¬
+©
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.php5 5(
+$data"__id*
+
+$dataarrayŒ
+‰
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.phpM c(	
+%1"&magento\ups\model\carrier::__construct*'%
+#magento\testmoduleups\model\carrier*
+
+$scopeConfig*
+
+$rateErrorFactory*
+	
+$logger*
+
+$xmlSecurity*
+
+$xmlElFactory*
+
+$rateFactory*
+
+$rateMethodFactory*
+
+$trackFactory*
+
+$trackErrorFactory*
+
+$trackStatusFactory*
+
+$regionFactory*
+
+$countryFactory*
+
+$currencyFactory*
+
+$directoryData*
+
+$stockRegistry*
+
+$localeFormat*
+
+$configHelper*
+
+$httpClientFactory*	
+
+$data*
+
+$asyncHttpClient*
+
+$proxyDeferredFactoryé
+æ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\_files\Magento\TestModuleUps\Model\Carrier.phpd d(7=%
+#magento\testmoduleups\model\carrier"
+mockResponseLoader"__id*
+
+$mockResponseLoader*
+2:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:N
+$rateErrorFactory9magento\quote\model\quote\address\rateresult\errorfactory:"
+$loggerpsr\log\loggerinterface:.
+$xmlSecuritymagento\framework\xml\security:@
+$xmlElFactory/magento\shipping\model\simplexml\elementfactory:9
+$rateFactory)magento\shipping\model\rate\resultfactory:P
+$rateMethodFactory:magento\quote\model\quote\address\rateresult\methodfactory:>
+$trackFactory-magento\shipping\model\tracking\resultfactory:I
+$trackErrorFactory3magento\shipping\model\tracking\result\errorfactory:K
+$trackStatusFactory4magento\shipping\model\tracking\result\statusfactory:7
+$regionFactory%magento\directory\model\regionfactory:9
+$countryFactory&magento\directory\model\countryfactory:;
+$currencyFactory'magento\directory\model\currencyfactory:/
+$directoryDatamagento\directory\helper\data:E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterface:9
+$localeFormat(magento\framework\locale\formatinterface:*
+$configHelpermagento\ups\helper\config::
+$httpClientFactory$magento\framework\http\clientfactory:?
+$asyncHttpClient+magento\framework\http\asyncclientinterface:P
+$proxyDeferredFactory7magento\shipping\model\rate\result\proxydeferredfactory:I
+$mockResponseLoader2magento\testmoduleups\model\mockresponsebodyloader:
+$dataarrayB'%
+#magento\testmoduleups\model\carrier

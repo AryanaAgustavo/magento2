@@ -1,0 +1,113 @@
+
+8magento\user\controller\adminhtml\user\role::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpD D("1*ü
+2
+
+Role.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpT T(
+implicit return*è
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpM M(&ø
+º
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpD D(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\context¡
+æ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpD D(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryÃ
+…
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpD D(
+$roleFactory"__id*9
+7
+$roleFactory'magento\authorization\model\rolefactory√
+¿
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpD D(
+$userFactory"__id*0
+.
+$userFactorymagento\user\model\userfactoryœ
+Ã
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpD D(
+$rulesFactory"__id*;
+9
+$rulesFactory(magento\authorization\model\rulesfactory«
+ƒ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpD D(
+$authSession"__id*4
+2
+$authSession"magento\backend\model\auth\sessionœ
+Ã
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpD D(
+$filterManager"__id*:
+8
+$filterManager&magento\framework\filter\filtermanagerÒ
+Ó
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpM M(%
+%1"/magento\backend\app\abstractaction::__construct*/-
++magento\user\controller\adminhtml\user\role*
+
+
+$context÷
+”
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpN N(,@-
++magento\user\controller\adminhtml\user\role"
+_coreRegistry"__id*
+
+$coreRegistry‘
+—
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpO O(*?-
++magento\user\controller\adminhtml\user\role"
+_roleFactory"__id*
+
+$roleFactory‘
+—
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpP P(*?-
++magento\user\controller\adminhtml\user\role"
+_userFactory"__id*
+
+$userFactory÷
+”
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpQ Q(,@-
++magento\user\controller\adminhtml\user\role"
+_rulesFactory"__id*
+
+$rulesFactory‘
+—
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpR R(*?-
++magento\user\controller\adminhtml\user\role"
+_authSession"__id*
+
+$authSessionÿ
+’
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\User\Controller\Adminhtml\User\Role.phpS S(.A-
++magento\user\controller\adminhtml\user\role"
+_filterManager"__id*
+
+$filterManager*
+2:.
+$context"magento\backend\app\action\context:+
+$coreRegistrymagento\framework\registry:7
+$roleFactory'magento\authorization\model\rolefactory:.
+$userFactorymagento\user\model\userfactory:9
+$rulesFactory(magento\authorization\model\rulesfactory:2
+$authSession"magento\backend\model\auth\session:8
+$filterManager&magento\framework\filter\filtermanagerB/-
++magento\user\controller\adminhtml\user\role

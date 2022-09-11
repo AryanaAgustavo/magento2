@@ -1,0 +1,169 @@
+
+1magento\framework\app\action\context::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.php` `("1*Ÿ
+2
+Context.php"Š
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.phpx x(
+implicit return*õ#
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.phpm m(#À
+½
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.php` `(
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterfaceÃ
+À
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.php` `(
+	$response"__id*6
+4
+	$response'magento\framework\app\responseinterfaceÎ
+Ë
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.php` `(
+$objectManager"__id*<
+:
+$objectManager(magento\framework\objectmanagerinterfaceÌ
+É
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.php` `(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterface°
+­
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.php` `(
+$url"__id*(
+&
+$urlmagento\framework\urlinterfaceÌ
+É
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.php` `(
+	$redirect"__id*?
+=
+	$redirect0magento\framework\app\response\redirectinterfaceÀ
+½
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.php` `(
+$actionFlag"__id*1
+/
+$actionFlag magento\framework\app\actionflag·
+´
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.php` `(
+$view"__id*.
+,
+$view#magento\framework\app\viewinterfaceÒ
+Ï
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.php` `(
+$messageManager"__id*?
+=
+$messageManager*magento\framework\message\managerinterfaceé
+æ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.php` `(
+$resultRedirectFactory"__id*O
+M
+$resultRedirectFactory3magento\framework\controller\result\redirectfactoryÐ
+Í
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.php` `(
+$resultFactory"__id*>
+<
+$resultFactory*magento\framework\controller\resultfactoryÂ
+¿
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.phpm m("4&
+$magento\framework\app\action\context"
+
+_request"__id*
+
+
+$requestÄ
+Á
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.phpn n($5&
+$magento\framework\app\action\context"
+	_response"__id*
+
+	$responseÎ
+Ë
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.phpo o(.:&
+$magento\framework\app\action\context"
+_objectManager"__id*
+
+$objectManagerÌ
+É
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.phpp p(,9&
+$magento\framework\app\action\context"
+_eventManager"__id*
+
+$eventManagerº
+·
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.phpq q(0&
+$magento\framework\app\action\context"
+_url"__id*
+
+$urlÄ
+Á
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.phpr r($5&
+$magento\framework\app\action\context"
+	_redirect"__id*
+
+	$redirectÈ
+Å
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.phps s((7&
+$magento\framework\app\action\context"
+_actionFlag"__id*
+
+$actionFlag¼
+¹
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.phpt t(1&
+$magento\framework\app\action\context"
+_view"__id*	
+
+$viewÏ
+Ì
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.phpu u(/:&
+$magento\framework\app\action\context"
+messageManager"__id*
+
+$messageManagerÝ
+Ú
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.phpv v(=A&
+$magento\framework\app\action\context"
+resultRedirectFactory"__id*
+
+$resultRedirectFactoryÍ
+Ê
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Action\Context.phpw w(-9&
+$magento\framework\app\action\context"
+resultFactory"__id*
+
+$resultFactory*
+2:2
+$request&magento\framework\app\requestinterface:4
+	$response'magento\framework\app\responseinterface::
+$objectManager(magento\framework\objectmanagerinterface:9
+$eventManager(magento\framework\event\managerinterface:&
+$urlmagento\framework\urlinterface:=
+	$redirect0magento\framework\app\response\redirectinterface:/
+$actionFlag magento\framework\app\actionflag:,
+$view#magento\framework\app\viewinterface:=
+$messageManager*magento\framework\message\managerinterface:M
+$resultRedirectFactory3magento\framework\controller\result\redirectfactory:<
+$resultFactory*magento\framework\controller\resultfactoryB(&
+$magento\framework\app\action\context

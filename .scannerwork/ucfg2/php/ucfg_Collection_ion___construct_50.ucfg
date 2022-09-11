@@ -1,0 +1,85 @@
+
+Omagento\framework\model\resourcemodel\db\versioncontrol\collection::__construct’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\VersionControl\Collection.php ("1*Â
+2
+Collection.php"ª
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\VersionControl\Collection.php- -(
+implicit return*†
+1’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\VersionControl\Collection.php$ $(0þ
+û
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\VersionControl\Collection.php (
+$entityFactory"__id*L
+J
+$entityFactory8magento\framework\data\collection\entityfactoryinterfaceÏ
+Ì
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\VersionControl\Collection.php (	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface
+þ
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\VersionControl\Collection.php (
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceì
+é
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\VersionControl\Collection.php (
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceˆ
+…
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\VersionControl\Collection.php (
+$entitySnapshot"__id*U
+S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshotí
+ê
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\VersionControl\Collection.php (
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceï
+ì
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\VersionControl\Collection.php (
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdb
+Š
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\VersionControl\Collection.php$ $(/XD
+Bmagento\framework\model\resourcemodel\db\versioncontrol\collection"
+entitySnapshot"__id*
+
+$entitySnapshot£
+ 
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\VersionControl\Collection.php% ,(	
+%1"Smagento\framework\model\resourcemodel\db\collection\abstractcollection::__construct*FD
+Bmagento\framework\model\resourcemodel\db\versioncontrol\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$connection*
+
+	$resource*
+2:J
+$entityFactory8magento\framework\data\collection\entityfactoryinterface:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshot:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbBFD
+Bmagento\framework\model\resourcemodel\db\versioncontrol\collection

@@ -1,0 +1,154 @@
+
+8magento\email\block\adminhtml\template\edit::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpS S("1*Ÿ
+2
+
+Edit.php"
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phph h(
+implicit return*ð
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.php_ _((Ã
+À
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpS S(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\contextÌ
+É
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpS S(
+$jsonEncoder"__id*9
+7
+$jsonEncoder'magento\framework\json\encoderinterface¹
+¶
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpS S(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÄ
+Á
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpS S(
+$menuConfig"__id*2
+0
+$menuConfig!magento\backend\model\menu\configÒ
+Ï
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpS S(
+$configStructure"__id*;
+9
+$configStructure%magento\config\model\config\structureÈ
+Å
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpS S(
+$emailConfig"__id*5
+3
+$emailConfig#magento\email\model\template\configÅ
+Â
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpS S(
+$jsonHelper"__id*3
+1
+$jsonHelper"magento\framework\json\helper\dataÑ
+Î
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpS S(
+$buttonList"__id*?
+=
+$buttonList.magento\backend\block\widget\button\buttonlistÑ
+Î
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpS S(
+
+$toolbar"__id*B
+@
+$toolbar4magento\backend\block\widget\button\toolbarinterfaceœ
+™
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpS S(
+$data"__id*
+
+$dataarrayÑ
+Î
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.php_ _('=-
++magento\email\block\adminhtml\template\edit"
+
+jsonHelper"__id*
+
+$jsonHelperÔ
+Ñ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.php` `(*?-
++magento\email\block\adminhtml\template\edit"
+_jsonEncoder"__id*
+
+$jsonEncoderÕ
+Ò
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpa a(+C-
++magento\email\block\adminhtml\template\edit"
+_registryManager"__id*
+
+	$registryÒ
+Ï
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpb b((>-
++magento\email\block\adminhtml\template\edit"
+_menuConfig"__id*
+
+$menuConfigÜ
+Ù
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpc c(2C-
++magento\email\block\adminhtml\template\edit"
+_configStructure"__id*
+
+$configStructureÔ
+Ñ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpd d(*?-
++magento\email\block\adminhtml\template\edit"
+_emailConfig"__id*
+
+$emailConfigÑ
+Î
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpe e('=-
++magento\email\block\adminhtml\template\edit"
+
+buttonList"__id*
+
+$buttonListË
+È
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpf f(!:-
++magento\email\block\adminhtml\template\edit"	
+toolbar"__id*
+
+
+$toolbarö
+ó
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Email\Block\Adminhtml\Template\Edit.phpg g(,
+%1")magento\backend\block\widget::__construct*/-
++magento\email\block\adminhtml\template\edit*
+
+
+$context*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:7
+$jsonEncoder'magento\framework\json\encoderinterface:'
+	$registrymagento\framework\registry:0
+$menuConfig!magento\backend\model\menu\config:9
+$configStructure%magento\config\model\config\structure:3
+$emailConfig#magento\email\model\template\config:1
+$jsonHelper"magento\framework\json\helper\data:=
+$buttonList.magento\backend\block\widget\button\buttonlist:@
+$toolbar4magento\backend\block\widget\button\toolbarinterface:
+$dataarrayB/-
++magento\email\block\adminhtml\template\edit

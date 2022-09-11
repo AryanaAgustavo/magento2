@@ -1,0 +1,97 @@
+
+(magento\shipping\model\info::__constructf
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.php7 7("1*Ž
+2
+
+Info.php"}
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.phpE E(
+implicit return*ü
+1f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.php? ?(-³
+°
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.php7 7(
+$shippingData"__id*/
+-
+$shippingDatamagento\shipping\helper\data·
+´
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.php7 7(
+$orderFactory"__id*3
+1
+$orderFactory magento\sales\model\orderfactoryÐ
+Í
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.php7 7(
+$shipmentRepository"__id*F
+D
+$shipmentRepository-magento\sales\api\shipmentrepositoryinterfaceÀ
+½
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.php7 7(
+$trackFactory"__id*<
+:
+$trackFactory)magento\shipping\model\order\trackfactoryí
+ê
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.php7 7(
+$trackCollectionFactory"__id*_
+]
+$trackCollectionFactoryBmagento\shipping\model\resourcemodel\order\track\collectionfactoryŒ
+‰
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.php7 7(
+$data"__id*
+
+$dataarray¶
+³
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.php? ?(,0
+magento\shipping\model\info"
+_shippingData"__id*
+
+$shippingData¶
+³
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.php@ @(,0
+magento\shipping\model\info"
+_orderFactory"__id*
+
+$orderFactoryÁ
+¾
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.phpA A(75
+magento\shipping\model\info"
+shipmentRepository"__id*
+
+$shipmentRepository¶
+³
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.phpB B(,0
+magento\shipping\model\info"
+_trackFactory"__id*
+
+$trackFactoryÊ
+Ç
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.phpC C(@:
+magento\shipping\model\info"
+_trackCollectionFactory"__id*
+
+$trackCollectionFactoryÈ
+Å
+f
+\C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Info.phpD D("
+%1")magento\framework\dataobject::__construct*
+magento\shipping\model\info*	
+
+$data*
+2:-
+$shippingDatamagento\shipping\helper\data:1
+$orderFactory magento\sales\model\orderfactory:D
+$shipmentRepository-magento\sales\api\shipmentrepositoryinterface::
+$trackFactory)magento\shipping\model\order\trackfactory:]
+$trackCollectionFactoryBmagento\shipping\model\resourcemodel\order\track\collectionfactory:
+$dataarrayB
+magento\shipping\model\info

@@ -1,0 +1,133 @@
+
+9magento\reports\model\product\index\compared::__constructw
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.php6 6("1*¤
+2
+Compared.php"Ž
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.phpR R(
+implicit return*°
+1w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.phpD P(
+½
+º
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.php6 6(
+
+$context"__id*-
++
+$contextmagento\framework\model\contextº
+·
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.php6 6(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÑ
+Î
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.php6 6(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÌ
+É
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.php6 6(
+$customerVisitor"__id*4
+2
+$customerVisitormagento\customer\model\visitorÌ
+É
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.php6 6(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionË
+È
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.php6 6(
+$reportSession"__id*5
+3
+$reportSession!magento\framework\session\genericÚ
+×
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.php6 6(
+$productVisibility"__id*@
+>
+$productVisibility(magento\catalog\model\product\visibilityÁ
+¾
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.php6 6(
+	$dateTime"__id*0
+.
+	$dateTime!magento\framework\stdlib\datetimeÒ
+Ï
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.php6 6(
+$productCompare"__id*;
+9
+$productCompare&magento\catalog\helper\product\compareÖ
+Ó
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.php6 6(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceà
+Ý
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.php6 6(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb
+š
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.php6 6(
+$data"__id*
+
+$dataarray¾
+»
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.phpD P(	
+%1">magento\reports\model\product\index\abstractindex::__construct*0.
+,magento\reports\model\product\index\compared*
+
+
+$context*
+
+	$registry*
+
+$storeManager*
+
+$customerVisitor*
+
+$customerSession*
+
+$reportSession*
+
+$productVisibility*
+
+	$dateTime*
+
+	$resource*
+
+$resourceCollection*	
+
+$dataÜ
+Ù
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\Product\Index\Compared.phpQ Q(0C.
+,magento\reports\model\product\index\compared"
+_productCompare"__id*
+
+$productCompare*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry::
+$storeManager)magento\store\model\storemanagerinterface:2
+$customerVisitormagento\customer\model\visitor:2
+$customerSessionmagento\customer\model\session:3
+$reportSession!magento\framework\session\generic:>
+$productVisibility(magento\catalog\model\product\visibility:.
+	$dateTime!magento\framework\stdlib\datetime:9
+$productCompare&magento\catalog\helper\product\compare:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB0.
+,magento\reports\model\product\index\compared

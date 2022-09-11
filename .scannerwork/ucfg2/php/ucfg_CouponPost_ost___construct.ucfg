@@ -1,0 +1,102 @@
+
+8magento\checkout\controller\cart\couponpost::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\CouponPost.php& &("1*•
+2
+CouponPost.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\CouponPost.php: :(
+implicit return*É
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\CouponPost.php0 7(
+¡
+æ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\CouponPost.php& &(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\context÷
+”
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\CouponPost.php& &(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceÀ
+»
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\CouponPost.php& &(
+$checkoutSession"__id*4
+2
+$checkoutSessionmagento\checkout\model\session–
+Õ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\CouponPost.php& &(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface‹
+Ÿ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\CouponPost.php& &(
+$formKeyValidator"__id*D
+B
+$formKeyValidator-magento\framework\data\form\formkey\validator≤
+Ø
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\CouponPost.php& &(
+$cart"__id*&
+$
+$cartmagento\checkout\model\cartŒ
+À
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\CouponPost.php& &(
+$couponFactory"__id*9
+7
+$couponFactory%magento\salesrule\model\couponfactory÷
+”
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\CouponPost.php& &(
+$quoteRepository"__id*?
+=
+$quoteRepository)magento\quote\api\cartrepositoryinterfaceÃ
+…
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\CouponPost.php0 7(	
+%1"-magento\checkout\controller\cart::__construct*/-
++magento\checkout\controller\cart\couponpost*
+
+
+$context*
+
+$scopeConfig*
+
+$checkoutSession*
+
+$storeManager*
+
+$formKeyValidator*	
+
+$cart◊
+‘
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\CouponPost.php8 8(-@-
++magento\checkout\controller\cart\couponpost"
+couponFactory"__id*
+
+$couponFactory€
+ÿ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\CouponPost.php9 9(1B-
++magento\checkout\controller\cart\couponpost"
+quoteRepository"__id*
+
+$quoteRepository*
+2:0
+$context$magento\framework\app\action\context:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:2
+$checkoutSessionmagento\checkout\model\session::
+$storeManager)magento\store\model\storemanagerinterface:B
+$formKeyValidator-magento\framework\data\form\formkey\validator:$
+$cartmagento\checkout\model\cart:7
+$couponFactory%magento\salesrule\model\couponfactory:=
+$quoteRepository)magento\quote\api\cartrepositoryinterfaceB/-
++magento\checkout\controller\cart\couponpost

@@ -1,0 +1,179 @@
+
+.magento\newsletter\model\template::__constructl
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [("1*™
+2
+Template.php"ƒ
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php~ ~(
+implicit return*‡
+1l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.phpl z(
+²
+¯
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(
+
+$context"__id*-
++
+$contextmagento\framework\model\context·
+´
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(	
+$design"__id*3
+1
+$design&magento\framework\view\designinterface¯
+¬
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(
+	$registry"__id*)
+'
+	$registrymagento\framework\registry¾
+»
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(
+$appEmulation"__id*4
+2
+$appEmulation!magento\store\model\app\emulationÆ
+Ã
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface¾
+»
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(
+
+$assetRepo"__id*7
+5
+
+$assetRepo'magento\framework\view\asset\repositoryµ
+²
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(
+$filesystem"__id*-
++
+$filesystemmagento\framework\filesystemÌ
+É
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface¾
+»
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(
+$emailConfig"__id*5
+3
+$emailConfig#magento\email\model\template\configÆ
+Ã
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(
+$templateFactory"__id*9
+7
+$templateFactory#magento\email\model\templatefactoryÅ
+Â
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(
+$filterManager"__id*:
+8
+$filterManager&magento\framework\filter\filtermanager³
+°
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(
+	$urlModel"__id*-
++
+	$urlModelmagento\framework\urlinterface¹
+¶
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterfaceÎ
+Ë
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(
+$filterFactory"__id*C
+A
+$filterFactory/magento\newsletter\model\template\filterfactory’
+
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php[ [(
+$data"__id*
+
+$dataarrayª
+§
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.phpl z(	
+%1"1magento\email\model\abstracttemplate::__construct*%#
+!magento\newsletter\model\template*
+
+
+$context*
+	
+$design*
+
+	$registry*
+
+$appEmulation*
+
+$storeManager*
+
+
+$assetRepo*
+
+$filesystem*
+
+$scopeConfig*
+
+$emailConfig*
+
+$templateFactory*
+
+$filterManager*
+
+	$urlModel*	
+
+$dataÂ
+¿
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php{ {(,6#
+!magento\newsletter\model\template"
+_storeManager"__id*
+
+$storeManager¸
+µ
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php| |("1#
+!magento\newsletter\model\template"
+
+_request"__id*
+
+
+$requestÄ
+Á
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\Template.php} }(.7#
+!magento\newsletter\model\template"
+_filterFactory"__id*
+
+$filterFactory*
+2:+
+$contextmagento\framework\model\context:1
+$design&magento\framework\view\designinterface:'
+	$registrymagento\framework\registry:2
+$appEmulation!magento\store\model\app\emulation::
+$storeManager)magento\store\model\storemanagerinterface:5
+
+$assetRepo'magento\framework\view\asset\repository:+
+$filesystemmagento\framework\filesystem:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:3
+$emailConfig#magento\email\model\template\config:7
+$templateFactory#magento\email\model\templatefactory:8
+$filterManager&magento\framework\filter\filtermanager:+
+	$urlModelmagento\framework\urlinterface:2
+$request&magento\framework\app\requestinterface:A
+$filterFactory/magento\newsletter\model\template\filterfactory:
+$dataarrayB%#
+!magento\newsletter\model\template

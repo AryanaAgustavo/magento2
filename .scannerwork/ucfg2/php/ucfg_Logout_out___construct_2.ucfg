@@ -1,0 +1,57 @@
+
+4magento\customer\controller\ajax\logout::__constructr
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Ajax\Logout.php% %("1*
+2
+
+Logout.php"‰
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Ajax\Logout.php- -(
+implicit return*‚
+1r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Ajax\Logout.php* *(&½
+º
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Ajax\Logout.php% %(
+
+$context"__id*2
+0
+$context$magento\framework\app\action\contextÇ
+Ä
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Ajax\Logout.php% %(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÜ
+Ù
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Ajax\Logout.php% %(
+$resultJsonFactory"__id*G
+E
+$resultJsonFactory/magento\framework\controller\result\jsonfactoryê
+ç
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Ajax\Logout.php* *(%
+%1"0magento\framework\app\action\action::__construct*+)
+'magento\customer\controller\ajax\logout*
+
+
+$contextÓ
+Ð
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Ajax\Logout.php+ +(1>)
+'magento\customer\controller\ajax\logout"
+customerSession"__id*
+
+$customerSession×
+Ô
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Ajax\Logout.php, ,(5@)
+'magento\customer\controller\ajax\logout"
+resultJsonFactory"__id*
+
+$resultJsonFactory*
+2:0
+$context$magento\framework\app\action\context:2
+$customerSessionmagento\customer\model\session:E
+$resultJsonFactory/magento\framework\controller\result\jsonfactoryB+)
+'magento\customer\controller\ajax\logout

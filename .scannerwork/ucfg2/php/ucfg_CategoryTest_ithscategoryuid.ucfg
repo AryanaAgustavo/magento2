@@ -1,0 +1,23 @@
+
+Kmagento\graphql\cataloggraphql\categorytest::getsearchquerywithscategoryuid‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\CategoryTest.php% %(3"1*ù
+1‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\CategoryTest.php' 1(À
+½
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\CategoryTest.php' 1(
+%1"__id*š—
+”{
+  products(filter: {category_uid: {eq: "Mg=="}}) {
+    aggregations {
+        __typename
+        attribute_code
+    }
+    __typename
+  }
+}"œ
+‘
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\CategoryTest.php' 1(
+
+%1B/-
++magento\graphql\cataloggraphql\categorytest

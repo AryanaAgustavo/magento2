@@ -1,0 +1,41 @@
+
+Amagento\graphql\catalog\options\customizableoptionstest::getqueryù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\Options\CustomizableOptionsTest.php> >("1*•
+1ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\Options\CustomizableOptionsTest.php@ R(√
+¿
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\Options\CustomizableOptionsTest.php> >(
+$sku"__id*
+
+$skustringé
+ã
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\Options\CustomizableOptionsTest.php@ R(
+%1"__concat*.,
+*query {
+  products(filter: { sku: { eq: "*ûõ
+ò" } }) {
+    items {
+      ... on CustomizableProductInterface {
+        options {
+          option_id
+          title
+          ... on CustomizableDateOption {
+               value {
+                  type
+               }
+          }
+        }
+      }
+    }
+  }
+}*
+
+$sku"®
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\Options\CustomizableOptionsTest.php@ R(
+
+%1:
+$skustringB;9
+7magento\graphql\catalog\options\customizableoptionstest

@@ -1,0 +1,72 @@
+
+.magento\sales\model\config\reader::__constructl
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Config\Reader.php& &("1*—
+2
+
+Reader.php"ƒ
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Config\Reader.php: :(
+implicit return*–
+
+1l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Config\Reader.php0 9(
+Ë
+È
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Config\Reader.php& &(
+$fileResolver"__id*A
+?
+$fileResolver.magento\framework\config\fileresolverinterface»
+¸
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Config\Reader.php& &(
+
+$converter"__id*4
+2
+
+$converter$magento\sales\model\config\converterÇ
+Ä
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Config\Reader.php& &(
+$schemaLocator"__id*<
+:
+$schemaLocator(magento\sales\model\config\schemalocatorÔ
+Ñ
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Config\Reader.php& &(
+$validationState"__id*G
+E
+$validationState1magento\framework\config\validationstateinterfaceð
+í
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Config\Reader.php0 9(	
+%1"7magento\framework\config\reader\filesystem::__construct*%#
+!magento\sales\model\config\reader*
+
+$fileResolver*
+
+
+$converter*
+
+$schemaLocator*
+
+$validationState*
+
+	$fileName*
+
+$idAttributes*
+
+$domDocumentClass*
+
+$defaultScope*
+2:?
+$fileResolver.magento\framework\config\fileresolverinterface:2
+
+$converter$magento\sales\model\config\converter::
+$schemaLocator(magento\sales\model\config\schemalocator:E
+$validationState1magento\framework\config\validationstateinterface:
+	$fileName:
+$idAttributes:
+$domDocumentClass:
+$defaultScopeB%#
+!magento\sales\model\config\reader

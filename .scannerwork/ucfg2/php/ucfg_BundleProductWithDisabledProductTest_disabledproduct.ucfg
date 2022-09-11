@@ -1,0 +1,130 @@
+
+tmagento\graphql\bundle\bundleproductwithdisabledproducttest::testbundleproductwithmultipleoptionswithdisabledproduct°
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductWithDisabledProductTest.php+ +(K"1*Ì
+2*
+(BundleProductWithDisabledProductTest.php"ª
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductWithDisabledProductTest.phpÖ Ö(
+implicit return*∑
+1°
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductWithDisabledProductTest.php- -(≈
+¬
+°
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductWithDisabledProductTest.php- -(
+$categorySku"__id*
+c1í
+è
+¢
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductWithDisabledProductTest.php/ Å(
+%1"__concat*20
+.{
+    categoryList(filters: {url_path: {eq: "*ëé
+ã"}}) {
+    children_count
+    id
+    url_path
+    url_key
+    id
+    products {
+      total_count
+      items {
+        ... on BundleProduct {
+          id
+          categories {
+            id
+            name
+            description
+          }
+          dynamic_price
+          price_range {
+            minimum_price {
+              regular_price {
+                value
+                currency
+              }
+            }
+            maximum_price {
+              regular_price {
+                value
+                currency
+              }
+            }
+          }
+          sku
+          name
+          short_description {
+            html
+          }
+          description {
+            html
+          }
+          stock_status
+          __typename
+          url_key
+          items {
+            position
+            uid
+            option_id
+            options {
+              uid
+              label
+              id
+              price
+              quantity
+              product {
+                ... on VirtualProduct {
+                  sku
+                  stock_status
+                  name
+                }
+                price_range {
+                  minimum_price {
+                    regular_price {
+                      value
+                      currency
+                    }
+                  }
+                  maximum_price {
+                    regular_price {
+                      value
+                      currency
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}*
+
+$categorySku¿
+Ω
+¢
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductWithDisabledProductTest.php. Å(
+$query"__id*
+
+%1äá
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductWithDisabledProductTest.phpÉ É(/
+%2*?=
+;magento\graphql\bundle\bundleproductwithdisabledproducttest*
+
+
+$query2graphqlqueryƒ
+¡
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductWithDisabledProductTest.phpÉ É(/
+	$response"__id*
+
+%2îë
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductWithDisabledProductTest.phpÑ Ñ(-
+%3*?=
+;magento\graphql\bundle\bundleproductwithdisabledproducttest*
+
+	$response2assertbundleproduct*
+2B?=
+;magento\graphql\bundle\bundleproductwithdisabledproducttest

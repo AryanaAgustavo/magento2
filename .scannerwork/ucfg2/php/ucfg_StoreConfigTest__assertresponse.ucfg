@@ -1,0 +1,163 @@
+
+:magento\graphql\sendfriend\storeconfigtest::assertresponseê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpM M(#"1*≈
+2
+StoreConfigTest.php"®
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpg g(
+implicit return*“$
+1ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpO R(
+À
+»
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpM M(#
+$expectedValues"__id*
+
+$expectedValuesarrayø
+º
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpM M(#
+	$response"__id*
+
+	$responsearray˝˙
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpO R(	
+%1*.,
+*magento\graphql\sendfriend\storeconfigtest*
+
+errors*
+
+	$response2assertarraynothaskey∆
+√
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpU U($
+%2"__mapGet*
+
+	$response*
+storeConfig¯ı
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpS V(	
+%3*.,
+*magento\graphql\sendfriend\storeconfigtest*
+send_friend*
+
+%22assertarrayhaskey∆
+√
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpY Y($
+%4"__mapGet*
+
+	$response*
+storeConfigø
+º
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpY Y(3
+%5"__mapGet*
+
+%4*
+send_friendÇˇ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpW Z(	
+%6*.,
+*magento\graphql\sendfriend\storeconfigtest*
+enabled_for_customers*
+
+%52assertarrayhaskey∆
+√
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.php] ]($
+%7"__mapGet*
+
+	$response*
+storeConfigø
+º
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.php] ](3
+%8"__mapGet*
+
+%7*
+send_friendˇ¸
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.php[ ^(	
+%9*.,
+*magento\graphql\sendfriend\storeconfigtest*
+enabled_for_guests*
+
+%82assertarrayhaskey◊
+‘
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.php` `(4
+%10"__mapGet*
+
+$expectedValues*
+enabled_for_customers«
+ƒ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpa a($
+%11"__mapGet*
+
+	$response*
+storeConfig¡
+æ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpa a(3
+%12"__mapGet*
+
+%11*
+send_friendÀ
+»
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpa a(L
+%13"__mapGet*
+
+%12*
+enabled_for_customersÌÍ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.php_ b(	
+%14*.,
+*magento\graphql\sendfriend\storeconfigtest*
+
+%10*
+
+%132assertequals‘
+—
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpd d(1
+%15"__mapGet*
+
+$expectedValues*
+enabled_for_guests«
+ƒ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpe e($
+%16"__mapGet*
+
+	$response*
+storeConfig¡
+æ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpe e(3
+%17"__mapGet*
+
+%16*
+send_friend»
+≈
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpe e(I
+%18"__mapGet*
+
+%17*
+enabled_for_guestsÌÍ
+ê
+ÖC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\SendFriend\StoreConfigTest.phpc f(	
+%19*.,
+*magento\graphql\sendfriend\storeconfigtest*
+
+%15*
+
+%182assertequals*
+2:
+$expectedValuesarray:
+	$responsearrayB.,
+*magento\graphql\sendfriend\storeconfigtest

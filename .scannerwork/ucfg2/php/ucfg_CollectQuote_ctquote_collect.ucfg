@@ -1,0 +1,220 @@
+
+1magento\checkout\model\cart\collectquote::collects
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpE E("1*†
+
+2s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpH H(d 
+«
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpH H(1
+%3"__id*D*B*
+(magento\checkout\model\cart\collectquote"
+customerRepository«
+ƒ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpH; H(Q
+%4"__id*A*?*
+(magento\checkout\model\cart\collectquote"
+customerSessionïí
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpH; H(b
+%5*
+
+%42getcustomeridóî
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpH H(c
+%6*
+
+%3*
+
+%52getbyidì
+ê
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpH H(c
+	$customer"__id*
+
+%6°û
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpI# I(B
+%7*
+
+	$customer2getdefaultshippingö
+ó
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpI I(B
+$defaultShipping"__id*
+
+%7*
+3
+5*â
+3s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpJ J(O…
+∆
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpJ J(3
+%8"__id*C*A*
+(magento\checkout\model\cart\collectquote"
+addressRepository•¢
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpJ J(N
+%9*
+
+%8*
+
+$defaultShipping2getbyidí
+è
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpJ J(N
+
+$address"__id*
+
+%9*
+4
+5*Ò
+4s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpM M(Q–
+Õ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpM( M(F
+%10"__id*I*G*
+(magento\checkout\model\cart\collectquote"
+estimatedAddressFactoryêç
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpM( M(P
+%11*
+
+%102createú
+ô
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpM M(P
+$estimatedAddress"__id*
+
+%11õò
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpN4 N(L
+%12*
+
+
+$address2getcountryid≠™
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpN N(M
+%13*
+
+$estimatedAddress*
+
+%122setcountryidöó
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpO3 O(J
+%14*
+
+
+$address2getpostcode¨©
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpO O(K
+%15*
+
+$estimatedAddress*
+
+%142setpostcodeòï
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpP9 P(N
+%16*
+
+
+$address2	getregionìê
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpP9 P([
+%17*
+
+%162	getregionú
+ô
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpP1 P([
+%18"__passthrough_cast*
+
+%17™ß
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpP P(\
+%19*
+
+$estimatedAddress*
+
+%182	setregionöó
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpQ3 Q(J
+%20*
+
+
+$address2getregionid¨©
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpQ Q(K
+%21*
+
+$estimatedAddress*
+
+%202setregionidŒ
+À
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpR R(0
+%22"__id*G*E*
+(magento\checkout\model\cart\collectquote"
+shippingMethodManageríè
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpRD R(S
+%23*
+
+
+$quote2getidª∏
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpR R(g
+%24*
+
+%22*
+
+%23*
+
+$estimatedAddress2estimatebyaddress»
+≈
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpS S(*
+%25"__id*A*?*
+(magento\checkout\model\cart\collectquote"
+quoteRepositoryöó
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpS S(8
+%26*
+
+%25*
+
+
+$quote2save*
+5*§
+5
+CollectQuote.php"ä
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpW W(
+implicit return*ë
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpG G(0Ø
+¨
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpE E(
+$quote"__id*%
+#
+$quotemagento\quote\model\quote«
+ƒ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpG G("
+%1"__id*A*?*
+(magento\checkout\model\cart\collectquote"
+customerSessioníè
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.phpG G(0
+%2*
+
+%12
+isloggedin*
+2
+5:#
+$quotemagento\quote\model\quoteB,*
+(magento\checkout\model\cart\collectquote

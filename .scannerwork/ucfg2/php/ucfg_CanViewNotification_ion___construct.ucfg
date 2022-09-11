@@ -1,0 +1,70 @@
+
+Lmagento\releasenotification\model\condition\canviewnotification::__construct‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Model\Condition\CanViewNotification.php? ?("1*Ä
+2
+CanViewNotification.php"£
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Model\Condition\CanViewNotification.phpI I(
+implicit return*Ç
+1‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Model\Condition\CanViewNotification.phpE E(,ú
+÷
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Model\Condition\CanViewNotification.php? ?(
+$viewerLogger"__id*P
+N
+$viewerLogger=magento\releasenotification\model\resourcemodel\viewer\loggerÕ
+Ò
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Model\Condition\CanViewNotification.php? ?(
+
+$session"__id*0
+.
+$session"magento\backend\model\auth\sessionñ
+î
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Model\Condition\CanViewNotification.php? ?(
+$productMetadata"__id*D
+B
+$productMetadata.magento\framework\app\productmetadatainterfaceá
+Þ
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Model\Condition\CanViewNotification.php? ?(
+$cacheStorage"__id*7
+5
+$cacheStorage$magento\framework\app\cacheinterfaceÿ
+ü
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Model\Condition\CanViewNotification.phpE E(+SA
+?magento\releasenotification\model\condition\canviewnotification"
+viewerLogger"__id*
+
+$viewerLoggerõ
+ò
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Model\Condition\CanViewNotification.phpF F(!NA
+?magento\releasenotification\model\condition\canviewnotification"	
+session"__id*
+
+
+$session…
+‚
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Model\Condition\CanViewNotification.phpG G(1VA
+?magento\releasenotification\model\condition\canviewnotification"
+productMetadata"__id*
+
+$productMetadataÿ
+ü
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReleaseNotification\Model\Condition\CanViewNotification.phpH H(+SA
+?magento\releasenotification\model\condition\canviewnotification"
+cacheStorage"__id*
+
+$cacheStorage*
+2:N
+$viewerLogger=magento\releasenotification\model\resourcemodel\viewer\logger:.
+$session"magento\backend\model\auth\session:B
+$productMetadata.magento\framework\app\productmetadatainterface:5
+$cacheStorage$magento\framework\app\cacheinterfaceBCA
+?magento\releasenotification\model\condition\canviewnotification

@@ -1,0 +1,72 @@
+
+fmagento\configurableproduct\model\quicksearchtest::checkthatonlyconfigurableproductisavailablebysearch–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Model\QuickSearchTest.php€ €(H"1*Ë
+2
+QuickSearchTest.php"®
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Model\QuickSearchTest.php‡ ‡(
+implicit return*‡
+1–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Model\QuickSearchTest.php‚ ‚(IÌ
+É
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Model\QuickSearchTest.php€ €(H
+$searchQuery"__id*
+
+$searchQuerystring÷
+ô
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Model\QuickSearchTest.php‚ ‚(1
+%1"__id*M*K3
+1magento\configurableproduct\model\quicksearchtest"
+quickSearchByQueryÅÂ
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Model\QuickSearchTest.php‚ ‚(H
+%2*
+
+%1*
+
+$searchQuery2execute»
+¸
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Model\QuickSearchTest.php‚ ‚(H
+$searchResult"__id*
+
+%2¿¼
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Model\QuickSearchTest.phpƒ ƒ(7
+%3*
+
+$searchResult2getitemsôñ
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Model\QuickSearchTest.phpƒ ƒ(8
+%4*53
+1magento\configurableproduct\model\quicksearchtest*2*
+
+%32assertcountÃÀ
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Model\QuickSearchTest.php… …(<
+%5*
+
+$searchResult2getfirstitemÂ
+¿
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Model\QuickSearchTest.php… …(<
+$configurableProduct"__id*
+
+%5ÄÁ
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Model\QuickSearchTest.php†4 †(R
+%6*
+
+$configurableProduct2getsku‰†
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\ConfigurableProduct\Model\QuickSearchTest.php† †(S
+%7*53
+1magento\configurableproduct\model\quicksearchtest*
+Configurable product*
+
+%62assertequals*
+2:
+$searchQuerystringB53
+1magento\configurableproduct\model\quicksearchtest

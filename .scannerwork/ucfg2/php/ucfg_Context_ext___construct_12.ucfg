@@ -1,0 +1,168 @@
+
+1magento\framework\app\helper\context::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.php] ]("1*Ÿ
+2
+Context.php"Š
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.phpu u(
+implicit return*ç#
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.phpj j(/Æ
+Ã
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.php] ](
+$urlEncoder"__id*7
+5
+$urlEncoder&magento\framework\url\encoderinterfaceÆ
+Ã
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.php] ](
+$urlDecoder"__id*7
+5
+$urlDecoder&magento\framework\url\decoderinterface¯
+¬
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.php] ](	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÆ
+Ã
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.php] ](
+$moduleManager"__id*4
+2
+$moduleManager magento\framework\module\managerÈ
+Å
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.php] ](
+$httpRequest"__id*8
+6
+$httpRequest&magento\framework\app\requestinterfaceÉ
+Æ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.php] ](
+$cacheConfig"__id*9
+7
+$cacheConfig'magento\framework\cache\configinterfaceÌ
+É
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.php] ](
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterface¾
+»
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.php] ](
+$urlBuilder"__id*/
+-
+$urlBuildermagento\framework\urlinterface½
+º
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.php] ](
+$httpHeader"__id*.
+,
+$httpHeadermagento\framework\http\headerÙ
+Ö
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.php] ](
+$remoteAddress"__id*G
+E
+$remoteAddress3magento\framework\http\phpenvironment\remoteaddressÓ
+Ð
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.php] ](
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceÎ
+Ë
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.phpj j(.:&
+$magento\framework\app\helper\context"
+_moduleManager"__id*
+
+$moduleManagerÊ
+Ç
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.phpk k(*8&
+$magento\framework\app\helper\context"
+_httpRequest"__id*
+
+$httpRequestÊ
+Ç
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.phpl l(*8&
+$magento\framework\app\helper\context"
+_cacheConfig"__id*
+
+$cacheConfigÌ
+É
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.phpm m(,9&
+$magento\framework\app\helper\context"
+_eventManager"__id*
+
+$eventManagerÀ
+½
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.phpn n( 3&
+$magento\framework\app\helper\context"	
+_logger"__id*
+	
+$loggerÈ
+Å
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.phpo o((7&
+$magento\framework\app\helper\context"
+_urlBuilder"__id*
+
+$urlBuilderÈ
+Å
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.phpp p((7&
+$magento\framework\app\helper\context"
+_httpHeader"__id*
+
+$httpHeaderÎ
+Ë
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.phpq q(.:&
+$magento\framework\app\helper\context"
+_remoteAddress"__id*
+
+$remoteAddressÇ
+Ä
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.phpr r('6&
+$magento\framework\app\helper\context"
+
+urlEncoder"__id*
+
+$urlEncoderÇ
+Ä
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.phps s('6&
+$magento\framework\app\helper\context"
+
+urlDecoder"__id*
+
+$urlDecoderÉ
+Æ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Helper\Context.phpt t()7&
+$magento\framework\app\helper\context"
+scopeConfig"__id*
+
+$scopeConfig*
+2:5
+$urlEncoder&magento\framework\url\encoderinterface:5
+$urlDecoder&magento\framework\url\decoderinterface:"
+$loggerpsr\log\loggerinterface:2
+$moduleManager magento\framework\module\manager:6
+$httpRequest&magento\framework\app\requestinterface:7
+$cacheConfig'magento\framework\cache\configinterface:9
+$eventManager(magento\framework\event\managerinterface:-
+$urlBuildermagento\framework\urlinterface:,
+$httpHeadermagento\framework\http\header:E
+$remoteAddress3magento\framework\http\phpenvironment\remoteaddress:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceB(&
+$magento\framework\app\helper\context

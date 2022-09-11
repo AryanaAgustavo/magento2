@@ -1,0 +1,111 @@
+
+?magento\mediacontentcatalog\observer\productdelete::__construct}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpJ J("1*¯
+2
+ProductDelete.php"”
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpZ Z(
+implicit return*û
+1}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpS S(Dƒ
+€
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpJ J(
+$extractAssetsFromContent"__id*\
+Z
+$extractAssetsFromContent=magento\mediacontentapi\api\extractassetsfromcontentinterfaceâ
+ß
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpJ J(
+$getContent"__id*I
+G
+$getContent8magento\mediacontentapi\model\getentitycontentsinterface€
+ý
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpJ J(
+$deleteContentAssetLinks"__id*Z
+X
+$deleteContentAssetLinks<magento\mediacontentapi\api\deletecontentassetlinksinterface‚
+ÿ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpJ J(
+$contentIdentityFactory"__id*]
+[
+$contentIdentityFactory@magento\mediacontentapi\api\data\contentidentityinterfacefactory…
+‚
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpJ J(
+$contentAssetLinkFactory"__id*_
+]
+$contentAssetLinkFactoryAmagento\mediacontentapi\api\data\contentassetlinkinterfacefactoryÆ
+Ã
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpJ J(	
+$config"__id*1
+/
+$config$magento\mediacontentapi\model\config§
+¤
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpJ J(	
+$fields"__id*
+
+$fieldsarrayû
+ø
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpS S(CR4
+2magento\mediacontentcatalog\observer\productdelete"
+extractAssetsFromContent"__id*
+
+$extractAssetsFromContentß
+Ü
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpT T('D4
+2magento\mediacontentcatalog\observer\productdelete"
+
+getContent"__id*
+
+$getContentù
+ö
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpU U(AQ4
+2magento\mediacontentcatalog\observer\productdelete"
+deleteContentAssetLinks"__id*
+
+$deleteContentAssetLinksù
+ö
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpV V(AQ4
+2magento\mediacontentcatalog\observer\productdelete"
+contentAssetLinkFactory"__id*
+
+$contentAssetLinkFactory÷
+ô
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpW W(?P4
+2magento\mediacontentcatalog\observer\productdelete"
+contentIdentityFactory"__id*
+
+$contentIdentityFactory×
+Ô
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpX X(@4
+2magento\mediacontentcatalog\observer\productdelete"
+config"__id*
+	
+$config×
+Ô
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaContentCatalog\Observer\ProductDelete.phpY Y(@4
+2magento\mediacontentcatalog\observer\productdelete"
+fields"__id*
+	
+$fields*
+2:Z
+$extractAssetsFromContent=magento\mediacontentapi\api\extractassetsfromcontentinterface:G
+$getContent8magento\mediacontentapi\model\getentitycontentsinterface:X
+$deleteContentAssetLinks<magento\mediacontentapi\api\deletecontentassetlinksinterface:[
+$contentIdentityFactory@magento\mediacontentapi\api\data\contentidentityinterfacefactory:]
+$contentAssetLinkFactoryAmagento\mediacontentapi\api\data\contentassetlinkinterfacefactory:/
+$config$magento\mediacontentapi\model\config:
+$fieldsarrayB64
+2magento\mediacontentcatalog\observer\productdelete

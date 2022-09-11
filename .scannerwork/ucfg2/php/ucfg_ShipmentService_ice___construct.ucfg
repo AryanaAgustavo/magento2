@@ -1,0 +1,84 @@
+
+8magento\sales\model\service\shipmentservice::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\ShipmentService.php; ;("1*ª
+2
+ShipmentService.php"
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\ShipmentService.phpG G(
+implicit return*ì
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\ShipmentService.phpB B(6å
+â
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\ShipmentService.php; ;(
+$commentRepository"__id*L
+J
+$commentRepository4magento\sales\api\shipmentcommentrepositoryinterfaceØ
+Õ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\ShipmentService.php; ;(
+$criteriaBuilder"__id*A
+?
+$criteriaBuilder+magento\framework\api\searchcriteriabuilderÌ
+É
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\ShipmentService.php; ;(
+$filterBuilder"__id*7
+5
+$filterBuilder#magento\framework\api\filterbuilderÐ
+Í
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\ShipmentService.php; ;(
+$repository"__id*>
+<
+$repository-magento\sales\api\shipmentrepositoryinterfaceÆ
+Ã
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\ShipmentService.php; ;(
+	$notifier"__id*6
+4
+	$notifier'magento\shipping\model\shipmentnotifierß
+Ü
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\ShipmentService.phpB B(5D-
++magento\sales\model\service\shipmentservice"
+commentRepository"__id*
+
+$commentRepositoryÛ
+Ø
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\ShipmentService.phpC C(1B-
++magento\sales\model\service\shipmentservice"
+criteriaBuilder"__id*
+
+$criteriaBuilder×
+Ô
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\ShipmentService.phpD D(-@-
++magento\sales\model\service\shipmentservice"
+filterBuilder"__id*
+
+$filterBuilderÑ
+Î
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\ShipmentService.phpE E('=-
++magento\sales\model\service\shipmentservice"
+
+repository"__id*
+
+$repositoryÍ
+Ê
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\ShipmentService.phpF F(#;-
++magento\sales\model\service\shipmentservice"
+
+notifier"__id*
+
+	$notifier*
+2:J
+$commentRepository4magento\sales\api\shipmentcommentrepositoryinterface:?
+$criteriaBuilder+magento\framework\api\searchcriteriabuilder:5
+$filterBuilder#magento\framework\api\filterbuilder:<
+$repository-magento\sales\api\shipmentrepositoryinterface:4
+	$notifier'magento\shipping\model\shipmentnotifierB/-
++magento\sales\model\service\shipmentservice

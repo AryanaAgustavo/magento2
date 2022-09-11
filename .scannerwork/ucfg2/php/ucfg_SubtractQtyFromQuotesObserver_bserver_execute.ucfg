@@ -1,0 +1,52 @@
+
+Emagento\sales\observer\backend\subtractqtyfromquotesobserver::execute‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Observer\Backend\SubtractQtyFromQuotesObserver.php ("1*Ê
+2#
+!SubtractQtyFromQuotesObserver.php"Ÿ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Observer\Backend\SubtractQtyFromQuotesObserver.php# #(
+implicit return*š
+
+1‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Observer\Backend\SubtractQtyFromQuotesObserver.php! !(7Ñ
+Î
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Observer\Backend\SubtractQtyFromQuotesObserver.php (
+	$observer"__id*/
+-
+	$observer magento\framework\event\observer¬©
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Observer\Backend\SubtractQtyFromQuotesObserver.php! !((
+%1*
+
+	$observer2getevent§¤
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Observer\Backend\SubtractQtyFromQuotesObserver.php! !(6
+%2*
+
+%12
+getproduct§
+¤
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Observer\Backend\SubtractQtyFromQuotesObserver.php! !(6
+
+$product"__id*
+
+%2ç
+ä
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Observer\Backend\SubtractQtyFromQuotesObserver.php" "(
+%3"__id*L*J>
+<magento\sales\observer\backend\subtractqtyfromquotesobserver"
+_quoteÄÁ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Observer\Backend\SubtractQtyFromQuotesObserver.php" "(:
+%4*
+
+%3*
+
+
+$product2subtractproductfromquotes*
+2:-
+	$observer magento\framework\event\observerB@>
+<magento\sales\observer\backend\subtractqtyfromquotesobserver

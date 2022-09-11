@@ -1,0 +1,22 @@
+
+Qmagento\framework\filter\directiveprocessor\simpledirective::getregularexpression‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\DirectiveProcessor\SimpleDirective.php^ ^(("1*ã
+1‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\DirectiveProcessor\SimpleDirective.php` g(¶
+³
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\DirectiveProcessor\SimpleDirective.php` g(
+%1"__concat*
+/{{*(&
+$(?P<directiveName>[a-z]+)(?:[\s\t]*)*\Z
+X(?:\s*(?P<quoteType>[\'"])(?P<value>(?:(?!\k\'quoteType\').)*?)(?<!\\\)\k\'quoteType\')?*
+(?P<parameters>.*?)*%#
+!(?P<filters>(?:\|[a-z0-9:_-]+)+)?*
+}}*1/
+-(?:(?P<content>.*?){{\/(?P=directiveName)}})?*
+/si"–
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\DirectiveProcessor\SimpleDirective.php` g(
+
+%1B?=
+;magento\framework\filter\directiveprocessor\simpledirective

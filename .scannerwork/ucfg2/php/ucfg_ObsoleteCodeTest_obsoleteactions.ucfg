@@ -1,0 +1,36 @@
+
+:magento\test\legacy\obsoletecodetest::_testobsoleteactionsƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Legacy\ObsoleteCodeTest.php¡ ¡(+"1*¹
+2
+ObsoleteCodeTest.php"›
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Legacy\ObsoleteCodeTest.php© ©(
+implicit return*€
+1ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Legacy\ObsoleteCodeTest.php£ £(nù
+ö
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Legacy\ObsoleteCodeTest.php£ £(m
+$suggestion"__id*YW
+UResizing images upon the client request is obsolete, use server-side resizing insteadÜ
+Ù
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Legacy\ObsoleteCodeTest.php§ §(G
+%1"__concat*0.
+,Action 'catalog/product/image' is obsolete. *
+
+$suggestion”‘
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Legacy\ObsoleteCodeTest.php¤ ¨(	
+%2*(&
+$magento\test\legacy\obsoletecodetest*1/
+-#[^a-z\d_/]catalog/product/image[^a-z\d_/]#iS*
+
+
+$content*
+
+%12_assertnotregexp*
+2:
+
+$contentB(&
+$magento\test\legacy\obsoletecodetest

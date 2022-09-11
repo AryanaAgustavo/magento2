@@ -1,0 +1,107 @@
+
+(magento\csp\csputiltest::testphtmlhelpery
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php (#"1*©
+2
+CspUtilTest.php"ê
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php) )(
+implicit return*°
+1y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php (.≠™
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php (
+%1*
+magento\csp\csputiltest2
+getrequest†ù
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php (-
+%2*
+
+%1*
+GET2	setmethod√¿
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php (-
+%3*
+magento\csp\csputiltest*
+csputil/csp/helper2dispatchÆ´
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php ('
+%4*
+magento\csp\csputiltest2getresponseòï
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php (5
+%5*
+
+%42
+getcontentò
+ï
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php (5
+
+$content"__id*
+
+%5®•
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php  #(	
+%6*
+magento\csp\csputiltest*[Y
+W<script src="http&#x3A;&#x2F;&#x2F;my.magento.com&#x2F;static&#x2F;script.js"></script>*
+
+
+$content2assertstringcontainsstring¯ı
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php$ $(^
+%7*
+magento\csp\csputiltest*+)
+'<script>\n    let myVar = 1;\n</script>*
+
+
+$content2assertstringcontainsstringÆ´
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php% %(&
+%8*
+magento\csp\csputiltest2getresponse¥±
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php% %(L
+%9*
+
+%8*
+Content-Security-Policy2	getheaderó
+î
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php% %(L	
+$header"__id*
+
+%9øº
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php& &(&
+%10*
+magento\csp\csputiltest*
+	
+$header2assertnotempty°û
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php'C '([
+%11*
+	
+$header2getfieldvalue‚ﬂ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php' '(\
+%12*
+magento\csp\csputiltest*
+http://my.magento.com*
+
+%112assertstringcontainsstring°û
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php(e ((}
+%13*
+	
+$header2getfieldvalueÑÅ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Csp\CspUtilTest.php( ((~
+%14*
+magento\csp\csputiltest*;9
+7\'sha256-H4RRnauTM2X2Xg/z9zkno1crqhsaY3uKKu97uwmnXXE=\'*
+
+%132assertstringcontainsstring*
+2B
+magento\csp\csputiltest

@@ -1,0 +1,317 @@
+
+?magento\catalog\model\resourcemodel\category::_processpositionsy
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.phpŽ Ž(("1*Ê
+2y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.phpŸ Ÿ(gž›
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.phpŸ Ÿ(+
+%16*
+
+$connection2select®«
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.phpŸ Ÿ(E
+%17*
+
+%16*
+
+
+$table*
+
+position2from±®
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.phpŸ Ÿ(f
+%18*
+
+%17*
+entity_id = :entity_id2where˜
+•
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.phpŸ Ÿ(f	
+$select"__id*
+
+%18Š
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php 7  (X
+%19"$Array½
+º
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php 7  (X
+%20"__mapSet*
+
+%19*
+	entity_id*
+
+$afterCategoryId¶³
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php   (Y
+%21*
+
+$connection*
+	
+$select*
+
+%192fetchoneš
+—
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php   (Y
+	$position"__id*
+
+%21*
+4*
+3y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php£ £(—
+”
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php£ £(
+	$position"__id*2*
+4*‹
+4y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php¦ ¦(KŠ
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php¦ ¦(J
+%22"$Array­
+ª
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php¦1 ¦(H
+%24"__concat*
+
+$positionField*
+ + 1“
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php¦ ¦(I
+%23"zend_db_expr²
+¯
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php¦ ¦(I
+%25"zend_db_expr::__construct*
+
+%23*
+
+%24¯
+¬
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php¦ ¦(J
+%26"__mapSet*
+
+%22*
+
+position*
+
+%23–
+“
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php¦ ¦(J
+$bind"__id*
+
+%22Š
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php§ §(`
+%27"$Arrayœ™
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php§% §(8
+%28*
+
+
+$newParent2getid´
+±
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php§ §(`
+%29"__mapSet*
+
+%27*
+parent_id = ?*
+
+%28®
+«
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php§: §(R
+%30"__concat*
+
+$positionField*	
+ >= ?²
+¯
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php§ §(`
+%31"
+__arraySet*
+
+%27*
+
+%30*
+
+	$position—
+”
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php§ §(`
+$where"__id*
+
+%27Á¾
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php¨ ¨(2
+%32*
+
+$connection*
+
+
+$table*	
+
+$bind*
+
+
+$where2update"Š
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.phpª ª(
+
+	$position*Â
+1y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php ()À
+½
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.phpŽ Ž((
+	$category"__id*-
++
+	$categorymagento\catalog\model\categoryÂ
+¿
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.phpŽ Ž((
+
+$newParent"__id*.
+,
+
+$newParentmagento\catalog\model\categoryÆÃ
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php ((
+%1*0.
+,magento\catalog\model\resourcemodel\category2getentitytable–
+“
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php ((
+$table"__id*
+
+%1ÅÂ
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php‘ ‘(,
+%2*0.
+,magento\catalog\model\resourcemodel\category2getconnection›
+˜
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php‘ ‘(,
+$connection"__id*
+
+%2´±
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php’ ’(A
+%3*
+
+$connection*
+
+position2quoteidentifierž
+›
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php’ ’(A
+$positionField"__id*
+
+%3Œ‰
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php” ”(J
+%4"$Array¬
+©
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php”1 ”(H
+%6"__concat*
+
+$positionField*
+ - 1’
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php” ”(I
+%5"zend_db_expr¯
+¬
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php” ”(I
+%7"zend_db_expr::__construct*
+
+%5*
+
+%6¬
+©
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php” ”(J
+%8"__mapSet*
+
+%4*
+
+position*
+
+%5•
+’
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php” ”(J
+$bind"__id*
+
+%4Œ‰
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php• ˜(	
+%9"$Array¡ž
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php– –(7
+%10*
+
+	$category2getparentid³
+°
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php• ˜(	
+%11"__mapSet*
+
+%9*
+parent_id = ?*
+
+%10­
+ª
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php— —(#
+%12"__concat*
+
+$positionField*
+ > ?¡ž
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php—' —(?
+%13*
+
+	$category2getposition«
+¨
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php• ˜(	
+%14"
+__arraySet*
+
+%9*
+
+%12*
+
+%13–
+“
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php• ˜(	
+$where"__id*
+
+%9Á¾
+y
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Category.php™ ™(2
+%15*
+
+$connection*
+
+
+$table*	
+
+$bind*
+
+
+$where2update*
+2
+3:+
+	$categorymagento\catalog\model\category:,
+
+$newParentmagento\catalog\model\category:
+$afterCategoryIdB0.
+,magento\catalog\model\resourcemodel\category

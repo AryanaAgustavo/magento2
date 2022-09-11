@@ -1,0 +1,106 @@
+
+Rmagento\asynchronousoperations\ui\component\dataprovider\searchresult::__constructë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\SearchResult.php8 8("1*√
+2
+SearchResult.php"©
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\SearchResult.phpP P(
+implicit return*
+1ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\SearchResult.phpD D(3˝
+˙
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\SearchResult.php8 8(
+$entityFactory"__id*L
+J
+$entityFactory8magento\framework\data\collection\entityfactoryinterfaceŒ
+À
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\SearchResult.php8 8(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÄ
+˝
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\SearchResult.php8 8(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceÎ
+Ë
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\SearchResult.php8 8(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceÉ
+Ä
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\SearchResult.php8 8(
+$userContextInterface"__id*K
+I
+$userContextInterface0magento\authorization\model\usercontextinterfaceÙ
+Ò
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\SearchResult.php8 8(
+$statusMapper"__id*D
+B
+$statusMapper1magento\asynchronousoperations\model\statusmapperî
+ë
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\SearchResult.php8 8(
+$calculatedStatusSql"__id*]
+[
+$calculatedStatusSqlCmagento\asynchronousoperations\model\bulkstatus\calculatedstatussqlí
+è
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\SearchResult.phpD D(2XG
+Emagento\asynchronousoperations\ui\component\dataprovider\searchresult"
+userContext"__id*
+
+$userContextInterfaceã
+à
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\SearchResult.phpE E(+YG
+Emagento\asynchronousoperations\ui\component\dataprovider\searchresult"
+statusMapper"__id*
+
+$statusMapperô
+ñ
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\SearchResult.phpF F(9`G
+Emagento\asynchronousoperations\ui\component\dataprovider\searchresult"
+calculatedStatusSql"__id*
+
+$calculatedStatusSqlº
+π
+ë
+ÜC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Ui\Component\DataProvider\SearchResult.phpG O(	
+%1"Qmagento\framework\view\element\uicomponent\dataprovider\searchresult::__construct*IG
+Emagento\asynchronousoperations\ui\component\dataprovider\searchresult*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+
+$mainTable*
+
+$resourceModel*
+
+$identifierName*
+2:J
+$entityFactory8magento\framework\data\collection\entityfactoryinterface:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:I
+$userContextInterface0magento\authorization\model\usercontextinterface:B
+$statusMapper1magento\asynchronousoperations\model\statusmapper:[
+$calculatedStatusSqlCmagento\asynchronousoperations\model\bulkstatus\calculatedstatussql:
+
+$mainTable:
+$resourceModel:
+$identifierNameBIG
+Emagento\asynchronousoperations\ui\component\dataprovider\searchresult

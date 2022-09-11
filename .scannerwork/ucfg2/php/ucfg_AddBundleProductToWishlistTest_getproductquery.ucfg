@@ -1,0 +1,53 @@
+
+Hmagento\graphql\wishlist\addbundleproducttowishlisttest::getproductqueryü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddBundleProductToWishlistTest.phpø ø($"1*í
+
+1ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddBundleProductToWishlistTest.php¡ ﬁ(≈
+¬
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddBundleProductToWishlistTest.phpø ø($
+$sku"__id*
+
+$skustringı
+Ú
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddBundleProductToWishlistTest.php¡ ﬁ(
+%1"__concat*
+{
+  products(search: "*ñì
+ê") {
+    items {
+      sku
+       ... on BundleProduct {
+              items {
+                sku
+                option_id
+                required
+                type
+                title
+                options {
+                  uid
+                  label
+                  product {
+                    sku
+                  }
+                  can_change_quantity
+                  id
+                  price
+
+                  quantity
+                }
+              }
+       }
+    }
+  }
+}*
+
+$sku"™
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\AddBundleProductToWishlistTest.php¡ ﬁ(
+
+%1:
+$skustringB;9
+7magento\graphql\wishlist\addbundleproducttowishlisttest

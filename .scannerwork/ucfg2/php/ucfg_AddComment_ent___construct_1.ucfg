@@ -1,0 +1,70 @@
+
+Lmagento\shipping\controller\adminhtml\order\shipment\addcomment::__construct‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Controller\Adminhtml\Order\Shipment\AddComment.php, ,("1*»
+2
+AddComment.php"£
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Controller\Adminhtml\Order\Shipment\AddComment.php6 6(
+implicit return*³
+1‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Controller\Adminhtml\Order\Shipment\AddComment.php2 2(0Õ
+Ò
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Controller\Adminhtml\Order\Shipment\AddComment.php, ,(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextû
+ø
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Controller\Adminhtml\Order\Shipment\AddComment.php, ,(
+$shipmentLoader"__id*O
+M
+$shipmentLoader:magento\shipping\controller\adminhtml\order\shipmentloader‹
+ˆ
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Controller\Adminhtml\Order\Shipment\AddComment.php, ,(
+$shipmentCommentSender"__id*X
+V
+$shipmentCommentSender<magento\sales\model\order\email\sender\shipmentcommentsenderö
+ó
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Controller\Adminhtml\Order\Shipment\AddComment.php, ,(
+$resultLayoutFactory"__id*E
+C
+$resultLayoutFactory+magento\framework\view\result\layoutfactoryƒ
+€
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Controller\Adminhtml\Order\Shipment\AddComment.php2 2(/UA
+?magento\shipping\controller\adminhtml\order\shipment\addcomment"
+shipmentLoader"__id*
+
+$shipmentLoader‘
+Ž
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Controller\Adminhtml\Order\Shipment\AddComment.php3 3(=\A
+?magento\shipping\controller\adminhtml\order\shipment\addcomment"
+shipmentCommentSender"__id*
+
+$shipmentCommentSender
+Š
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Controller\Adminhtml\Order\Shipment\AddComment.php4 4(9ZA
+?magento\shipping\controller\adminhtml\order\shipment\addcomment"
+resultLayoutFactory"__id*
+
+$resultLayoutFactory“
+
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Controller\Adminhtml\Order\Shipment\AddComment.php5 5(%
+%1"'magento\backend\app\action::__construct*CA
+?magento\shipping\controller\adminhtml\order\shipment\addcomment*
+
+
+$context*
+2:.
+$context"magento\backend\app\action\context:M
+$shipmentLoader:magento\shipping\controller\adminhtml\order\shipmentloader:V
+$shipmentCommentSender<magento\sales\model\order\email\sender\shipmentcommentsender:C
+$resultLayoutFactory+magento\framework\view\result\layoutfactoryBCA
+?magento\shipping\controller\adminhtml\order\shipment\addcomment

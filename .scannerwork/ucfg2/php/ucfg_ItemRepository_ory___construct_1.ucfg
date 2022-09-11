@@ -1,0 +1,68 @@
+
+=magento\sales\model\order\invoice\itemrepository::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice\ItemRepository.php. .("1*®
+2
+ItemRepository.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice\ItemRepository.php8 8(
+implicit return*â
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice\ItemRepository.php4 4(,à
+Ý
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice\ItemRepository.php. .(
+$itemResource"__id*G
+E
+$itemResource4magento\sales\model\spi\invoiceitemresourceinterfaceÜ
+Ù
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice\ItemRepository.php. .(
+$itemFactory"__id*D
+B
+$itemFactory2magento\sales\api\data\invoiceiteminterfacefactoryø
+õ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice\ItemRepository.php. .(
+$searchResultFactory"__id*X
+V
+$searchResultFactory>magento\sales\api\data\invoiceitemsearchresultinterfacefactoryû
+ø
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice\ItemRepository.php. .(
+$collectionProcessor"__id*[
+Y
+$collectionProcessorAmagento\framework\api\searchcriteria\collectionprocessorinterfaceß
+Ü
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice\ItemRepository.php4 4(+D2
+0magento\sales\model\order\invoice\itemrepository"
+itemResource"__id*
+
+$itemResourceÝ
+Ú
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice\ItemRepository.php5 5()C2
+0magento\sales\model\order\invoice\itemrepository"
+itemFactory"__id*
+
+$itemFactoryí
+ê
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice\ItemRepository.php6 6(9K2
+0magento\sales\model\order\invoice\itemrepository"
+searchResultFactory"__id*
+
+$searchResultFactoryí
+ê
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Invoice\ItemRepository.php7 7(9K2
+0magento\sales\model\order\invoice\itemrepository"
+collectionProcessor"__id*
+
+$collectionProcessor*
+2:E
+$itemResource4magento\sales\model\spi\invoiceitemresourceinterface:B
+$itemFactory2magento\sales\api\data\invoiceiteminterfacefactory:V
+$searchResultFactory>magento\sales\api\data\invoiceitemsearchresultinterfacefactory:Y
+$collectionProcessorAmagento\framework\api\searchcriteria\collectionprocessorinterfaceB42
+0magento\sales\model\order\invoice\itemrepository

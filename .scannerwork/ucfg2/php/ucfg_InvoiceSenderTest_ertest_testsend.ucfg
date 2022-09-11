@@ -1,0 +1,181 @@
+
+Bmagento\sales\model\order\email\sender\invoicesendertest::testsend›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpL L("1*Ò
+2
+InvoiceSenderTest.php"³
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.php^ ^(
+implicit return*Ä.
+1›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpN N(.şû
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpN N(-
+%1*<:
+8magento\sales\model\order\email\sender\invoicesendertest*
+	1000000012getorder¹
+¶
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpN N(-
+$order"__id*
+
+%1ßÜ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpO O(8
+%2*
+
+
+$order*
+customer@example.com2setcustomeremail€ı
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpP P(/
+%3*<:
+8magento\sales\model\order\email\sender\invoicesendertest*
+
+
+$order2createinvoice»
+¸
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpP P(/
+
+$invoice"__id*
+
+%3ÈÅ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpQ Q( 
+%4*
+
+
+$invoice*22settotalqtyÌÉ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpR R(%
+%5*
+
+
+$invoice*222setbasesubtotalÍÊ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpS S(&
+%6*
+
+
+$invoice*2
+2setbasetaxamountÒÏ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpT T(*
+%7*
+
+
+$invoice*22setbaseshippingamountÃÀ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpV V(3
+%8*
+
+
+$invoice2getemailsentú÷
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpV V(4
+%9*<:
+8magento\sales\model\order\email\sender\invoicesendertest*
+
+%82assertemptyÿ
+ü
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpW W(&
+%10"__id*O*M:
+8magento\sales\model\order\email\sender\invoicesendertest"
+invoiceSenderÏÌ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpW W(<
+%11*
+
+%10*
+
+
+$invoice*
+true2send»
+¸
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpW W(<	
+$result"__id*
+
+%11ÿü
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpY Y("
+%12*<:
+8magento\sales\model\order\email\sender\invoicesendertest*
+	
+$result2
+asserttrueÄÁ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpZ Z(6
+%13*
+
+
+$invoice2getemailsentÿü
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.phpZ Z(7
+%14*<:
+8magento\sales\model\order\email\sender\invoicesendertest*
+
+%132assertnotemptyÇÄ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.php[ [(7
+%15*
+
+
+$invoice2getbasesubtotalÅÂ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.php[9 [(R
+%16*
+
+
+$order2getbasesubtotal†ƒ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.php[ [(S
+%17*<:
+8magento\sales\model\order\email\sender\invoicesendertest*
+
+%15*
+
+%162assertequalsÈÅ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.php\ \(8
+%18*
+
+
+$invoice2getbasetaxamountÆÃ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.php\: \(T
+%19*
+
+
+$order2getbasetaxamount†ƒ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.php\ \(U
+%20*<:
+8magento\sales\model\order\email\sender\invoicesendertest*
+
+%18*
+
+%192assertequalsÍÊ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.php] ](=
+%21*
+
+
+$invoice2getbaseshippingamountËÈ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.php]? ](^
+%22*
+
+
+$order2getbaseshippingamount†ƒ
+›
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\Order\Email\Sender\InvoiceSenderTest.php] ](_
+%23*<:
+8magento\sales\model\order\email\sender\invoicesendertest*
+
+%21*
+
+%222assertequals*
+2B<:
+8magento\sales\model\order\email\sender\invoicesendertest

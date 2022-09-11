@@ -1,0 +1,86 @@
+
+amagento\catalogimportexport\model\import\producttest\productimagestest::testsaveimagesnoselection©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductImagesTest.phpp p(-"1*à
+2
+ProductImagesTest.php"Á
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductImagesTest.phpy y(
+implicit return*á
+1©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductImagesTest.phpr r(LÁ¾
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductImagesTest.phpr r(K
+%1*JH
+Fmagento\catalogimportexport\model\import\producttest\productimagestest*&$
+"import_media_with_no_selection.csv2importdataformediatest¢Ÿ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductImagesTest.phps s(7
+%2*JH
+Fmagento\catalogimportexport\model\import\producttest\productimagestest*
+
+simple_new2getproductbyskuÉ
+Æ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductImagesTest.phps s(7
+
+$product"__id*
+
+%2×Ô
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductImagesTest.phpu6 u(P
+%3*
+
+
+$product*	
+image2getdata³°
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductImagesTest.phpu u(Q
+%4*JH
+Fmagento\catalogimportexport\model\import\producttest\productimagestest*
+/m/a/magento_image.jpg*
+
+%32assertequalsÝÚ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductImagesTest.phpv v(:
+%5*
+
+
+$product*
+small_image2getdata•’
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductImagesTest.phpv v(;
+%6*JH
+Fmagento\catalogimportexport\model\import\producttest\productimagestest*
+
+%52
+assertnullÛØ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductImagesTest.phpw w(8
+%7*
+
+
+$product*
+	thumbnail2getdata•’
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductImagesTest.phpw w(9
+%8*JH
+Fmagento\catalogimportexport\model\import\producttest\productimagestest*
+
+%72
+assertnullÞÛ
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductImagesTest.phpx x(;
+%9*
+
+
+$product*
+swatch_image2getdata–“
+©
+žC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogImportExport\Model\Import\ProductTest\ProductImagesTest.phpx x(<
+%10*JH
+Fmagento\catalogimportexport\model\import\producttest\productimagestest*
+
+%92
+assertnull*
+2BJH
+Fmagento\catalogimportexport\model\import\producttest\productimagestest

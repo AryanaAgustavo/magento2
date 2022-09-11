@@ -1,0 +1,597 @@
+
+.magento\setup\module\connectionfactory::creater
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php% %("1*ßy
+1r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php' '(<°
+­
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php% %(
+$connectionConfig"__id*
+
+$connectionConfigarray¦£
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php' '(;
+$quote"#magento\framework\db\platform\quote»
+¸
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php' '(;
+%1"0magento\framework\db\platform\quote::__construct*
+
+
+$quote…‚
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php* ](
+%3"$Array…‚
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php+" /(
+%4"$Array«¨
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php,* ,(]
+%5",magento\framework\db\select\distinctrendererÀ
+½
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php,* ,(]
+%6"9magento\framework\db\select\distinctrenderer::__construct*
+
+%5¥
+¢
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php+" /(
+%7"__mapSet*
+
+%4*
+
+renderer*
+
+%5Ÿ
+œ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php+" /(
+%8"__mapSet*
+
+%4*
+sort*2d§
+¤
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php+" /(
+%9"__mapSet*
+
+%4*
+part*
+
+distinct¦
+£
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php* ](
+%10"__mapSet*
+
+%3*
+
+distinct*
+
+%4†ƒ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php0! 4(
+%11"$Array«¨
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php1* 1(b
+%12"+magento\framework\db\select\columnsrendererÍ
+Ê
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php1* 1(b
+%13"8magento\framework\db\select\columnsrenderer::__construct*
+
+%12*
+
+
+$quote¨
+¥
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php0! 4(
+%14"__mapSet*
+
+%11*
+
+renderer*
+
+%12¢
+Ÿ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php0! 4(
+%15"__mapSet*
+
+%11*
+sort*2È¨
+¥
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php0! 4(
+%16"__mapSet*
+
+%11*
+part*	
+columns¦
+£
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php* ](
+%17"__mapSet*
+
+%3*	
+columns*
+
+%11†ƒ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php5 9(
+%18"$Array©¦
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php6* 6(Z
+%19")magento\framework\db\select\unionrenderer¿
+¼
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php6* 6(Z
+%20"6magento\framework\db\select\unionrenderer::__construct*
+
+%19¨
+¥
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php5 9(
+%21"__mapSet*
+
+%18*
+
+renderer*
+
+%19¢
+Ÿ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php5 9(
+%22"__mapSet*
+
+%18*
+sort*2¬¦
+£
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php5 9(
+%23"__mapSet*
+
+%18*
+part*	
+union¤
+¡
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php* ](
+%24"__mapSet*
+
+%3*	
+union*
+
+%18†ƒ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php: >(
+%25"$Array¨¥
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php;* ;(_
+%26"(magento\framework\db\select\fromrendererÊ
+Ç
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php;* ;(_
+%27"5magento\framework\db\select\fromrenderer::__construct*
+
+%26*
+
+
+$quote¨
+¥
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php: >(
+%28"__mapSet*
+
+%25*
+
+renderer*
+
+%26¢
+Ÿ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php: >(
+%29"__mapSet*
+
+%25*
+sort*2¥
+¢
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php: >(
+%30"__mapSet*
+
+%25*
+part*
+from£
+ 
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php* ](
+%31"__mapSet*
+
+%3*
+from*
+
+%25†ƒ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php? C(
+%32"$Array©¦
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php@* @(Z
+%33")magento\framework\db\select\whererenderer¿
+¼
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php@* @(Z
+%34"6magento\framework\db\select\whererenderer::__construct*
+
+%33¨
+¥
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php? C(
+%35"__mapSet*
+
+%32*
+
+renderer*
+
+%33¢
+Ÿ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php? C(
+%36"__mapSet*
+
+%32*
+sort*2ô¦
+£
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php? C(
+%37"__mapSet*
+
+%32*
+part*	
+where¤
+¡
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php* ](
+%38"__mapSet*
+
+%3*	
+where*
+
+%32†ƒ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpD H(
+%39"$Array©¦
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpE* E(`
+%40")magento\framework\db\select\grouprendererË
+È
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpE* E(`
+%41"6magento\framework\db\select\grouprenderer::__construct*
+
+%40*
+
+
+$quote¨
+¥
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpD H(
+%42"__mapSet*
+
+%39*
+
+renderer*
+
+%40¢
+Ÿ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpD H(
+%43"__mapSet*
+
+%39*
+sort*2Ø¦
+£
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpD H(
+%44"__mapSet*
+
+%39*
+part*	
+group¤
+¡
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php* ](
+%45"__mapSet*
+
+%3*	
+group*
+
+%39†ƒ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpI  M(
+%46"$Arrayª§
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpJ* J([
+%47"*magento\framework\db\select\havingrendererÀ
+½
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpJ* J([
+%48"7magento\framework\db\select\havingrenderer::__construct*
+
+%47¨
+¥
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpI  M(
+%49"__mapSet*
+
+%46*
+
+renderer*
+
+%47¢
+Ÿ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpI  M(
+%50"__mapSet*
+
+%46*
+sort*2¼§
+¤
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpI  M(
+%51"__mapSet*
+
+%46*
+part*
+
+having¥
+¢
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php* ](
+%52"__mapSet*
+
+%3*
+
+having*
+
+%46†ƒ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpN R(
+%53"$Array©¦
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpO* O(`
+%54")magento\framework\db\select\orderrendererË
+È
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpO* O(`
+%55"6magento\framework\db\select\orderrenderer::__construct*
+
+%54*
+
+
+$quote¨
+¥
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpN R(
+%56"__mapSet*
+
+%53*
+
+renderer*
+
+%54¢
+Ÿ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpN R(
+%57"__mapSet*
+
+%53*
+sort*2 ¦
+£
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpN R(
+%58"__mapSet*
+
+%53*
+part*	
+order¤
+¡
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php* ](
+%59"__mapSet*
+
+%3*	
+order*
+
+%53†ƒ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpS W(
+%60"$Array©¦
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpT* T(Z
+%61")magento\framework\db\select\limitrenderer¿
+¼
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpT* T(Z
+%62"6magento\framework\db\select\limitrenderer::__construct*
+
+%61¨
+¥
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpS W(
+%63"__mapSet*
+
+%60*
+
+renderer*
+
+%61¢
+Ÿ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpS W(
+%64"__mapSet*
+
+%60*
+sort*2„«
+¨
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpS W(
+%65"__mapSet*
+
+%60*
+part*
+
+limitcount¤
+¡
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php* ](
+%66"__mapSet*
+
+%3*	
+limit*
+
+%60†ƒ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpX$ \(
+%67"$Array­ª
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpY* Y(^
+%68"-magento\framework\db\select\forupdaterendererÃ
+À
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpY* Y(^
+%69":magento\framework\db\select\forupdaterenderer::__construct*
+
+%68¨
+¥
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpX$ \(
+%70"__mapSet*
+
+%67*
+
+renderer*
+
+%68¢
+Ÿ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpX$ \(
+%71"__mapSet*
+
+%67*
+sort*2èª
+§
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpX$ \(
+%72"__mapSet*
+
+%67*
+part*
+	forupdate©
+¦
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php* ](
+%73"__mapSet*
+
+%3*
+
+for_update*
+
+%67©¦
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php) ^(
+%2"*magento\framework\db\select\selectrendererÇ
+Ä
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php) ^(
+%74"7magento\framework\db\select\selectrenderer::__construct*
+
+%2*
+
+%3­ª
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php( _(	
+$selectFactory""magento\framework\db\selectfactoryË
+È
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php( _(	
+%75"/magento\framework\db\selectfactory::__construct*
+
+$selectFactory*
+
+%2Ä
+Á
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php`! `(6
+%76"__id*>*<(
+&magento\setup\module\connectionfactory"
+serviceLocator
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php`! `(n
+%77*
+
+%76* 2get 
+
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.php` `(n
+$objectManagerProvider"__id*
+
+%77Ÿœ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpaK a(h
+%78*
+
+$objectManagerProvider2get·´
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpa a(i
+$mysqlFactory"-magento\framework\db\adapter\pdo\mysqlfactoryÖ
+Ó
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpa a(i
+%79":magento\framework\db\adapter\pdo\mysqlfactory::__construct*
+
+$mysqlFactory*
+
+%78ÅÂ
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpb b(G
+$resourceInstance"7magento\framework\model\resourcemodel\type\db\pdo\mysql…
+‚
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpb b(G
+%80"Dmagento\framework\model\resourcemodel\type\db\pdo\mysql::__construct*
+
+$resourceInstance*
+
+$connectionConfig*
+
+$mysqlFactoryÄ
+Á
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpd d(!
+%81"__id*>*<(
+&magento\setup\module\connectionfactory"
+serviceLocator
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpd d(Q
+%82*
+
+%81* 2getÁ¾
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpc f(	
+%83*
+
+$resourceInstance*
+
+%82*
+
+$selectFactory2getconnection"}
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Module\ConnectionFactory.phpc f(
+
+
+%83:
+$connectionConfigarrayB*(
+&magento\setup\module\connectionfactory

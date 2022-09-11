@@ -1,0 +1,109 @@
+
+_magento\catalog\test\unit\model\product\webapi\productoutputprocessortest::testgetbyproducttypeï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php3 3(("1*’
+2 
+ProductOutputProcessorTest.php"≠
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php@ @(
+implicit return*ï
+1ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php9 ;(#¬
+ø
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php3 3((
+
+$request"__id*
+
+$requestarrayÊ
+„
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php3 3((
+
+$product"__id*7
+5
+$product)magento\catalog\api\data\productinterface¿
+Ω
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php3 3((	
+$result"__id*
+
+$resultarray–
+Õ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php3 3((
+$expectedResult"__id*
+
+$expectedResultarrayá
+Ñ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php9 9(
+%1"__id*^*\K
+Imagento\catalog\test\unit\model\product\webapi\productoutputprocessortest"
+requestMock¡æ
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php9 :("
+%2*
+
+%1*
+
+getContent2method√¿
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php9 ;("
+%3*
+
+%2*
+
+
+$request2
+willreturnå
+â
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php< <(
+%4"__id*c*aK
+Imagento\catalog\test\unit\model\product\webapi\productoutputprocessortest"
+deserializerMock¬ø
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php< =(#
+%5*
+
+%4*
+deserialize2method√¿
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php< >("
+%6*
+
+%5*
+
+
+$request2
+willreturní
+è
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php?- ?(J
+%7"__id*i*gK
+Imagento\catalog\test\unit\model\product\webapi\productoutputprocessortest"
+productOutputProcessorÕ 
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php?- ?(f
+%8*
+
+%7*
+
+
+$product*
+	
+$result2executeõò
+ï
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Test\Unit\Model\Product\Webapi\ProductOutputProcessorTest.php? ?(g
+%9*MK
+Imagento\catalog\test\unit\model\product\webapi\productoutputprocessortest*
+
+$expectedResult*
+
+%82assertequals*
+2:
+$requestarray:5
+$product)magento\catalog\api\data\productinterface:
+$resultarray:
+$expectedResultarrayBMK
+Imagento\catalog\test\unit\model\product\webapi\productoutputprocessortest

@@ -1,0 +1,102 @@
+
+Hmagento\customer\controller\adminhtml\index\massunsubscribe::__constructÜ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.php7 7("1*ª
+2
+MassUnsubscribe.php"û
+Ü
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.phpE E(
+implicit return*ƒ
+1Ü
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.php@ @(C–
+Õ
+Ü
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.php7 7(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\context“
+œ
+Ü
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.php7 7(	
+$filter"__id*3
+1
+$filter&magento\ui\component\massaction\filterÅ
+˛
+Ü
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.php7 7(
+$collectionFactory"__id*W
+U
+$collectionFactory?magento\customer\model\resourcemodel\customer\collectionfactoryÙ
+Ò
+Ü
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.php7 7(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterface˚
+¯
+Ü
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.php7 7(
+$subscriptionManager"__id*O
+M
+$subscriptionManager5magento\newsletter\model\subscriptionmanagerinterface·
+ﬁ
+Ü
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.php7 7(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceŸ
+÷
+Ü
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.php7 7(
+$shareConfig"__id*5
+3
+$shareConfig#magento\customer\model\config\share”
+–
+Ü
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.php@ @(B
+%1"Kmagento\customer\controller\adminhtml\index\abstractmassaction::__construct*?=
+;magento\customer\controller\adminhtml\index\massunsubscribe*
+
+
+$context*
+	
+$filter*
+
+$collectionFactoryÇ
+ˇ
+Ü
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.phpA A(7U=
+;magento\customer\controller\adminhtml\index\massunsubscribe"
+customerRepository"__id*
+
+$customerRepositoryÑ
+Å
+Ü
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.phpB B(9V=
+;magento\customer\controller\adminhtml\index\massunsubscribe"
+subscriptionManager"__id*
+
+$subscriptionManagerˆ
+Û
+Ü
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.phpC C(+O=
+;magento\customer\controller\adminhtml\index\massunsubscribe"
+storeManager"__id*
+
+$storeManagerÙ
+Ò
+Ü
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\MassUnsubscribe.phpD D()N=
+;magento\customer\controller\adminhtml\index\massunsubscribe"
+shareConfig"__id*
+
+$shareConfig*
+2:.
+$context"magento\backend\app\action\context:1
+$filter&magento\ui\component\massaction\filter:U
+$collectionFactory?magento\customer\model\resourcemodel\customer\collectionfactory:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:M
+$subscriptionManager5magento\newsletter\model\subscriptionmanagerinterface::
+$storeManager)magento\store\model\storemanagerinterface:3
+$shareConfig#magento\customer\model\config\shareB?=
+;magento\customer\controller\adminhtml\index\massunsubscribe

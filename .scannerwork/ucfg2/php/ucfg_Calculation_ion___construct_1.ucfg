@@ -1,0 +1,264 @@
+
+*magento\tax\model\calculation::__constructj
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’("1*ö
+2
+Calculation.php"Å
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php˘ ˘(
+implicit return*ı6
+1j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.phpÍ Í(+∞
+≠
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+
+$context"__id*-
++
+$contextmagento\framework\model\context≠
+™
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+	$registry"__id*)
+'
+	$registrymagento\framework\registry 
+«
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface≠
+™
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+
+$taxConfig"__id*(
+&
+
+$taxConfigmagento\tax\model\configƒ
+¡
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceø
+º
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\session«
+ƒ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$customerFactory"__id*<
+:
+$customerFactory&magento\customer\model\customerfactoryŸ
+÷
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$classesFactory"__id*O
+M
+$classesFactory:magento\tax\model\resourcemodel\taxclass\collectionfactoryæ
+ª
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+	$resource"__id*:
+8
+	$resource+magento\tax\model\resourcemodel\calculation‰
+·
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$customerAccountManagement"__id*O
+M
+$customerAccountManagement/magento\customer\api\accountmanagementinterfaceﬁ
+€
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$customerGroupManagement"__id*K
+I
+$customerGroupManagement-magento\customer\api\groupmanagementinterfaceﬁ
+€
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$customerGroupRepository"__id*K
+I
+$customerGroupRepository-magento\customer\api\grouprepositoryinterface◊
+‘
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceÕ
+ 
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$priceCurrency"__id*D
+B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterfaceÿ
+’
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$searchCriteriaBuilder"__id*G
+E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilder¿
+Ω
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$filterBuilder"__id*7
+5
+$filterBuilder#magento\framework\api\filterbuilder“
+œ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$taxClassRepository"__id*D
+B
+$taxClassRepository+magento\tax\api\taxclassrepositoryinterface”
+–
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdbê
+ç
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php’ ’(
+$data"__id*
+
+$dataarray∫
+∑
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.phpÍ Í(*1
+magento\tax\model\calculation"
+_scopeConfig"__id*
+
+$scopeConfig≥
+∞
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.phpÎ Î(#,
+magento\tax\model\calculation"	
+_config"__id*
+
+
+$taxConfigº
+π
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.phpÏ Ï(,2
+magento\tax\model\calculation"
+_storeManager"__id*
+
+$storeManager¬
+ø
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.phpÌ Ì(25
+magento\tax\model\calculation"
+_customerSession"__id*
+
+$customerSession¬
+ø
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.phpÓ Ó(25
+magento\tax\model\calculation"
+_customerFactory"__id*
+
+$customerFactory¿
+Ω
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.phpÔ Ô(04
+magento\tax\model\calculation"
+_classesFactory"__id*
+
+$classesFactory’
+“
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php (E>
+magento\tax\model\calculation"
+customerAccountManagement"__id*
+
+$customerAccountManagement—
+Œ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.phpÒ Ò(A<
+magento\tax\model\calculation"
+customerGroupManagement"__id*
+
+$customerGroupManagement—
+Œ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.phpÚ Ú(A<
+magento\tax\model\calculation"
+customerGroupRepository"__id*
+
+$customerGroupRepository«
+ƒ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.phpÛ Û(77
+magento\tax\model\calculation"
+customerRepository"__id*
+
+$customerRepositoryΩ
+∫
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.phpÙ Ù(-2
+magento\tax\model\calculation"
+priceCurrency"__id*
+
+$priceCurrencyÕ
+ 
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.phpı ı(=:
+magento\tax\model\calculation"
+searchCriteriaBuilder"__id*
+
+$searchCriteriaBuilderΩ
+∫
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.phpˆ ˆ(-2
+magento\tax\model\calculation"
+filterBuilder"__id*
+
+$filterBuilder«
+ƒ
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php˜ ˜(77
+magento\tax\model\calculation"
+taxClassRepository"__id*
+
+$taxClassRepositoryú
+ô
+j
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation.php¯ ¯(W
+%1"2magento\framework\model\abstractmodel::__construct*!
+magento\tax\model\calculation*
+
+
+$context*
+
+	$registry*
+
+	$resource*
+
+$resourceCollection*	
+
+$data*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:&
+
+$taxConfigmagento\tax\model\config::
+$storeManager)magento\store\model\storemanagerinterface:2
+$customerSessionmagento\customer\model\session::
+$customerFactory&magento\customer\model\customerfactory:M
+$classesFactory:magento\tax\model\resourcemodel\taxclass\collectionfactory:8
+	$resource+magento\tax\model\resourcemodel\calculation:M
+$customerAccountManagement/magento\customer\api\accountmanagementinterface:I
+$customerGroupManagement-magento\customer\api\groupmanagementinterface:I
+$customerGroupRepository-magento\customer\api\grouprepositoryinterface:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterface:E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilder:5
+$filterBuilder#magento\framework\api\filterbuilder:B
+$taxClassRepository+magento\tax\api\taxclassrepositoryinterface:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB!
+magento\tax\model\calculation

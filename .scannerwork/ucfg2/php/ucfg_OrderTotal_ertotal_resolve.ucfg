@@ -1,0 +1,488 @@
+
+7magento\salesgraphql\model\resolver\ordertotal::resolvey
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php ("1*·Q
+3y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php$ $(!•
+¢
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php$ $( 
+%2"__mapGet*
+
+
+$value*	
+modelñ
+ì
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php$ $( 
+$order"__id*
+
+%2¶£
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php% %(2
+%3*
+
+
+$order2getordercurrencycodeô
+ñ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php% %(2
+	$currency"__id*
+
+%3•¢
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php& &(5
+%4*
+
+
+$order2getbasecurrencycodeù
+ö
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php& &(5
+$baseCurrency"__id*
+
+%4åâ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php( A(	
+%5"$Arrayåâ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php)" )(g
+%6"$Array£†
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php). )(I
+%7*
+
+
+$order2getbasegrandtotal©
+¶
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php)" )(g
+%8"__mapSet*
+
+%6*	
+value*
+
+%7∑
+¥
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php)" )(g
+%9"__mapSet*
+
+%6*
+
+currency*
+
+$baseCurrencyµ
+≤
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php( A(	
+%10"__mapSet*
+
+%5*
+base_grand_total*
+
+%6çä
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php* *(Z
+%11"$Array†ù
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php*) *(@
+%12*
+
+
+$order2getgrandtotal¨
+©
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php* *(Z
+%13"__mapSet*
+
+%11*	
+value*
+
+%12µ
+≤
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php* *(Z
+%14"__mapSet*
+
+%11*
+
+currency*
+
+	$currency±
+Æ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php( A(	
+%15"__mapSet*
+
+%5*
+grand_total*
+
+%11çä
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php+ +(U
+%16"$Arrayûõ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php+& +(;
+%17*
+
+
+$order2getsubtotal¨
+©
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php+ +(U
+%18"__mapSet*
+
+%16*	
+value*
+
+%17µ
+≤
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php+ +(U
+%19"__mapSet*
+
+%16*
+
+currency*
+
+	$currencyÆ
+´
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php( A(	
+%20"__mapSet*
+
+%5*
+
+subtotal*
+
+%16çä
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php, ,(W
+%21"$Arrayüú
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php,' ,(=
+%22*
+
+
+$order2gettaxamount¨
+©
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php, ,(W
+%23"__mapSet*
+
+%21*	
+value*
+
+%22µ
+≤
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php, ,(W
+%24"__mapSet*
+
+%21*
+
+currency*
+
+	$currencyØ
+¨
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php( A(	
+%25"__mapSet*
+
+%5*
+	total_tax*
+
+%21›⁄
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php- -(<
+%26*20
+.magento\salesgraphql\model\resolver\ordertotal*
+
+
+$order2getappliedtaxesdetails´
+®
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php( A(	
+%27"__mapSet*
+
+%5*	
+taxes*
+
+%26Ÿ÷
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php. .(<
+%28*20
+.magento\salesgraphql\model\resolver\ordertotal*
+
+
+$order2getdiscountdetailsØ
+¨
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php( A(	
+%29"__mapSet*
+
+%5*
+	discounts*
+
+%28çä
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php/  /(a
+%30"$Array§°
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php/, /(G
+%31*
+
+
+$order2getshippingamount¨
+©
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php/  /(a
+%32"__mapSet*
+
+%30*	
+value*
+
+%31µ
+≤
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php/  /(a
+%33"__mapSet*
+
+%30*
+
+currency*
+
+	$currency¥
+±
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php( A(	
+%34"__mapSet*
+
+%5*
+total_shipping*
+
+%30çä
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php0# ?(
+%35"$Arrayçä
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php1* 4(
+%36"$Array§°
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php2 2(:
+%37*
+
+
+$order2getshippingamount¨
+©
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php1* 4(
+%38"__mapSet*
+
+%36*	
+value*
+
+%37ß§
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php3" 3(@
+%39*
+
+
+$order2getordercurrencycodeØ
+¨
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php1* 4(
+%40"__mapSet*
+
+%36*
+
+currency*
+
+%39ª
+∏
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php0# ?(
+%41"__mapSet*
+
+%35*
+amount_excluding_tax*
+
+%36çä
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php5* 8(
+%42"$Array•¢
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php6 6(;
+%43*
+
+
+$order2getshippingincltax¨
+©
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php5* 8(
+%44"__mapSet*
+
+%42*	
+value*
+
+%43µ
+≤
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php5* 8(
+%45"__mapSet*
+
+%42*
+
+currency*
+
+	$currencyª
+∏
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php0# ?(
+%46"__mapSet*
+
+%35*
+amount_including_tax*
+
+%42çä
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php9" <(
+%47"$Array§°
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php: :(:
+%48*
+
+
+$order2getshippingamount¨
+©
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php9" <(
+%49"__mapSet*
+
+%47*	
+value*
+
+%48µ
+≤
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php9" <(
+%50"__mapSet*
+
+%47*
+
+currency*
+
+	$currency≥
+∞
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php0# ?(
+%51"__mapSet*
+
+%35*
+total_amount*
+
+%47Â‚
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php= =(H
+%52*20
+.magento\salesgraphql\model\resolver\ordertotal*
+
+
+$order2getappliedshippingtaxesdetails¨
+©
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php0# ?(
+%53"__mapSet*
+
+%35*	
+taxes*
+
+%52·ﬁ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php> >(H
+%54*20
+.magento\salesgraphql\model\resolver\ordertotal*
+
+
+$order2getshippingdiscountdetails∞
+≠
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php0# ?(
+%55"__mapSet*
+
+%35*
+	discounts*
+
+%54∑
+¥
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php( A(	
+%56"__mapSet*
+
+%5*
+shipping_handling*
+
+%35Æ
+´
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php( A(	
+%57"__mapSet*
+
+%5*	
+model*
+
+
+$order"É
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php( A(
+
+
+%5*®
+4
+OrderTotal.php"ê
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.phpB B(
+implicit return*è
+1y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php (B 
+«
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php (
+$field"__id*:
+8
+$field.magento\framework\graphql\config\element\fieldÀ
+»
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php (
+$info"__id*<
+:
+$info1magento\framework\graphql\schema\type\resolveinfo°
+û
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php (
+$value"__id*
+
+$valuearrayü
+ú
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php (
+$args"__id*
+
+$argsarray•
+¢
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesGraphQl\Model\Resolver\OrderTotal.php (
+%1"__mapGet*
+
+
+$value*	
+model*
+3
+4:8
+$field.magento\framework\graphql\config\element\field:
+
+$context::
+$info1magento\framework\graphql\schema\type\resolveinfo:
+$valuearray:
+$argsarrayB20
+.magento\salesgraphql\model\resolver\ordertotal

@@ -1,0 +1,115 @@
+
+dmagento\framework\authorization\test\unit\policy\acltest::testisallowedreturnsfalseifroledoesntexist‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.php= =(>"1*´
+2
+AclTest.php"Ÿ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.phpF F(
+implicit return*¬
+1‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.php? B(Aå
+â
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.php? ?(
+%1"__id*J*H:
+8magento\framework\authorization\test\unit\policy\acltest"
+
+_aclMock×Ô
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.php?! ?(.
+%2*<:
+8magento\framework\authorization\test\unit\policy\acltest2once¬©
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.php? ?(/
+%3*
+
+%1*
+
+%22expects²¯
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.php? @(
+%4*
+
+%3*
+	isAllowed2methodÃÀ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.php? A(0
+%5*
+
+%4*
+	some_role*
+some_resource2withÏÌ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.phpB! B(?
+%6":laminas\permissions\acl\exception\invalidargumentexceptionä
+á
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.phpB! B(?
+%7"Glaminas\permissions\acl\exception\invalidargumentexception::__construct*
+
+%6·´
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.php? B(@
+%8*
+
+%5*
+
+%62willthrowexceptionå
+â
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.phpD D(
+%9"__id*J*H:
+8magento\framework\authorization\test\unit\policy\acltest"
+
+_aclMockØÕ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.phpD! D(.
+%10*<:
+8magento\framework\authorization\test\unit\policy\acltest2once®«
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.phpD D(/
+%11*
+
+%9*
+
+%102expects¶³
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.phpD D(F
+%12*
+
+%11*
+hasResource2method¶³
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.phpD D(]
+%13*
+
+%12*
+some_resource2with³°
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.phpD D(o
+%14*
+
+%13*
+true2
+willreturnä
+á
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.phpE E((
+%15"__id*H*F:
+8magento\framework\authorization\test\unit\policy\acltest"
+_modelÊÇ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.phpE E(Q
+%16*
+
+%15*
+	some_role*
+some_resource2	isallowedèå
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Authorization\Test\Unit\Policy\AclTest.phpE E(R
+%17*<:
+8magento\framework\authorization\test\unit\policy\acltest*
+
+%162assertfalse*
+2B<:
+8magento\framework\authorization\test\unit\policy\acltest

@@ -1,0 +1,42 @@
+
+Umagento\sales\service\v1\ordercanceltest::testorderwithstateholdedshouldnotbecanceledŽ
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Sales\Service\V1\OrderCancelTest.phpR R(?"1*Ã
+2
+OrderCancelTest.php"¦
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Sales\Service\V1\OrderCancelTest.phpW W(
+implicit return*«	
+1Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Sales\Service\V1\OrderCancelTest.phpT T(.áÞ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Sales\Service\V1\OrderCancelTest.phpT T(-
+%1*,*
+(magento\sales\service\v1\ordercanceltest*
+	1000000012getorder¬
+©
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Sales\Service\V1\OrderCancelTest.phpT T(-
+$order"__id*
+
+%1çä
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Sales\Service\V1\OrderCancelTest.phpU U(2
+%2*,*
+(magento\sales\service\v1\ordercanceltest*
+
+
+$order2sendcancelrequest­
+ª
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Sales\Service\V1\OrderCancelTest.phpU U(2	
+$result"__id*
+
+%2âß
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Sales\Service\V1\OrderCancelTest.phpV V(#
+%3*,*
+(magento\sales\service\v1\ordercanceltest*
+	
+$result2assertfalse*
+2B,*
+(magento\sales\service\v1\ordercanceltest

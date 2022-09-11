@@ -1,0 +1,70 @@
+
+Cmagento\framework\amqp\topology\bindinginstallertype\queue::install‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\BindingInstallerType\Queue.php ("1*´
+2
+	Queue.php"¡
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\BindingInstallerType\Queue.php   (
+implicit return*à
+1‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\BindingInstallerType\Queue.php (
+Ï
+Ì
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\BindingInstallerType\Queue.php (
+
+$channel"__id*,
+*
+$channelphpamqplib\channel\amqpchannelƒ
+€
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\BindingInstallerType\Queue.php (
+
+$binding"__id*`
+^
+$bindingRmagento\framework\messagequeue\topology\config\exchangeconfigitem\bindinginterface³°
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\BindingInstallerType\Queue.php (&
+%1*
+
+
+$binding2getdestination­ª
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\BindingInstallerType\Queue.php ( 
+%2*
+
+
+$binding2gettopic±®
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\BindingInstallerType\Queue.php$ (<
+%3*
+
+
+$binding2getargumentsïì
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\BindingInstallerType\Queue.php (=
+%4*><
+:magento\framework\amqp\topology\bindinginstallertype\queue*
+
+%32processargumentsåâ
+‰
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Topology\BindingInstallerType\Queue.php (	
+%5*
+
+
+$channel*
+
+%1*
+
+$exchangeName*
+
+%2*	
+false*
+
+%42
+queue_bind*
+2:*
+$channelphpamqplib\channel\amqpchannel:^
+$bindingRmagento\framework\messagequeue\topology\config\exchangeconfigitem\bindinginterface:
+$exchangeNameB><
+:magento\framework\amqp\topology\bindinginstallertype\queue

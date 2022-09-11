@@ -1,0 +1,122 @@
+
+Fmagento\customer\model\customertest::testupdatedatasetdataonemptymodelÖ
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php (5"1*∑
+2
+CustomerTest.php"ù
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php- -(
+implicit return*≠
+1Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php" &(#’
+“
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php" "(.
+%1"__id*<*:%
+#magento\customer\model\customertest"
+customerFactory°û
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php" "(8
+%2*
+
+%12create¶£
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php" #(
+%3*
+
+%2*22setid±Æ
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php" $("
+%4*
+
+%3*
+John2setfirstnameØ¨
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php" %( 
+%5*
+
+%4*
+Doe2setlastname≤Ø
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php" &("
+%6*
+
+%5*22setdefaultbilling™
+ß
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php" &("
+$customerData"__id*
+
+%6”
+–
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php' '(,
+%7"__id*:*8%
+#magento\customer\model\customertest"
+customerModel∏µ
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php' '(G
+%8*
+
+%7*
+
+$customerData2
+updatedataß§
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php' '(W
+%9*
+
+%82getdatamodel™
+ß
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php' '(W
+$customerData"__id*
+
+%9¨©
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php) )(5
+%10*
+
+$customerData2getidÿ’
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php) )(6
+%11*'%
+#magento\customer\model\customertest*2*
+
+%102assertequals≥∞
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php*$ *(A
+%12*
+
+$customerData2getfirstname‹Ÿ
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php* *(B
+%13*'%
+#magento\customer\model\customertest*
+John*
+
+%122assertequals≤Ø
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php+# +(?
+%14*
+
+$customerData2getlastname€ÿ
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php+ +(@
+%15*'%
+#magento\customer\model\customertest*
+Doe*
+
+%142assertequals∏µ
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php, ,(A
+%16*
+
+$customerData2getdefaultbillingÿ’
+Ö
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\CustomerTest.php, ,(B
+%17*'%
+#magento\customer\model\customertest*2*
+
+%162assertequals*
+2B'%
+#magento\customer\model\customertest

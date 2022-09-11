@@ -1,0 +1,71 @@
+
+>magento\asynchronousoperations\model\massconsumer::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumer.php4 4("1*≠
+2
+MassConsumer.php"ì
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumer.php> >(
+implicit return*Ã
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumer.php: :("⁄
+◊
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumer.php4 4(
+
+$invoker"__id*E
+C
+$invoker7magento\framework\messagequeue\callbackinvokerinterfaceÏ
+È
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumer.php4 4(
+$configuration"__id*Q
+O
+$configuration=magento\framework\messagequeue\consumerconfigurationinterfaceï
+í
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumer.php4 4(
+$massConsumerEnvelopeCallback"__id*k
+i
+$massConsumerEnvelopeCallbackHmagento\asynchronousoperations\model\massconsumerenvelopecallbackfactoryø
+º
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumer.php4 4(
+	$registry"__id*)
+'
+	$registrymagento\framework\registry◊
+‘
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumer.php: :(!@3
+1magento\asynchronousoperations\model\massconsumer"	
+invoker"__id*
+
+
+$invoker„
+‡
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumer.php; ;(-F3
+1magento\asynchronousoperations\model\massconsumer"
+configuration"__id*
+
+$configurationÅ
+˛
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumer.php< <(KU3
+1magento\asynchronousoperations\model\massconsumer"
+massConsumerEnvelopeCallback"__id*!
+
+$massConsumerEnvelopeCallbackŸ
+÷
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\MassConsumer.php= =(#A3
+1magento\asynchronousoperations\model\massconsumer"
+
+registry"__id*
+
+	$registry*
+2:C
+$invoker7magento\framework\messagequeue\callbackinvokerinterface:O
+$configuration=magento\framework\messagequeue\consumerconfigurationinterface:i
+$massConsumerEnvelopeCallbackHmagento\asynchronousoperations\model\massconsumerenvelopecallbackfactory:'
+	$registrymagento\framework\registryB53
+1magento\asynchronousoperations\model\massconsumer

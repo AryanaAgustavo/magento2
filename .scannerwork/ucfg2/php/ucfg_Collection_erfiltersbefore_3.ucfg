@@ -1,0 +1,286 @@
+
+\magento\sales\model\resourcemodel\order\payment\transaction\collection::_renderfiltersbeforeî
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpª ª(+"1*µ
+13î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php‘ ‘('ç
+ä
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php‘ ‘('
+%31"__id*d*bH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection"
+_addOrderInformation*
+14
+15*ù
+14î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php’ Ÿ(¯ı
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php’ ’(
+%32*JH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection2	getselect©¶
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php÷ ÷(8
+%33"$ArrayàÖ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php÷ ÷(7
+%34*JH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection*
+sales_order2gettable≈
+¬
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php÷ ÷(8
+%35"__mapSet*
+
+%33*
+so*
+
+%34ç
+ä
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpÿ ÿ(+
+%36"__id*d*bH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection"
+_addOrderInformationÔÏ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php’ Ÿ(
+%37*
+
+%32*
+
+%33*&$
+"main_table.order_id = so.entity_id*
+
+%362	joininner*
+15*≈
+15
+Collection.php"¨
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php€ €(
+implicit return*ß
+1î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpΩ Ω(Ç
+ˇ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpΩ Ω(
+%1"__id*Z*XH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection"
+
+_paymentId*
+2
+3*˜
+2î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpæ æ(V˜Ù
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpæ æ(
+%2*JH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection2	getselectÇ
+ˇ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpæC æ(T
+%3"__id*Z*XH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection"
+
+_paymentId÷”
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpæ æ(U
+%4*
+
+%2*
+main_table.payment_id = ?*
+
+%32where*
+3*¶
+3î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php¿ ¿(Å
+˛
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php¿ ¿(
+%5"__id*Y*WH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection"
+	_parentId*
+4
+5*ı
+4î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php¡ ¡(T˜Ù
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php¡ ¡(
+%6*JH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection2	getselectÅ
+˛
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php¡B ¡(R
+%7"__id*Y*WH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection"
+	_parentId’“
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php¡ ¡(S
+%8*
+
+%6*
+main_table.parent_id = ?*
+
+%72where*
+5*¶
+5î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php√ √(Å
+˛
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php√ √(
+%9"__id*Y*WH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection"
+	_txnTypes*
+6
+7*˚
+6î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpƒ ƒ(U¯ı
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpƒ ƒ(
+%10*JH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection2	getselectÇ
+ˇ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpƒC ƒ(S
+%11"__id*Y*WH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection"
+	_txnTypesŸ÷
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpƒ ƒ(T
+%12*
+
+%10*
+main_table.txn_type IN(?)*
+
+%112where*
+7*¶
+7î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php∆ ∆(Å
+˛
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php∆ ∆(
+%13"__id*X*VH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection"
+
+_orderId*
+8
+9*¯
+8î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php« «(R¯ı
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php« «(
+%14*JH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection2	getselectÅ
+˛
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php«A «(P
+%15"__id*X*VH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection"
+
+_orderId◊‘
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php« «(Q
+%16*
+
+%14*
+main_table.order_id = ?*
+
+%152where*
+9*∂
+9î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php… …()è
+å
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php… …()
+%17"__id*f*dH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection"
+_addPaymentInformation*
+10
+11*´
+10î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php  Œ(¯ı
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php   (
+%18*JH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection2	getselect©¶
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpÀ À(A
+%19"$Arrayêç
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpÀ À(@
+%20*JH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection*
+sales_order_payment2gettable∆
+√
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpÀ À(A
+%21"__mapSet*
+
+%19*
+sop*
+
+%20è
+å
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.phpÕ Õ(-
+%22"__id*f*dH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection"
+_addPaymentInformationÚÔ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php  Œ(
+%23*
+
+%18*
+
+%19*)'
+%main_table.payment_id = sop.entity_id*
+
+%222	joininner*
+11*™
+11î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php– –(Ç
+ˇ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php– –(
+%24"__id*Y*WH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection"
+	_storeIds*
+13
+12*˙
+12î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php— —(M¯ı
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php— —(
+%25*JH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection2	getselectÇ
+ˇ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php—; —(K
+%26"__id*Y*WH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection"
+	_storeIds—Œ
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php— —(L
+%27*
+
+%25*
+so.store_id IN(?)*
+
+%262where©¶
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php“' “(3
+%28"$Array»
+≈
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php“' “(3
+%29"
+__arraySet*
+
+%28*2 *
+
+store_idãà
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction\Collection.php“ “(4
+%30*JH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection*
+
+%282addorderinformation*
+13BJH
+Fmagento\sales\model\resourcemodel\order\payment\transaction\collection

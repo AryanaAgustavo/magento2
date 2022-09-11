@@ -1,0 +1,138 @@
+
+/magento\wishlist\model\wishlistcleaner::executeq
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php4 4("1*•
+2
+WishlistCleaner.php"à
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.phpB B(
+implicit return*ë
+1q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php6 6(@¡
+æ
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php4 4(
+
+$product"__id*7
+5
+$product)magento\catalog\api\data\productinterface≈
+¬
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php6 6(.
+%1"__id*A*?(
+&magento\wishlist\model\wishlistcleaner"
+itemResourceModelìê
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php6 6(?
+%2*
+
+%12getconnectionì
+ê
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php6 6(?
+$connection"__id*
+
+%2ïí
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php8 9(
+%3*
+
+$connection2selectÑÅ
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php: :(I
+%4"$Array≈
+¬
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php:  :(8
+%5"__id*A*?(
+&magento\wishlist\model\wishlistcleaner"
+itemResourceModelíè
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php:  :(H
+%6*
+
+%52getmaintable¢
+ü
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php: :(I
+%7"__mapSet*
+
+%4*
+
+w_item*
+
+%6íè
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php8 :(J
+%8*
+
+%3*
+
+%42fromÑÅ
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php< <(S
+%9"$ArrayÃ
+…
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php<$ <(B
+%10"__id*G*E(
+&magento\wishlist\model\wishlistcleaner"
+itemOptionResourceModelîë
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php<$ <(R
+%11*
+
+%102getmaintable´
+®
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php< <(S
+%12"__mapSet*
+
+%9*
+w_item_option*
+
+%11—Œ
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php8 >(
+%13*
+
+%8*
+
+%9*<:
+8w_item.wishlist_item_id = w_item_option.wishlist_item_id2joiníè
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php?4 ?(E
+%14*
+
+
+$product2getid∏µ
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php8 ?(F
+%15*
+
+%13* 
+w_item_option.product_id = ?*
+
+%142whereï
+í
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.php8 ?(F
+$selectQuery"__id*
+
+%15≠™
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.phpA A(C
+%16*
+
+$selectQuery*
+
+w_item2deletefromselectûõ
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Wishlist\Model\WishlistCleaner.phpA A(D
+%17*
+
+$connection*
+
+%162query*
+2:5
+$product)magento\catalog\api\data\productinterfaceB*(
+&magento\wishlist\model\wishlistcleaner

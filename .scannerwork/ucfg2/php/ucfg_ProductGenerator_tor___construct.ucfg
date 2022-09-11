@@ -1,0 +1,132 @@
+
+Bmagento\setup\model\fixturegenerator\productgenerator::__constructÅ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpw w("1*π
+2
+ProductGenerator.php"õ
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpã ã(
+implicit return*¬"
+1É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpÇ Ç(0€
+ÿ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpw w(
+$productFactory"__id*9
+7
+$productFactory$magento\catalog\model\productfactoryã
+à
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpw w(
+$categoryCollectionFactory"__id*^
+\
+$categoryCollectionFactory>magento\catalog\model\resourcemodel\category\collectionfactoryÒ
+Ó
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpw w(
+$urlRewriteFactory"__id*L
+J
+$urlRewriteFactory4magento\urlrewrite\service\v1\data\urlrewritefactoryÄ
+˝
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpw w(
+$storeCollectionFactory"__id*V
+T
+$storeCollectionFactory9magento\store\model\resourcemodel\store\collectionfactoryÇ
+ˇ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpw w(
+$entityGeneratorFactory"__id*X
+V
+$entityGeneratorFactory;magento\setup\model\fixturegenerator\entitygeneratorfactory‹
+Ÿ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpw w(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceù
+ö
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpw w("
+ $productTemplateGeneratorFactory"__id*j
+h
+ $productTemplateGeneratorFactoryDmagento\setup\model\fixturegenerator\producttemplategeneratorfactory‚
+ﬂ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpw w(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceÒ
+Ó
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpÇ Ç(/K7
+5magento\setup\model\fixturegenerator\productgenerator"
+productFactory"__id*
+
+$productFactoryá
+Ñ
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpÉ É(EV7
+5magento\setup\model\fixturegenerator\productgenerator"
+categoryCollectionFactory"__id*
+
+$categoryCollectionFactory˜
+Ù
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpÑ Ñ(5N7
+5magento\setup\model\fixturegenerator\productgenerator"
+urlRewriteFactory"__id*
+
+$urlRewriteFactoryÅ
+˛
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpÖ Ö(?S7
+5magento\setup\model\fixturegenerator\productgenerator"
+storeCollectionFactory"__id*
+
+$storeCollectionFactoryÅ
+˛
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpÜ Ü(?S7
+5magento\setup\model\fixturegenerator\productgenerator"
+entityGeneratorFactory"__id*
+
+$entityGeneratorFactoryÌ
+Í
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpá á(+I7
+5magento\setup\model\fixturegenerator\productgenerator"
+storeManager"__id*
+
+$storeManagerì
+ê
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpà à(Q\7
+5magento\setup\model\fixturegenerator\productgenerator"!
+productTemplateGeneratorFactory"__id*$
+"
+ $productTemplateGeneratorFactoryÎ
+Ë
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpâ â()H7
+5magento\setup\model\fixturegenerator\productgenerator"
+scopeConfig"__id*
+
+$scopeConfigÒ
+Ó
+É
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\setup\src\Magento\Setup\Model\FixtureGenerator\ProductGenerator.phpä ä(/K7
+5magento\setup\model\fixturegenerator\productgenerator"
+customTableMap"__id*
+
+$customTableMap*
+2:7
+$productFactory$magento\catalog\model\productfactory:\
+$categoryCollectionFactory>magento\catalog\model\resourcemodel\category\collectionfactory:J
+$urlRewriteFactory4magento\urlrewrite\service\v1\data\urlrewritefactory:T
+$storeCollectionFactory9magento\store\model\resourcemodel\store\collectionfactory:V
+$entityGeneratorFactory;magento\setup\model\fixturegenerator\entitygeneratorfactory::
+$storeManager)magento\store\model\storemanagerinterface:h
+ $productTemplateGeneratorFactoryDmagento\setup\model\fixturegenerator\producttemplategeneratorfactory:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:
+$customTableMapB97
+5magento\setup\model\fixturegenerator\productgenerator

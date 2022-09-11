@@ -1,0 +1,37 @@
+
+Cmagento\graphql\quote\customer\checkoutendtoendtest::createcustomerô
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.phpy y(#"1*’
+2
+CheckoutEndToEndTest.php"≥
+õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.phpå å(
+implicit return*ª
+1ö
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.php{ ä(ì
+ê
+ö
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.php{ ä(
+$query"__id*‡›
+⁄mutation {
+  createCustomer(
+    input: {
+      firstname: "endto"
+      lastname: "endtester"
+      email: "customer@example.com"
+      password: "123123Qa"
+    }
+  ) {
+    customer {
+      id
+    }
+  }
+}˝˙
+õ
+éC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\CheckoutEndToEndTest.phpã ã(&
+%1*75
+3magento\graphql\quote\customer\checkoutendtoendtest*
+
+
+$query2graphqlmutation*
+2B75
+3magento\graphql\quote\customer\checkoutendtoendtest

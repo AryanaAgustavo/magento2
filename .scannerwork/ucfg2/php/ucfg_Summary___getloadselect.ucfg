@@ -1,0 +1,58 @@
+
+Amagento\review\model\resourcemodel\review\summary::_getloadselect|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Summary.php$ $(%"1*©
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Summary.php& &(B®
+•
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Summary.php& &(A
+%1"Cmagento\framework\model\resourcemodel\db\abstractdb::_getloadselect*53
+1magento\review\model\resourcemodel\review\summary*
+
+
+$field*
+
+
+$value*
+	
+$objectö
+ó
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Summary.php& &(A	
+$select"__id*
+
+%1†ù
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Summary.php', '(A
+%2*
+	
+$object2
+getstoreid¢
+ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Summary.php'' '(A
+%3"__sanitizing_cast*
+
+%2µ≤
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Summary.php' '(B
+%4*
+	
+$select*
+store_id = ?*
+
+%32where∑
+¥
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Summary.php( ((!
+%5magento\framework\db\select"__id*
+	
+$select"£
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Summary.php( ((#
+!
+%5magento\framework\db\select:
+$field:
+$value:	
+$objectB53
+1magento\review\model\resourcemodel\review\summary

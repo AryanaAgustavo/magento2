@@ -1,0 +1,82 @@
+
+[magento\customer\model\addressmetadatatest::testgetallattributesmetadatawithcustomattribute
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpu u(C"1*È
+2
+AddressMetadataTest.php"§
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpˆ ˆ(
+implicit return*í
+1
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpw w(LÜ
+Ù
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpw! w(/
+%1"__id*;*9,
+*magento\customer\model\addressmetadatatest"	
+service»¸
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpw! w(K
+%2*
+
+%12getallattributesmetadata»
+¸
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpw w(K
+$allAttributesMetadata"__id*
+
+%2Ü
+Ù
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpz" z(0
+%3"__id*;*9,
+*magento\customer\model\addressmetadatatest"	
+service»¸
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpz" z(L
+%4*
+
+%32getallattributesmetadata¼
+¹
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpz z(L
+$allAttributesMetadata2"__id*
+
+%4áÞ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php{ (	
+%5*.,
+*magento\customer\model\addressmetadatatest*
+
+$allAttributesMetadata*
+
+$allAttributesMetadata2*OM
+KDifferent attribute metadata returned from the 2nd call of the same service2assertequalsá
+Þ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php‚" ‚(3
+%6"__id*>*<,
+*magento\customer\model\addressmetadatatest"
+
+serviceTwo½º
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php‚" ‚(O
+%7*
+
+%62getallattributesmetadata¾
+»
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.php‚ ‚(O
+$allAttributesMetadata3"__id*
+
+%7ÒÏ
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Model\AddressMetadataTest.phpƒ ‡(	
+%8*.,
+*magento\customer\model\addressmetadatatest*
+
+$allAttributesMetadata*
+
+$allAttributesMetadata3*><
+:Different attribute metadata returned from the 2nd service2assertequals*
+2B.,
+*magento\customer\model\addressmetadatatest

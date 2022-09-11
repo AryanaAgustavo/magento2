@@ -1,0 +1,171 @@
+
+Imagento\webapi\wsdlgenerationfromdataobjecttest::_checkbindingdeclarationó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php∆ ∆(/"1*ù
+2ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php… Ã(¯
+ı
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php… Ã(
+$firstBinding"__id*¡æ
+ª<binding name="testModule5AllSoapAndRestV2Binding" type="tns:testModule5AllSoapAndRestV2PortType">
+    <soap12:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>*
+4*ù
+3ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpŒ —(¯
+ı
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpŒ —(
+$firstBinding"__id*¡æ
+ª<binding name="testModule5AllSoapAndRestV1Binding" type="tns:testModule5AllSoapAndRestV1PortType">
+    <soap12:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>*
+4*ﬁ
+4ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php” ◊(
+Ä˝
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php‘ ‘(5
+%2*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$firstBinding2_convertxmltostringΩ∫
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php” ◊(	
+%3*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%2*
+
+$wsdlContent*-+
+)Binding declaration is missing or invalid2assertstringcontainsstringÛ
+
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpŸ Ÿ(#
+%4"__id*H*F1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+isSingleService*
+5
+6*‚
+5ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php⁄ ›(˘
+ˆ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php⁄ ›(
+$secondBinding"__id*¡æ
+ª<binding name="testModule5AllSoapAndRestV2Binding" type="tns:testModule5AllSoapAndRestV2PortType">
+    <soap12:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>Å˛
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpﬂ ﬂ(:
+%5*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$secondBinding2_convertxmltostringΩ∫
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpﬁ ‚(
+%6*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%5*
+
+$wsdlContent*-+
+)Binding declaration is missing or invalid2assertstringcontainsstring*
+6*õ
+6ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÂ Â("Û
+
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÂ Â("
+%7"__id*H*F1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+isSingleService*
+7
+8*∆
+7ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÊ ˚(°
+û
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÊ ˚(
+$operationDeclaration"__id*‚ﬂ
+‹<operation name="testModule5AllSoapAndRestV2Item">
+    <soap12:operation soapAction="testModule5AllSoapAndRestV2Item"/>
+    <input>
+        <soap12:body use="literal"/>
+    </input>
+    <output>
+        <soap12:body use="literal"/>
+    </output>
+    <fault name="GenericFault"/>
+</operation>
+<operation name="testModule5AllSoapAndRestV2Items">
+    <soap12:operation soapAction="testModule5AllSoapAndRestV2Items"/>
+    <input>
+        <soap12:body use="literal"/>
+    </input>
+    <output>
+        <soap12:body use="literal"/>
+    </output>
+    <fault name="GenericFault"/>
+</operation>*
+9*∆
+8ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php˝ í(°
+û
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php˝ í(
+$operationDeclaration"__id*‚ﬂ
+‹<operation name="testModule5AllSoapAndRestV1Item">
+    <soap12:operation soapAction="testModule5AllSoapAndRestV1Item"/>
+    <input>
+        <soap12:body use="literal"/>
+    </input>
+    <output>
+        <soap12:body use="literal"/>
+    </output>
+    <fault name="GenericFault"/>
+</operation>
+<operation name="testModule5AllSoapAndRestV1Items">
+    <soap12:operation soapAction="testModule5AllSoapAndRestV1Items"/>
+    <input>
+        <soap12:body use="literal"/>
+    </input>
+    <output>
+        <soap12:body use="literal"/>
+    </output>
+    <fault name="GenericFault"/>
+</operation>*
+9*‰
+9ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpî ò(
+àÖ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpï ï(=
+%8*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$operationDeclaration2_convertxmltostring≥∞
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpî ò(	
+%9*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%8*
+
+$wsdlContent*#!
+Operation in binding is invalid2assertstringcontainsstring*
+10*ﬁ
+10&
+$WsdlGenerationFromDataObjectTest.php"Ø
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpô ô(
+implicit return*õ
+1ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php» »("Û
+
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php» »("
+%1"__id*H*F1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+isSingleService*
+2
+3:
+$wsdlContentB31
+/magento\webapi\wsdlgenerationfromdataobjecttest

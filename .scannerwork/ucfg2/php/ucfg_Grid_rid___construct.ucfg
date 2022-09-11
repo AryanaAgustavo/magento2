@@ -1,0 +1,117 @@
+
+0magento\review\block\adminhtml\grid::__constructn
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpB B("1*—
+2
+
+Grid.php"…
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpR R(
+implicit return*…
+1n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpL L(3»
+¸
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpB B(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\context¼
+¹
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpB B(
+$backendHelper"__id*/
+-
+$backendHelpermagento\backend\helper\dataÃ
+À
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpB B(
+$reviewFactory"__id*6
+4
+$reviewFactory"magento\review\model\reviewfactoryè
+å
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpB B(
+$productsFactory"__id*Y
+W
+$productsFactoryCmagento\review\model\resourcemodel\review\product\collectionfactoryµ
+²
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpB B(
+$reviewData"__id*+
+)
+$reviewDatamagento\review\helper\dataË
+È
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpB B(
+$reviewActionPager"__id*:
+8
+$reviewActionPager"magento\review\helper\action\pager¹
+¶
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpB B(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registry”
+‘
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpB B(
+$data"__id*
+
+$dataarrayÌ
+É
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpL L(2;%
+#magento\review\block\adminhtml\grid"
+_productsFactory"__id*
+
+$productsFactoryÆ
+Ã
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpM M(,8%
+#magento\review\block\adminhtml\grid"
+_coreRegistry"__id*
+
+$coreRegistryÂ
+¿
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpN N((6%
+#magento\review\block\adminhtml\grid"
+_reviewData"__id*
+
+$reviewDataÐ
+Í
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpO O(6=%
+#magento\review\block\adminhtml\grid"
+_reviewActionPager"__id*
+
+$reviewActionPagerÈ
+Å
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpP P(.9%
+#magento\review\block\adminhtml\grid"
+_reviewFactory"__id*
+
+$reviewFactoryˆ
+…
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Block\Adminhtml\Grid.phpQ Q(<
+%1"7magento\backend\block\widget\grid\extended::__construct*'%
+#magento\review\block\adminhtml\grid*
+
+
+$context*
+
+$backendHelper*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:-
+$backendHelpermagento\backend\helper\data:4
+$reviewFactory"magento\review\model\reviewfactory:W
+$productsFactoryCmagento\review\model\resourcemodel\review\product\collectionfactory:)
+$reviewDatamagento\review\helper\data:8
+$reviewActionPager"magento\review\helper\action\pager:+
+$coreRegistrymagento\framework\registry:
+$dataarrayB'%
+#magento\review\block\adminhtml\grid

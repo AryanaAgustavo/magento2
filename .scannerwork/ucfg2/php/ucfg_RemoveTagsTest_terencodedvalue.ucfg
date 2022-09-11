@@ -1,0 +1,54 @@
+
+Imagento\framework\filter\test\unit\removetagstest::testfilterencodedvalue€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\RemoveTagsTest.php (*"1*´
+2
+RemoveTagsTest.php"˜
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\RemoveTagsTest.php& &(
+implicit return*
+1€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\RemoveTagsTest.php! !(dì
+é
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\RemoveTagsTest.php! !(c
+$input"__id*TR
+P&quot;&gt;&lt;script&gt;alert(&quot;website&quot;)&lt;/script&gt;&lt;br a=&quot;º·
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\RemoveTagsTest.php" "(&
+$removeTags"#magento\framework\filter\removetagsÏ
+Ì
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\RemoveTagsTest.php" "(&
+%1"0magento\framework\filter\removetags::__construct*
+
+$removeTags±®
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\RemoveTagsTest.php# #(-
+%2*
+
+$removeTags*
+
+
+$input2filterŸ
+œ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\RemoveTagsTest.php# #(-	
+$actual"__id*
+
+%2±
+®
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\RemoveTagsTest.php$ $((
+	$expected"__id*
+">alert("website")ëè
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Filter\Test\Unit\RemoveTagsTest.php% %(-
+%3*53
+1magento\framework\filter\test\unit\removetagstest*
+
+	$expected*
+	
+$actual2
+assertsame*
+2B53
+1magento\framework\filter\test\unit\removetagstest

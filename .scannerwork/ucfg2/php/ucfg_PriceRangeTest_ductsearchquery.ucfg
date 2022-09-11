@@ -1,0 +1,72 @@
+
+Dmagento\graphql\cataloggraphql\pricerangetest::getproductsearchquery•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\PriceRangeTest.php‚ ‚(*"1*¬
+1•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\PriceRangeTest.php„ µ(É
+Æ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\PriceRangeTest.php‚ ‚(*
+$productSku"__id*
+
+$productSkustringŸ
+œ
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\PriceRangeTest.php„ µ(
+%1"__concat*&$
+"{
+  products(filter: {sku: {eq: "*¸µ
+²"}}) {
+    items {
+      name
+      sku
+      price_range {
+        minimum_price {
+          regular_price {
+            value
+            currency
+          }
+          final_price {
+            value
+            currency
+          }
+          discount {
+            amount_off
+            percent_off
+          }
+        }
+        maximum_price {
+          regular_price {
+            value
+           currency
+          }
+          final_price {
+            value
+            currency
+          }
+          discount {
+            amount_off
+            percent_off
+          }
+        }
+      }
+      price_tiers{
+        discount{
+          amount_off
+          percent_off
+        }
+        final_price{
+          value
+        }
+        quantity
+      }
+    }
+  }
+}*
+
+$productSku" 
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\PriceRangeTest.php„ µ(
+
+%1:
+$productSkustringB1/
+-magento\graphql\cataloggraphql\pricerangetest

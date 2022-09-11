@@ -1,0 +1,60 @@
+
+Omagento\deploy\test\unit\console\command\setmodecommandtest::testsetinvalidmode†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Deploy\Test\Unit\Console\Command\SetModeCommandTest.phpa a(&"1*¾
+2
+SetModeCommandTest.php"ž
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Deploy\Test\Unit\Console\Command\SetModeCommandTest.phpi i(
+implicit return*š
+1†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Deploy\Test\Unit\Console\Command\SetModeCommandTest.phpc c(4æ
+ã
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Deploy\Test\Unit\Console\Command\SetModeCommandTest.phpc$ c(2
+%1"__id*L*J=
+;magento\deploy\test\unit\console\command\setmodecommandtest"	
+commandÇÄ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Deploy\Test\Unit\Console\Command\SetModeCommandTest.phpc c(3	
+$tester".symfony\component\console\tester\commandtesterä
+á
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Deploy\Test\Unit\Console\Command\SetModeCommandTest.phpc c(3
+%2";symfony\component\console\tester\commandtester::__construct*
+	
+$tester*
+
+%1š—
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Deploy\Test\Unit\Console\Command\SetModeCommandTest.phpd d(3
+%3"$ArrayÀ
+½
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Deploy\Test\Unit\Console\Command\SetModeCommandTest.phpd d(3
+%4"__mapSet*
+
+%3*
+mode*
+invalid-mode°­
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Deploy\Test\Unit\Console\Command\SetModeCommandTest.phpd d(4
+%5*
+	
+$tester*
+
+%32execute«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Deploy\Test\Unit\Console\Command\SetModeCommandTest.phpg g(!
+%6*
+	
+$tester2
+getdisplay«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Deploy\Test\Unit\Console\Command\SetModeCommandTest.phpe h(	
+%7*?=
+;magento\deploy\test\unit\console\command\setmodecommandtest*20
+.The mode can\'t be switched to "invalid-mode".*
+
+%62assertstringcontainsstring*
+2B?=
+;magento\deploy\test\unit\console\command\setmodecommandtest

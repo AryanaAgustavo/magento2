@@ -1,0 +1,56 @@
+
+>magento\cms\controller\adminhtml\page\massdisable::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Page\MassDisable.php) )("1*¬
+2
+MassDisable.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Page\MassDisable.php. .(
+implicit return*Æ
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Page\MassDisable.php+ +( Å
+Â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Page\MassDisable.php) )(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÇ
+Ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Page\MassDisable.php) )(	
+$filter"__id*3
+1
+$filter&magento\ui\component\massaction\filterí
+ê
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Page\MassDisable.php) )(
+$collectionFactory"__id*N
+L
+$collectionFactory6magento\cms\model\resourcemodel\page\collectionfactoryÕ
+Ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Page\MassDisable.php+ +(?3
+1magento\cms\controller\adminhtml\page\massdisable"
+filter"__id*
+	
+$filterë
+è
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Page\MassDisable.php, ,(5J3
+1magento\cms\controller\adminhtml\page\massdisable"
+collectionFactory"__id*
+
+$collectionFactoryõ
+ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Cms\Controller\Adminhtml\Page\MassDisable.php- -(%
+%1"'magento\backend\app\action::__construct*53
+1magento\cms\controller\adminhtml\page\massdisable*
+
+
+$context*
+2:.
+$context"magento\backend\app\action\context:1
+$filter&magento\ui\component\massaction\filter:L
+$collectionFactory6magento\cms\model\resourcemodel\page\collectionfactoryB53
+1magento\cms\controller\adminhtml\page\massdisable

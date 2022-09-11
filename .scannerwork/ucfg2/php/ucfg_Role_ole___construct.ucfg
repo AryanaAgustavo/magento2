@@ -1,0 +1,93 @@
+
+8magento\authorization\model\acl\loader\role::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Authorization\Model\Acl\Loader\Role.phpC C("1*ü
+2
+
+Role.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Authorization\Model\Acl\Loader\Role.phpQ Q(
+implicit return*û
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Authorization\Model\Acl\Loader\Role.phpK K(-ÿ
+’
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Authorization\Model\Acl\Loader\Role.phpC C(
+$groupFactory"__id*D
+B
+$groupFactory1magento\authorization\model\acl\role\groupfactory’
+“
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Authorization\Model\Acl\Loader\Role.phpC C(
+$roleFactory"__id*B
+@
+$roleFactory0magento\authorization\model\acl\role\userfactory«
+ƒ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Authorization\Model\Acl\Loader\Role.phpC C(
+	$resource"__id*7
+5
+	$resource(magento\framework\app\resourceconnection–
+Õ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Authorization\Model\Acl\Loader\Role.phpC C(
+$aclDataCache"__id*<
+:
+$aclDataCache)magento\framework\acl\data\cacheinterfaceŒ
+À
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Authorization\Model\Acl\Loader\Role.phpC C(
+$serializer"__id*<
+:
+$serializer+magento\framework\serialize\serializer\json÷
+”
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Authorization\Model\Acl\Loader\Role.phpK K(,@-
++magento\authorization\model\acl\loader\role"
+_groupFactory"__id*
+
+$groupFactory‘
+—
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Authorization\Model\Acl\Loader\Role.phpL L(*?-
++magento\authorization\model\acl\loader\role"
+_roleFactory"__id*
+
+$roleFactoryŒ
+À
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Authorization\Model\Acl\Loader\Role.phpM M($<-
++magento\authorization\model\acl\loader\role"
+	_resource"__id*
+
+	$resource’
+“
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Authorization\Model\Acl\Loader\Role.phpN N(+?-
++magento\authorization\model\acl\loader\role"
+aclDataCache"__id*
+
+$aclDataCache—
+Œ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Authorization\Model\Acl\Loader\Role.phpO O('=-
++magento\authorization\model\acl\loader\role"
+
+serializer"__id*
+
+$serializerÕ
+ 
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Authorization\Model\Acl\Loader\Role.phpP P(#;-
++magento\authorization\model\acl\loader\role"
+
+cacheKey"__id*
+
+	$cacheKey*
+2:B
+$groupFactory1magento\authorization\model\acl\role\groupfactory:@
+$roleFactory0magento\authorization\model\acl\role\userfactory:5
+	$resource(magento\framework\app\resourceconnection::
+$aclDataCache)magento\framework\acl\data\cacheinterface::
+$serializer+magento\framework\serialize\serializer\json:
+	$cacheKeyB/-
++magento\authorization\model\acl\loader\role

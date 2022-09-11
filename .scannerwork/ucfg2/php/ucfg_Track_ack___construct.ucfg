@@ -1,0 +1,115 @@
+
+/magento\shipping\model\order\track::__constructm
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.php, ,("1*—
+2
+	Track.php"„
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.phpD D(
+implicit return*š
+1m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.php8 B(
+³
+°
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.php, ,(
+
+$context"__id*-
++
+$contextmagento\framework\model\context°
+­
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.php, ,(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÖ
+Ó
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.php, ,(
+$extensionFactory"__id*G
+E
+$extensionFactory0magento\framework\api\extensionattributesfactoryÝ
+Ú
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.php, ,(
+$customAttributeFactory"__id*H
+F
+$customAttributeFactory+magento\framework\api\attributevaluefactoryÇ
+Ä
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.php, ,(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface×
+Ô
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.php, ,(
+$shipmentRepository"__id*F
+D
+$shipmentRepository-magento\sales\api\shipmentrepositoryinterfaceÇ
+Ä
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.php, ,(
+$carrierFactory"__id*:
+8
+$carrierFactory%magento\shipping\model\carrierfactoryÌ
+É
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.php, ,(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceÖ
+Ó
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.php, ,(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb“
+
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.php, ,(
+$data"__id*
+
+$dataarray‡
+„
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.php8 B(	
+%1"5magento\sales\model\order\shipment\track::__construct*&$
+"magento\shipping\model\order\track*
+
+
+$context*
+
+	$registry*
+
+$extensionFactory*
+
+$customAttributeFactory*
+
+$storeManager*
+
+$shipmentRepository*
+
+	$resource*
+
+$resourceCollection*	
+
+$dataÈ
+Å
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Shipping\Model\Order\Track.phpC C(09$
+"magento\shipping\model\order\track"
+_carrierFactory"__id*
+
+$carrierFactory*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:E
+$extensionFactory0magento\framework\api\extensionattributesfactory:F
+$customAttributeFactory+magento\framework\api\attributevaluefactory::
+$storeManager)magento\store\model\storemanagerinterface:D
+$shipmentRepository-magento\sales\api\shipmentrepositoryinterface:8
+$carrierFactory%magento\shipping\model\carrierfactory:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB&$
+"magento\shipping\model\order\track

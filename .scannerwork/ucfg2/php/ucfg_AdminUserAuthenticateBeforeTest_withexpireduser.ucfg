@@ -1,0 +1,315 @@
+
+Xmagento\security\test\unit\observer\adminuserauthenticatebeforetest::testwithexpireduser
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpj j('"1*Ö
+2%
+#AdminUserAuthenticateBeforeTest.php"©
+‘
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php€ €(
+implicit return*ËN
+1
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpl l(]µ²
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpl l(\
+%1*GE
+Cmagento\security\test\unit\observer\adminuserauthenticatebeforetest*><
+:Magento\Framework\Exception\Plugin\AuthenticationException2expectexceptionìé
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpm o(	
+%2*GE
+Cmagento\security\test\unit\observer\adminuserauthenticatebeforetest*nl
+jThe account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later2expectexceptionmessage´
+±
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpp p(
+$adminUserId"__id*
+123¶
+³
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpq q(
+	$username"__id*
+
+testuser
+þ
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpr r( 
+%3"__id*^*\E
+Cmagento\security\test\unit\observer\adminuserauthenticatebeforetest"
+eventObserverMockµ
+²
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpr* r(8
+%4"static::once*
+"
+static´±
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpr r(9
+%5*
+
+%3*
+
+%42expects¹¶
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpr r(M
+%6*
+
+%5*
+
+getEvent2methodù
+ö
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phprZ r(j
+%7"__id*V*TE
+Cmagento\security\test\unit\observer\adminuserauthenticatebeforetest"
+	eventMock·´
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpr r(k
+%8*
+
+%6*
+
+%72
+willreturnù
+ö
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phps s(
+%9"__id*V*TE
+Cmagento\security\test\unit\observer\adminuserauthenticatebeforetest"
+	eventMock¶
+³
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phps" s(0
+%10"static::once*
+"
+static¶³
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phps s(1
+%11*
+
+%9*
+
+%102expects¾»
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phps s(H
+%12*
+
+%11*
+getUsername2methodÀ½
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phps s(_
+%13*
+
+%12*
+
+	$username2
+willreturn€
+ý
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpt t(
+%14"__id*\*ZE
+Cmagento\security\test\unit\observer\adminuserauthenticatebeforetest"
+userFactoryMock¶
+³
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpt( t(6
+%15"static::once*
+"
+static·´
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpt t(7
+%16*
+
+%14*
+
+%152expects¹¶
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpt t(I
+%17*
+
+%16*
+
+create2methodù
+ö
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phptV t(e
+%18"__id*U*SE
+Cmagento\security\test\unit\observer\adminuserauthenticatebeforetest"
+
+userMockº·
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpt t(f
+%19*
+
+%17*
+
+%182
+willreturnù
+ö
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpu u(
+%20"__id*U*SE
+Cmagento\security\test\unit\observer\adminuserauthenticatebeforetest"
+
+userMock¶
+³
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpu! u(/
+%21"static::once*
+"
+static·´
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpu u(0
+%22*
+
+%20*
+
+%212expectsÁ¾
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpu u(J
+%23*
+
+%22*
+loadByUsername2methodµ²
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpu u(\
+%24*
+
+%232willreturnselfŠ
+‡
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpw w((
+%25"__id*f*dE
+Cmagento\security\test\unit\observer\adminuserauthenticatebeforetest"
+userExpirationManagerMock¶
+³
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpw2 w(@
+%26"static::once*
+"
+static·´
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpw w(A
+%27*
+
+%25*
+
+%262expectsÀ½
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpw x(%
+%28*
+
+%27*
+isUserExpired2method½º
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpw y( 
+%29*
+
+%28*
+
+$adminUserId2with»¸
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.phpw z(
+%30*
+
+%29*
+true2
+willreturnù
+ö
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php{ {(
+%31"__id*U*SE
+Cmagento\security\test\unit\observer\adminuserauthenticatebeforetest"
+
+userMock¿
+¼
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php{! {(3
+%32"static::exactly*
+"
+static*2·´
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php{ {(4
+%33*
+
+%31*
+
+%322expects¸µ
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php{ {(E
+%34*
+
+%33*	
+getId2methodÃÀ
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php{ {(_
+%35*
+
+%34*
+
+$adminUserId2
+willreturnŠ
+‡
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php| |((
+%36"__id*f*dE
+Cmagento\security\test\unit\observer\adminuserauthenticatebeforetest"
+userExpirationManagerMock¶
+³
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php|2 |(@
+%37"static::once*
+"
+static·´
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php| |(A
+%38*
+
+%36*
+
+%372expectsÍÊ
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php| }(2
+%39*
+
+%38*
+deactivateExpiredUsersById2method¤¡
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php~ ~(!
+%40"$ArrayÇ
+Ä
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php~ ~(!
+%41"
+__arraySet*
+
+%40*2 *
+
+$adminUserId´±
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php| ~("
+%42*
+
+%39*
+
+%402withù
+ö
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php (
+%43"__id*U*SE
+Cmagento\security\test\unit\observer\adminuserauthenticatebeforetest"
+
+observer‚
+ÿ
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php! (9
+%44"__id*^*\E
+Cmagento\security\test\unit\observer\adminuserauthenticatebeforetest"
+eventObserverMock·´
+
+„C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Test\Unit\Observer\AdminUserAuthenticateBeforeTest.php (:
+%45*
+
+%43*
+
+%442execute*
+2BGE
+Cmagento\security\test\unit\observer\adminuserauthenticatebeforetest

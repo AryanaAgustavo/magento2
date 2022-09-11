@@ -1,0 +1,112 @@
+
+>magento\bundle\pricing\price\bundleselectionprice::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.phpJ J("1*µ
+2
+BundleSelectionPrice.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.php\ \(
+implicit return*ð
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.phpU U(SÊ
+Ç
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.phpJ J(
+$saleableItem"__id*0
+.
+$saleableItemmagento\catalog\model\productá
+Þ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.phpJ J(
+$calculator"__id*I
+G
+$calculator8magento\framework\pricing\adjustment\calculatorinterfaceß
+Ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.phpJ J(
+$priceCurrency"__id*D
+B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterfaceÚ
+×
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.phpJ J(
+$bundleProduct"__id*?
+=
+$bundleProduct+magento\framework\pricing\saleableinterfaceÕ
+Ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.phpJ J(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceè
+å
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.phpJ J(
+$discountCalculator"__id*H
+F
+$discountCalculator/magento\bundle\pricing\price\discountcalculatorÁ
+¾
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.phpU U(R
+%1":magento\framework\pricing\price\abstractprice::__construct*53
+1magento\bundle\pricing\price\bundleselectionprice*
+
+$saleableItem*
+
+	$quantity*
+
+$calculator*
+
+$priceCurrencyã
+à
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.phpV V(-F3
+1magento\bundle\pricing\price\bundleselectionprice"
+bundleProduct"__id*
+
+$bundleProductá
+Þ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.phpW W(+E3
+1magento\bundle\pricing\price\bundleselectionprice"
+eventManager"__id*
+
+$eventManagerí
+ê
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.phpX X(7K3
+1magento\bundle\pricing\price\bundleselectionprice"
+discountCalculator"__id*
+
+$discountCalculatorç
+ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.phpY Y(1H3
+1magento\bundle\pricing\price\bundleselectionprice"
+useRegularPrice"__id*
+
+$useRegularPriceÞ
+Û
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.phpZ Z((B3
+1magento\bundle\pricing\price\bundleselectionprice"
+	selection"__id*
+
+$saleableItemë
+è
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Bundle\Pricing\Price\BundleSelectionPrice.php[ [(5J3
+1magento\bundle\pricing\price\bundleselectionprice"
+excludeAdjustment"__id*
+
+$excludeAdjustment*
+2:.
+$saleableItemmagento\catalog\model\product:
+	$quantity:G
+$calculator8magento\framework\pricing\adjustment\calculatorinterface:B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterface:=
+$bundleProduct+magento\framework\pricing\saleableinterface:9
+$eventManager(magento\framework\event\managerinterface:F
+$discountCalculator/magento\bundle\pricing\price\discountcalculator:
+$useRegularPrice:
+$excludeAdjustmentB53
+1magento\bundle\pricing\price\bundleselectionprice

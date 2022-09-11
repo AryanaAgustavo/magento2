@@ -1,0 +1,62 @@
+
+Omagento\graphql\quote\guest\placeordertest::testplaceorderwithnoshippingaddress’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpÊ Ê(7"1*Æ
+2
+PlaceOrderTest.php"ª
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpÔ Ô(
+implicit return*ó
+1’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpÌ Ì((Â
+¿
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpÌ Ì('
+$reservedOrderId"__id*
+
+test_quoteû
+ø
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpÍ Í(A
+%1"__id*U*S,
+*magento\graphql\quote\guest\placeordertest"#
+!getMaskedQuoteIdByReservedOrderIdÅÂ
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpÍ Í(\
+%2*
+
+%1*
+
+$reservedOrderId2execute¸
+µ
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpÍ Í(\
+$maskedQuoteId"__id*
+
+%2ìé
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpÎ Î(0
+%3*.,
+*magento\graphql\quote\guest\placeordertest*
+
+$maskedQuoteId2getquery°
+­
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpÎ Î(0
+$query"__id*
+
+%3ý
+ú
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpÐ Ò(	
+%4"Bmagento\graphql\quote\guest\placeordertest::expectexceptionmessage*.",
+*magento\graphql\quote\guest\placeordertest*ig
+eUnable to place order: Some addresses can\'t be used due to the configurations for specific countriesëè
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpÓ Ó(&
+%5*.,
+*magento\graphql\quote\guest\placeordertest*
+
+
+$query2graphqlmutation*
+2B.,
+*magento\graphql\quote\guest\placeordertest

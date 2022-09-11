@@ -1,0 +1,66 @@
+
+Xmagento\user\model\resourcemodel\usertest::testgetlatestpasswordwhenzeropasswordlifetimeŒ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Model\ResourceModel\UserTest.php@ @(A"1*º
+2
+UserTest.php"¤
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Model\ResourceModel\UserTest.phpK K(
+implicit return*Ö
+1Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Model\ResourceModel\UserTest.phpC C(-Þ
+Û
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Model\ResourceModel\UserTest.phpC C("
+%1"__id*>*<+
+)magento\user\model\resourcemodel\usertest"
+userFactory¨¥
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Model\ResourceModel\UserTest.phpC C(,
+%2*
+
+%12create©
+¦
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Model\ResourceModel\UserTest.phpC C(,
+$user"__id*
+
+%2ÇÄ
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Model\ResourceModel\UserTest.phpD D(/
+%3*	
+
+$user*
+dummy_username2loadbyusernameØ
+Õ
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Model\ResourceModel\UserTest.phpE E(&
+%4"__id*8*6+
+)magento\user\model\resourcemodel\usertest"
+modelª§
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Model\ResourceModel\UserTest.phpE: E(H
+%5*	
+
+$user2getid»¸
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Model\ResourceModel\UserTest.phpE E(I
+%6*
+
+%4*
+
+%52getlatestpassword³
+°
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Model\ResourceModel\UserTest.phpE E(I
+$latestPassword"__id*
+
+%6¾»
+Œ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\User\Model\ResourceModel\UserTest.phpG J(	
+%7*-+
+)magento\user\model\resourcemodel\usertest*
+
+$latestPassword*PN
+LLatest password should be stored even if password lifetime config value is 02assertnotempty*
+2B-+
+)magento\user\model\resourcemodel\usertest

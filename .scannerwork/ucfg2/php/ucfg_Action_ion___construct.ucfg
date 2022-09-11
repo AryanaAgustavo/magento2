@@ -1,0 +1,102 @@
+
+?magento\catalog\model\resourcemodel\product\action::__construct}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Action.phpB B("1*¨
+2
+
+Action.php"”
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Action.phpQ Q(
+implicit return*ç
+1}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Action.phpL L(]Ä
+Á
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Action.phpB B(
+
+$context"__id*.
+,
+$context magento\eav\model\entity\context×
+Ô
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Action.phpB B(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceË
+È
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Action.phpB B(
+$modelFactory"__id*0
+.
+$modelFactorymagento\catalog\model\factoryð
+í
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Action.phpB B(
+$uniqueValidator"__id*R
+P
+$uniqueValidator<magento\eav\model\entity\attribute\uniquevalidationinterfaceÐ
+Í
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Action.phpB B(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetimeƒ
+€
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Action.phpB B(
+$productCollectionFactory"__id*\
+Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactoryó
+ð
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Action.phpB B(
+$typeTransitionManager"__id*O
+M
+$typeTransitionManager3magento\catalog\model\product\typetransitionmanagerØ
+Õ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Action.phpL L(\
+%1"Amagento\catalog\model\resourcemodel\abstractresource::__construct*64
+2magento\catalog\model\resourcemodel\product\action*
+
+
+$context*
+
+$storeManager*
+
+$modelFactory*	
+
+$data*
+
+$uniqueValidatorÛ
+Ø
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Action.phpN N(#B4
+2magento\catalog\model\resourcemodel\product\action"
+
+dateTime"__id*
+
+	$dateTimeû
+ø
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Action.phpO O(CR4
+2magento\catalog\model\resourcemodel\product\action"
+productCollectionFactory"__id*
+
+$productCollectionFactoryõ
+ò
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Product\Action.phpP P(=O4
+2magento\catalog\model\resourcemodel\product\action"
+typeTransitionManager"__id*
+
+$typeTransitionManager*
+2:,
+$context magento\eav\model\entity\context::
+$storeManager)magento\store\model\storemanagerinterface:.
+$modelFactorymagento\catalog\model\factory:P
+$uniqueValidator<magento\eav\model\entity\attribute\uniquevalidationinterface:7
+	$dateTime*magento\framework\stdlib\datetime\datetime:Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactory:M
+$typeTransitionManager3magento\catalog\model\product\typetransitionmanager:
+$dataB64
+2magento\catalog\model\resourcemodel\product\action

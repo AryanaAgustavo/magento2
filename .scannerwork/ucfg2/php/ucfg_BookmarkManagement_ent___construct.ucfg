@@ -1,0 +1,68 @@
+
+0magento\ui\model\bookmarkmanagement::__constructn
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Ui\Model\BookmarkManagement.php% %("1*¥
+2
+BookmarkManagement.php"…
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Ui\Model\BookmarkManagement.php/ /(
+implicit return*„
+1n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Ui\Model\BookmarkManagement.php+ +(8Õ
+Ò
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Ui\Model\BookmarkManagement.php% %(
+$bookmarkRepository"__id*C
+A
+$bookmarkRepository*magento\ui\api\bookmarkrepositoryinterfaceÄ
+Á
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Ui\Model\BookmarkManagement.php% %(
+$filterBuilder"__id*7
+5
+$filterBuilder#magento\framework\api\filterbuilderÜ
+Ù
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Ui\Model\BookmarkManagement.php% %(
+$searchCriteriaBuilder"__id*G
+E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilderÍ
+Ê
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Ui\Model\BookmarkManagement.php% %(
+$userContext"__id*B
+@
+$userContext0magento\authorization\model\usercontextinterfaceÑ
+Î
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Ui\Model\BookmarkManagement.php+ +(7=%
+#magento\ui\model\bookmarkmanagement"
+bookmarkRepository"__id*
+
+$bookmarkRepository×
+Ô
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Ui\Model\BookmarkManagement.php, ,(=@%
+#magento\ui\model\bookmarkmanagement"
+searchCriteriaBuilder"__id*
+
+$searchCriteriaBuilderÇ
+Ä
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Ui\Model\BookmarkManagement.php- -(-8%
+#magento\ui\model\bookmarkmanagement"
+filterBuilder"__id*
+
+$filterBuilderÃ
+À
+n
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Ui\Model\BookmarkManagement.php. .()6%
+#magento\ui\model\bookmarkmanagement"
+userContext"__id*
+
+$userContext*
+2:A
+$bookmarkRepository*magento\ui\api\bookmarkrepositoryinterface:5
+$filterBuilder#magento\framework\api\filterbuilder:E
+$searchCriteriaBuilder+magento\framework\api\searchcriteriabuilder:@
+$userContext0magento\authorization\model\usercontextinterfaceB'%
+#magento\ui\model\bookmarkmanagement

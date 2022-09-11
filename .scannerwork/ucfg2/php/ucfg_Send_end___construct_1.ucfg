@@ -1,0 +1,129 @@
+
+*magento\sendfriend\block\send::__constructh
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.php@ @("1*ê
+2
+
+Send.php"
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.phpR R(
+implicit return*¡
+1h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.phpJ J(3æ
+ª
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.php@ @(
+
+$context"__id*=
+;
+$context/magento\framework\view\element\template\contextΩ
+∫
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.php@ @(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionª
+∏
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.php@ @(
+$sendfriendData"__id*3
+1
+$sendfriendDatamagento\sendfriend\helper\data´
+®
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.php@ @(
+	$registry"__id*)
+'
+	$registrymagento\framework\registry¡
+æ
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.php@ @(
+$customerViewHelper"__id*5
+3
+$customerViewHelpermagento\customer\helper\viewπ
+∂
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.php@ @(
+$httpContext"__id*4
+2
+$httpContext"magento\framework\app\http\context∏
+µ
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.php@ @(
+$sendfriend"__id*4
+2
+$sendfriend#magento\sendfriend\model\sendfriendé
+ã
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.php@ @(
+$data"__id*
+
+$dataarray¿
+Ω
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.phpJ J(25
+magento\sendfriend\block\send"
+_customerSession"__id*
+
+$customerSession∂
+≥
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.phpK K((2
+magento\sendfriend\block\send"
+_coreRegistry"__id*
+
+	$registryæ
+ª
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.phpL L(04
+magento\sendfriend\block\send"
+_sendfriendData"__id*
+
+$sendfriendDataµ
+≤
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.phpM M('/
+magento\sendfriend\block\send"
+
+sendfriend"__id*
+
+$sendfriendÂ
+‚
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.phpN N(,
+%1"4magento\framework\view\element\template::__construct*!
+magento\sendfriend\block\send*
+
+
+$context*	
+
+$data≥
+∞
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.phpO O(%4
+magento\sendfriend\block\send"
+_isScopePrivate"__id*
+true∑
+¥
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.phpP P()0
+magento\sendfriend\block\send"
+httpContext"__id*
+
+$httpContext∆
+√
+h
+^C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriend\Block\Send.phpQ Q(88
+magento\sendfriend\block\send"
+_customerViewHelper"__id*
+
+$customerViewHelper*
+2:;
+$context/magento\framework\view\element\template\context:2
+$customerSessionmagento\customer\model\session:1
+$sendfriendDatamagento\sendfriend\helper\data:'
+	$registrymagento\framework\registry:3
+$customerViewHelpermagento\customer\helper\view:2
+$httpContext"magento\framework\app\http\context:2
+$sendfriend#magento\sendfriend\model\sendfriend:
+$dataarrayB!
+magento\sendfriend\block\send

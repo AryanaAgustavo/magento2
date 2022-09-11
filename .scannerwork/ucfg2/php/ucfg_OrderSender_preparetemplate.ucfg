@@ -1,0 +1,304 @@
+
+Cmagento\sales\model\order\email\sender\ordersender::preparetemplate
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÅ Å(&"1*Ø
+2
+OrderSender.php"ñ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.php† †(
+implicit return*Î<
+1
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÉ í(
+ª
+∏
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÅ Å(&
+$order"__id*%
+#
+$ordermagento\sales\model\orderíè
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÉ í(	
+%1"$Array≥
+∞
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÉ í(	
+%2"__mapSet*
+
+%1*	
+order*
+
+
+$orderùö
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÖ Ö()
+%3*
+
+
+$order2getid≤
+Ø
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÉ í(	
+%4"__mapSet*
+
+%1*
+
+order_id*
+
+%3©¶
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÜ Ü(4
+%5*
+
+
+$order2getbillingaddress±
+Æ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÉ í(	
+%6"__mapSet*
+
+%1*	
+billing*
+
+%5ﬁ€
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpá á(;
+%7*64
+2magento\sales\model\order\email\sender\ordersender*
+
+
+$order2getpaymenthtml∂
+≥
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÉ í(	
+%8"__mapSet*
+
+%1*
+payment_html*
+
+%7†ù
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpà à()
+%9*
+
+
+$order2getstore∞
+≠
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÉ í(	
+%10"__mapSet*
+
+%1*	
+store*
+
+%9ÏÈ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpâ* â(T
+%11*64
+2magento\sales\model\order\email\sender\ordersender*
+
+
+$order2getformattedshippingaddressƒ
+¡
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÉ í(	
+%12"__mapSet*
+
+%1*
+formattedShippingAddress*
+
+%11ÎË
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpä) ä(R
+%13*64
+2magento\sales\model\order\email\sender\ordersender*
+
+
+$order2getformattedbillingaddress√
+¿
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÉ í(	
+%14"__mapSet*
+
+%1*
+formattedBillingAddress*
+
+%13¥±
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpã& ã(F
+%15*
+
+
+$order*22getcreatedatformatted¿
+Ω
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÉ í(	
+%16"__mapSet*
+
+%1*
+created_at_formatted*
+
+%15ìê
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpå ë(
+%17"$Array®•
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpç# ç(<
+%18*
+
+
+$order2getcustomername∫
+∑
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpå ë(
+%19"__mapSet*
+
+%17*
+customer_name*
+
+%18®•
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpé$ é(=
+%20*
+
+
+$order2getisnotvirtualª
+∏
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpå ë(
+%21"__mapSet*
+
+%17*
+is_not_virtual*
+
+%20≠™
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpè) è(G
+%22*
+
+
+$order2getemailcustomernote¿
+Ω
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpå ë(
+%23"__mapSet*
+
+%17*
+email_customer_note*
+
+%22Ø¨
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpê+ ê(K
+%24*
+
+
+$order2getfrontendstatuslabel¬
+ø
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpå ë(
+%25"__mapSet*
+
+%17*
+frontend_status_label*
+
+%24∂
+≥
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÉ í(	
+%26"__mapSet*
+
+%1*
+
+order_data*
+
+%17†
+ù
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpÉ í(	
+
+$transport"__id*
+
+%1∂≥
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpì ì(5
+$transportObject"magento\framework\dataobject‹
+Ÿ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpì ì(5
+%27")magento\framework\dataobject::__construct*
+
+$transportObject*
+
+
+$transport€
+ÿ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpò ò(
+%28"__id*H*F4
+2magento\sales\model\order\email\sender\ordersender"
+eventManagerìê
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpö ö(g
+%29"$Array‚
+ﬂ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpö ö(g
+%30"__mapSet*
+
+%29*
+
+sender*64
+2magento\sales\model\order\email\sender\ordersender√
+¿
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpö ö(g
+%31"__mapSet*
+
+%29*
+	transport*
+
+$transportObject…
+∆
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpö ö(g
+%32"__mapSet*
+
+%29*
+transportObject*
+
+$transportObject—Œ
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpò õ(	
+%33*
+
+%28*(&
+$email_order_set_template_vars_before*
+
+%292dispatch‡
+›
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpù ù( 
+%34"__id*M*K4
+2magento\sales\model\order\email\sender\ordersender"
+templateContainer™ß
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpù2 ù(M
+%35*
+
+$transportObject2getdataÆ´
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpù ù(N
+%36*
+
+%34*
+
+%352settemplatevarsà
+Ö
+
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Email\Sender\OrderSender.phpü ü('
+%37"7magento\sales\model\order\email\sender::preparetemplate*64
+2magento\sales\model\order\email\sender\ordersender*
+
+
+$order*
+2:#
+$ordermagento\sales\model\orderB64
+2magento\sales\model\order\email\sender\ordersender

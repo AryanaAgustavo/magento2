@@ -1,0 +1,100 @@
+
+]magento\bundle\block\catalog\product\view\type\bundleproductpricetest::processbundlepriceview™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpá á(+"1*Ê
+2
+BundleProductPriceTest.php"¬
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpç ç(
+implicit return*«
+1™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpâ â(,ﬁ
+€
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpá á(+
+$productSku"__id*
+
+$productSkustring·
+ﬁ
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpá á(+
+$expectedData"__id*
+
+$expectedDataarray£†
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpâ â(+
+%1*IG
+Emagento\bundle\block\catalog\product\view\type\bundleproductpricetest*
+
+$productSku2registerproductë
+é
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpä ä(!
+%2"__id*S*QG
+Emagento\bundle\block\catalog\product\view\type\bundleproductpricetest"
+jsoní
+è
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpä/ ä(;
+%3"__id*T*RG
+Emagento\bundle\block\catalog\product\view\type\bundleproductpricetest"
+blockÕ 
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpä/ ä(L
+%4*
+
+%32getjsonconfig”–
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpä ä(M
+%5*
+
+%2*
+
+%42unserializeÕ
+ 
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpä ä(M
+$jsonConfig"__id*
+
+%5Ê
+„
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpã ã(:
+%6"__mapGet*
+
+$expectedData*
+bundle_prices›
+⁄
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpã< ã(Q
+%7"__mapGet*
+
+$jsonConfig*
+
+pricesüú
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpã ã(R
+%8*IG
+Emagento\bundle\block\catalog\product\view\type\bundleproductpricetest*
+
+%6*
+
+%72assertequalsÁ
+‰
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpå# å(B
+%9"__mapGet*
+
+$expectedData*
+options_prices∞≠
+™
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Bundle\Block\Catalog\Product\View\Type\BundleProductPriceTest.phpå å(P
+%10*IG
+Emagento\bundle\block\catalog\product\view\type\bundleproductpricetest*
+
+%9*
+
+$jsonConfig2assertoptionsconfig*
+2:
+$productSkustring:
+$expectedDataarrayBIG
+Emagento\bundle\block\catalog\product\view\type\bundleproductpricetest

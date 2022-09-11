@@ -1,0 +1,134 @@
+
+Fmagento\paypal\controller\adminhtml\express\authorization::__construct„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.php< <("1*·
+2
+Authorization.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.phpY Y(
+implicit return*„
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.phpJ J("Î
+Ë
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.php< <(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÐ
+Í
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.php< <(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryã
+à
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.php< <(
+$fileFactory"__id*A
+?
+$fileFactory/magento\framework\app\response\http\filefactoryç
+ä
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.php< <(
+$translateInline"__id*A
+?
+$translateInline+magento\framework\translate\inlineinterfaceé
+æ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.php< <(
+$resultPageFactory"__id*A
+?
+$resultPageFactory)magento\framework\view\result\pagefactoryï
+ì
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.php< <(
+$resultJsonFactory"__id*G
+E
+$resultJsonFactory/magento\framework\controller\result\jsonfactoryï
+ì
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.php< <(
+$resultLayoutFactory"__id*E
+C
+$resultLayoutFactory+magento\framework\view\result\layoutfactoryì
+é
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.php< <(
+$resultRawFactory"__id*E
+C
+$resultRawFactory.magento\framework\controller\result\rawfactoryæ
+ã
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.php< <(
+$orderManagement"__id*@
+>
+$orderManagement*magento\sales\api\ordermanagementinterfaceæ
+ã
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.php< <(
+$orderRepository"__id*@
+>
+$orderRepository*magento\sales\api\orderrepositoryinterfaceÁ
+¾
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.php< <(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÒ
+Ï
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.php< <(
+
+$express"__id*4
+2
+$express&magento\paypal\model\adminhtml\expressè
+å
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.phpJ J(!H;
+9magento\paypal\controller\adminhtml\express\authorization"	
+express"__id*
+
+
+$expressé
+æ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Controller\Adminhtml\Express\Authorization.phpL X(	
+%1"5magento\sales\controller\adminhtml\order::__construct*=;
+9magento\paypal\controller\adminhtml\express\authorization*
+
+
+$context*
+
+$coreRegistry*
+
+$fileFactory*
+
+$translateInline*
+
+$resultPageFactory*
+
+$resultJsonFactory*
+
+$resultLayoutFactory*
+
+$resultRawFactory*
+
+$orderManagement*
+
+$orderRepository*
+	
+$logger*
+2:.
+$context"magento\backend\app\action\context:+
+$coreRegistrymagento\framework\registry:?
+$fileFactory/magento\framework\app\response\http\filefactory:?
+$translateInline+magento\framework\translate\inlineinterface:?
+$resultPageFactory)magento\framework\view\result\pagefactory:E
+$resultJsonFactory/magento\framework\controller\result\jsonfactory:C
+$resultLayoutFactory+magento\framework\view\result\layoutfactory:C
+$resultRawFactory.magento\framework\controller\result\rawfactory:>
+$orderManagement*magento\sales\api\ordermanagementinterface:>
+$orderRepository*magento\sales\api\orderrepositoryinterface:"
+$loggerpsr\log\loggerinterface:2
+$express&magento\paypal\model\adminhtml\expressB=;
+9magento\paypal\controller\adminhtml\express\authorization

@@ -1,0 +1,81 @@
+
+=magento\sales\ui\component\listing\column\status::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Ui\Component\Listing\Column\Status.php   ("1*¦
+2
+
+Status.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Ui\Component\Listing\Column\Status.php) )(
+implicit return*õ
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Ui\Component\Listing\Column\Status.php' '(GÝ
+Ú
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Ui\Component\Listing\Column\Status.php   (
+
+$context"__id*I
+G
+$context;magento\framework\view\element\uicomponent\contextinterfaceé
+æ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Ui\Component\Listing\Column\Status.php   (
+$uiComponentFactory"__id*J
+H
+$uiComponentFactory1magento\framework\view\element\uicomponentfactoryö
+ó
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Ui\Component\Listing\Column\Status.php   (
+$collectionFactory"__id*X
+V
+$collectionFactory@magento\sales\model\resourcemodel\order\status\collectionfactory­
+ª
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Ui\Component\Listing\Column\Status.php   (
+$components"__id*
+
+$componentsarray¡
+ž
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Ui\Component\Listing\Column\Status.php   (
+$data"__id*
+
+$dataarray¦£
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Ui\Component\Listing\Column\Status.php' '(6
+%1*
+
+$collectionFactory2createœ™
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Ui\Component\Listing\Column\Status.php' '(F
+%2*
+
+%12tooptionhashÐ
+Í
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Ui\Component\Listing\Column\Status.php' '(F@2
+0magento\sales\ui\component\listing\column\status"
+
+statuses"__id*
+
+%2¹
+¶
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Ui\Component\Listing\Column\Status.php( ((N
+%3"8magento\ui\component\listing\columns\column::__construct*42
+0magento\sales\ui\component\listing\column\status*
+
+
+$context*
+
+$uiComponentFactory*
+
+$components*	
+
+$data*
+2:G
+$context;magento\framework\view\element\uicomponent\contextinterface:H
+$uiComponentFactory1magento\framework\view\element\uicomponentfactory:V
+$collectionFactory@magento\sales\model\resourcemodel\order\status\collectionfactory:
+$componentsarray:
+$dataarrayB42
+0magento\sales\ui\component\listing\column\status

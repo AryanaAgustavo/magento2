@@ -1,0 +1,85 @@
+
+pmagento\graphql\quote\guest\setshippingaddressoncarttest::testsetnewshippingaddressoncartwithredundantstreetline 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingAddressOnCartTest.phpÛ Û(J"1*â
+2"
+ SetShippingAddressOnCartTest.php"¸
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingAddressOnCartTest.phpÿ ÿ(
+implicit return*à
+1 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingAddressOnCartTest.phpÝ Ý(Y—
+”
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingAddressOnCartTest.phpÝ Ý(A
+%1"__id*c*a:
+8magento\graphql\quote\guest\setshippingaddressoncarttest"#
+!getMaskedQuoteIdByReservedOrderIdÍÊ
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingAddressOnCartTest.phpÝ Ý(X
+%2*
+
+%1*
+
+test_quote2executeÆ
+Ã
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingAddressOnCartTest.phpÝ Ý(X
+$maskedQuoteId"__id*
+
+%2½
+º
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingAddressOnCartTest.phpß ü(
+%3"__concat*MK
+Imutation {
+  setShippingAddressesOnCart(
+    input: {
+      cart_id: "*¡ž
+›"
+      shipping_addresses: [
+        {
+          address: {
+            firstname: "test firstname"
+            lastname: "test lastname"
+            company: "test company"
+            street: ["test street 1", "test street 2", "test street 3"]
+            city: "test city"
+            region: "AL"
+            postcode: "887766"
+            country_code: "US"
+            telephone: "88776655"
+          }
+        }
+      ]
+    }
+  ) {
+    cart {
+      shipping_addresses {
+        firstname
+      }
+    }
+  }
+}*
+
+$maskedQuoteId¾
+»
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingAddressOnCartTest.phpß ü(
+$query"__id*
+
+%3ô
+ñ
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingAddressOnCartTest.phpý ý(Z
+%4"Pmagento\graphql\quote\guest\setshippingaddressoncarttest::expectexceptionmessage*<":
+8magento\graphql\quote\guest\setshippingaddressoncarttest*64
+2"Street Address" cannot contain more than 2 lines.‡„
+ 
+“C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetShippingAddressOnCartTest.phpþ þ(&
+%5*<:
+8magento\graphql\quote\guest\setshippingaddressoncarttest*
+
+
+$query2graphqlmutation*
+2B<:
+8magento\graphql\quote\guest\setshippingaddressoncarttest

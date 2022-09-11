@@ -1,0 +1,86 @@
+
+Emagento\store\app\frontcontroller\plugin\defaultstore::beforedispatch€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\FrontController\Plugin\DefaultStore.phpA A(""1*²
+2
+DefaultStore.php"˜
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\FrontController\Plugin\DefaultStore.phpH H(
+implicit return*”
+1€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\FrontController\Plugin\DefaultStore.phpE E(?Í
+Ê
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\FrontController\Plugin\DefaultStore.phpA A("
+
+$subject"__id*3
+1
+$subject%magento\framework\app\frontcontrollerÎ
+Ë
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\FrontController\Plugin\DefaultStore.phpA A("
+
+$request"__id*4
+2
+$request&magento\framework\app\requestinterfaceÝ
+Ú
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\FrontController\Plugin\DefaultStore.phpE E(#
+%1"__id*I*G7
+5magento\store\app\frontcontroller\plugin\defaultstore"
+
+readerListÚ
+×
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\FrontController\Plugin\DefaultStore.phpE/ E(=
+%2"__id*F*D7
+5magento\store\app\frontcontroller\plugin\defaultstore"	
+runMode§¤
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\FrontController\Plugin\DefaultStore.phpE E(>
+%3*
+
+%1*
+
+%22	getreaderŸ
+œ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\FrontController\Plugin\DefaultStore.phpE E(>	
+$reader"__id*
+
+%3Ü
+Ù
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\FrontController\Plugin\DefaultStore.phpF5 F(E
+%4"__id*H*F7
+5magento\store\app\frontcontroller\plugin\defaultstore"
+	scopeCode´±
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\FrontController\Plugin\DefaultStore.phpF F(F
+%5*
+	
+$reader*
+
+%42getdefaultstoreid§
+¤
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\FrontController\Plugin\DefaultStore.phpF F(F
+$defaultStoreId"__id*
+
+%5ß
+Ü
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\FrontController\Plugin\DefaultStore.phpG G(
+%6"__id*K*I7
+5magento\store\app\frontcontroller\plugin\defaultstore"
+storeManagerº·
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Store\App\FrontController\Plugin\DefaultStore.phpG G(=
+%7*
+
+%6*
+
+$defaultStoreId2setcurrentstore*
+2:1
+$subject%magento\framework\app\frontcontroller:2
+$request&magento\framework\app\requestinterfaceB97
+5magento\store\app\frontcontroller\plugin\defaultstore

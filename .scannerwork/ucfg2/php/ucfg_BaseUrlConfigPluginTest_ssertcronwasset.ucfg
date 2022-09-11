@@ -1,0 +1,50 @@
+
+Hmagento\analytics\model\plugin\baseurlconfigplugintest::assertcronwasset›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Analytics\Model\Plugin\BaseUrlConfigPluginTest.php¥ ¥(%"1*Ø
+2
+BaseUrlConfigPluginTest.php"³
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Analytics\Model\Plugin\BaseUrlConfigPluginTest.php² ²(
+implicit return*¶
+1›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Analytics\Model\Plugin\BaseUrlConfigPluginTest.php§ «(
+‚ÿ
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Analytics\Model\Plugin\BaseUrlConfigPluginTest.php© ©(2
+%1*:8
+6magento\analytics\model\plugin\baseurlconfigplugintest2getsubscriptionupdateschedule¹¶
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Analytics\Model\Plugin\BaseUrlConfigPluginTest.php§ «(	
+%2*:8
+6magento\analytics\model\plugin\baseurlconfigplugintest*
+	0 * * * **
+
+%1*1/
+-Subscription update schedule has not been set2
+assertsameùö
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Analytics\Model\Plugin\BaseUrlConfigPluginTest.php® ®()
+%3*:8
+6magento\analytics\model\plugin\baseurlconfigplugintest2getpreviousupdateurlÑÎ
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Analytics\Model\Plugin\BaseUrlConfigPluginTest.php¬ °(	
+%4*:8
+6magento\analytics\model\plugin\baseurlconfigplugintest*!
+https://previous.example.com/*
+
+%3*53
+1The previous URL stored for update is not correct2
+assertsameüù
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Analytics\Model\Plugin\BaseUrlConfigPluginTest.php± ±(>
+%5*:8
+6magento\analytics\model\plugin\baseurlconfigplugintest2getupdatereversecounterýú
+›
+ŽC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Analytics\Model\Plugin\BaseUrlConfigPluginTest.php± ±(?
+%6*:8
+6magento\analytics\model\plugin\baseurlconfigplugintest*20*
+
+%52
+assertsame*
+2B:8
+6magento\analytics\model\plugin\baseurlconfigplugintest

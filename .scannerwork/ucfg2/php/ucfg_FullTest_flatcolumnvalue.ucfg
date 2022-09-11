@@ -1,0 +1,119 @@
+
+Qmagento\catalog\model\indexer\product\flat\action\fulltest::assertflatcolumnvalueŸ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpÚ Ú(*"1*Í
+2
+FullTest.php"·
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpá á(
+implicit return*¯
+1Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpÜ Ü(8Ù
+Ö
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpÚ Ú(*
+$attributeCode"__id*
+
+$attributeCodestringÉ
+Æ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpÚ Ú(*
+$value"__id*
+
+$valuestringƒ
+€
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpÜ Ü(&
+%1"__id*P*N<
+:magento\catalog\model\indexer\product\flat\action\fulltest"
+flatResourceÂ¿
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpÜ Ü(7
+%2*
+
+%12getconnection¿
+¼
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpÜ Ü(7
+
+$connect"__id*
+
+%2ƒ
+€
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpÝ Ý((
+%3"__id*P*N<
+:magento\catalog\model\indexer\product\flat\action\fulltest"
+flatResourceÅÂ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpÝ Ý(<
+%4*
+
+%32getflattablenameÁ
+¾
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpÝ Ý(<
+
+$tableName"__id*
+
+%4ðí
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpÞ Þ(Q
+%5*
+
+
+$connect*
+
+
+$tableName*
+
+$attributeCode2tablecolumnexistsÿü
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpÞ Þ(R
+%6*><
+:magento\catalog\model\indexer\product\flat\action\fulltest*
+
+%52
+asserttrueÁ¾
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpß ß($
+%7*
+
+
+$connect2selectÝÚ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpß ß(F
+%8*
+
+%7*
+
+
+$tableName*
+
+$attributeCode2from¾
+»
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpß ß(F	
+$select"__id*
+
+%8ÐÍ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpà$ à(?
+%9*
+
+
+$connect*
+	
+$select2fetchoneŽ‹
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Model\Indexer\Product\Flat\Action\FullTest.phpà à(@
+%10*><
+:magento\catalog\model\indexer\product\flat\action\fulltest*
+
+
+$value*
+
+%92assertequals*
+2:
+$attributeCodestring:
+$valuestringB><
+:magento\catalog\model\indexer\product\flat\action\fulltest

@@ -1,0 +1,91 @@
+
+@magento\catalog\block\product\productlist\promotion::__construct~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Promotion.php# #("1*¨
+2
+Promotion.php"ï
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Promotion.php5 5(
+implicit return*‹
+1~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Promotion.php, ,(E 
+«
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Promotion.php# #(
+
+$context"__id*3
+1
+$context%magento\catalog\block\product\context€
+ÿ
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Promotion.php# #(
+$postDataHelper"__id*=
+;
+$postDataHelper(magento\framework\data\helper\posthelper’
+“
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Promotion.php# #(
+$layerResolver"__id*8
+6
+$layerResolver$magento\catalog\model\layer\resolverÍ
+Á
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Promotion.php# #(
+$categoryRepository"__id*H
+F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface 
+«
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Promotion.php# #(
+
+$urlHelper"__id*1
+/
+
+$urlHelper!magento\framework\url\helper\dataÑ
+Å
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Promotion.php# #(
+$productCollectionFactory"__id*\
+Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactory§
+°
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Promotion.php# #(
+$data"__id*
+
+$dataarray˛
+˚
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Promotion.php, ,(DT5
+3magento\catalog\block\product\productlist\promotion"
+_productCollectionFactory"__id*
+
+$productCollectionFactoryÂ
+‚
+~
+tC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Promotion.php- 4(	
+%1"6magento\catalog\block\product\listproduct::__construct*75
+3magento\catalog\block\product\productlist\promotion*
+
+
+$context*
+
+$postDataHelper*
+
+$layerResolver*
+
+$categoryRepository*
+
+
+$urlHelper*	
+
+$data*
+2:1
+$context%magento\catalog\block\product\context:;
+$postDataHelper(magento\framework\data\helper\posthelper:6
+$layerResolver$magento\catalog\model\layer\resolver:F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface:/
+
+$urlHelper!magento\framework\url\helper\data:Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactory:
+$dataarrayB75
+3magento\catalog\block\product\productlist\promotion

@@ -1,0 +1,130 @@
+
+Hmagento\salesrule\model\resourcemodel\coupon\usage::loadbycustomercoupon}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpF F(("1*ò
+4}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpJ P(°û
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpJ J(+
+%2*
+
+$connection2selectŒÀ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpK K(%
+%3*64
+2magento\salesrule\model\resourcemodel\coupon\usage2getmaintableûõ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpJ L(
+%4*
+
+%2*
+
+%32from∂≥
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpJ N(
+%5*
+
+%4*
+customer_id =:customer_id2where≥∞
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpJ P(
+%6*
+
+%5*
+coupon_id = :coupon_id2whereõ
+ò
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpJ P(	
+$select"__id*
+
+%6êç
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpQ3 Q(m
+%7"$Arrayπ
+∂
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpQ3 Q(m
+%8"__mapSet*
+
+%7*
+
+:coupon_id*
+
+	$couponIdΩ
+∫
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpQ3 Q(m
+%9"__mapSet*
+
+%7*
+:customer_id*
+
+$customerIdπ∂
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpQ Q(n
+%10*
+
+$connection*
+	
+$select*
+
+%72fetchrowö
+ó
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpQ Q(n
+$data"__id*
+
+%10*	
+5
+7
+8*∑
+5}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpS S((™ß
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpS S('
+%11*
+	
+$object*	
+
+$data2setdata*
+7
+8*‰
+7}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpW W('⁄◊
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpW W(&
+%12*64
+2magento\salesrule\model\resourcemodel\coupon\usage*
+	
+$object2
+_afterload*
+8*º
+8}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpY Y("∑
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpY Y(64
+2magento\salesrule\model\resourcemodel\coupon\usage*¬
+1}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpH H(-æ
+ª
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpF F((	
+$object"__id*)
+'
+$objectmagento\framework\dataobjectœÃ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpH H(,
+%1*64
+2magento\salesrule\model\resourcemodel\coupon\usage2getconnectionü
+ú
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\ResourceModel\Coupon\Usage.phpH H(,
+$connection"__id*
+
+%1*	
+4
+7
+8:'
+$objectmagento\framework\dataobject:
+$customerId:
+	$couponIdB64
+2magento\salesrule\model\resourcemodel\coupon\usage

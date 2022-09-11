@@ -1,0 +1,64 @@
+
+Dmagento\catalog\controller\adminhtml\product\searchtest::testexecuteö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\SearchTest.php ("1* 
+2
+SearchTest.php"≤
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\SearchTest.php (
+implicit return*í
+1ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\SearchTest.php ((ÔÏ
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\SearchTest.php (
+%1*;9
+7magento\catalog\controller\adminhtml\product\searchtest2
+getrequest◊‘
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\SearchTest.php (1
+%2*
+
+%1*
+	searchKey*
+
+simple2setpostvalueÃ…
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\SearchTest.php (%
+%3*
+
+%2*
+page*22setpostvalueÕ 
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\SearchTest.php ('
+%4*
+
+%3*	
+limit*222setpostvalueëé
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\SearchTest.php (9
+%5*;9
+7magento\catalog\controller\adminhtml\product\searchtest*" 
+backend/catalog/product/search2dispatchÌ
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\SearchTest.php (,
+%6*;9
+7magento\catalog\controller\adminhtml\product\searchtest2getresponse∑¥
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\SearchTest.php (7
+%7*
+
+%62getbodyø
+º
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\SearchTest.php (7
+$responseBody"__id*
+
+%7¸˘
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Controller\Adminhtml\Product\SearchTest.php (	
+%8*;9
+7magento\catalog\controller\adminhtml\product\searchtest*hf
+d"options":{"1":{"value":"1","label":"Simple Product","is_active":1,"path":"simple","optgroup":false}*
+
+$responseBody2assertstringcontainsstring*
+2B;9
+7magento\catalog\controller\adminhtml\product\searchtest

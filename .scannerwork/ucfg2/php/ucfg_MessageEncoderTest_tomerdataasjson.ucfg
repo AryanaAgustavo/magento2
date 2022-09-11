@@ -1,0 +1,74 @@
+
+Hmagento\framework\messagequeue\messageencodertest::getcustomerdataasjson–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\MessageQueue\MessageEncoderTest.php¢ ¢(,"1*¼
+1–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\MessageQueue\MessageEncoderTest.php¤ Ó(ù
+
+ö
+
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\MessageQueue\MessageEncoderTest.php¤ Ó(
+%1"__concat*wu
+s{
+    "id": 1,
+    "group_id": 1,
+    "default_billing": "1",
+    "default_shipping": "1",
+    "created_at": "*
+",
+    "updated_at": "*”‘
+Ž",
+    "email": "customer@example.com",
+    "firstname": "John",
+    "lastname": "Smith",
+    "middlename": "A",
+    "prefix": "Mr.",
+    "suffix": "Esq.",
+    "gender": 0,
+    "store_id": 1,
+    "taxvat": "12",
+    "website_id": 1,
+    "addresses": [
+        {
+            "id": 1,
+            "customer_id": 1,
+            "region": {
+                "region_code": "AL",
+                "region": "Alabama",
+                "region_id": 1
+            },
+            "region_id": 1,
+            "country_id": "US",
+            "street": [
+                "Green str, 67"
+            ],
+            "company": "CompanyName",
+            "telephone": "3468676",
+            "postcode": "75477",
+            "city": "CityM",
+            "firstname": "John",
+            "lastname": "Smith",
+            "default_shipping": true,
+            "default_billing": true
+        }
+    ],
+    "disable_auto_group_change": 0,
+    "extension_attributes": {
+        "test_group_code": "Some Group Code"
+    }
+}*
+
+
+$createdAt*
+
+
+$updatedAt"¡
+–
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\MessageQueue\MessageEncoderTest.php¤ Ó(
+
+%1:
+
+$createdAt:
+
+$updatedAtB53
+1magento\framework\messagequeue\messageencodertest

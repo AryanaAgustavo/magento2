@@ -1,0 +1,93 @@
+
+2magento\customer\model\address\config::__constructp
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\Config.phpG G("1*›
+2
+
+Config.php"‡
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\Config.phpT T(
+implicit return*£
+1p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\Config.phpP P(DÁ
+¾
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\Config.phpG G(	
+$reader"__id*9
+7
+$reader,magento\customer\model\address\config\readerº
+·
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\Config.phpG G(
+$cache"__id*3
+1
+$cache'magento\framework\config\cacheinterfaceÊ
+Ç
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\Config.phpG G(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÂ
+¿
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\Config.phpG G(
+$addressHelper"__id*3
+1
+$addressHelpermagento\customer\helper\addressÐ
+Í
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\Config.phpG G(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceÌ
+É
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\Config.phpG G(
+$serializer"__id*@
+>
+$serializer/magento\framework\serialize\serializerinterfaceŠ
+‡
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\Config.phpP P(C
+%1"*magento\framework\config\data::__construct*)'
+%magento\customer\model\address\config*
+	
+$reader*
+
+
+$cache*
+
+
+$cacheId*
+
+$serializerÊ
+Ç
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\Config.phpQ Q(,:'
+%magento\customer\model\address\config"
+_storeManager"__id*
+
+$storeManagerÌ
+É
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\Config.phpR R(.;'
+%magento\customer\model\address\config"
+_addressHelper"__id*
+
+$addressHelperÈ
+Å
+p
+fC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\Address\Config.phpS S(*9'
+%magento\customer\model\address\config"
+_scopeConfig"__id*
+
+$scopeConfig*
+2:7
+$reader,magento\customer\model\address\config\reader:1
+$cache'magento\framework\config\cacheinterface::
+$storeManager)magento\store\model\storemanagerinterface:1
+$addressHelpermagento\customer\helper\address:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:
+
+$cacheId:>
+$serializer/magento\framework\serialize\serializerinterfaceB)'
+%magento\customer\model\address\config

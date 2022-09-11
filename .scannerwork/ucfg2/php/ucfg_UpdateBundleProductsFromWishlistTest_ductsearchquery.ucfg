@@ -1,0 +1,47 @@
+
+Zmagento\graphql\wishlist\updatebundleproductsfromwishlisttest::getbundleproductsearchquery¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\UpdateBundleProductsFromWishlistTest.php­ ­(0"1*÷
+1¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\UpdateBundleProductsFromWishlistTest.php¯ Ç(å
+â
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\UpdateBundleProductsFromWishlistTest.php­ ­(0
+$bundleProductSku"__id*
+
+$bundleProductSkustring®
+«
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\UpdateBundleProductsFromWishlistTest.php¯ Ç(
+%1"__concat*!
+query {
+  products(search: "*¶³
+°"){
+    items {
+      uid
+      sku
+      name
+      ... on BundleProduct {
+        items {
+          uid
+          title
+          type
+          options {
+            id
+            uid
+            product {
+              sku
+            }
+          }
+        }
+      }
+    }
+  }
+}*
+
+$bundleProductSku"°
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Wishlist\UpdateBundleProductsFromWishlistTest.php¯ Ç(
+
+%1:
+$bundleProductSkustringBA?
+=magento\graphql\wishlist\updatebundleproductsfromwishlisttest

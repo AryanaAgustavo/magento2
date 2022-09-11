@@ -1,0 +1,46 @@
+
+8magento\graphql\groupedproduct\productviewtest::getqueryî
+âC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GroupedProduct\ProductViewTest.phph h("1*ä
+1ï
+âC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GroupedProduct\ProductViewTest.phpj Å(∫
+∑
+î
+âC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GroupedProduct\ProductViewTest.phph h(
+$sku"__id*
+
+$skustringå
+â
+ï
+âC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GroupedProduct\ProductViewTest.phpj Å(
+%1"__concat*&$
+"{
+  products(filter: {sku: {eq: "*¨©
+¶"}}) {
+    items {
+      id
+      name
+      sku
+      type_id
+      ... on GroupedProduct {
+        items{
+          qty
+          position
+          product{
+            sku
+            name
+            type_id
+            url_key
+          }
+        }
+      }
+    }
+  }
+}*
+
+$sku"†
+ï
+âC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\GroupedProduct\ProductViewTest.phpj Å(
+
+%1:
+$skustringB20
+.magento\graphql\groupedproduct\productviewtest

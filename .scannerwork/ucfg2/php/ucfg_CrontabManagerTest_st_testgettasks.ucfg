@@ -1,0 +1,78 @@
+
+Dmagento\framework\crontab\test\unit\crontabmanagertest::testgettasks…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpU U( "1*½
+2
+CrontabManagerTest.php"
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.php] ](
+implicit return*Ä
+1…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpW Z(#â
+ß
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpW W(
+%1"__id*I*G8
+6magento\framework\crontab\test\unit\crontabmanagertest"
+	shellMockÓÐ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpW" W(/
+%2*:8
+6magento\framework\crontab\test\unit\crontabmanagertest2onceª§
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpW W(0
+%3*
+
+%1*
+
+%22expects®«
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpW X(
+%4*
+
+%3*	
+execute2method™–
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpY- Y(/
+%5"$ArrayÃÀ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpW Y(0
+%6*
+
+%4*
+crontab -l 2>/dev/null*
+
+%52with³°
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.phpW Z("
+%7*
+
+%6*
+
+
+$content2
+willreturnç
+ä
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.php\$ \(9
+%8"__id*N*L8
+6magento\framework\crontab\test\unit\crontabmanagertest"
+crontabManager£ 
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.php\$ \(E
+%9*
+
+%82gettasksðí
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Crontab\Test\Unit\CrontabManagerTest.php\ \(F
+%10*:8
+6magento\framework\crontab\test\unit\crontabmanagertest*
+
+
+$tasks*
+
+%92assertequals*
+2:
+
+$content:
+$tasksB:8
+6magento\framework\crontab\test\unit\crontabmanagertest

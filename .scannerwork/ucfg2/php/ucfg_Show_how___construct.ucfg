@@ -1,0 +1,100 @@
+
+>magento\swatches\controller\adminhtml\iframe\show::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.php9 9("1*¥
+2
+
+Show.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.phpG G(
+implicit return*Ö
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.phpA A(,Å
+Â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.php9 9(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÊ
+Ç
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.php9 9(
+$swatchHelper"__id*0
+.
+$swatchHelpermagento\swatches\helper\media×
+Ô
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.php9 9(
+$adapterFactory"__id*;
+9
+$adapterFactory&magento\framework\image\adapterfactoryË
+È
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.php9 9(	
+$config"__id*7
+5
+$config*magento\catalog\model\product\media\configÅ
+Â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.php9 9(
+$filesystem"__id*-
++
+$filesystemmagento\framework\filesystemâ
+ß
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.php9 9(
+$uploaderFactory"__id*E
+C
+$uploaderFactory/magento\mediastorage\model\file\uploaderfactoryá
+Þ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.phpA A(+E3
+1magento\swatches\controller\adminhtml\iframe\show"
+swatchHelper"__id*
+
+$swatchHelperå
+â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.phpB B(/G3
+1magento\swatches\controller\adminhtml\iframe\show"
+adapterFactory"__id*
+
+$adapterFactoryÕ
+Ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.phpC C(?3
+1magento\swatches\controller\adminhtml\iframe\show"
+config"__id*
+	
+$configÝ
+Ú
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.phpD D('C3
+1magento\swatches\controller\adminhtml\iframe\show"
+
+filesystem"__id*
+
+$filesystemç
+ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.phpE E(1H3
+1magento\swatches\controller\adminhtml\iframe\show"
+uploaderFactory"__id*
+
+$uploaderFactoryõ
+ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Swatches\Controller\Adminhtml\Iframe\Show.phpF F(%
+%1"'magento\backend\app\action::__construct*53
+1magento\swatches\controller\adminhtml\iframe\show*
+
+
+$context*
+2:.
+$context"magento\backend\app\action\context:.
+$swatchHelpermagento\swatches\helper\media:9
+$adapterFactory&magento\framework\image\adapterfactory:5
+$config*magento\catalog\model\product\media\config:+
+$filesystemmagento\framework\filesystem:C
+$uploaderFactory/magento\mediastorage\model\file\uploaderfactoryB53
+1magento\swatches\controller\adminhtml\iframe\show

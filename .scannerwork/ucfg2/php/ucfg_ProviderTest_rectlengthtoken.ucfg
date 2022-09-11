@@ -1,0 +1,55 @@
+
+jmagento\integration\test\unit\model\oauth\token\providertest::testvalidaterequesttokenincorrectlengthtoken‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpÓ Ó(@"1*»
+2
+ProviderTest.php"¡
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpÛ Û(
+implicit return*²
+1‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpÕ Õ(DŒ
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpÕ Õ(C
+%1*@>
+<magento\integration\test\unit\model\oauth\token\providertest*%#
+!Magento\Framework\Oauth\Exception2expectexception±®
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpÖ Ö(e
+%2*@>
+<magento\integration\test\unit\model\oauth\token\providertest*@>
+<The token length is invalid. Check the length and try again.2expectexceptionmessageµ
+²
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.php× ×(#
+$requestTokenString"__id*
+123Í
+Ê
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpØ Ø(;
+$oauthVerifier"__id*$"
+ 12345678901234567890123456789012ð
+í
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpÚ Ú(
+%3"__id*S*Q>
+<magento\integration\test\unit\model\oauth\token\providertest"
+tokenProviderï
+ì
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpÚH Ú([
+%4"__id*R*P>
+<magento\integration\test\unit\model\oauth\token\providertest"
+consumerMockèå
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Test\Unit\Model\Oauth\Token\ProviderTest.phpÚ Ú(l
+%5*
+
+%3*
+
+$requestTokenString*
+
+%4*
+
+$oauthVerifier2validaterequesttoken*
+2B@>
+<magento\integration\test\unit\model\oauth\token\providertest

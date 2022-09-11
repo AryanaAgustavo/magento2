@@ -1,0 +1,156 @@
+
+Umagento\framework\webapi\test\unit\rest\request\deserializer\xmltest::testdeserialize”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.php; ;(#"1*Á
+2
+XmlTest.php"¬
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.phpI I(
+implicit return*€(
+1”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.php> >(I„
+
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.php> >(
+%1"__id*\*ZF
+Dmagento\framework\webapi\test\unit\rest\request\deserializer\xmltest"
+_xmlParserMockðí
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.php>' >(4
+%2*HF
+Dmagento\framework\webapi\test\unit\rest\request\deserializer\xmltest2once¹¶
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.php> >(5
+%3*
+
+%1*
+
+%22expects½º
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.php> >(H
+%4*
+
+%3*	
+loadXML2methodü
+ù
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.php? ?(_
+$validInputXml"__id*HF
+D<?xml version="1.0"?><xml><key1>test1</key1><key2>test2</key2></xml>¨¥
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.php@ @(H
+%5"$Array¨¥
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.php@! @(G
+%6"$ArrayÇ
+Ä
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.php@! @(G
+%7"__mapSet*
+
+%6*
+key1*	
+test1Ç
+Ä
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.php@! @(G
+%8"__mapSet*
+
+%6*
+key2*	
+test2Ã
+À
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.php@ @(H
+%9"__mapSet*
+
+%5*
+xml*
+
+%6¸
+µ
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.php@ @(H
+$returnArray"__id*
+
+%5…
+‚
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.phpA A(
+%10"__id*\*ZF
+Dmagento\framework\webapi\test\unit\rest\request\deserializer\xmltest"
+_xmlParserMockñî
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.phpA' A(4
+%11*HF
+Dmagento\framework\webapi\test\unit\rest\request\deserializer\xmltest2once¼¹
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.phpA A(5
+%12*
+
+%10*
+
+%112expectsÂ¿
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.phpA A(K
+%13*
+
+%12*
+
+xmlToArray2methodÈÅ
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.phpA A(e
+%14*
+
+%13*
+
+$returnArray2
+willreturn©¦
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.phpB B(?
+%15"$ArrayÉ
+Æ
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.phpB B(?
+%16"__mapSet*
+
+%15*
+key1*	
+test1É
+Æ
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.phpB B(?
+%17"__mapSet*
+
+%15*
+key2*	
+test2»
+¸
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.phpB B(?
+$expectedArray"__id*
+
+%15‡
+„
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.phpF F(#
+%18"__id*^*\F
+Dmagento\framework\webapi\test\unit\rest\request\deserializer\xmltest"
+_xmlDeserializerËÈ
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.phpF F(@
+%19*
+
+%18*
+
+$validInputXml2deserializeÙÖ
+”
+‰C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Test\Unit\Rest\Request\Deserializer\XmlTest.phpD H(	
+%20*HF
+Dmagento\framework\webapi\test\unit\rest\request\deserializer\xmltest*
+
+$expectedArray*
+
+%19*A?
+=Request XML body was parsed incorrectly into array of params.2assertequals*
+2BHF
+Dmagento\framework\webapi\test\unit\rest\request\deserializer\xmltest

@@ -1,0 +1,79 @@
+
+Wmagento\catalogsearch\model\search\attributesearchweighttest::testattributesearchweightŸ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\AttributeSearchWeightTest.phpK K(-"1*Þ
+2
+AttributeSearchWeightTest.php"·
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\AttributeSearchWeightTest.phpV V(
+implicit return*¬
+1Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\AttributeSearchWeightTest.phpP R(
+Õ
+Ò
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\AttributeSearchWeightTest.phpK K(-
+$searchQuery"__id*
+
+$searchQuerystringÞ
+Û
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\AttributeSearchWeightTest.phpK K(-
+$attributeWeights"__id*
+
+$attributeWeightsarrayæ
+ã
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\AttributeSearchWeightTest.phpK K(-
+$expectedProductNames"__id* 
+
+$expectedProductNamesarrayçä
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\AttributeSearchWeightTest.phpP R(	
+%1*@>
+<magento\catalogsearch\model\search\attributesearchweighttest*ge
+cMC-33824: Stabilize skipped test cases for Integration AttributeSearchWeightTest with Elasticsearch2marktestskippedœ™
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\AttributeSearchWeightTest.phpS S(8
+%2*@>
+<magento\catalogsearch\model\search\attributesearchweighttest*
+
+$attributeWeights2updateattributesweight‹
+ˆ
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\AttributeSearchWeightTest.phpT T(7
+%3"__id*X*V>
+<magento\catalogsearch\model\search\attributesearchweighttest"
+quickSearchByQueryÎË
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\AttributeSearchWeightTest.phpT T(N
+%4*
+
+%3*
+
+$searchQuery2executeÎË
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\AttributeSearchWeightTest.phpT T(g
+%5*
+
+%4*
+name2getcolumnvaluesÊ
+Ç
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\AttributeSearchWeightTest.phpT T(g
+$actualProductNames"__id*
+
+%5×Ô
+Ÿ
+”C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\CatalogSearch\Model\Search\AttributeSearchWeightTest.phpU U(m
+%6*@>
+<magento\catalogsearch\model\search\attributesearchweighttest*
+
+$expectedProductNames*
+
+$actualProductNames*&$
+"Products order is not as expected.2assertequals*
+2:
+$searchQuerystring:
+$attributeWeightsarray:
+$expectedProductNamesarrayB@>
+<magento\catalogsearch\model\search\attributesearchweighttest

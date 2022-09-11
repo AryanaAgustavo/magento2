@@ -1,0 +1,171 @@
+
+.magento\sales\model\refundinvoice::__constructl
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpb b("1*ž
+2
+RefundInvoice.php"ƒ
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpz z(
+implicit return*‹$
+1l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpo o(8Ñ
+Î
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpb b(
+$resourceConnection"__id*A
+?
+$resourceConnection(magento\framework\app\resourceconnectionÞ
+Û
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpb b(
+$orderStateResolver"__id*N
+L
+$orderStateResolver5magento\sales\model\order\orderstateresolverinterfaceÍ
+Ê
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpb b(
+$orderRepository"__id*@
+>
+$orderRepository*magento\sales\api\orderrepositoryinterfaceÓ
+Ð
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpb b(
+$invoiceRepository"__id*D
+B
+$invoiceRepository,magento\sales\api\invoicerepositoryinterfaceÒ
+Ï
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpb b(
+
+$validator"__id*K
+I
+
+$validator;magento\sales\model\order\validation\refundinvoiceinterfaceÜ
+Ù
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpb b(
+$creditmemoRepository"__id*J
+H
+$creditmemoRepository/magento\sales\api\creditmemorepositoryinterfaceÏ
+Ì
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpb b(
+$refundAdapter"__id*D
+B
+$refundAdapter0magento\sales\model\order\refundadapterinterfaceê
+ç
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpb b(
+$creditmemoDocumentFactory"__id*S
+Q
+$creditmemoDocumentFactory3magento\sales\model\order\creditmemodocumentfactoryË
+È
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpb b(
+	$notifier"__id*E
+C
+	$notifier6magento\sales\model\order\creditmemo\notifierinterface±
+®
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpb b(	
+$config"__id*-
++
+$config magento\sales\model\order\config¨
+¥
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpb b(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÍ
+Ê
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpo o(7;#
+!magento\sales\model\refundinvoice"
+resourceConnection"__id*
+
+$resourceConnectionÍ
+Ê
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpp p(7;#
+!magento\sales\model\refundinvoice"
+orderStateResolver"__id*
+
+$orderStateResolverÇ
+Ä
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpq q(18#
+!magento\sales\model\refundinvoice"
+orderRepository"__id*
+
+$orderRepositoryË
+È
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpr r(5:#
+!magento\sales\model\refundinvoice"
+invoiceRepository"__id*
+
+$invoiceRepository»
+¸
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phps s(%2#
+!magento\sales\model\refundinvoice"
+	validator"__id*
+
+
+$validatorÑ
+Î
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpt t(;=#
+!magento\sales\model\refundinvoice"
+creditmemoRepository"__id*
+
+$creditmemoRepositoryÃ
+À
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpu u(-6#
+!magento\sales\model\refundinvoice"
+refundAdapter"__id*
+
+$refundAdapterÛ
+Ø
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpv v(EB#
+!magento\sales\model\refundinvoice"
+creditmemoDocumentFactory"__id*
+
+$creditmemoDocumentFactory¹
+¶
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpw w(#1#
+!magento\sales\model\refundinvoice"
+
+notifier"__id*
+
+	$notifierµ
+²
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpx x(/#
+!magento\sales\model\refundinvoice"
+config"__id*
+	
+$configµ
+²
+l
+bC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\RefundInvoice.phpy y(/#
+!magento\sales\model\refundinvoice"
+logger"__id*
+	
+$logger*
+2:?
+$resourceConnection(magento\framework\app\resourceconnection:L
+$orderStateResolver5magento\sales\model\order\orderstateresolverinterface:>
+$orderRepository*magento\sales\api\orderrepositoryinterface:B
+$invoiceRepository,magento\sales\api\invoicerepositoryinterface:I
+
+$validator;magento\sales\model\order\validation\refundinvoiceinterface:H
+$creditmemoRepository/magento\sales\api\creditmemorepositoryinterface:B
+$refundAdapter0magento\sales\model\order\refundadapterinterface:Q
+$creditmemoDocumentFactory3magento\sales\model\order\creditmemodocumentfactory:C
+	$notifier6magento\sales\model\order\creditmemo\notifierinterface:+
+$config magento\sales\model\order\config:"
+$loggerpsr\log\loggerinterfaceB%#
+!magento\sales\model\refundinvoice

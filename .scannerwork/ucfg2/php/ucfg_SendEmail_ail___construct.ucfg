@@ -1,0 +1,82 @@
+
+Amagento\sendfriendgraphql\model\sendfriend\sendemail::__construct
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriendGraphQl\Model\SendFriend\SendEmail.php; ;("1*­
+2
+SendEmail.php"–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriendGraphQl\Model\SendFriend\SendEmail.phpG G(
+implicit return*Û
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriendGraphQl\Model\SendFriend\SendEmail.phpB B(6Ý
+Ú
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriendGraphQl\Model\SendFriend\SendEmail.php; ;(
+$dataObjectFactory"__id*;
+9
+$dataObjectFactory#magento\framework\dataobjectfactoryè
+å
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriendGraphQl\Model\SendFriend\SendEmail.php; ;(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceä
+á
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriendGraphQl\Model\SendFriend\SendEmail.php; ;(
+$sendFriendFactory"__id*B
+@
+$sendFriendFactory*magento\sendfriend\model\sendfriendfactoryØ
+Õ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriendGraphQl\Model\SendFriend\SendEmail.php; ;(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceþ
+û
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriendGraphQl\Model\SendFriend\SendEmail.php; ;(
+$visibleProductProvider"__id*W
+U
+$visibleProductProvider:magento\sendfriendgraphql\model\provider\getvisibleproductñ
+î
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriendGraphQl\Model\SendFriend\SendEmail.phpB B(5M6
+4magento\sendfriendgraphql\model\sendfriend\sendemail"
+dataObjectFactory"__id*
+
+$dataObjectFactoryñ
+î
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriendGraphQl\Model\SendFriend\SendEmail.phpC C(5M6
+4magento\sendfriendgraphql\model\sendfriend\sendemail"
+productRepository"__id*
+
+$productRepositoryñ
+î
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriendGraphQl\Model\SendFriend\SendEmail.phpD D(5M6
+4magento\sendfriendgraphql\model\sendfriend\sendemail"
+sendFriendFactory"__id*
+
+$sendFriendFactoryç
+ä
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriendGraphQl\Model\SendFriend\SendEmail.phpE E(+H6
+4magento\sendfriendgraphql\model\sendfriend\sendemail"
+eventManager"__id*
+
+$eventManagerû
+ø
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SendFriendGraphQl\Model\SendFriend\SendEmail.phpF F(?R6
+4magento\sendfriendgraphql\model\sendfriend\sendemail"
+visibleProductProvider"__id*
+
+$visibleProductProvider*
+2:9
+$dataObjectFactory#magento\framework\dataobjectfactory:D
+$productRepository.magento\catalog\api\productrepositoryinterface:@
+$sendFriendFactory*magento\sendfriend\model\sendfriendfactory:9
+$eventManager(magento\framework\event\managerinterface:U
+$visibleProductProvider:magento\sendfriendgraphql\model\provider\getvisibleproductB86
+4magento\sendfriendgraphql\model\sendfriend\sendemail

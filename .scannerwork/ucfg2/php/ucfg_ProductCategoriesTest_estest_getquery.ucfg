@@ -1,0 +1,40 @@
+
+?magento\graphql\catalog\product\productcategoriestest::getqueryù
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\Product\ProductCategoriesTest.phpê ê("1*ﬁ
+1ù
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\Product\ProductCategoriesTest.phpí £(√
+¿
+ù
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\Product\ProductCategoriesTest.phpê ê(
+$sku"__id*
+
+$skustring«
+ƒ
+ù
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\Product\ProductCategoriesTest.phpí £(
+%1"__concat*(&
+${
+  products(filter: { sku: { eq: "*›⁄
+◊"} }){
+   	items {
+      categories {
+        name
+        id
+        url_path
+        breadcrumbs {
+          category_id
+          category_name
+          category_level
+        }
+      }
+    }
+  }
+}*
+
+$sku"®
+ù
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\Product\ProductCategoriesTest.phpí £(
+
+%1:
+$skustringB97
+5magento\graphql\catalog\product\productcategoriestest

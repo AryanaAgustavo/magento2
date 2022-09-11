@@ -1,0 +1,79 @@
+
+Dmagento\framework\app\test\unit\response\httptest::testrepresentjsonÇ
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Response\HttpTest.php√ √(%"1*∞
+2
+HttpTest.php"ö
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Response\HttpTest.php… …(
+implicit return*€
+1Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Response\HttpTest.php≈ ≈(C÷
+”
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Response\HttpTest.php≈ ≈(
+%1"__id*@*>3
+1magento\framework\app\test\unit\response\httptest"
+model»≈
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Response\HttpTest.php≈ ≈(B
+%2*
+
+%1*
+Content-Type*
+text/javascript2	setheader÷
+”
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Response\HttpTest.php∆ ∆(
+%3"__id*@*>3
+1magento\framework\app\test\unit\response\httptest"
+model∂≥
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Response\HttpTest.php∆ ∆(2
+%4*
+
+%3*
+json_string2representjson÷
+”
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Response\HttpTest.php«0 «(<
+%5"__id*@*>3
+1magento\framework\app\test\unit\response\httptest"
+model≥∞
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Response\HttpTest.php«0 «(W
+%6*
+
+%5*
+Content-Type2	getheader•¢
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Response\HttpTest.php«0 «(h
+%7*
+
+%62getfieldvalueÒÓ
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Response\HttpTest.php« «(i
+%8*53
+1magento\framework\app\test\unit\response\httptest*
+application/json*
+
+%72assertequals÷
+”
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Response\HttpTest.php»+ »(7
+%9"__id*@*>3
+1magento\framework\app\test\unit\response\httptest"
+model†ù
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Response\HttpTest.php»+ »(B
+%10*
+
+%92getbodyÓÎ
+Ç
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\App\Test\Unit\Response\HttpTest.php» »(C
+%11*53
+1magento\framework\app\test\unit\response\httptest*
+json_string*
+
+%102assertequals*
+2B53
+1magento\framework\app\test\unit\response\httptest

@@ -1,0 +1,139 @@
+
+=magento\backend\app\action\plugin\authentication::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpR R("1*®
+2
+Authentication.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpf f(
+implicit return*Ó
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.php] ](¶
+³
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpR R(
+$auth"__id*%
+#
+$authmagento\backend\model\auth¼
+¹
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpR R(
+$url"__id*,
+*
+$url"magento\backend\model\urlinterfaceË
+È
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpR R(
+	$response"__id*6
+4
+	$response'magento\framework\app\responseinterfaceÈ
+Å
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpR R(
+$actionFlag"__id*1
+/
+$actionFlag magento\framework\app\actionflagÚ
+×
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpR R(
+$messageManager"__id*?
+=
+$messageManager*magento\framework\message\managerinterfaceÊ
+Ç
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpR R(
+$backendUrl"__id*3
+1
+$backendUrl"magento\backend\model\urlinterfaceñ
+î
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpR R(
+$resultRedirectFactory"__id*O
+M
+$resultRedirectFactory3magento\framework\controller\result\redirectfactoryÒ
+Ï
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpR R(
+$backendAppList"__id*7
+5
+$backendAppList"magento\backend\app\backendapplistá
+Þ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpR R(
+$formKeyValidator"__id*D
+B
+$formKeyValidator-magento\framework\data\form\formkey\validatorÐ
+Í
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.php] ](=2
+0magento\backend\app\action\plugin\authentication"
+_auth"__id*	
+
+$authÎ
+Ë
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.php^ ^(<2
+0magento\backend\app\action\plugin\authentication"
+_url"__id*
+
+$urlØ
+Õ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.php_ _($A2
+0magento\backend\app\action\plugin\authentication"
+	_response"__id*
+
+	$responseÜ
+Ù
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.php` `((C2
+0magento\backend\app\action\plugin\authentication"
+_actionFlag"__id*
+
+$actionFlagã
+à
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpa a(/F2
+0magento\backend\app\action\plugin\authentication"
+messageManager"__id*
+
+$messageManagerÛ
+Ø
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpb b('B2
+0magento\backend\app\action\plugin\authentication"
+
+backendUrl"__id*
+
+$backendUrlñ
+î
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpc c(=M2
+0magento\backend\app\action\plugin\authentication"
+resultRedirectFactory"__id*
+
+$resultRedirectFactoryã
+à
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpd d(/F2
+0magento\backend\app\action\plugin\authentication"
+backendAppList"__id*
+
+$backendAppListç
+ä
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\App\Action\Plugin\Authentication.phpe e(3H2
+0magento\backend\app\action\plugin\authentication"
+formKeyValidator"__id*
+
+$formKeyValidator*
+2:#
+$authmagento\backend\model\auth:*
+$url"magento\backend\model\urlinterface:4
+	$response'magento\framework\app\responseinterface:/
+$actionFlag magento\framework\app\actionflag:=
+$messageManager*magento\framework\message\managerinterface:1
+$backendUrl"magento\backend\model\urlinterface:M
+$resultRedirectFactory3magento\framework\controller\result\redirectfactory:5
+$backendAppList"magento\backend\app\backendapplist:B
+$formKeyValidator-magento\framework\data\form\formkey\validatorB42
+0magento\backend\app\action\plugin\authentication

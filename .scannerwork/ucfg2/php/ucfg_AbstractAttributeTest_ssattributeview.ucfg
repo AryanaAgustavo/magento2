@@ -1,0 +1,103 @@
+
+Xmagento\catalog\block\product\view\attribute\abstractattributetest::processattributeview¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpP P(+"1*à
+2
+AbstractAttributeTest.php"½
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpZ Z(
+implicit return*‰
+1¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpU U(@Ë
+È
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpP P(+
+$sku"__id*
+
+$skustringá
+Þ
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpP P(+
+$attributeValue"__id*
+
+$attributeValuestringñ
+î
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpP P(+
+$expectedAttributeValue"__id*#
+!
+$expectedAttributeValuestring¹¶
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpU U(>
+%1"$Arrayæ
+ã
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpU U(>
+%2"__mapSet*
+
+%1*
+is_visible_on_front*
+true’
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpU U(?
+%3*FD
+Bmagento\catalog\block\product\view\attribute\abstractattributetest*
+
+%12updateattribute§¤
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpV V(>
+%4*FD
+Bmagento\catalog\block\product\view\attribute\abstractattributetest*
+
+$sku*
+
+$attributeValue2updateproductÅ
+Â
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpV V(>
+
+$product"__id*
+
+%4˜•
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpW W((
+%5*FD
+Bmagento\catalog\block\product\view\attribute\abstractattributetest*
+
+
+$product2registerproductŠ
+‡
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpX X(
+%6"__id*Q*OD
+Bmagento\catalog\block\product\view\attribute\abstractattributetest"
+blockÌÉ
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpX X(1
+%7*
+
+%62getadditionaldataÂ
+¿
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpX X(1
+$data"__id*
+
+%7«¨
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpY Y(O
+%8*FD
+Bmagento\catalog\block\product\view\attribute\abstractattributetest*
+
+$expectedAttributeValue2prepareexpecteddataš—
+¥
+šC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\View\Attribute\AbstractAttributeTest.phpY Y(W
+%9*FD
+Bmagento\catalog\block\product\view\attribute\abstractattributetest*
+
+%8*	
+
+$data2assertequals*
+2:
+$skustring:
+$attributeValuestring:!
+$expectedAttributeValuestringBFD
+Bmagento\catalog\block\product\view\attribute\abstractattributetest

@@ -1,0 +1,105 @@
+
+Amagento\vault\model\resourcemodel\paymenttoken::getbygatewaytokeny
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.php8 8(%"1*Þ
+2y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.phpA A(E¾»
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.phpA A(D
+%7*
+	
+$select*
+customer_id = ?*
+
+$customerId2where—
+”
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.phpA A(D	
+$select"__id*
+
+%7*
+4*Ñ
+3y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.phpC C(<±®
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.phpC C(;
+%8*
+	
+$select*
+customer_id IS NULL2where—
+”
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.phpC C(;	
+$select"__id*
+
+%8*
+4*³
+4y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.phpE E(.¬©
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.phpE E(-
+%9*
+
+$connection*
+	
+$select2fetchrow"ƒ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.phpE E(.
+
+%9*’
+1y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.php: :(-ÇÄ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.php: :(,
+%1*20
+.magento\vault\model\resourcemodel\paymenttoken2getconnection›
+˜
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.php: :(,
+$connection"__id*
+
+%1š
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.php; <(
+%2*
+
+$connection2selectÆÃ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.php= =((
+%3*20
+.magento\vault\model\resourcemodel\paymenttoken2getmaintableš—
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.php; =()
+%4*
+
+%2*
+
+%32from¶³
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.php; >(0
+%5*
+
+%4*
+gateway_token = ?*
+
+
+$token2whereÈÅ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.php; ?(B
+%6*
+
+%5*
+payment_method_code = ?*
+
+$paymentMethodCode2where—
+”
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Vault\Model\ResourceModel\PaymentToken.php; ?(B	
+$select"__id*
+
+%6*
+2
+3:
+$token:
+$paymentMethodCode:
+$customerIdB20
+.magento\vault\model\resourcemodel\paymenttoken

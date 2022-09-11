@@ -1,0 +1,117 @@
+
+Emagento\asynchronousoperations\model\operationrepository::__constructƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpG G("1*¼
+2
+OperationRepository.php"›
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpX X(
+implicit return*Á
+1ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpP P(.ä
+á
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpG G(
+$entityManager"__id*A
+?
+$entityManager-magento\framework\entitymanager\entitymanager
+Š
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpG G(
+$collectionFactory"__id*f
+d
+$collectionFactoryNmagento\asynchronousoperations\model\resourcemodel\operation\collectionfactory‘
+Ž
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpG G(
+$searchResultFactory"__id*h
+f
+$searchResultFactoryNmagento\asynchronousoperations\api\data\operationsearchresultsinterfacefactoryö
+ó
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpG G(
+$joinProcessor"__id*S
+Q
+$joinProcessor?magento\framework\api\extensionattribute\joinprocessorinterface‹
+ˆ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpG G(
+$operationExtension"__id*c
+a
+$operationExtensionJmagento\asynchronousoperations\api\data\operationextensioninterfacefactory„
+
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpG G(
+$collectionProcessor"__id*[
+Y
+$collectionProcessorAmagento\framework\api\searchcriteria\collectionprocessorinterfaceÀ
+½
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpG G(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceò
+ï
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpP P(-M:
+8magento\asynchronousoperations\model\operationrepository"
+entityManager"__id*
+
+$entityManagerú
+÷
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpQ Q(5Q:
+8magento\asynchronousoperations\model\operationrepository"
+collectionFactory"__id*
+
+$collectionFactoryþ
+û
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpR R(9S:
+8magento\asynchronousoperations\model\operationrepository"
+searchResultFactory"__id*
+
+$searchResultFactoryò
+ï
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpS S(-M:
+8magento\asynchronousoperations\model\operationrepository"
+joinProcessor"__id*
+
+$joinProcessorƒ
+€
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpT T(>Y:
+8magento\asynchronousoperations\model\operationrepository"
+operationExtensionFactory"__id*
+
+$operationExtensionþ
+û
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpU U(9S:
+8magento\asynchronousoperations\model\operationrepository"
+collectionProcessor"__id*
+
+$collectionProcessorä
+á
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpV V(F:
+8magento\asynchronousoperations\model\operationrepository"
+logger"__id*
+	
+$loggerþ
+û
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AsynchronousOperations\Model\OperationRepository.phpW W(9S:
+8magento\asynchronousoperations\model\operationrepository"
+collectionProcessor"__id*
+
+$collectionProcessor*
+2:?
+$entityManager-magento\framework\entitymanager\entitymanager:d
+$collectionFactoryNmagento\asynchronousoperations\model\resourcemodel\operation\collectionfactory:f
+$searchResultFactoryNmagento\asynchronousoperations\api\data\operationsearchresultsinterfacefactory:Q
+$joinProcessor?magento\framework\api\extensionattribute\joinprocessorinterface:a
+$operationExtensionJmagento\asynchronousoperations\api\data\operationextensioninterfacefactory:Y
+$collectionProcessorAmagento\framework\api\searchcriteria\collectionprocessorinterface:"
+$loggerpsr\log\loggerinterfaceB<:
+8magento\asynchronousoperations\model\operationrepository

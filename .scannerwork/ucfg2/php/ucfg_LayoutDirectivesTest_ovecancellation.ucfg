@@ -1,0 +1,76 @@
+
+Cmagento\framework\view\layoutdirectivestest::testremovecancellation
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\LayoutDirectivesTest.phpØ Ø(*"1*Ê
+2
+LayoutDirectivesTest.php"¨
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\LayoutDirectivesTest.phpß ß(
+implicit return*ô
+1
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\LayoutDirectivesTest.phpÚ Ú(Dûø
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\LayoutDirectivesTest.phpÚ Ú(C
+%1*/-
++magento\framework\view\layoutdirectivestest*
+remove_cancellation.xml2_getlayoutmodel¯
+¬
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\LayoutDirectivesTest.phpÚ Ú(C	
+$layout"__id*
+
+%1ÆÃ
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\LayoutDirectivesTest.phpÛ Û(<
+%2*
+	
+$layout*
+
+container12iscontaineráŞ
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\LayoutDirectivesTest.phpÛ Û(=
+%3*/-
++magento\framework\view\layoutdirectivestest*
+
+%22
+asserttrueÄÁ
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\LayoutDirectivesTest.phpÜ Ü(:
+%4*
+	
+$layout*
+child_block12isblockáŞ
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\LayoutDirectivesTest.phpÜ Ü(;
+%5*/-
++magento\framework\view\layoutdirectivestest*
+
+%42
+asserttrueÀ½
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\LayoutDirectivesTest.phpİ İ(6
+%6*
+	
+$layout*
+
+no_name22isblockáŞ
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\LayoutDirectivesTest.phpİ İ(7
+%7*/-
++magento\framework\view\layoutdirectivestest*
+
+%62
+asserttrueÂ¿
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\LayoutDirectivesTest.phpŞ Ş(9
+%8*
+	
+$layout*
+	not_exist2getblockâß
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\View\LayoutDirectivesTest.phpŞ Ş(:
+%9*/-
++magento\framework\view\layoutdirectivestest*
+
+%82assertfalse*
+2B/-
++magento\framework\view\layoutdirectivestest

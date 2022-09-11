@@ -1,0 +1,84 @@
+
+4magento\customer\block\widget\gendertest::testtohtmlã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Widget\GenderTest.php6 6("1*ª
+2
+GenderTest.php"£
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Widget\GenderTest.php> >(
+implicit return*ï
+1ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Widget\GenderTest.php8 8((◊
+‘
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Widget\GenderTest.php8 8(
+%1"__id*8*6*
+(magento\customer\block\widget\gendertest"
+_blockß§
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Widget\GenderTest.php8 8('
+%2*
+
+%12tohtml®
+•
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Widget\GenderTest.php8 8('
+$html"__id*
+
+%2◊
+‘
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Widget\GenderTest.php9 9('
+%3"__id*8*6*
+(magento\customer\block\widget\gendertest"
+_modelÆ´
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Widget\GenderTest.php9 9(8
+%4*
+
+%32getstorelabel≤
+Ø
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Widget\GenderTest.php9 9(8
+$attributeLabel"__id*
+
+%4œ
+Ã
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Widget\GenderTest.php:* :(P
+%5"__concat*
+
+<span>*
+
+$attributeLabel*	
+</span>ÙÒ
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Widget\GenderTest.php: :(X
+%6*,*
+(magento\customer\block\widget\gendertest*
+
+%5*	
+
+$html2assertstringcontainsstringëé
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Widget\GenderTest.php; ;(S
+%7*,*
+(magento\customer\block\widget\gendertest*#!
+<option value="1">Male</option>*	
+
+$html2assertstringcontainsstringìê
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Widget\GenderTest.php< <(U
+%8*,*
+(magento\customer\block\widget\gendertest*%#
+!<option value="2">Female</option>*	
+
+$html2assertstringcontainsstringöó
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Customer\Block\Widget\GenderTest.php= =(\
+%9*,*
+(magento\customer\block\widget\gendertest*,*
+(<option value="3">Not Specified</option>*	
+
+$html2assertstringcontainsstring*
+2B,*
+(magento\customer\block\widget\gendertest

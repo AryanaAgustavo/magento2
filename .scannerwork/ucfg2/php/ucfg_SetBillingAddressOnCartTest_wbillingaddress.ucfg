@@ -1,0 +1,162 @@
+
+Qmagento\graphql\quote\guest\setbillingaddressoncarttest::testsetnewbillingaddressù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php% %(,"1*ﬁ
+2!
+SetBillingAddressOnCartTest.php"µ
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpX X(
+implicit return*Í&
+1ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php' '(Yì
+ê
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php' '(A
+%1"__id*b*`9
+7magento\graphql\quote\guest\setbillingaddressoncarttest"#
+!getMaskedQuoteIdByReservedOrderId «
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php' '(X
+%2*
+
+%1*
+
+test_quote2execute√
+¿
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php' '(X
+$maskedQuoteId"__id*
+
+%2Ø
+¨
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php) O(
+%3"__concat*JH
+Fmutation {
+  setBillingAddressOnCart(
+    input: {
+      cart_id: "*ôñ
+ì"
+      billing_address: {
+         address: {
+          firstname: "test firstname"
+          lastname: "test lastname"
+          company: "test company"
+          street: ["test street 1", "test street 2"]
+          city: "test city"
+          region: "AL"
+          postcode: "887766"
+          country_code: "US"
+          telephone: "88776655"
+         }
+      }
+    }
+  ) {
+    cart {
+      billing_address {
+        firstname
+        lastname
+        company
+        street
+        city
+        postcode
+        telephone
+        country {
+          code
+          label
+        }
+        __typename
+      }
+    }
+  }
+}*
+
+$maskedQuoteIdª
+∏
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php) O(
+$query"__id*
+
+%3ÉÄ
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpP P(2
+%4*;9
+7magento\graphql\quote\guest\setbillingaddressoncarttest*
+
+
+$query2graphqlmutationæ
+ª
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpP P(2
+	$response"__id*
+
+%4ﬂ
+‹
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpR( R(L
+%5"__mapGet*
+
+	$response*
+setBillingAddressOnCartƒ
+¡
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpR R(M
+%6"Jmagento\graphql\quote\guest\setbillingaddressoncarttest::assertarrayhaskey*;"9
+7magento\graphql\quote\guest\setbillingaddressoncarttest*
+cart*
+
+%5ﬂ
+‹
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpS S(<
+%7"__mapGet*
+
+	$response*
+setBillingAddressOnCart≈
+¬
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpS S(D
+%8"__mapGet*
+
+%7*
+cart¬
+ø
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpS S(D
+$cartResponse"__id*
+
+%8⁄
+◊
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpT T(A
+%9"Jmagento\graphql\quote\guest\setbillingaddressoncarttest::assertarrayhaskey*;"9
+7magento\graphql\quote\guest\setbillingaddressoncarttest*
+billing_address*
+
+$cartResponse‹
+Ÿ
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpU" U(B
+%10"__mapGet*
+
+$cartResponse*
+billing_addressÕ
+ 
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpU U(B
+$billingAddressResponse"__id*
+
+%10úô
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpV V(>
+%11*;9
+7magento\graphql\quote\guest\setbillingaddressoncarttest*
+
+$billingAddressResponse2assertnewaddressfieldsúô
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpW W(>
+%12*;9
+7magento\graphql\quote\guest\setbillingaddressoncarttest*
+
+$billingAddressResponse2assertnewaddressfields*
+2B;9
+7magento\graphql\quote\guest\setbillingaddressoncarttest

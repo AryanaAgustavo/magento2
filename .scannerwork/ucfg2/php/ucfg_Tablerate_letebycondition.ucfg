@@ -1,0 +1,53 @@
+
+Pmagento\offlineshipping\model\resourcemodel\carrier\tablerate::deletebyconditionŠ
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\OfflineShipping\Model\ResourceModel\Carrier\Tablerate.phpÐ Ð(&"1*Þ
+1Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\OfflineShipping\Model\ResourceModel\Carrier\Tablerate.phpÒ Ò(-»
+¸
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\OfflineShipping\Model\ResourceModel\Carrier\Tablerate.phpÐ Ð(&
+
+$condition"__id*
+
+
+$conditionarrayèå
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\OfflineShipping\Model\ResourceModel\Carrier\Tablerate.phpÒ Ò(,
+%1*A?
+=magento\offlineshipping\model\resourcemodel\carrier\tablerate2getconnection­
+ª
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\OfflineShipping\Model\ResourceModel\Carrier\Tablerate.phpÒ Ò(,
+$connection"__id*
+
+%1¹¶
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\OfflineShipping\Model\ResourceModel\Carrier\Tablerate.phpÓ Ó('
+%2*
+
+$connection2begintransactionçä
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\OfflineShipping\Model\ResourceModel\Carrier\Tablerate.phpÔ Ô(1
+%3*A?
+=magento\offlineshipping\model\resourcemodel\carrier\tablerate2getmaintableÇÄ
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\OfflineShipping\Model\ResourceModel\Carrier\Tablerate.phpÔ Ô(>
+%4*
+
+$connection*
+
+%3*
+
+
+$condition2delete¯¬
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\OfflineShipping\Model\ResourceModel\Carrier\Tablerate.phpÕ Õ(
+%5*
+
+$connection2commit"Ð
+Š
+~C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\OfflineShipping\Model\ResourceModel\Carrier\Tablerate.phpÖ Ö(A?
+=magento\offlineshipping\model\resourcemodel\carrier\tablerate:
+
+$conditionarrayBA?
+=magento\offlineshipping\model\resourcemodel\carrier\tablerate

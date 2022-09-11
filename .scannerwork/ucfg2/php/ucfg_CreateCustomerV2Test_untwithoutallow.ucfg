@@ -1,0 +1,265 @@
+
+bmagento\graphql\loginascustomergraphql\createcustomerv2test::testcreatecustomeraccountwithoutallow£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.phpÖ Ö(9"1*›
+2
+CreateCustomerV2Test.php"ª
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php™ ™(
+implicit return*É>
+1£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.phpá á("Õ
+ 
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.phpá á(!
+$newFirstname"__id*	
+Richard…
+∆
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.phpà à(
+$newLastname"__id*
+Rowe—
+Œ
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.phpâ â(%
+$currentPassword"__id*
+
+test123#⁄
+◊
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.phpä ä(.
+	$newEmail"__id*
+new_customer@example.comµ
+≤
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.phpå °(
+%1"__concat*QO
+Mmutation {
+    createCustomerV2(
+        input: {
+            firstname: "*
+"
+            lastname: "*
+"
+            email: "*
+"
+            password: "*ˇ¸
+˘"
+            is_subscribed: true,
+        }
+    ) {
+        customer {
+            id
+            firstname
+            lastname
+            email
+            is_subscribed
+            allow_remote_shopping_assistance
+        }
+    }
+}*
+
+$newFirstname*
+
+$newLastname*
+
+	$newEmail*
+
+$currentPassword¡
+æ
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.phpå °(
+$query"__id*
+
+%1çä
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php¢ ¢(2
+%2*?=
+;magento\graphql\loginascustomergraphql\createcustomerv2test*
+
+
+$query2graphqlmutationƒ
+¡
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php¢ ¢(2
+	$response"__id*
+
+%2ﬁ
+€
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php§ §(7
+%3"__mapGet*
+
+	$response*
+createCustomerV2œ
+Ã
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php§ §(C
+%4"__mapGet*
+
+%3*
+
+customer…
+∆
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php§ §(I
+%5"__mapGet*
+
+%4*
+idÑÅ
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php§ §(J
+%6*?=
+;magento\graphql\loginascustomergraphql\createcustomerv2test*
+
+%52
+assertnullﬁ
+€
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php•+ •(H
+%7"__mapGet*
+
+	$response*
+createCustomerV2œ
+Ã
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php•+ •(T
+%8"__mapGet*
+
+%7*
+
+customer–
+Õ
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php•+ •(a
+%9"__mapGet*
+
+%8*
+	firstnameöó
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php• •(b
+%10*?=
+;magento\graphql\loginascustomergraphql\createcustomerv2test*
+
+$newFirstname*
+
+%92assertequalsﬂ
+‹
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php¶* ¶(G
+%11"__mapGet*
+
+	$response*
+createCustomerV2—
+Œ
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php¶* ¶(S
+%12"__mapGet*
+
+%11*
+
+customer—
+Œ
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php¶* ¶(_
+%13"__mapGet*
+
+%12*
+
+lastnameöó
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php¶ ¶(`
+%14*?=
+;magento\graphql\loginascustomergraphql\createcustomerv2test*
+
+$newLastname*
+
+%132assertequalsﬂ
+‹
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.phpß' ß(D
+%15"__mapGet*
+
+	$response*
+createCustomerV2—
+Œ
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.phpß' ß(P
+%16"__mapGet*
+
+%15*
+
+customerŒ
+À
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.phpß' ß(Y
+%17"__mapGet*
+
+%16*	
+emailóî
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.phpß ß(Z
+%18*?=
+;magento\graphql\loginascustomergraphql\createcustomerv2test*
+
+	$newEmail*
+
+%172assertequalsﬂ
+‹
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php® ®(7
+%19"__mapGet*
+
+	$response*
+createCustomerV2—
+Œ
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php® ®(C
+%20"__mapGet*
+
+%19*
+
+customer÷
+”
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php® ®(T
+%21"__mapGet*
+
+%20*
+is_subscribedÜÉ
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php® ®(U
+%22*?=
+;magento\graphql\loginascustomergraphql\createcustomerv2test*
+
+%212
+asserttrueﬂ
+‹
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php© ©(8
+%23"__mapGet*
+
+	$response*
+createCustomerV2—
+Œ
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php© ©(D
+%24"__mapGet*
+
+%23*
+
+customerÈ
+Ê
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php© ©(h
+%25"__mapGet*
+
+%24*$"
+ allow_remote_shopping_assistanceáÑ
+£
+ñC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\LoginAsCustomerGraphQl\CreateCustomerV2Test.php© ©(i
+%26*?=
+;magento\graphql\loginascustomergraphql\createcustomerv2test*
+
+%252assertfalse*
+2B?=
+;magento\graphql\loginascustomergraphql\createcustomerv2test

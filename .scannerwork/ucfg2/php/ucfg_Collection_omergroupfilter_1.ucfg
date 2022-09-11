@@ -1,0 +1,136 @@
+
+Omagento\catalogrule\model\resourcemodel\rule\collection::addcustomergroupfilterÑ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpå å(*"1*·
+2Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpê ê(=˛˚
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpê ê(<
+%3*;9
+7magento\catalogrule\model\resourcemodel\rule\collection*
+is_customer_group_joined*
+true2setflagÿ’
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpë ë(
+%4*;9
+7magento\catalogrule\model\resourcemodel\rule\collection2	getselectòï
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpí í(X
+%5"$Array√
+¿
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpí5 í(V
+%6"__mapGet*
+
+$entityInfo*
+associations_tableﬂ‹
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpí% í(W
+%7*;9
+7magento\catalogrule\model\resourcemodel\rule\collection*
+
+%62gettableæ
+ª
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpí í(X
+%8"__mapSet*
+
+%5*
+customer_group*
+
+%7‹Ÿ
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpì ì(&
+%9*;9
+7magento\catalogrule\model\resourcemodel\rule\collection2getconnection¡
+æ
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpî4 î(R
+%10"__mapGet*
+
+$entityInfo*
+entity_id_field√
+¿
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpî  î([
+%11"__concat*
+customer_group.*
+
+%10*
+ = ?√¿
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpì î(n
+%12*
+
+%9*
+
+%11*
+
+$customerGroupId2	quoteintoø
+º
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpï' ï(C
+%13"__mapGet*
+
+$entityInfo*
+rule_id_fieldø
+º
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpñ ñ(.
+%14"__mapGet*
+
+$entityInfo*
+rule_id_field‰
+·
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpì ñ(.
+%15"__concat*
+
+%12*
+ AND main_table.*
+
+%13*
+ = customer_group.*
+
+%14ôñ
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpó ó(
+%16"$Arrayπ∂
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpë ò(
+%17*
+
+%4*
+
+%5*
+
+%15*
+
+%162join*
+3*—
+3Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpö ö("ƒ
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpö ö(;9
+7magento\catalogrule\model\resourcemodel\rule\collection*±
+1Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpé é(H˚¯
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpé é(G
+%1*;9
+7magento\catalogrule\model\resourcemodel\rule\collection*
+customer_group2_getassociatedentityinfoß
+§
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpé é(G
+$entityInfo"__id*
+
+%1ÙÒ
+Ñ
+xC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Model\ResourceModel\Rule\Collection.phpè è(7
+%2*;9
+7magento\catalogrule\model\resourcemodel\rule\collection*
+is_customer_group_joined2getflag*
+2
+3:
+$customerGroupIdB;9
+7magento\catalogrule\model\resourcemodel\rule\collection

@@ -1,0 +1,101 @@
+
+3magento\paypal\model\billing\agreement::__constructq
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Billing\Agreement.phpC C("1*Ÿ
+2
+Agreement.php"ˆ
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Billing\Agreement.phpP P(
+implicit return*Å
+1q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Billing\Agreement.phpM M(f·
+´
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Billing\Agreement.phpC C(
+
+$context"__id*-
++
+$contextmagento\framework\model\context´
+±
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Billing\Agreement.phpC C(
+	$registry"__id*)
+'
+	$registrymagento\framework\registry»
+¸
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Billing\Agreement.phpC C(
+$paymentData"__id*-
++
+$paymentDatamagento\payment\helper\dataþ
+û
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Billing\Agreement.phpC C(
+$billingAgreementFactory"__id*d
+b
+$billingAgreementFactoryFmagento\paypal\model\resourcemodel\billing\agreement\collectionfactoryÑ
+Î
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Billing\Agreement.phpC C(
+$dateFactory"__id*C
+A
+$dateFactory1magento\framework\stdlib\datetime\datetimefactoryÐ
+Í
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Billing\Agreement.phpC C(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceÚ
+×
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Billing\Agreement.phpC C(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb—
+”
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Billing\Agreement.phpC C(
+$data"__id*
+
+$dataarrayÇ
+Ä
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Billing\Agreement.phpM M(e
+%1";magento\paypal\model\billing\abstractagreement::__construct**(
+&magento\paypal\model\billing\agreement*
+
+
+$context*
+
+	$registry*
+
+$paymentData*
+
+	$resource*
+
+$resourceCollection*	
+
+$dataâ
+ß
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Billing\Agreement.phpN N(BF(
+&magento\paypal\model\billing\agreement"
+_billingAgreementFactory"__id*
+
+$billingAgreementFactoryÊ
+Ç
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Model\Billing\Agreement.phpO O(*:(
+&magento\paypal\model\billing\agreement"
+_dateFactory"__id*
+
+$dateFactory*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:+
+$paymentDatamagento\payment\helper\data:b
+$billingAgreementFactoryFmagento\paypal\model\resourcemodel\billing\agreement\collectionfactory:A
+$dateFactory1magento\framework\stdlib\datetime\datetimefactory:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB*(
+&magento\paypal\model\billing\agreement

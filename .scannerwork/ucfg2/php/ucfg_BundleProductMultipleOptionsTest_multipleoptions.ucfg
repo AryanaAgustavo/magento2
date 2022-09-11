@@ -1,0 +1,99 @@
+
+]magento\graphql\bundle\bundleproductmultipleoptionstest::testbundleproductwithmultipleoptionsù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductMultipleOptionsTest.php( ((8"1*„
+2&
+$BundleProductMultipleOptionsTest.php"µ
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductMultipleOptionsTest.phpZ Z(
+implicit return*£
+1ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductMultipleOptionsTest.php* *('Ó
+Î
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductMultipleOptionsTest.php( ((8
+$bundleProductDataProvider"__id*%
+#
+$bundleProductDataProviderarrayÃ
+…
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductMultipleOptionsTest.php* *(&
+$productSku"__id*
+bundle-productâ	
+Ü	
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductMultipleOptionsTest.php, V(
+%1"__concat*(&
+${
+    products(filter: {sku: {eq: "*òï
+í"}}) {
+        items {
+        sku
+        type_id
+        id
+        name
+        ... on BundleProduct {
+            dynamic_sku
+            dynamic_price
+            dynamic_weight
+            price_view
+            ship_bundle_items
+            items {
+                option_id
+                title
+                required
+                type
+                position
+                sku
+                options {
+                    id
+                    quantity
+                    position
+                    is_default
+                    price
+                    price_type
+                    can_change_quantity
+                    label
+                    product {
+                        id
+                        name
+                        sku
+                        type_id
+                    }
+                }
+            }
+        }
+    }
+}
+}*
+
+$productSkuª
+∏
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductMultipleOptionsTest.php+ V(
+$query"__id*
+
+%1Ä˝
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductMultipleOptionsTest.phpX X(/
+%2*;9
+7magento\graphql\bundle\bundleproductmultipleoptionstest*
+
+
+$query2graphqlqueryæ
+ª
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductMultipleOptionsTest.phpX X(/
+	$response"__id*
+
+%2™ß
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Bundle\BundleProductMultipleOptionsTest.phpY Y(I
+%3*;9
+7magento\graphql\bundle\bundleproductmultipleoptionstest*
+
+	$response*
+
+$bundleProductDataProvider2assertbundleproduct*
+2:#
+$bundleProductDataProviderarrayB;9
+7magento\graphql\bundle\bundleproductmultipleoptionstest

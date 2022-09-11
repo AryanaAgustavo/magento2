@@ -1,0 +1,123 @@
+
+Gmagento\catalog\block\adminhtml\product\edit\tab\inventory::__construct…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.php> >("1*´
+2
+Inventory.php"
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.phpO O(
+implicit return*Ï
+1…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.phpH H(Ó
+Ð
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.php> >(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\contextã
+à
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.php> >(
+$backorders"__id*A
+?
+$backorders0magento\cataloginventory\model\source\backordersÔ
+Ñ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.php> >(
+$stock"__id*7
+5
+$stock+magento\cataloginventory\model\source\stockÙ
+Ö
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.php> >(
+$moduleManager"__id*4
+2
+$moduleManager magento\framework\module\managerÑ
+Î
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.php> >(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryì
+é
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.php> >(
+$stockRegistry"__id*G
+E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterfaceû
+ø
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.php> >(
+$stockConfiguration"__id*Q
+O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterface¬
+©
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.php> >(
+$data"__id*
+
+$dataarrayæ
+ã
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.phpH H(G<
+:magento\catalog\block\adminhtml\product\edit\tab\inventory"
+stock"__id*
+
+
+$stockð
+í
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.phpI I('L<
+:magento\catalog\block\adminhtml\product\edit\tab\inventory"
+
+backorders"__id*
+
+$backordersö
+ó
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.phpJ J(-O<
+:magento\catalog\block\adminhtml\product\edit\tab\inventory"
+moduleManager"__id*
+
+$moduleManagerô
+ñ
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.phpK K(+N<
+:magento\catalog\block\adminhtml\product\edit\tab\inventory"
+coreRegistry"__id*
+
+$coreRegistryö
+ó
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.phpL L(-O<
+:magento\catalog\block\adminhtml\product\edit\tab\inventory"
+stockRegistry"__id*
+
+$stockRegistry€
+ý
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.phpM M(7T<
+:magento\catalog\block\adminhtml\product\edit\tab\inventory"
+stockConfiguration"__id*
+
+$stockConfiguration•
+’
+…
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Adminhtml\Product\Edit\Tab\Inventory.phpN N(,
+%1")magento\backend\block\widget::__construct*><
+:magento\catalog\block\adminhtml\product\edit\tab\inventory*
+
+
+$context*	
+
+$data*
+2:2
+$context&magento\backend\block\template\context:?
+$backorders0magento\cataloginventory\model\source\backorders:5
+$stock+magento\cataloginventory\model\source\stock:2
+$moduleManager magento\framework\module\manager:+
+$coreRegistrymagento\framework\registry:E
+$stockRegistry3magento\cataloginventory\api\stockregistryinterface:O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterface:
+$dataarrayB><
+:magento\catalog\block\adminhtml\product\edit\tab\inventory

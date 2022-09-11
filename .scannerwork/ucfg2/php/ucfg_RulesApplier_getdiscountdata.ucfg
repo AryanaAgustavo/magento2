@@ -1,0 +1,173 @@
+
+5magento\salesrule\model\rulesapplier::getdiscountdataq
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpÚ Ú(&"1*± 
+1q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpÜ Ü(A½
+º
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpÚ Ú(&
+$item"__id*6
+4
+$item+magento\quote\model\quote\item\abstractitem®
+«
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpÚ Ú(&
+$rule"__id*'
+%
+$rulemagento\salesrule\model\rule¹
+¶
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpÚ Ú(&
+
+$address"__id*/
+-
+$address!magento\quote\model\quote\addressÂ
+¿
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpÜ Ü(&
+%1"__id*>*<&
+$magento\salesrule\model\rulesapplier"
+validatorUtility¦£
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpÜ Ü(@
+%2*
+
+%1*	
+
+$item*	
+
+$rule2
+getitemqtyŒ
+‰
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpÜ Ü(@
+$qty"__id*
+
+%2Ã
+À
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpÞ Þ(6
+%3"__id*?*=&
+$magento\salesrule\model\rulesapplier"
+calculatorFactory˜•
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpÞ? Þ(W
+%4*	
+
+$rule2getsimpleaction”‘
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpÞ Þ(X
+%5*
+
+%3*
+
+%42create›
+˜
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpÞ Þ(X
+$discountCalculator"__id*
+
+%5·´
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpß ß(<
+%6*
+
+$discountCalculator*
+
+$qty*	
+
+$rule2fixquantityŒ
+‰
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpß ß(<
+$qty"__id*
+
+%6À½
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpà à(J
+%7*
+
+$discountCalculator*	
+
+$rule*	
+
+$item*
+
+$qty2	calculate•
+’
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpà à(J
+$discountData"__id*
+
+%7ãà
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpá á(:
+%8*(&
+$magento\salesrule\model\rulesapplier*
+
+$discountData*	
+
+$item*	
+
+$rule*
+
+$qty2eventfixÂ
+¿
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpâ â(
+%9"__id*>*<&
+$magento\salesrule\model\rulesapplier"
+validatorUtilityµ²
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpâ â(G
+%10*
+
+%9*
+
+$discountData*	
+
+$item2deltaroundingfixôñ
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpã ã(J
+%11*(&
+$magento\salesrule\model\rulesapplier*
+
+$discountData*	
+
+$item*	
+
+$rule*
+
+
+$address2setdiscountbreakdownÃ
+À
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpê ê(
+%12"__id*>*<&
+$magento\salesrule\model\rulesapplier"
+validatorUtility¶³
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpê ê(C
+%13*
+
+%12*
+
+$discountData*	
+
+$item*
+
+$qty2minfixÉ
+Æ
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpì ì(8
+%141magento\salesrule\model\rule\action\discount\data"__id*
+
+$discountData"¯
+q
+eC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesRule\Model\RulesApplier.phpì ì(:
+8
+%141magento\salesrule\model\rule\action\discount\data:4
+$item+magento\quote\model\quote\item\abstractitem:%
+$rulemagento\salesrule\model\rule:-
+$address!magento\quote\model\quote\addressB(&
+$magento\salesrule\model\rulesapplier

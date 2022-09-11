@@ -1,0 +1,171 @@
+
+Smagento\framework\setup\declaration\schema\db\mysql\dbschemareader::gettableoptionsí
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php5 5(#"1*‡'
+1í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php7 7(GÑ
+Å
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php7 7(,
+%1"__id*^*\D
+Bmagento\framework\setup\declaration\schema\db\mysql\dbschemareader"
+resourceConnectionƒ¡
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php7 7(F
+%2*
+
+%1*
+
+	$resource2getconnection≤
+Ø
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php7 7(F
+
+$adapter"__id*
+
+%2Ñ
+Å
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php8 8(+
+%3"__id*^*\D
+Bmagento\framework\setup\declaration\schema\db\mysql\dbschemareader"
+resourceConnectionƒ¡
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php8 8(E
+%4*
+
+%3*
+
+	$resource2getschemaname±
+Æ
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php8 8(E	
+$dbName"__id*
+
+%4¥±
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php9 9("
+%5*
+
+
+$adapter2select¶£
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php; ;(;
+%6"$Array›
+⁄
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php; ;(;
+%7"__mapSet*
+
+%6*
+
+i_tables*
+information_schema.TABLES¶£
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php< @(
+%8"$Array»
+≈
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php< @(
+%9"__mapSet*
+
+%8*
+
+engine*
+
+ENGINE—
+Œ
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php< @(
+%10"__mapSet*
+
+%8*	
+comment*
+TABLE_COMMENT’
+“
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php< @(
+%11"__mapSet*
+
+%8*
+	collation*
+TABLE_COLLATIONΩ∫
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php9 A(
+%12*
+
+%5*
+
+%6*
+
+%82fromß§
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.phpC C(g
+%13"$Arrayã
+à
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.phpC C(g
+%14"__mapSet*
+
+%13*
+charset_applicability*<:
+8information_schema.COLLATION_CHARACTER_SET_APPLICABILITYß§
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.phpE G(
+%15"$ArrayÌ
+Í
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.phpE G(
+%16"__mapSet*
+
+%15*	
+charset*,*
+(charset_applicability.CHARACTER_SET_NAMEäá
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php9 H(
+%17*
+
+%12*
+
+%13*CA
+?i_tables.table_collation = charset_applicability.collation_name*
+
+%152	joininner“œ
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php9 I(0
+%18*
+
+%17*
+TABLE_SCHEMA = ?*
+	
+$dbName2where”–
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php9 J(1
+%19*
+
+%18*
+TABLE_NAME = ?*
+
+
+$tableName2where∞
+≠
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.php9 J(1
+$stmt"__id*
+
+%19¬ø
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.phpL L((
+%20*
+
+
+$adapter*	
+
+$stmt2fetchrow"û
+í
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Setup\Declaration\Schema\Db\MySQL\DbSchemaReader.phpL L()
+
+%20:
+
+$tableName:
+	$resourceBFD
+Bmagento\framework\setup\declaration\schema\db\mysql\dbschemareader

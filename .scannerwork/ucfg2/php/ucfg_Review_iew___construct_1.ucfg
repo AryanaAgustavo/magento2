@@ -1,0 +1,88 @@
+
+6magento\review\model\resourcemodel\review::__constructt
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review.phpg g("1*ü
+2
+
+Review.php"ã
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review.phpu u(
+implicit return*„
+1t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review.phpo o(À
+»
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review.phpg g(
+
+$context"__id*>
+<
+$context0magento\framework\model\resourcemodel\db\contextø
+º
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review.phpg g(
+$date"__id*5
+3
+$date*magento\framework\stdlib\datetime\datetimeŒ
+À
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review.phpg g(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface…
+∆
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review.phpg g(
+$ratingFactory"__id*6
+4
+$ratingFactory"magento\review\model\ratingfactory◊
+‘
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review.phpg g(
+$ratingOptions"__id*D
+B
+$ratingOptions0magento\review\model\resourcemodel\rating\option¬
+ø
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review.phpo o(6+
+)magento\review\model\resourcemodel\review"
+_date"__id*	
+
+$date“
+œ
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review.phpp p(,>+
+)magento\review\model\resourcemodel\review"
+_storeManager"__id*
+
+$storeManager‘
+—
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review.phpq q(.?+
+)magento\review\model\resourcemodel\review"
+_ratingFactory"__id*
+
+$ratingFactory‘
+—
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review.phpr r(.?+
+)magento\review\model\resourcemodel\review"
+_ratingOptions"__id*
+
+$ratingOptionsì
+ê
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review.phpt t(6
+%1"@magento\framework\model\resourcemodel\db\abstractdb::__construct*-+
+)magento\review\model\resourcemodel\review*
+
+
+$context*
+
+$connectionName*
+2:<
+$context0magento\framework\model\resourcemodel\db\context:3
+$date*magento\framework\stdlib\datetime\datetime::
+$storeManager)magento\store\model\storemanagerinterface:4
+$ratingFactory"magento\review\model\ratingfactory:B
+$ratingOptions0magento\review\model\resourcemodel\rating\option:
+$connectionNameB-+
+)magento\review\model\resourcemodel\review

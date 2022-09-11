@@ -1,0 +1,111 @@
+
+5magento\integration\model\oauth\consumer::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.php< <("1* 
+2
+Consumer.php"Š
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.phpJ J(
+implicit return*Õ
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.phpF F(/¹
+¶
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.php< <(
+
+$context"__id*-
++
+$contextmagento\framework\model\context¶
+³
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.php< <(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÚ
+×
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.php< <(
+
+$keyLength"__id*L
+J
+
+$keyLength<magento\integration\model\oauth\consumer\validator\keylengthÃ
+À
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.php< <(
+$urlValidator"__id*2
+0
+$urlValidatormagento\framework\url\validatorÅ
+Â
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.php< <(
+$dataHelper"__id*6
+4
+$dataHelper%magento\integration\helper\oauth\dataÒ
+Ï
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.php< <(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceÜ
+Ù
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.php< <(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb™
+–
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.php< <(
+$data"__id*
+
+$dataarrayÒ
+Ï
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.phpF F(.B*
+(magento\integration\model\oauth\consumer"
+keyLengthValidator"__id*
+
+
+$keyLengthÏ
+Ì
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.phpG G(+<*
+(magento\integration\model\oauth\consumer"
+urlValidator"__id*
+
+$urlValidatorË
+È
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.phpH H(':*
+(magento\integration\model\oauth\consumer"
+
+dataHelper"__id*
+
+$dataHelper°
+­
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\Oauth\Consumer.phpI I(W
+%1"2magento\framework\model\abstractmodel::__construct*,*
+(magento\integration\model\oauth\consumer*
+
+
+$context*
+
+	$registry*
+
+	$resource*
+
+$resourceCollection*	
+
+$data*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:J
+
+$keyLength<magento\integration\model\oauth\consumer\validator\keylength:0
+$urlValidatormagento\framework\url\validator:4
+$dataHelper%magento\integration\helper\oauth\data:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB,*
+(magento\integration\model\oauth\consumer

@@ -1,0 +1,99 @@
+
+Fmagento\newsletter\model\resourcemodel\problem\collection::__construct„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Problem\Collection.phpH H("1*´
+2
+Collection.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Problem\Collection.phpU U(
+implicit return*ª
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Problem\Collection.phpR R(lç
+ä
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Problem\Collection.phpH H(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÁ
+¾
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Problem\Collection.phpH H(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceó
+ð
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Problem\Collection.phpH H(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceÞ
+Û
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Problem\Collection.phpH H(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceò
+ï
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Problem\Collection.phpH H(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceÒ
+Ï
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Problem\Collection.phpH H(
+$customerView"__id*/
+-
+$customerViewmagento\customer\helper\viewß
+Ü
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Problem\Collection.phpH H(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceá
+Þ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Problem\Collection.phpH H(
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbŒ
+‰
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Problem\Collection.phpR R(k
+%1"Smagento\framework\model\resourcemodel\db\collection\abstractcollection::__construct*=;
+9magento\newsletter\model\resourcemodel\problem\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$connection*
+
+	$resourceþ
+û
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Problem\Collection.phpS S(7S;
+9magento\newsletter\model\resourcemodel\problem\collection"
+customerRepository"__id*
+
+$customerRepositoryó
+ð
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Newsletter\Model\ResourceModel\Problem\Collection.phpT T(,N;
+9magento\newsletter\model\resourcemodel\problem\collection"
+_customerView"__id*
+
+$customerView*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:-
+$customerViewmagento\customer\helper\view:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbB=;
+9magento\newsletter\model\resourcemodel\problem\collection

@@ -1,0 +1,73 @@
+
+<magento\graphql\catalog\categorylisttest::testnoresultsfound
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryListTest.php¶ ¶(&"1*Æ
+2
+CategoryListTest.php"¨
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryListTest.phpÉ É(
+implicit return*ˆ
+1
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryListTest.php¸ Ä(ü
+ù
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryListTest.php¸ Ä(
+$query"__id*ÓÐ
+Í{
+    categoryList(filters: {url_key: {in: ["inactive", "does-not-exist"]}}){
+        id
+        name
+        url_key
+        url_path
+        children_count
+        path
+        position
+    }
+}äá
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryListTest.phpÅ Å(-
+%1*,*
+(magento\graphql\catalog\categorylisttest*
+
+
+$query2graphqlquery¯
+¬
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryListTest.phpÅ Å(-	
+$result"__id*
+
+%1ùö
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryListTest.phpÆ Æ(6
+%2*,*
+(magento\graphql\catalog\categorylisttest*
+
+errors*
+	
+$result2assertarraynothaskeyüù
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryListTest.phpÇ Ç(9
+%3*,*
+(magento\graphql\catalog\categorylisttest*
+categoryList*
+	
+$result2assertarrayhaskey¤¡
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryListTest.phpÈ È(
+%4"$ArrayÅ
+Â
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryListTest.phpÈ  È(7
+%5"__mapGet*
+	
+$result*
+categoryListèå
+
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryListTest.phpÈ È(8
+%6*,*
+(magento\graphql\catalog\categorylisttest*
+
+%4*
+
+%52assertequals*
+2B,*
+(magento\graphql\catalog\categorylisttest

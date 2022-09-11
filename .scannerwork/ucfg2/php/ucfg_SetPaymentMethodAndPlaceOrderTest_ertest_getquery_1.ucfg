@@ -1,0 +1,46 @@
+
+Gmagento\graphql\quote\guest\setpaymentmethodandplaceordertest::getquery¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetPaymentMethodAndPlaceOrderTest.phpŽ Ž("1*Æ	
+1¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetPaymentMethodAndPlaceOrderTest.php’ Ÿ(ß
+Ü
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetPaymentMethodAndPlaceOrderTest.phpŽ Ž(
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstringÙ
+Ö
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetPaymentMethodAndPlaceOrderTest.phpŽ Ž(
+$methodCode"__id*
+
+$methodCodestring§
+¤
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetPaymentMethodAndPlaceOrderTest.php’ Ÿ(
+%1"__concat*JH
+Fmutation {
+  setPaymentMethodAndPlaceOrder(input: {
+      cart_id: "*1/
+-"
+      payment_method: {
+          code: "*FD
+B"
+      }
+  }) {
+    order {
+      order_number
+    }
+  }
+}*
+
+$maskedQuoteId*
+
+$methodCode"°
+¥
+˜C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetPaymentMethodAndPlaceOrderTest.php’ Ÿ(
+
+%1:
+$maskedQuoteIdstring:
+$methodCodestringBA?
+=magento\graphql\quote\guest\setpaymentmethodandplaceordertest

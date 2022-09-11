@@ -1,0 +1,70 @@
+
+Omagento\catalog\model\resourcemodel\layer\filter\price::_getfullpriceexpressionƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpú ú(."1*ñ
+1ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpü ÿ(
+Ä
+Á
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpú ú(.	
+$select"__id*(
+&
+$selectmagento\framework\db\selectíê
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpı ı(;
+%2*:8
+6magento\catalog\model\resourcemodel\layer\filter\price*
+	
+$select2_getpriceexpressionÜ
+Ù
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpş ş(#
+%3"__id*E*C8
+6magento\catalog\model\resourcemodel\layer\filter\price"
+layer­ª
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpş ş(;
+%4*
+
+%32getproductcollection¨¥
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpş ş(N
+%5*
+
+%42getcurrencyrateÊ
+Ç
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpı ş(W
+%6"__concat*	
+ROUND((*
+
+%2*
+) * *
+
+%5*
+, 2)š
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpü ÿ(	
+%1"zend_db_exprº
+·
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpü ÿ(	
+%7"zend_db_expr::__construct*
+
+%1*
+
+%6«
+¨
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpü ÿ(
+
+%8zend_db_expr"__id*
+
+%1"œ
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ResourceModel\Layer\Filter\Price.phpü ÿ(
+
+
+%8zend_db_expr:&
+$selectmagento\framework\db\selectB:8
+6magento\catalog\model\resourcemodel\layer\filter\price

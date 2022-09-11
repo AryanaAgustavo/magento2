@@ -1,0 +1,86 @@
+
+Dmagento\review\model\resourcemodel\review\collection::addstorefilterÅ
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpê ê(""1*”
+1Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpí í(d÷”
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpí í((
+%1*86
+4magento\review\model\resourcemodel\review\collection2getconnectionïí
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpíP í(b
+%2"$Arrayµ
+≤
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpíP í(b
+%3"__mapSet*
+
+%2*
+in*
+
+
+$storeId∆√
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpí í(c
+%4*
+
+%1*
+store.store_id*
+
+%22preparesqlcondition†
+ù
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpí í(c	
+$inCond"__id*
+
+%4“œ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpì ì(
+%5*86
+4magento\review\model\resourcemodel\review\collection2	getselectïí
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpî î(5
+%6"$Array‹Ÿ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpî î(4
+%7*86
+4magento\review\model\resourcemodel\review\collection2getreviewstoretable≤
+Ø
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpî î(5
+%8"__mapSet*
+
+%6*	
+store*
+
+%7ïí
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpñ ñ(
+%9"$Array÷”
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpì ó(	
+%10*
+
+%5*
+
+%6*(&
+$main_table.review_id=store.review_id*
+
+%92join”–
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpò ò(
+%11*86
+4magento\review\model\resourcemodel\review\collection2	getselect´®
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpò ò(*
+%12*
+
+%11*
+	
+$inCond2where"æ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpô ô(86
+4magento\review\model\resourcemodel\review\collection:
+
+$storeIdB86
+4magento\review\model\resourcemodel\review\collection

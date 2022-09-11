@@ -1,0 +1,216 @@
+
+\magento\reports\model\resourcemodel\product\index\collection\abstractcollection::__constructõ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =("1*”
+2
+AbstractCollection.php"≥
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.phpk k(
+implicit return*ì2
+1õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.phpT i(
+˛
+˚
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÿ
+’
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceä
+á
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceı
+Ú
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceﬂ
+‹
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+
+$eavConfig"__id*(
+&
+
+$eavConfigmagento\eav\model\configÌ
+Í
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+	$resource"__id*7
+5
+	$resource(magento\framework\app\resourceconnectionÙ
+Ò
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$eavEntityFactory"__id*6
+4
+$eavEntityFactorymagento\eav\model\entityfactory˚
+¯
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$resourceHelper"__id*?
+=
+$resourceHelper*magento\catalog\model\resourcemodel\helperÅ
+˛
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$universalFactory"__id*C
+A
+$universalFactory,magento\framework\validator\universalfactoryˆ
+Û
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÔ
+Ï
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$moduleManager"__id*4
+2
+$moduleManager magento\framework\module\managerì
+ê
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$catalogProductFlatState"__id*N
+L
+$catalogProductFlatState0magento\catalog\model\indexer\product\flat\state¸
+˘
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceà
+Ö
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$productOptionFactory"__id*F
+D
+$productOptionFactory+magento\catalog\model\product\optionfactory
+Ì
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$catalogUrl"__id*8
+6
+$catalogUrl'magento\catalog\model\resourcemodel\url¸
+˘
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterfaceÒ
+Ó
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÊ
+„
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+	$dateTime"__id*0
+.
+	$dateTime!magento\framework\stdlib\datetimeÄ
+˝
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$groupManagement"__id*C
+A
+$groupManagement-magento\customer\api\groupmanagementinterfaceÒ
+Ó
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$customerVisitor"__id*4
+2
+$customerVisitormagento\customer\model\visitorˆ
+Û
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.php= =(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceÀ
+»
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.phpT i(	
+%1"Cmagento\catalog\model\resourcemodel\product\collection::__construct*SQ
+Omagento\reports\model\resourcemodel\product\index\collection\abstractcollection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+
+$eavConfig*
+
+	$resource*
+
+$eavEntityFactory*
+
+$resourceHelper*
+
+$universalFactory*
+
+$storeManager*
+
+$moduleManager*
+
+$catalogProductFlatState*
+
+$scopeConfig*
+
+$productOptionFactory*
+
+$catalogUrl*
+
+$localeDate*
+
+$customerSession*
+
+	$dateTime*
+
+$groupManagement*
+
+$connection¶
+£
+õ
+êC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Product\Index\Collection\AbstractCollection.phpj j(2gQ
+Omagento\reports\model\resourcemodel\product\index\collection\abstractcollection"
+_customerVisitor"__id*
+
+$customerVisitor*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:&
+
+$eavConfigmagento\eav\model\config:5
+	$resource(magento\framework\app\resourceconnection:4
+$eavEntityFactorymagento\eav\model\entityfactory:=
+$resourceHelper*magento\catalog\model\resourcemodel\helper:A
+$universalFactory,magento\framework\validator\universalfactory::
+$storeManager)magento\store\model\storemanagerinterface:2
+$moduleManager magento\framework\module\manager:L
+$catalogProductFlatState0magento\catalog\model\indexer\product\flat\state:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:D
+$productOptionFactory+magento\catalog\model\product\optionfactory:6
+$catalogUrl'magento\catalog\model\resourcemodel\url:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:2
+$customerSessionmagento\customer\model\session:.
+	$dateTime!magento\framework\stdlib\datetime:A
+$groupManagement-magento\customer\api\groupmanagementinterface:2
+$customerVisitormagento\customer\model\visitor:<
+$connection-magento\framework\db\adapter\adapterinterfaceBSQ
+Omagento\reports\model\resourcemodel\product\index\collection\abstractcollection

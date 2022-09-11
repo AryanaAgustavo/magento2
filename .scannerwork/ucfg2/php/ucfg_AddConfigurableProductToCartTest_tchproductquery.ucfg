@@ -1,0 +1,53 @@
+
+Zmagento\graphql\configurableproduct\addconfigurableproducttocarttest::getfetchproductquery¬
+ŸC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductToCartTest.phpÇ Ç()"1*‡
+
+1¬
+ŸC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductToCartTest.phpÉ æ(Ô
+Ñ
+¬
+ŸC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductToCartTest.phpÇ Ç()
+$term"__id*
+
+$termstringÁ
+¾
+¬
+ŸC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductToCartTest.phpÉ æ(
+%1"__concat* 
+{
+  products(
+    search:"*ÏÌ
+É"
+    pageSize:1
+  ) {
+    items {
+      sku
+      ... on ConfigurableProduct {
+        configurable_options {
+          attribute_id
+          attribute_code
+          id
+          label
+          position
+          product_id
+          use_default
+          values {
+            default_label
+            label
+            store_label
+            use_default_value
+            value_index
+          }
+        }
+      }
+    }
+  }
+}*	
+
+$term"·
+¬
+ŸC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\AddConfigurableProductToCartTest.phpÉ æ(
+
+%1:
+$termstringBHF
+Dmagento\graphql\configurableproduct\addconfigurableproducttocarttest

@@ -1,0 +1,76 @@
+
+>magento\framework\messagequeue\mergedmessageprocessor::process„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MergedMessageProcessor.php ("1*À
+2
+MergedMessageProcessor.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MergedMessageProcessor.php& &(
+implicit return*“
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MergedMessageProcessor.php$ $([Õ
+Ò
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MergedMessageProcessor.php (
+$queue"__id*9
+7
+$queue-magento\framework\messagequeue\queueinterfaceõ
+ò
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MergedMessageProcessor.php (
+$configuration"__id*Q
+O
+$configuration=magento\framework\messagequeue\consumerconfigurationinterface³
+°
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MergedMessageProcessor.php (
+	$messages"__id*
+
+	$messagesarrayÍ
+Ê
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MergedMessageProcessor.php (
+$messagesToAcknowledge"__id*!
+
+$messagesToAcknowledgearray¿
+¼
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MergedMessageProcessor.php (
+$mergedMessages"__id*
+
+$mergedMessagesarrayí
+ê
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MergedMessageProcessor.php$ $(%
+%1"__id*U*S7
+5magento\framework\messagequeue\mergedmessageprocessor"
+messageStatusProcessorÕÒ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MergedMessageProcessor.php$ $(Z
+%2*
+
+%1*
+
+
+$queue*
+
+$messagesToAcknowledge2acknowledgemessages¡ž
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\MergedMessageProcessor.php% %(S
+%3*97
+5magento\framework\messagequeue\mergedmessageprocessor*
+
+
+$queue*
+
+$configuration*
+
+$mergedMessages*
+
+	$messages2dispatchmessages*
+2:7
+$queue-magento\framework\messagequeue\queueinterface:O
+$configuration=magento\framework\messagequeue\consumerconfigurationinterface:
+	$messagesarray:
+$messagesToAcknowledgearray:
+$mergedMessagesarrayB97
+5magento\framework\messagequeue\mergedmessageprocessor

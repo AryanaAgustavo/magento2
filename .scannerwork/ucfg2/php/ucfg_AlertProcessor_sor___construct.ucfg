@@ -1,0 +1,138 @@
+
+>magento\productalert\model\mailing\alertprocessor::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.php\ \("1*Ø
+2
+AlertProcessor.php"ì
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.phpp p(
+implicit return*˛!
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.phpg g(,‘
+—
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.php\ \(
+$emailFactory"__id*:
+8
+$emailFactory'magento\productalert\model\emailfactoryÅ
+˛
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.php\ \(
+$priceCollectionFactory"__id*]
+[
+$priceCollectionFactory@magento\productalert\model\resourcemodel\price\collectionfactoryÅ
+˛
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.php\ \(
+$stockCollectionFactory"__id*]
+[
+$stockCollectionFactory@magento\productalert\model\resourcemodel\stock\collectionfactoryÈ
+Ê
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.php\ \(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceÂ
+‚
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.php\ \(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterface∆
+√
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.php\ \(
+$catalogData"__id*-
++
+$catalogDatamagento\catalog\helper\data„
+‡
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.php\ \(
+$productSalability"__id*D
+B
+$productSalability,magento\productalert\model\productsalability÷
+”
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.php\ \(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceË
+Â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.php\ \(
+$errorEmailSender"__id*J
+H
+$errorEmailSender3magento\productalert\model\mailing\erroremailsender·
+ﬁ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.phpg g(+E3
+1magento\productalert\model\mailing\alertprocessor"
+emailFactory"__id*
+
+$emailFactoryı
+Ú
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.phph h(?O3
+1magento\productalert\model\mailing\alertprocessor"
+priceCollectionFactory"__id*
+
+$priceCollectionFactoryı
+Ú
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.phpi i(?O3
+1magento\productalert\model\mailing\alertprocessor"
+stockCollectionFactory"__id*
+
+$stockCollectionFactoryÌ
+Í
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.phpj j(7K3
+1magento\productalert\model\mailing\alertprocessor"
+customerRepository"__id*
+
+$customerRepositoryÎ
+Ë
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.phpk k(5J3
+1magento\productalert\model\mailing\alertprocessor"
+productRepository"__id*
+
+$productRepositoryﬂ
+‹
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.phpl l()D3
+1magento\productalert\model\mailing\alertprocessor"
+catalogData"__id*
+
+$catalogDataÎ
+Ë
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.phpm m(5J3
+1magento\productalert\model\mailing\alertprocessor"
+productSalability"__id*
+
+$productSalability·
+ﬁ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.phpn n(+E3
+1magento\productalert\model\mailing\alertprocessor"
+storeManager"__id*
+
+$storeManagerÈ
+Ê
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ProductAlert\Model\Mailing\AlertProcessor.phpo o(3I3
+1magento\productalert\model\mailing\alertprocessor"
+errorEmailSender"__id*
+
+$errorEmailSender*
+2:8
+$emailFactory'magento\productalert\model\emailfactory:[
+$priceCollectionFactory@magento\productalert\model\resourcemodel\price\collectionfactory:[
+$stockCollectionFactory@magento\productalert\model\resourcemodel\stock\collectionfactory:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:D
+$productRepository.magento\catalog\api\productrepositoryinterface:+
+$catalogDatamagento\catalog\helper\data:B
+$productSalability,magento\productalert\model\productsalability::
+$storeManager)magento\store\model\storemanagerinterface:H
+$errorEmailSender3magento\productalert\model\mailing\erroremailsenderB53
+1magento\productalert\model\mailing\alertprocessor

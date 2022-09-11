@@ -1,0 +1,241 @@
+
+Fmagento\tax\model\resourcemodel\report\collection::_getselectedcolumns|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php8 8(*"1*ê
+13|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpT T('Û
+Ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpT T(&
+%25"__id*K*I3
+1magento\tax\model\resourcemodel\report\collection"
+_selectedColumns"‡
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpT T('
+
+%25*Ý
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php: :(%Ñ
+Î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php: :(%
+%1"__id*B*@3
+1magento\tax\model\resourcemodel\report\collection"	
+_period*
+2
+3*ë
+2|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php; ;(_ÍÊ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php;# ;(9
+%2*53
+1magento\tax\model\resourcemodel\report\collection2getconnection¸µ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php;# ;(^
+%3*
+
+%2*
+
+period*	
+%Y-%m2getdateformatsql×
+Ô
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php; ;(^F3
+1magento\tax\model\resourcemodel\report\collection"
+_periodFormat"__id*
+
+%3*
+6*Ý
+3|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php< <(*Ñ
+Î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php< <(*
+%4"__id*B*@3
+1magento\tax\model\resourcemodel\report\collection"	
+_period*
+4
+5*è
+4|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php= =(\ÍÊ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php=# =(9
+%5*53
+1magento\tax\model\resourcemodel\report\collection2getconnectionµ²
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php=# =([
+%6*
+
+%5*
+
+period*
+%Y2getdateformatsql×
+Ô
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php= =([F3
+1magento\tax\model\resourcemodel\report\collection"
+_periodFormat"__id*
+
+%6*
+6*î
+5|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php? ?(bÍÊ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php?# ?(9
+%7*53
+1magento\tax\model\resourcemodel\report\collection2getconnection»¸
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php?# ?(a
+%8*
+
+%7*
+
+period*
+
+%Y-%m-%d2getdateformatsql×
+Ô
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.php? ?(aF3
+1magento\tax\model\resourcemodel\report\collection"
+_periodFormat"__id*
+
+%8*
+6*Ô
+6|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpB B(7ÈÅ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpB B(
+%9*53
+1magento\tax\model\resourcemodel\report\collection2istotals*
+7
+9*Ø
+7|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpB" B(7ÌÉ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpB# B(7
+%10*53
+1magento\tax\model\resourcemodel\report\collection2issubtotals*
+8
+9*‹
+8|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpC I(
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpC& I(
+%11"$ArrayØ
+Õ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpD D(0
+%12"__id*H*F3
+1magento\tax\model\resourcemodel\report\collection"
+_periodFormat°
+­
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpC& I(
+%13"__mapSet*
+
+%11*
+
+period*
+
+%12¯
+¬
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpC& I(
+%14"__mapSet*
+
+%11*
+code*
+codeµ
+²
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpC& I(
+%15"__mapSet*
+
+%11*	
+percent*	
+percentÄ
+Á
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpC& I(
+%16"__mapSet*
+
+%11*
+orders_count*
+SUM(orders_count)Ò
+Ï
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpC& I(
+%17"__mapSet*
+
+%11*
+tax_base_amount_sum*
+SUM(tax_base_amount_sum)Û
+Ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpC I(I3
+1magento\tax\model\resourcemodel\report\collection"
+_selectedColumns"__id*
+
+%11*
+9*×
+9|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpL L(ÉÆ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpL L(
+%18*53
+1magento\tax\model\resourcemodel\report\collection2istotals*
+10
+11*¾
+10|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpM M(DÕÒ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpM& M(C
+%19*53
+1magento\tax\model\resourcemodel\report\collection2getaggregatedcolumnsÛ
+Ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpM M(CI3
+1magento\tax\model\resourcemodel\report\collection"
+_selectedColumns"__id*
+
+%19*
+11*Û
+11|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpP P( ÌÉ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpP P( 
+%20*53
+1magento\tax\model\resourcemodel\report\collection2issubtotals*
+13
+12*Ú
+12|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpQ Q(iÕÒ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpQ& Q(C
+%21*53
+1magento\tax\model\resourcemodel\report\collection2getaggregatedcolumns
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpQF Q(h
+%22"$ArrayØ
+Õ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpQS Q(g
+%23"__id*H*F3
+1magento\tax\model\resourcemodel\report\collection"
+_periodFormat°
+­
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpQF Q(h
+%24"__mapSet*
+
+%22*
+
+period*
+
+%23Ö
+Ó
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\ResourceModel\Report\Collection.phpQ Q(hI3
+1magento\tax\model\resourcemodel\report\collection"
+_selectedColumns"__id* *
+13B53
+1magento\tax\model\resourcemodel\report\collection

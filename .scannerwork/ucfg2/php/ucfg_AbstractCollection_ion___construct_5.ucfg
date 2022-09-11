@@ -1,0 +1,105 @@
+
+Smagento\framework\model\resourcemodel\db\collection\abstractcollection::__construct–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.php{ {("1*Ð
+2
+AbstractCollection.php"°
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.php‰ ‰(
+implicit return*Ä
+1˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.phpƒ ƒ(-‚
+ÿ
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.php{ {(
+$entityFactory"__id*L
+J
+$entityFactory8magento\framework\data\collection\entityfactoryinterfaceÓ
+Ð
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.php{ {(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface…
+‚
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.php{ {(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceð
+í
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.php{ {(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceñ
+î
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.php{ {(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceó
+ð
+–
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.php{ {(
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdb”
+‘
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.phpƒ ƒ(,[H
+Fmagento\framework\model\resourcemodel\db\collection\abstractcollection"
+_eventManager"__id*
+
+$eventManagerñ
+î
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.php„ „(Q
+%1"9magento\framework\data\collection\abstractdb::__construct*JH
+Fmagento\framework\model\resourcemodel\db\collection\abstractcollection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$connectionüù
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.php… …(
+%2*JH
+Fmagento\framework\model\resourcemodel\db\collection\abstractcollection2
+_constructŒ
+‰
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.php† †($WH
+Fmagento\framework\model\resourcemodel\db\collection\abstractcollection"
+	_resource"__id*
+
+	$resourceýú
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.php‡ ‡(1
+%3*JH
+Fmagento\framework\model\resourcemodel\db\collection\abstractcollection2getresource»¸
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.php‡ ‡(B
+%4*
+
+%32getconnection‡„
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.php‡ ‡(C
+%5*JH
+Fmagento\framework\model\resourcemodel\db\collection\abstractcollection*
+
+%42setconnectionýú
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection.phpˆ ˆ(
+%6*JH
+Fmagento\framework\model\resourcemodel\db\collection\abstractcollection2_initselect*
+2:J
+$entityFactory8magento\framework\data\collection\entityfactoryinterface:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbBJH
+Fmagento\framework\model\resourcemodel\db\collection\abstractcollection

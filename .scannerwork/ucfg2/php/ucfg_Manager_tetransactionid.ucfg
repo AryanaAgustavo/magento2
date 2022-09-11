@@ -1,0 +1,103 @@
+
+Lmagento\sales\model\order\payment\transaction\manager::generatetransactionid€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpG G()"1*½
+2€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpI3 I(P¬©
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpI4 I(P
+%2*
+
+
+$payment2gettransactionid*
+4
+5*ú
+4€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpJ J(N¯¬
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpJ- J(L
+%3*
+
+$transactionBasedOn2gettxnidº·
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpJ J(M
+%4*
+
+
+$payment*
+
+%32setparenttransactionid*
+5*ê
+5€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpM M(`²¯
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpM M(>
+%5*
+
+
+$payment2getparenttransactionid¤
+¡
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpM M(>
+$parentTxnId"__id*
+
+%5*
+6
+8*½
+6€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpMC M(`¬©
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpMD M(`
+%6*
+
+
+$payment2gettransactionid*
+7
+8*Ñ
+7€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpN N(,º
+·
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpN N(+
+%7"__concat*
+-*
+
+$parentTxnId*	
+
+$type"‹
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpN N(,
+
+%7*Ã
+8€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpP P(,¬©
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpP P(+
+%8*
+
+
+$payment2gettransactionid"‹
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpP P(,
+
+%8*š
+1€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpI I(gÔ
+Ñ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpG G()
+
+$payment"__id*:
+8
+$payment,magento\sales\api\data\orderpaymentinterface²¯
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Payment\Transaction\Manager.phpI I(/
+%1*
+
+
+$payment2getparenttransactionid*
+2
+5:8
+$payment,magento\sales\api\data\orderpaymentinterface:
+$type:
+$transactionBasedOnB97
+5magento\sales\model\order\payment\transaction\manager

@@ -1,0 +1,177 @@
+
+Kmagento\loginascustomer\model\resourcemodel\saveauthenticationdata::executeŽ
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpJ J("1*†+
+1Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpL L(A‹
+ˆ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpJ J(
+$authenticationData"__id*X
+V
+$authenticationData?magento\loginascustomerapi\api\data\authenticationdatainterface€
+ý
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpL L(/
+%1"__id*^*\D
+Bmagento\loginascustomer\model\resourcemodel\saveauthenticationdata"
+resourceConnection±®
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpL L(@
+%2*
+
+%12getconnection±
+®
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpL L(@
+$connection"__id*
+
+%2€
+ý
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpM M(.
+%3"__id*^*\D
+Bmagento\loginascustomer\model\resourcemodel\saveauthenticationdata"
+resourceConnectionÇÄ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpM M(Q
+%4*
+
+%3*
+login_as_customer2gettablename°
+­
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpM M(Q
+
+$tableName"__id*
+
+%4ô
+ñ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpO O(
+%5"__id*R*PD
+Bmagento\loginascustomer\model\resourcemodel\saveauthenticationdata"
+random¹¶
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpO O(1
+%6*
+
+%5*2@2getrandomstringª
+§
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpO O(1
+$key"__id*
+
+%6÷
+ô
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpP P( 
+%7"__id*U*SD
+Bmagento\loginascustomer\model\resourcemodel\saveauthenticationdata"
+	encryptor²¯
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpP P(,
+%8*
+
+%7*
+
+$key2hash«
+¨
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpP P(,
+$hash"__id*
+
+%8¢Ÿ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpT Y(
+%9"$ArrayÃÀ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpU! U(E
+%10*
+
+$authenticationData2getcustomeridÇ
+Ä
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpT Y(
+%11"__mapSet*
+
+%9*
+customer_id*
+
+%10À½
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpV V(?
+%12*
+
+$authenticationData2
+getadminidÄ
+Á
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpT Y(
+%13"__mapSet*
+
+%9*
+
+admin_id*
+
+%12Ä
+Á
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpT Y(
+%14"__mapSet*
+
+%9*
+
+secret*	
+
+$hash÷
+ô
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpX  X(/
+%15"__id*T*RD
+Bmagento\loginascustomer\model\resourcemodel\saveauthenticationdata"
+
+dateTime­ª
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpX  X(:
+%16*
+
+%152gmtdateÆ
+Ã
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpT Y(
+%17"__mapSet*
+
+%9*
+
+created_at*
+
+%16ÌÉ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.phpR Z(	
+%18*
+
+$connection*
+
+
+$tableName*
+
+%92insert‹
+ˆ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.php\ \(2
+%19"__id*h*fD
+Bmagento\loginascustomer\model\resourcemodel\saveauthenticationdata"
+generateAuthenticationSecretÆÃ
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.php\ \(P
+%20*
+
+%19*
+
+$authenticationData2execute"š
+Ž
+ƒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomer\Model\ResourceModel\SaveAuthenticationData.php\ \(Q
+
+%20:V
+$authenticationData?magento\loginascustomerapi\api\data\authenticationdatainterfaceBFD
+Bmagento\loginascustomer\model\resourcemodel\saveauthenticationdata

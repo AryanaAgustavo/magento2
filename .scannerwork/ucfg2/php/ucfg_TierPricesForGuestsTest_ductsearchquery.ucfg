@@ -1,0 +1,39 @@
+
+Nmagento\graphql\catalogcustomer\tierpricesforgueststest::getproductsearchqueryŸ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogCustomer\TierPricesForGuestsTest.php™ ™(*"1*Ñ
+1Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogCustomer\TierPricesForGuestsTest.php› «(Ó
+Ð
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogCustomer\TierPricesForGuestsTest.php™ ™(*
+$productSku"__id*
+
+$productSkustring¦
+£
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogCustomer\TierPricesForGuestsTest.php› «(
+%1"__concat*(&
+${
+    products(filter: {sku: {eq: "*³°
+­"}})
+    {
+    items {
+      sku
+      name
+      tier_prices {
+        customer_group_id
+        percentage_value
+        qty
+        value
+      }
+    }
+  }
+}*
+
+$productSku"ª
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogCustomer\TierPricesForGuestsTest.php› «(
+
+%1:
+$productSkustringB;9
+7magento\graphql\catalogcustomer\tierpricesforgueststest

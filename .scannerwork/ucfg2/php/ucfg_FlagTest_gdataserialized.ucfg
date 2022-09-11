@@ -1,0 +1,79 @@
+
+?magento\framework\test\unit\flagtest::testgetflagdataserializeds
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\FlagTest.php* *(-"1*†
+2
+FlagTest.php"ä
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\FlagTest.php2 2(
+implicit return*ø
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\FlagTest.php, ,(ê
+ç
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\FlagTest.php, ,(
+$data"__id*
+foo°
+û
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\FlagTest.php- -(&
+$serializedData"__id*
+
+s:3:"foo";ÜÉ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\FlagTest.php.* .(H
+%1"$Array∞
+≠
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\FlagTest.php.* .(H
+%2"__mapSet*
+
+%1*
+	flag_code*
+synchronizeƒ¡
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\FlagTest.php. .(I
+%3*(&
+$magento\framework\test\unit\flagtest*
+
+%12createflaginstanceè
+å
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\FlagTest.php. .(I
+$flag"__id*
+
+%3ñì
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\FlagTest.php/ /(.
+%4*	
+
+$flag2getflagdataºπ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\FlagTest.php/ /(/
+%5*(&
+$magento\framework\test\unit\flagtest*
+
+%42
+assertnull∂≥
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\FlagTest.php0 0(4
+%6*	
+
+$flag*
+	flag_data*
+
+$serializedData2setdatañì
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\FlagTest.php1# 1(7
+%7*	
+
+$flag2getflagdata…∆
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Test\Unit\FlagTest.php1 1(8
+%8*(&
+$magento\framework\test\unit\flagtest*	
+
+$data*
+
+%72assertequals*
+2B(&
+$magento\framework\test\unit\flagtest

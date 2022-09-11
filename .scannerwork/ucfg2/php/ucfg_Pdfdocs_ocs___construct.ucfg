@@ -1,0 +1,165 @@
+
+=magento\sales\controller\adminhtml\order\pdfdocs::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpT T("1*§
+2
+Pdfdocs.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpk k(
+implicit return*Å'
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpa a((Ä
+Á
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpT T(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÆ
+Ã
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpT T(	
+$filter"__id*3
+1
+$filter&magento\ui\component\massaction\filterÙ
+Ö
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpT T(
+$fileFactory"__id*A
+?
+$fileFactory/magento\framework\app\response\http\filefactoryÍ
+Ê
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpT T(
+$pdfInvoice"__id*6
+4
+$pdfInvoice%magento\sales\model\order\pdf\invoiceÐ
+Í
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpT T(
+$pdfShipment"__id*8
+6
+$pdfShipment&magento\sales\model\order\pdf\shipmentÖ
+Ó
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpT T(
+$pdfCreditmemo"__id*<
+:
+$pdfCreditmemo(magento\sales\model\order\pdf\creditmemoÎ
+Ë
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpT T(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetimeˆ
+…
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpT T(
+$shipmentCollectionFactory"__id*b
+`
+$shipmentCollectionFactoryBmagento\sales\model\resourcemodel\order\shipment\collectionfactory…
+‚
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpT T(
+$invoiceCollectionFactory"__id*`
+^
+$invoiceCollectionFactoryAmagento\sales\model\resourcemodel\order\invoice\collectionfactoryŽ
+‹
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpT T(
+$creditmemoCollectionFactory"__id*f
+d
+$creditmemoCollectionFactoryDmagento\sales\model\resourcemodel\order\creditmemo\collectionfactoryù
+ö
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpT T(
+$orderCollectionFactory"__id*V
+T
+$orderCollectionFactory9magento\sales\model\resourcemodel\order\collectionfactoryÛ
+Ø
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpa a('B2
+0magento\sales\controller\adminhtml\order\pdfdocs"
+
+pdfInvoice"__id*
+
+$pdfInvoiceÝ
+Ú
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpb b()C2
+0magento\sales\controller\adminhtml\order\pdfdocs"
+pdfShipment"__id*
+
+$pdfShipmentá
+Þ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpc c(-E2
+0magento\sales\controller\adminhtml\order\pdfdocs"
+pdfCreditmemo"__id*
+
+$pdfCreditmemoÝ
+Ú
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpd d()C2
+0magento\sales\controller\adminhtml\order\pdfdocs"
+fileFactory"__id*
+
+$fileFactory×
+Ô
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpe e(#@2
+0magento\sales\controller\adminhtml\order\pdfdocs"
+
+dateTime"__id*
+
+	$dateTimeù
+ö
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpf f(EQ2
+0magento\sales\controller\adminhtml\order\pdfdocs"
+shipmentCollectionFactory"__id*
+
+$shipmentCollectionFactory÷
+ô
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpg g(CP2
+0magento\sales\controller\adminhtml\order\pdfdocs"
+invoiceCollectionFactory"__id*
+
+$invoiceCollectionFactoryý
+ú
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phph h(IS2
+0magento\sales\controller\adminhtml\order\pdfdocs"
+creditmemoCollectionFactory"__id* 
+
+$creditmemoCollectionFactoryî
+ë
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpi i(:I2
+0magento\sales\controller\adminhtml\order\pdfdocs"
+collectionFactory"__id*
+
+$orderCollectionFactory¡
+ž
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Pdfdocs.phpj j(.
+%1"Hmagento\sales\controller\adminhtml\order\abstractmassaction::__construct*42
+0magento\sales\controller\adminhtml\order\pdfdocs*
+
+
+$context*
+	
+$filter*
+2:.
+$context"magento\backend\app\action\context:1
+$filter&magento\ui\component\massaction\filter:?
+$fileFactory/magento\framework\app\response\http\filefactory:4
+$pdfInvoice%magento\sales\model\order\pdf\invoice:6
+$pdfShipment&magento\sales\model\order\pdf\shipment::
+$pdfCreditmemo(magento\sales\model\order\pdf\creditmemo:7
+	$dateTime*magento\framework\stdlib\datetime\datetime:`
+$shipmentCollectionFactoryBmagento\sales\model\resourcemodel\order\shipment\collectionfactory:^
+$invoiceCollectionFactoryAmagento\sales\model\resourcemodel\order\invoice\collectionfactory:d
+$creditmemoCollectionFactoryDmagento\sales\model\resourcemodel\order\creditmemo\collectionfactory:T
+$orderCollectionFactory9magento\sales\model\resourcemodel\order\collectionfactoryB42
+0magento\sales\controller\adminhtml\order\pdfdocs

@@ -1,0 +1,80 @@
+
+9magento\directory\model\regiontest::testcountryhasregions„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Directory\Model\RegionTest.php2 2()"1*´
+2
+RegionTest.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Directory\Model\RegionTest.php8 8(
+implicit return*ž
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Directory\Model\RegionTest.php4 4(:¶
+³
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Directory\Model\RegionTest.php2 2()
+
+$countryId"__id*
+
+
+$countryIdstringË
+È
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Directory\Model\RegionTest.php4 4(!
+%1"__id*3*1$
+"magento\directory\model\regiontest"	
+country´±
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Directory\Model\RegionTest.php4 4(9
+%2*
+
+%1*
+
+
+$countryId2
+loadbycode¤
+¡
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Directory\Model\RegionTest.php4 4(9
+
+$country"__id*
+
+%2ª§
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Directory\Model\RegionTest.php5 5((
+%3*
+
+
+$country2
+getregions¢Ÿ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Directory\Model\RegionTest.php5 5(4
+%4*
+
+%32getitems£
+ 
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Directory\Model\RegionTest.php5 5(4	
+$region"__id*
+
+%4Ï
+Ì
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Directory\Model\RegionTest.php7' 7(T
+%5"__concat*
+
+Country *
+
+
+$countryId*
+ not have regionsÝÚ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Directory\Model\RegionTest.php7 7(U
+%6*&$
+"magento\directory\model\regiontest*
+	
+$region*
+
+%52assertnotempty*
+2:
+
+$countryIdstringB&$
+"magento\directory\model\regiontest

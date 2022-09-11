@@ -1,0 +1,168 @@
+
+5magento\sales\controller\adminhtml\order::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpu u("1*Ÿ
+2
+	Order.php"Œ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.php (
+implicit return*ã%
+1u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.php‚ ‚(-¼
+¹
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpu u(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\context¾
+»
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpu u(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryÑ
+Î
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpu u(
+$fileFactory"__id*A
+?
+$fileFactory/magento\framework\app\response\http\filefactoryÕ
+Ò
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpu u(
+$translateInline"__id*A
+?
+$translateInline+magento\framework\translate\inlineinterface×
+Ô
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpu u(
+$resultPageFactory"__id*A
+?
+$resultPageFactory)magento\framework\view\result\pagefactoryÝ
+Ú
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpu u(
+$resultJsonFactory"__id*G
+E
+$resultJsonFactory/magento\framework\controller\result\jsonfactoryÝ
+Ú
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpu u(
+$resultLayoutFactory"__id*E
+C
+$resultLayoutFactory+magento\framework\view\result\layoutfactoryÚ
+×
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpu u(
+$resultRawFactory"__id*E
+C
+$resultRawFactory.magento\framework\controller\result\rawfactoryÔ
+Ñ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpu u(
+$orderManagement"__id*@
+>
+$orderManagement*magento\sales\api\ordermanagementinterfaceÔ
+Ñ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpu u(
+$orderRepository"__id*@
+>
+$orderRepository*magento\sales\api\orderrepositoryinterface¯
+¬
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpu u(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÒ
+Ï
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.php‚ ‚(,=*
+(magento\sales\controller\adminhtml\order"
+_coreRegistry"__id*
+
+$coreRegistryÐ
+Í
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpƒ ƒ(*<*
+(magento\sales\controller\adminhtml\order"
+_fileFactory"__id*
+
+$fileFactoryØ
+Õ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.php„ „(2@*
+(magento\sales\controller\adminhtml\order"
+_translateInline"__id*
+
+$translateInlineÛ
+Ø
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.php… …(5A*
+(magento\sales\controller\adminhtml\order"
+resultPageFactory"__id*
+
+$resultPageFactoryÛ
+Ø
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.php† †(5A*
+(magento\sales\controller\adminhtml\order"
+resultJsonFactory"__id*
+
+$resultJsonFactoryß
+Ü
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.php‡ ‡(9C*
+(magento\sales\controller\adminhtml\order"
+resultLayoutFactory"__id*
+
+$resultLayoutFactoryÙ
+Ö
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpˆ ˆ(3@*
+(magento\sales\controller\adminhtml\order"
+resultRawFactory"__id*
+
+$resultRawFactory×
+Ô
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.php‰ ‰(1?*
+(magento\sales\controller\adminhtml\order"
+orderManagement"__id*
+
+$orderManagement×
+Ô
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpŠ Š(1?*
+(magento\sales\controller\adminhtml\order"
+orderRepository"__id*
+
+$orderRepositoryÅ
+Â
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.php‹ ‹(6*
+(magento\sales\controller\adminhtml\order"
+logger"__id*
+	
+$loggerå
+â
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order.phpŒ Œ(%
+%1"'magento\backend\app\action::__construct*,*
+(magento\sales\controller\adminhtml\order*
+
+
+$context*
+2:.
+$context"magento\backend\app\action\context:+
+$coreRegistrymagento\framework\registry:?
+$fileFactory/magento\framework\app\response\http\filefactory:?
+$translateInline+magento\framework\translate\inlineinterface:?
+$resultPageFactory)magento\framework\view\result\pagefactory:E
+$resultJsonFactory/magento\framework\controller\result\jsonfactory:C
+$resultLayoutFactory+magento\framework\view\result\layoutfactory:C
+$resultRawFactory.magento\framework\controller\result\rawfactory:>
+$orderManagement*magento\sales\api\ordermanagementinterface:>
+$orderRepository*magento\sales\api\orderrepositoryinterface:"
+$loggerpsr\log\loggerinterfaceB,*
+(magento\sales\controller\adminhtml\order

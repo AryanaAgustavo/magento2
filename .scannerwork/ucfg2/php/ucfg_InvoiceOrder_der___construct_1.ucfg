@@ -1,0 +1,54 @@
+
+>magento\sales\model\order\validation\invoiceorder::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\InvoiceOrder.php- -("1*­
+2
+InvoiceOrder.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\InvoiceOrder.php5 5(
+implicit return*“
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\InvoiceOrder.php2 2(4ð
+í
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\InvoiceOrder.php- -(
+$invoiceValidator"__id*R
+P
+$invoiceValidator;magento\sales\model\order\invoice\invoicevalidatorinterfaceâ
+ß
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\InvoiceOrder.php- -(
+$orderValidator"__id*F
+D
+$orderValidator1magento\sales\model\order\ordervalidatorinterfaceè
+å
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\InvoiceOrder.php- -(
+$validatorResultMerger"__id*E
+C
+$validatorResultMerger)magento\sales\model\validatorresultmergeré
+æ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\InvoiceOrder.php2 2(3I3
+1magento\sales\model\order\validation\invoiceorder"
+invoiceValidator"__id*
+
+$invoiceValidatorå
+â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\InvoiceOrder.php3 3(/G3
+1magento\sales\model\order\validation\invoiceorder"
+orderValidator"__id*
+
+$orderValidatoró
+ð
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Validation\InvoiceOrder.php4 4(=N3
+1magento\sales\model\order\validation\invoiceorder"
+validatorResultMerger"__id*
+
+$validatorResultMerger*
+2:P
+$invoiceValidator;magento\sales\model\order\invoice\invoicevalidatorinterface:D
+$orderValidator1magento\sales\model\order\ordervalidatorinterface:C
+$validatorResultMerger)magento\sales\model\validatorresultmergerB53
+1magento\sales\model\order\validation\invoiceorder

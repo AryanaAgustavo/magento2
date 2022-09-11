@@ -1,0 +1,102 @@
+
+Fmagento\reports\model\resourcemodel\report\abstractreport::__construct„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpA A("1*¸
+2
+AbstractReport.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpP P(
+implicit return*Ó
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpJ J(7Ü
+Ù
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpA A(
+
+$context"__id*>
+<
+$context0magento\framework\model\resourcemodel\db\contextÁ
+¾
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpA A(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceå
+â
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpA A(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterfaceã
+à
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpA A(
+$reportsFlagFactory"__id*:
+8
+$reportsFlagFactory!magento\reports\model\flagfactoryô
+ñ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpA A(
+$timezoneValidator"__id*L
+J
+$timezoneValidator4magento\framework\stdlib\datetime\timezone\validatorØ
+Õ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpA A(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetime´
+±
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpJ J(6
+%1"@magento\framework\model\resourcemodel\db\abstractdb::__construct*=;
+9magento\reports\model\resourcemodel\report\abstractreport*
+
+
+$context*
+
+$connectionNameç
+ä
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpK K( H;
+9magento\reports\model\resourcemodel\report\abstractreport"	
+_logger"__id*
+	
+$loggerï
+ì
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpL L((L;
+9magento\reports\model\resourcemodel\report\abstractreport"
+_localeDate"__id*
+
+$localeDateÿ
+ü
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpM M(8T;
+9magento\reports\model\resourcemodel\report\abstractreport"
+_reportsFlagFactory"__id*
+
+$reportsFlagFactoryü
+ù
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpN N(5R;
+9magento\reports\model\resourcemodel\report\abstractreport"
+timezoneValidator"__id*
+
+$timezoneValidatorê
+ç
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\AbstractReport.phpO O(#I;
+9magento\reports\model\resourcemodel\report\abstractreport"
+
+dateTime"__id*
+
+	$dateTime*
+2:<
+$context0magento\framework\model\resourcemodel\db\context:"
+$loggerpsr\log\loggerinterface:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:8
+$reportsFlagFactory!magento\reports\model\flagfactory:J
+$timezoneValidator4magento\framework\stdlib\datetime\timezone\validator:7
+	$dateTime*magento\framework\stdlib\datetime\datetime:
+$connectionNameB=;
+9magento\reports\model\resourcemodel\report\abstractreport

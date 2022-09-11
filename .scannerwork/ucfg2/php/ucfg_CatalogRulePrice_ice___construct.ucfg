@@ -1,0 +1,104 @@
+
+?magento\catalogrule\pricing\price\catalogruleprice::__construct}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.php> >("1*²
+2
+CatalogRulePrice.php"”
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.phpM M(
+implicit return*Ø
+1}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.phpH H(SË
+È
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.php> >(
+$saleableItem"__id*0
+.
+$saleableItemmagento\catalog\model\productÙ
+Ö
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.php> >(
+$calculator"__id*@
+>
+$calculator/magento\framework\pricing\adjustment\calculatorà
+Ý
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.php> >(
+$priceCurrency"__id*D
+B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterfaceÙ
+Ö
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.php> >(
+	$dateTime"__id*B
+@
+	$dateTime3magento\framework\stdlib\datetime\timezoneinterface×
+Ô
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.php> >(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÒ
+Ï
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.php> >(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÚ
+×
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.php> >(
+$ruleResource"__id*?
+=
+$ruleResource,magento\catalogrule\model\resourcemodel\ruleÃ
+À
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.phpH H(R
+%1":magento\framework\pricing\price\abstractprice::__construct*64
+2magento\catalogrule\pricing\price\catalogruleprice*
+
+$saleableItem*
+
+	$quantity*
+
+$calculator*
+
+$priceCurrencyÛ
+Ø
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.phpI I(#B4
+2magento\catalogrule\pricing\price\catalogruleprice"
+
+dateTime"__id*
+
+	$dateTimeã
+à
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.phpJ J(+F4
+2magento\catalogrule\pricing\price\catalogruleprice"
+storeManager"__id*
+
+$storeManageré
+æ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.phpK K(1I4
+2magento\catalogrule\pricing\price\catalogruleprice"
+customerSession"__id*
+
+$customerSessionã
+à
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogRule\Pricing\Price\CatalogRulePrice.phpL L(+F4
+2magento\catalogrule\pricing\price\catalogruleprice"
+ruleResource"__id*
+
+$ruleResource*
+2:.
+$saleableItemmagento\catalog\model\product:
+	$quantity:>
+$calculator/magento\framework\pricing\adjustment\calculator:B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterface:@
+	$dateTime3magento\framework\stdlib\datetime\timezoneinterface::
+$storeManager)magento\store\model\storemanagerinterface:2
+$customerSessionmagento\customer\model\session:=
+$ruleResource,magento\catalogrule\model\resourcemodel\ruleB64
+2magento\catalogrule\pricing\price\catalogruleprice

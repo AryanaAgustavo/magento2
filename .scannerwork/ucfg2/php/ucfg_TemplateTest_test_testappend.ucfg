@@ -1,0 +1,71 @@
+
+Nmagento\framework\view\test\unit\templateengine\xhtml\templatetest::testappend’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\TemplateEngine\Xhtml\TemplateTest.php' '("1*Ä
+2
+TemplateTest.php"ª
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\TemplateEngine\Xhtml\TemplateTest.phpB B(
+implicit return*Š
+1’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\TemplateEngine\Xhtml\TemplateTest.php) .(€
+ý
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\TemplateEngine\Xhtml\TemplateTest.php) .(
+$body"__id*WU
+S<body>
+    <h1>Home Page</h1>
+    <p>CMS homepage content goes here.</p>
+</body>ì
+é
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\TemplateEngine\Xhtml\TemplateTest.php/ >(
+	$expected"__id*¾»
+¸<!--
+/**
+ * Copyright &copy; Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+--><html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Home Page</title>
+    </head>
+<body>
+    <h1>Home Page</h1>
+    <p>CMS homepage content goes here.</p>
+</body></html>
+÷
+ô
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\TemplateEngine\Xhtml\TemplateTest.php@ @(
+%1"__id*Q*OD
+Bmagento\framework\view\test\unit\templateengine\xhtml\templatetest"
+model¹¶
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\TemplateEngine\Xhtml\TemplateTest.php@ @(#
+%2*
+
+%1*	
+
+$body2append÷
+ô
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\TemplateEngine\Xhtml\TemplateTest.phpA0 A(<
+%3"__id*Q*OD
+Bmagento\framework\view\test\unit\templateengine\xhtml\templatetest"
+modelº
+·
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\TemplateEngine\Xhtml\TemplateTest.phpA' A(<
+%4"__passthrough_cast*
+
+%3‹ˆ
+’
+‡C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\TemplateEngine\Xhtml\TemplateTest.phpA A(=
+%5*FD
+Bmagento\framework\view\test\unit\templateengine\xhtml\templatetest*
+
+	$expected*
+
+%42assertequals*
+2BFD
+Bmagento\framework\view\test\unit\templateengine\xhtml\templatetest

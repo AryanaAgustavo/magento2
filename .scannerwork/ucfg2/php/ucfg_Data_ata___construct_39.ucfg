@@ -1,0 +1,87 @@
+
+7magento\framework\messagequeue\config\data::__constructy
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Data.php ("1*¢
+2
+
+Data.php"
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Data.php# #(
+implicit return*Ý
+1y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Data.php! !(DÓ
+Ð
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Data.php (	
+$reader"__id*B
+@
+$reader5magento\framework\messagequeue\config\compositereaderÃ
+À
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Data.php (
+$cache"__id*3
+1
+$cache'magento\framework\config\cacheinterfaceÔ
+Ñ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Data.php (
+
+$envReader"__id*@
+>
+
+$envReader0magento\framework\messagequeue\config\reader\envä
+á
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Data.php (
+$envValidator"__id*M
+K
+$envValidator:magento\framework\messagequeue\config\reader\env\validatorÕ
+Ò
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Data.php (
+$serializer"__id*@
+>
+$serializer/magento\framework\serialize\serializerinterface˜
+•
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Data.php! !(C
+%1"*magento\framework\config\data::__construct*.,
+*magento\framework\messagequeue\config\data*
+	
+$reader*
+
+
+$cache*
+
+
+$cacheId*
+
+$serializerš—
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Data.php"  "(2
+%2*
+
+
+$envReader2read¹¶
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Data.php"4 "(@
+%3*.,
+*magento\framework\messagequeue\config\data2get±®
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\MessageQueue\Config\Data.php" "(A
+%4*
+
+$envValidator*
+
+%2*
+
+%32validate*
+2:@
+$reader5magento\framework\messagequeue\config\compositereader:1
+$cache'magento\framework\config\cacheinterface:>
+
+$envReader0magento\framework\messagequeue\config\reader\env:K
+$envValidator:magento\framework\messagequeue\config\reader\env\validator:
+
+$cacheId:>
+$serializer/magento\framework\serialize\serializerinterfaceB.,
+*magento\framework\messagequeue\config\data

@@ -1,0 +1,70 @@
+
+Rmagento\graphql\catalog\categoryproductscounttest::testcategorywithsaleableproduct—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryProductsCountTest.phpG G(3"1*Ö
+2
+CategoryProductsCountTest.php"¯
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryProductsCountTest.phpV V(
+implicit return*–
+1—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryProductsCountTest.phpI I(¸
+µ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryProductsCountTest.phpI I(
+$categoryId"__id*2ˆ
+…
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryProductsCountTest.phpK R(
+%1"__concat*
+{
+  category(id: *0.
+,) {
+      id
+      product_count
+    }
+}*
+
+$categoryIdµ
+²
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryProductsCountTest.phpK R(
+$query"__id*
+
+%1ôñ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryProductsCountTest.phpS S(/
+%2*53
+1magento\graphql\catalog\categoryproductscounttest*
+
+
+$query2graphqlquery¸
+µ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryProductsCountTest.phpS S(/
+	$response"__id*
+
+%2Ê
+Ç
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryProductsCountTest.phpU U(3
+%3"__mapGet*
+
+	$response*
+
+categoryÈ
+Å
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryProductsCountTest.phpU U(D
+%4"__mapGet*
+
+%3*
+product_count©
+¦
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Catalog\CategoryProductsCountTest.phpU U(E
+%5"?magento\graphql\catalog\categoryproductscounttest::assertequals*5"3
+1magento\graphql\catalog\categoryproductscounttest*2*
+
+%4*
+2B53
+1magento\graphql\catalog\categoryproductscounttest

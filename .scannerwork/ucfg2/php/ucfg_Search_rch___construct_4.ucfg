@@ -1,0 +1,93 @@
+
+/magento\catalog\model\layer\search::__constructm
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Search.php ("1*˜
+2
+
+Search.php"„
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Search.php. .(
+implicit return*¿
+1m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Search.php$ -(
+À
+½
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Search.php (
+
+$context"__id*:
+8
+$context,magento\catalog\model\layer\contextinterfaceÐ
+Í
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Search.php (
+$layerStateFactory"__id*@
+>
+$layerStateFactory(magento\catalog\model\layer\statefactory
+þ
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Search.php (
+$attributeCollectionFactory"__id*h
+f
+$attributeCollectionFactoryGmagento\catalog\model\resourcemodel\product\attribute\collectionfactoryÍ
+Ê
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Search.php (
+$catalogProduct"__id*@
+>
+$catalogProduct+magento\catalog\model\resourcemodel\productÇ
+Ä
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Search.php (
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface°
+­
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Search.php (
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÙ
+Ö
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Search.php (
+$categoryRepository"__id*H
+F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface“
+
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Search.php (
+$data"__id*
+
+$dataarrayì
+é
+m
+cC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Search.php$ -(	
+%1"(magento\catalog\model\layer::__construct*&$
+"magento\catalog\model\layer\search*
+
+
+$context*
+
+$layerStateFactory*
+
+$attributeCollectionFactory*
+
+$catalogProduct*
+
+$storeManager*
+
+	$registry*
+
+$categoryRepository*	
+
+$data*
+2:8
+$context,magento\catalog\model\layer\contextinterface:>
+$layerStateFactory(magento\catalog\model\layer\statefactory:f
+$attributeCollectionFactoryGmagento\catalog\model\resourcemodel\product\attribute\collectionfactory:>
+$catalogProduct+magento\catalog\model\resourcemodel\product::
+$storeManager)magento\store\model\storemanagerinterface:'
+	$registrymagento\framework\registry:F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface:
+$dataarrayB&$
+"magento\catalog\model\layer\search

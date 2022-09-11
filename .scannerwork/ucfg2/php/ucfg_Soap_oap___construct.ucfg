@@ -1,0 +1,157 @@
+
++magento\webapi\controller\soap::__constructi
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.php\ \("1*’
+2
+
+Soap.php"€
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.phpr r(
+implicit return*Ñ
+1i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.phph h(#°
+­
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.php\ \(
+
+$request"__id*.
+,
+$request magento\framework\webapi\request³
+°
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.php\ \(
+	$response"__id*0
+.
+	$response!magento\framework\webapi\responseÄ
+Á
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.php\ \(
+$wsdlGenerator"__id*<
+:
+$wsdlGenerator(magento\webapi\model\soap\wsdl\generator¶
+³
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.php\ \(
+$soapServer"__id*1
+/
+$soapServer magento\webapi\model\soap\serverÅ
+Â
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.php\ \(
+$errorProcessor"__id*<
+:
+$errorProcessor'magento\framework\webapi\errorprocessor­
+ª
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.php\ \(
+	$appState"__id**
+(
+	$appStatemagento\framework\app\stateÈ
+Å
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.php\ \(
+$localeResolver"__id*?
+=
+$localeResolver*magento\framework\locale\resolverinterfaceÃ
+À
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.php\ \(
+$pathProcessor"__id*;
+9
+$pathProcessor'magento\webapi\controller\pathprocessorÖ
+Ó
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.php\ \(
+$rendererFactory"__id*L
+J
+$rendererFactory6magento\framework\webapi\rest\response\rendererfactory°
+­
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.php\ \(
+	$areaList"__id*-
++
+	$areaListmagento\framework\app\arealist²
+¯
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.phph h(". 
+magento\webapi\controller\soap"
+
+_request"__id*
+
+
+$request´
+±
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.phpi i($/ 
+magento\webapi\controller\soap"
+	_response"__id*
+
+	$response¾
+»
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.phpj j(.4 
+magento\webapi\controller\soap"
+_wsdlGenerator"__id*
+
+$wsdlGenerator¸
+µ
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.phpk k((1 
+magento\webapi\controller\soap"
+_soapServer"__id*
+
+$soapServerÀ
+½
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.phpl l(05 
+magento\webapi\controller\soap"
+_errorProcessor"__id*
+
+$errorProcessor´
+±
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.phpm m($/ 
+magento\webapi\controller\soap"
+	_appState"__id*
+
+	$appStateÀ
+½
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.phpn n(05 
+magento\webapi\controller\soap"
+_localeResolver"__id*
+
+$localeResolver¾
+»
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.phpo o(.4 
+magento\webapi\controller\soap"
+_pathProcessor"__id*
+
+$pathProcessor³
+°
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.phpp p(#. 
+magento\webapi\controller\soap"
+
+areaList"__id*
+
+	$areaListÁ
+¾
+i
+_C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Webapi\Controller\Soap.phpq q(15 
+magento\webapi\controller\soap"
+rendererFactory"__id*
+
+$rendererFactory*
+2:,
+$request magento\framework\webapi\request:.
+	$response!magento\framework\webapi\response::
+$wsdlGenerator(magento\webapi\model\soap\wsdl\generator:/
+$soapServer magento\webapi\model\soap\server::
+$errorProcessor'magento\framework\webapi\errorprocessor:(
+	$appStatemagento\framework\app\state:=
+$localeResolver*magento\framework\locale\resolverinterface:9
+$pathProcessor'magento\webapi\controller\pathprocessor:J
+$rendererFactory6magento\framework\webapi\rest\response\rendererfactory:+
+	$areaListmagento\framework\app\arealistB" 
+magento\webapi\controller\soap

@@ -1,0 +1,92 @@
+
+=magento\catalog\block\product\productlist\random::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Random.php& &("1*¶
+2
+
+Random.php"í
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Random.php8 8(
+implicit return*∏
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Random.php/ /(E«
+ƒ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Random.php& &(
+
+$context"__id*3
+1
+$context%magento\catalog\block\product\contextÿ
+’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Random.php& &(
+$postDataHelper"__id*=
+;
+$postDataHelper(magento\framework\data\helper\posthelper“
+œ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Random.php& &(
+$layerResolver"__id*8
+6
+$layerResolver$magento\catalog\model\layer\resolverÁ
+‰
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Random.php& &(
+$categoryRepository"__id*H
+F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface«
+ƒ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Random.php& &(
+
+$urlHelper"__id*1
+/
+
+$urlHelper!magento\framework\url\helper\dataÅ
+˛
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Random.php& &(
+$productCollectionFactory"__id*\
+Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactory°
+û
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Random.php& &(
+$data"__id*
+
+$dataarray¯
+ı
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Random.php/ /(DQ2
+0magento\catalog\block\product\productlist\random"
+_productCollectionFactory"__id*
+
+$productCollectionFactoryﬂ
+‹
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Block\Product\ProductList\Random.php0 7(	
+%1"6magento\catalog\block\product\listproduct::__construct*42
+0magento\catalog\block\product\productlist\random*
+
+
+$context*
+
+$postDataHelper*
+
+$layerResolver*
+
+$categoryRepository*
+
+
+$urlHelper*	
+
+$data*
+2:1
+$context%magento\catalog\block\product\context:;
+$postDataHelper(magento\framework\data\helper\posthelper:6
+$layerResolver$magento\catalog\model\layer\resolver:F
+$categoryRepository/magento\catalog\api\categoryrepositoryinterface:/
+
+$urlHelper!magento\framework\url\helper\data:Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactory:
+$dataarrayB42
+0magento\catalog\block\product\productlist\random

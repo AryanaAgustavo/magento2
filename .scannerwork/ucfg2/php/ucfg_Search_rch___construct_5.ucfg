@@ -1,0 +1,55 @@
+
+5magento\catalog\model\productlink\search::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductLink\Search.php& &("1*ž
+2
+
+Search.php"Š
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductLink\Search.php. .(
+implicit return*¯
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductLink\Search.php+ +(Dù
+ö
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductLink\Search.php& &(
+$productCollectionFactory"__id*\
+Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactoryÖ
+Ó
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductLink\Search.php& &(
+$catalogVisibility"__id*@
+>
+$catalogVisibility(magento\catalog\model\product\visibilityÎ
+Ë
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductLink\Search.php& &(	
+$filter"__id*C
+A
+$filter6magento\ui\dataprovider\addfiltertocollectioninterfaceç
+ä
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductLink\Search.php+ +(CH*
+(magento\catalog\model\productlink\search"
+productCollectionFactory"__id*
+
+$productCollectionFactoryÃ
+À
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductLink\Search.php, ,(6*
+(magento\catalog\model\productlink\search"
+filter"__id*
+	
+$filterÙ
+Ö
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductLink\Search.php- -(5A*
+(magento\catalog\model\productlink\search"
+catalogVisibility"__id*
+
+$catalogVisibility*
+2:Z
+$productCollectionFactory=magento\catalog\model\resourcemodel\product\collectionfactory:>
+$catalogVisibility(magento\catalog\model\product\visibility:A
+$filter6magento\ui\dataprovider\addfiltertocollectioninterfaceB,*
+(magento\catalog\model\productlink\search

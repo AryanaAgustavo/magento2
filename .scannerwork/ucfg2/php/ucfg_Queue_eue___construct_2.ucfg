@@ -1,0 +1,79 @@
+
+)magento\framework\amqp\queue::__constructk
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Queue.php= =("1*ï
+2
+	Queue.php"Ç
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Queue.phpI I(
+implicit return*Ê
+1k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Queue.phpD D((µ
+≤
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Queue.php= =(
+$amqpConfig"__id*.
+,
+$amqpConfigmagento\framework\amqp\config–
+Õ
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Queue.php= =(
+$envelopeFactory"__id*D
+B
+$envelopeFactory.magento\framework\messagequeue\envelopefactoryß
+§
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Queue.php= =(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterface∑
+¥
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Queue.phpD D('.
+magento\framework\amqp\queue"
+
+amqpConfig"__id*
+
+$amqpConfigµ
+≤
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Queue.phpE E(%-
+magento\framework\amqp\queue"
+	queueName"__id*
+
+
+$queueName¡
+æ
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Queue.phpF F(13
+magento\framework\amqp\queue"
+envelopeFactory"__id*
+
+$envelopeFactoryØ
+¨
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Queue.phpG G(*
+magento\framework\amqp\queue"
+logger"__id*
+	
+$loggerù
+ö
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Queue.phpH H(2
+%1"__sanitizing_cast*
+
+$prefetchCount±
+Æ
+k
+aC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Amqp\Queue.phpH H(21
+magento\framework\amqp\queue"
+prefetchCount"__id*
+
+%1*
+2:,
+$amqpConfigmagento\framework\amqp\config:B
+$envelopeFactory.magento\framework\messagequeue\envelopefactory:
+
+$queueName:"
+$loggerpsr\log\loggerinterface:
+$prefetchCountB 
+magento\framework\amqp\queue

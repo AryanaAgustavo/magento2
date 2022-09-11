@@ -1,0 +1,96 @@
+
+5magento\checkout\model\cart\collectquote::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php1 1("1*¤
+2
+CollectQuote.php"Š
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php? ?(
+implicit return*ö
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php9 9(2È
+Å
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php1 1(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionà
+Ý
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php1 1(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceÝ
+Ú
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php1 1(
+$addressRepository"__id*G
+E
+$addressRepository/magento\customer\api\addressrepositoryinterfaceð
+í
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php1 1(
+$estimatedAddressFactory"__id*T
+R
+$estimatedAddressFactory6magento\quote\api\data\estimateaddressinterfacefactoryé
+æ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php1 1(
+$shippingMethodManager"__id*O
+M
+$shippingMethodManager3magento\quote\api\shippingmethodmanagementinterfaceÓ
+Ð
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php1 1(
+$quoteRepository"__id*?
+=
+$quoteRepository)magento\quote\api\cartrepositoryinterfaceÕ
+Ò
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php9 9(1?*
+(magento\checkout\model\cart\collectquote"
+customerSession"__id*
+
+$customerSessionÛ
+Ø
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php: :(7B*
+(magento\checkout\model\cart\collectquote"
+customerRepository"__id*
+
+$customerRepositoryÙ
+Ö
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php; ;(5A*
+(magento\checkout\model\cart\collectquote"
+addressRepository"__id*
+
+$addressRepositoryå
+â
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php< <(AG*
+(magento\checkout\model\cart\collectquote"
+estimatedAddressFactory"__id*
+
+$estimatedAddressFactoryá
+Þ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php= =(=E*
+(magento\checkout\model\cart\collectquote"
+shippingMethodManager"__id*
+
+$shippingMethodManagerÕ
+Ò
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Model\Cart\CollectQuote.php> >(1?*
+(magento\checkout\model\cart\collectquote"
+quoteRepository"__id*
+
+$quoteRepository*
+2:2
+$customerSessionmagento\customer\model\session:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:E
+$addressRepository/magento\customer\api\addressrepositoryinterface:R
+$estimatedAddressFactory6magento\quote\api\data\estimateaddressinterfacefactory:M
+$shippingMethodManager3magento\quote\api\shippingmethodmanagementinterface:=
+$quoteRepository)magento\quote\api\cartrepositoryinterfaceB,*
+(magento\checkout\model\cart\collectquote

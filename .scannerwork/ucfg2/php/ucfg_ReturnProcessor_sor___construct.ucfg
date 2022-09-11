@@ -1,0 +1,82 @@
+
+?magento\salesinventory\model\order\returnprocessor::__construct}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Order\ReturnProcessor.php4 4("1*±
+2
+ReturnProcessor.php"”
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Order\ReturnProcessor.php@ @(
+implicit return*¢
+1}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Order\ReturnProcessor.php; ;(2é
+æ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Order\ReturnProcessor.php4 4(
+$stockManagement"__id*K
+I
+$stockManagement5magento\cataloginventory\api\stockmanagementinterfaceä
+á
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Order\ReturnProcessor.php4 4(
+$stockIndexer"__id*I
+G
+$stockIndexer6magento\cataloginventory\model\indexer\stock\processorã
+à
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Order\ReturnProcessor.php4 4(
+$priceIndexer"__id*H
+F
+$priceIndexer5magento\catalog\model\indexer\product\price\processor×
+Ô
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Order\ReturnProcessor.php4 4(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceê
+ç
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Order\ReturnProcessor.php4 4(
+$orderItemRepository"__id*H
+F
+$orderItemRepository.magento\sales\api\orderitemrepositoryinterfaceé
+æ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Order\ReturnProcessor.php; ;(1I4
+2magento\salesinventory\model\order\returnprocessor"
+stockManagement"__id*
+
+$stockManagementì
+é
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Order\ReturnProcessor.php< <(4O4
+2magento\salesinventory\model\order\returnprocessor"
+stockIndexerProcessor"__id*
+
+$stockIndexerã
+à
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Order\ReturnProcessor.php= =(+F4
+2magento\salesinventory\model\order\returnprocessor"
+priceIndexer"__id*
+
+$priceIndexerã
+à
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Order\ReturnProcessor.php> >(+F4
+2magento\salesinventory\model\order\returnprocessor"
+storeManager"__id*
+
+$storeManagerñ
+î
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Model\Order\ReturnProcessor.php? ?(9M4
+2magento\salesinventory\model\order\returnprocessor"
+orderItemRepository"__id*
+
+$orderItemRepository*
+2:I
+$stockManagement5magento\cataloginventory\api\stockmanagementinterface:G
+$stockIndexer6magento\cataloginventory\model\indexer\stock\processor:F
+$priceIndexer5magento\catalog\model\indexer\product\price\processor::
+$storeManager)magento\store\model\storemanagerinterface:F
+$orderItemRepository.magento\sales\api\orderitemrepositoryinterfaceB64
+2magento\salesinventory\model\order\returnprocessor

@@ -1,0 +1,74 @@
+
+2magento\framework\webapi\rest\request::__constructt
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Rest\Request.phpG G("1* 
+2
+Request.php"‹
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Rest\Request.phpQ Q(
+implicit return*¤
+1t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Rest\Request.phpO O(VÚ
+×
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Rest\Request.phpG G(
+$cookieReader"__id*H
+F
+$cookieReader5magento\framework\stdlib\cookie\cookiereaderinterfaceÃ
+À
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Rest\Request.phpG G(
+
+$converter"__id*4
+2
+
+$converter$magento\framework\stdlib\stringutils»
+¸
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Rest\Request.phpG G(
+	$areaList"__id*-
++
+	$areaListmagento\framework\app\arealistÊ
+Ç
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Rest\Request.phpG G(
+$configScope"__id*9
+7
+$configScope'magento\framework\config\scopeinterfaceì
+é
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Rest\Request.phpG G(
+$deserializerFactory"__id*S
+Q
+$deserializerFactory9magento\framework\webapi\rest\request\deserializerfactory§
+¤
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Rest\Request.phpO O(U
+%1"-magento\framework\webapi\request::__construct*)'
+%magento\framework\webapi\rest\request*
+
+$cookieReader*
+
+
+$converter*
+
+	$areaList*
+
+$configScope*
+
+$uriÜ
+Ù
+t
+jC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Webapi\Rest\Request.phpP P(:A'
+%magento\framework\webapi\rest\request"
+_deserializerFactory"__id*
+
+$deserializerFactory*
+2:F
+$cookieReader5magento\framework\stdlib\cookie\cookiereaderinterface:2
+
+$converter$magento\framework\stdlib\stringutils:+
+	$areaListmagento\framework\app\arealist:7
+$configScope'magento\framework\config\scopeinterface:Q
+$deserializerFactory9magento\framework\webapi\rest\request\deserializerfactory:
+$uriB)'
+%magento\framework\webapi\rest\request

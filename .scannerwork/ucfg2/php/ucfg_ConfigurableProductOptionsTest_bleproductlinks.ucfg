@@ -1,0 +1,89 @@
+
+emagento\graphql\configurableproduct\configurableproductoptionstest::testqueryconfigurableproductlinks®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.php (5"1*Ï
+2$
+"ConfigurableProductOptionsTest.php"¿
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.php! !(
+implicit return*à
+1®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.php (.ﬁ
+€
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.php (-
+$configurableProduct"__id*
+configurable†ù
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.php (6
+%1*FD
+Bmagento\graphql\configurableproduct\configurableproductoptionstest*
+
+$configurableProduct2getquery∆
+√
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.php (6
+$query"__id*
+
+%1ñì
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.php (/
+%2*FD
+Bmagento\graphql\configurableproduct\configurableproductoptionstest*
+
+
+$query2graphqlquery…
+∆
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.php (/
+	$response"__id*
+
+%2¨©
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.php (7
+%3*FD
+Bmagento\graphql\configurableproduct\configurableproductoptionstest*
+
+products*
+
+	$response2assertarrayhaskey€
+ÿ
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.php* (?
+%4"__mapGet*
+
+	$response*
+
+products¢ü
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.php (@
+%5*FD
+Bmagento\graphql\configurableproduct\configurableproductoptionstest*	
+items*
+
+%42assertarrayhaskey€
+ÿ
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.php 0  (E
+%6"__mapGet*
+
+	$response*
+
+products—
+Œ
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.php 0  (N
+%7"__mapGet*
+
+%6*	
+itemsºπ
+®
+ùC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductOptionsTest.php   (a
+%8*FD
+Bmagento\graphql\configurableproduct\configurableproductoptionstest*
+
+%7*
+
+$expectedOptions2 assertconfigurableproductoptions*
+2:
+$expectedOptionsBFD
+Bmagento\graphql\configurableproduct\configurableproductoptionstest

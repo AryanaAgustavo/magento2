@@ -1,0 +1,44 @@
+
+@magento\backend\console\command\cachecleancommand::performaction|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Console\Command\CacheCleanCommand.php! !($"1*²
+2
+CacheCleanCommand.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Console\Command\CacheCleanCommand.php% %(
+implicit return*Ñ
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Console\Command\CacheCleanCommand.php# #(F®
+«
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Console\Command\CacheCleanCommand.php! !($
+$cacheTypes"__id*
+
+$cacheTypesarrayÖ
+Ó
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Console\Command\CacheCleanCommand.php# #(
+%1"__id*G*E3
+1magento\backend\console\command\cachecleancommand"
+eventManager»¸
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Console\Command\CacheCleanCommand.php# #(E
+%2*
+
+%1* 
+adminhtml_cache_flush_system2dispatchÖ
+Ó
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Console\Command\CacheCleanCommand.php$ $(
+%3"__id*G*E3
+1magento\backend\console\command\cachecleancommand"
+cacheManager§¤
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Backend\Console\Command\CacheCleanCommand.php$ $(/
+%4*
+
+%3*
+
+$cacheTypes2clean*
+2:
+$cacheTypesarrayB53
+1magento\backend\console\command\cachecleancommand

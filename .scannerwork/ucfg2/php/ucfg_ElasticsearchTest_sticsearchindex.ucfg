@@ -1,0 +1,221 @@
+
+Omagento\elasticsearch\model\adapter\elasticsearchtest::updateelasticsearchindexö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.phpÕ Õ(-"1*—
+2
+ElasticsearchTest.php"≤
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php› ›(
+implicit return*“6
+1ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.phpœ œ(L˘
+ˆ
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.phpœ œ(+
+%1"__id*K*I7
+5magento\elasticsearch\model\adapter\elasticsearchtest"
+storeManager√¿
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.phpœ œ(B
+%2*
+
+%12getdefaultstoreviewµ≤
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.phpœ œ(K
+%3*
+
+%22getid«
+ƒ
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.phpœ œ(K
+
+$storeId"__sanitizing_cast*
+
+%3«
+ƒ
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php– –($
+$mappedIndexerId"__id*	
+productÙ
+Ò
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php— —(
+%4"__id*F*D7
+5magento\elasticsearch\model\adapter\elasticsearchtest"	
+adapter¸˘
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php— —(Z
+%5*
+
+%4*
+
+
+$storeId*
+
+$mappedIndexerId*
+select_attribute2updateindexmapping˛
+˚
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php“ “(,
+%6"__id*P*N7
+5magento\elasticsearch\model\adapter\elasticsearchtest"
+indexNameResolverÂ‚
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php“ “([
+%7*
+
+%6*
+
+
+$storeId*
+
+$mappedIndexerId2getindexfromaliasª
+∏
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php“ “([
+	$oldIndex"__id*
+
+%7∆
+√
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php” ”()
+%8"__concat*
+
+	$oldIndex*
+1ı
+Ú
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php” ”()E7
+5magento\elasticsearch\model\adapter\elasticsearchtest"
+
+newIndex"__id*
+
+%8ı
+Ú
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php‘ ‘(*
+%9"__id*G*E7
+5magento\elasticsearch\model\adapter\elasticsearchtest"
+
+newIndex˜Ù
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php‘ ‘(+
+%10*97
+5magento\elasticsearch\model\adapter\elasticsearchtest*
+
+%92deleteindex˙
+˜
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php’ ’(
+%11"__id*K*I7
+5magento\elasticsearch\model\adapter\elasticsearchtest"
+indexBuilder «
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php’ ’(1
+%12*
+
+%11*
+
+
+$storeId2
+setstoreidÙ
+Ò
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php÷ ÷(
+%13"__id*E*C7
+5magento\elasticsearch\model\adapter\elasticsearchtest"
+clientˆ
+Û
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php÷# ÷(2
+%14"__id*G*E7
+5magento\elasticsearch\model\adapter\elasticsearchtest"
+
+newIndexØ¨
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php÷4 ÷(`
+%15"$Array˙
+˜
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php÷C ÷(V
+%16"__id*K*I7
+5magento\elasticsearch\model\adapter\elasticsearchtest"
+indexBuilder∑¥
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php÷C ÷(_
+%17*
+
+%162build—
+Œ
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php÷4 ÷(`
+%18"__mapSet*
+
+%15*
+
+settings*
+
+%17œÃ
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php÷ ÷(a
+%19*
+
+%13*
+
+%14*
+
+%152createindexÙ
+Ò
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php◊ ◊(
+%20"__id*E*C7
+5magento\elasticsearch\model\adapter\elasticsearchtest"
+clientˇ
+¸
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.phpÿ ÿ($
+%21"__id*P*N7
+5magento\elasticsearch\model\adapter\elasticsearchtest"
+indexNameResolverÍÁ
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.phpÿ ÿ(V
+%22*
+
+%21*
+
+
+$storeId*
+
+$mappedIndexerId2getindexnameforaliasˆ
+Û
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.phpŸ Ÿ(
+%23"__id*G*E7
+5magento\elasticsearch\model\adapter\elasticsearchtest"
+
+newIndexﬁ€
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php◊ €(	
+%24*
+
+%20*
+
+%22*
+
+%23*
+
+	$oldIndex2updatealiasÙ
+Ò
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php‹ ‹(
+%25"__id*E*C7
+5magento\elasticsearch\model\adapter\elasticsearchtest"
+clientÃ…
+ö
+çC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Elasticsearch\Model\Adapter\ElasticsearchTest.php‹ ‹(-
+%26*
+
+%25*
+
+	$oldIndex2deleteindex*
+2B97
+5magento\elasticsearch\model\adapter\elasticsearchtest

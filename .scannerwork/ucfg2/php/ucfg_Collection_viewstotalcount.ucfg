@@ -1,0 +1,70 @@
+
+Jmagento\review\model\resourcemodel\review\collection::addreviewstotalcountÅ
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpÇ Ç(("1*¶
+1Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpÑ ä(
+⁄
+◊
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpÑ Ñ(
+%1"__id*E*C6
+4magento\review\model\resourcemodel\review\collection"	
+_selectïí
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpÖ Ö(,
+%2"$Array◊‘
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpÖ Ö(+
+%3*86
+4magento\review\model\resourcemodel\review\collection2getreviewtableÆ
+´
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpÖ Ö(,
+%4"__mapSet*
+
+%2*
+r*
+
+%3ïí
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpá á(H
+%5"$Arrayõò
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpá  á(G
+%6"zend_db_expr»
+≈
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpá  á(G
+%7"zend_db_expr::__construct*
+
+%6*
+COUNT(r.review_id)∫
+∑
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpá á(H
+%8"__mapSet*
+
+%5*
+total_reviews*
+
+%6„‡
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpÑ à(	
+%9*
+
+%1*
+
+%2*20
+.main_table.entity_pk_value = r.entity_pk_value*
+
+%52joinleft∑¥
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpÑ ä(	
+%10*
+
+%9*
+main_table.review_id2group"æ
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Review\Model\ResourceModel\Review\Collection.phpå å(86
+4magento\review\model\resourcemodel\review\collectionB86
+4magento\review\model\resourcemodel\review\collection

@@ -1,0 +1,88 @@
+
+Vmagento\catalogurlrewrite\model\categoryurlrewritegenerator::updatecategoryurlforstoreˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlRewriteGenerator.php© ©(0"1*É
+2!
+CategoryUrlRewriteGenerator.php" 
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlRewriteGenerator.php² ²(
+implicit return*Ï
+1ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlRewriteGenerator.php« «(_Ð
+Í
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlRewriteGenerator.php© ©(0
+	$category"__id*-
++
+	$categorymagento\catalog\model\categoryó
+ð
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlRewriteGenerator.php«" «(;
+%1"__id*W*U=
+;magento\catalogurlrewrite\model\categoryurlrewritegenerator"
+categoryRepositoryª§
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlRewriteGenerator.php«A «(S
+%2*
+
+	$category2getid·´
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlRewriteGenerator.php«" «(^
+%3*
+
+%1*
+
+%2*
+
+
+$storeId2get·
+´
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlRewriteGenerator.php« «(^
+$categoryFromRepository"__id*
+
+%3œ™
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlRewriteGenerator.php­ °(
+%4"$Array¼¹
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlRewriteGenerator.php®! ®(E
+%5*
+
+$categoryFromRepository2	geturlkey»
+¸
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlRewriteGenerator.php­ °(
+%6"__mapSet*
+
+%4*	
+url_key*
+
+%5½º
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlRewriteGenerator.php¯" ¯(G
+%7*
+
+$categoryFromRepository2
+geturlpath¼
+¹
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlRewriteGenerator.php­ °(
+%8"__mapSet*
+
+%4*
+
+url_path*
+
+%7´±
+ˆ
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Model\CategoryUrlRewriteGenerator.php¬ ±(
+%9*
+
+	$category*
+
+%42adddata*
+2:
+
+$storeId:+
+	$categorymagento\catalog\model\categoryB?=
+;magento\catalogurlrewrite\model\categoryurlrewritegenerator

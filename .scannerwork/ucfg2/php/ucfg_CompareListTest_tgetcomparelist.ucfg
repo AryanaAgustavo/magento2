@@ -1,0 +1,136 @@
+
+?magento\graphql\comparelist\comparelisttest::testgetcomparelist“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php” ”(&"1*È
+2
+CompareListTest.php"«
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php© ©(
+implicit return*ª
+1“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php– –(2ãà
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php– –(1
+%1*/-
++magento\graphql\comparelist\comparelisttest2createcomparelist·
+´
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php– –(1
+$compareList"__id*
+
+%1Ò
+Ï
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php— —(0
+%2"__mapGet*
+
+$compareList*
+createCompareListº
+·
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php— —(7
+%3"__mapGet*
+
+%2*
+uid¯
+¬
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php— —(7
+$uid"__id*
+
+%3èå
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php˜ ˜(!
+%4*/-
++magento\graphql\comparelist\comparelisttest*
+
+$uid2uidassertionôñ
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php™ ™(<
+%5*/-
++magento\graphql\comparelist\comparelisttest*
+
+$uid2addproductstocomparelist·
+´
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php™ ™(<
+$addProducts"__id*
+
+%5Ù
+Ö
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.phpš š(F
+%6"__mapGet*
+
+$addProducts*
+addProductsToCompareList¼
+¹
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.phpš š(O
+%7"__mapGet*
+
+%6*	
+itemsèå
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.phpš š(P
+%8*/-
++magento\graphql\comparelist\comparelisttest*
+
+%72itemsassertion®
+«
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php› ¦(
+%9"__concat*
+{
+  compareList(uid: "*\Z
+X") {
+    uid
+    items {
+        product {
+            sku
+        }
+    }
+  }
+}*
+
+$uid±
+®
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php› ¦(
+$query"__id*
+
+%9ëè
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php§ §(/
+%10*/-
++magento\graphql\comparelist\comparelisttest*
+
+
+$query2graphqlqueryµ
+²
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php§ §(/
+	$response"__id*
+
+%10Ê
+Ç
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php¨ ¨(6
+%11"__mapGet*
+
+	$response*
+compareList¾
+»
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php¨ ¨(?
+%12"__mapGet*
+
+%11*	
+itemsêç
+“
+†C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CompareList\CompareListTest.php¨ ¨(@
+%13*/-
++magento\graphql\comparelist\comparelisttest*
+
+%122itemsassertion*
+2B/-
++magento\graphql\comparelist\comparelisttest

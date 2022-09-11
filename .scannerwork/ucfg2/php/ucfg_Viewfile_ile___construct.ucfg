@@ -1,0 +1,274 @@
+
+Amagento\customer\controller\adminhtml\index\viewfile::__construct
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H("1*Ø
+2
+Viewfile.php"ô
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpÇ Ç(
+implicit return*ç;
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpe (
+»
+≈
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\context 
+«
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registry›
+⁄
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$fileFactory"__id*A
+?
+$fileFactory/magento\framework\app\response\http\filefactory‹
+Ÿ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$customerFactory"__id*<
+:
+$customerFactory&magento\customer\model\customerfactoryŸ
+÷
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$addressFactory"__id*:
+8
+$addressFactory%magento\customer\model\addressfactoryŸ
+÷
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$formFactory"__id*=
+;
+$formFactory+magento\customer\model\metadata\formfactory‰
+·
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$subscriberFactory"__id*B
+@
+$subscriberFactory*magento\newsletter\model\subscriberfactory»
+≈
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$viewHelper"__id*-
++
+$viewHelpermagento\customer\helper\view¡
+æ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(	
+$random"__id**
+(
+$randommagento\framework\math\randomÏ
+È
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceÖ
+Ç
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H( 
+$extensibleDataObjectConverter"__id*W
+U
+$extensibleDataObjectConverter3magento\framework\api\extensibledataobjectconverter◊
+‘
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$addressMapper"__id*9
+7
+$addressMapper%magento\customer\model\address\mapper˘
+ˆ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$customerAccountManagement"__id*O
+M
+$customerAccountManagement/magento\customer\api\accountmanagementinterfaceÈ
+Ê
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$addressRepository"__id*G
+E
+$addressRepository/magento\customer\api\addressrepositoryinterface
+Ì
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$customerDataFactory"__id*L
+J
+$customerDataFactory2magento\customer\api\data\customerinterfacefactoryÌ
+Í
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$addressDataFactory"__id*J
+H
+$addressDataFactory1magento\customer\api\data\addressinterfacefactory⁄
+◊
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$customerMapper"__id*;
+9
+$customerMapper&magento\customer\model\customer\mapperÓ
+Î
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$dataObjectProcessor"__id*J
+H
+$dataObjectProcessor0magento\framework\reflection\dataobjectprocessorﬁ
+€
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$dataObjectHelper"__id*=
+;
+$dataObjectHelper&magento\framework\api\dataobjecthelper’
+“
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$objectFactory"__id*7
+5
+$objectFactory#magento\framework\dataobjectfactory÷
+”
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$layoutFactory"__id*8
+6
+$layoutFactory$magento\framework\view\layoutfactoryÈ
+Ê
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$resultLayoutFactory"__id*E
+C
+$resultLayoutFactory+magento\framework\view\result\layoutfactory„
+‡
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$resultPageFactory"__id*A
+?
+$resultPageFactory)magento\framework\view\result\pagefactory
+Ì
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$resultForwardFactory"__id*K
+I
+$resultForwardFactory0magento\backend\model\view\result\forwardfactoryÈ
+Ê
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$resultJsonFactory"__id*G
+E
+$resultJsonFactory/magento\framework\controller\result\jsonfactoryÊ
+„
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$resultRawFactory"__id*E
+C
+$resultRawFactory.magento\framework\controller\result\rawfactory“
+œ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpH H(
+$urlDecoder"__id*7
+5
+$urlDecoder&magento\framework\url\decoderinterface≥
+∞
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpe (	
+%1"8magento\customer\controller\adminhtml\index::__construct*86
+4magento\customer\controller\adminhtml\index\viewfile*
+
+
+$context*
+
+$coreRegistry*
+
+$fileFactory*
+
+$customerFactory*
+
+$addressFactory*
+
+$formFactory*
+
+$subscriberFactory*
+
+$viewHelper*
+	
+$random*
+
+$customerRepository*"
+ 
+$extensibleDataObjectConverter*
+
+$addressMapper*
+
+$customerAccountManagement*
+
+$addressRepository*
+
+$customerDataFactory*
+
+$addressDataFactory*
+
+$customerMapper*
+
+$dataObjectProcessor*
+
+$dataObjectHelper*
+
+$objectFactory*
+
+$layoutFactory*
+
+$resultLayoutFactory*
+
+$resultPageFactory*
+
+$resultForwardFactory*
+
+$resultJsonFactoryÚ
+Ô
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpÄ Ä(3L6
+4magento\customer\controller\adminhtml\index\viewfile"
+resultRawFactory"__id*
+
+$resultRawFactoryÊ
+„
+Å
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Index\Viewfile.phpÅ Å((F6
+4magento\customer\controller\adminhtml\index\viewfile"
+
+urlDecoder"__id*
+
+$urlDecoder*
+2:.
+$context"magento\backend\app\action\context:+
+$coreRegistrymagento\framework\registry:?
+$fileFactory/magento\framework\app\response\http\filefactory::
+$customerFactory&magento\customer\model\customerfactory:8
+$addressFactory%magento\customer\model\addressfactory:;
+$formFactory+magento\customer\model\metadata\formfactory:@
+$subscriberFactory*magento\newsletter\model\subscriberfactory:+
+$viewHelpermagento\customer\helper\view:(
+$randommagento\framework\math\random:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:U
+$extensibleDataObjectConverter3magento\framework\api\extensibledataobjectconverter:7
+$addressMapper%magento\customer\model\address\mapper:M
+$customerAccountManagement/magento\customer\api\accountmanagementinterface:E
+$addressRepository/magento\customer\api\addressrepositoryinterface:J
+$customerDataFactory2magento\customer\api\data\customerinterfacefactory:H
+$addressDataFactory1magento\customer\api\data\addressinterfacefactory:9
+$customerMapper&magento\customer\model\customer\mapper:H
+$dataObjectProcessor0magento\framework\reflection\dataobjectprocessor:;
+$dataObjectHelper&magento\framework\api\dataobjecthelper:5
+$objectFactory#magento\framework\dataobjectfactory:6
+$layoutFactory$magento\framework\view\layoutfactory:C
+$resultLayoutFactory+magento\framework\view\result\layoutfactory:?
+$resultPageFactory)magento\framework\view\result\pagefactory:I
+$resultForwardFactory0magento\backend\model\view\result\forwardfactory:E
+$resultJsonFactory/magento\framework\controller\result\jsonfactory:C
+$resultRawFactory.magento\framework\controller\result\rawfactory:5
+$urlDecoder&magento\framework\url\decoderinterfaceB86
+4magento\customer\controller\adminhtml\index\viewfile

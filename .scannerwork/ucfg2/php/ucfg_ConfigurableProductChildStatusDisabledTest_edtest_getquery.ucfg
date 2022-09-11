@@ -1,0 +1,41 @@
+
+Xmagento\graphql\configurableproduct\configurableproductchildstatusdisabledtest::getquery´
+©C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductChildStatusDisabledTest.php* *("1*†
+
+1´
+©C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductChildStatusDisabledTest.php, =(Ú
+×
+´
+©C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductChildStatusDisabledTest.php* *(
+$sku"__id*
+
+$skustringª
+§
+´
+©C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductChildStatusDisabledTest.php, =(
+%1"__concat*86
+4        {
+            products(filter: {sku: {eq: "*™–
+“"}})
+            {
+                items {
+                    sku
+                    ... on ConfigurableProduct {
+                        variants {
+                            product {
+                                sku
+                                stock_status
+                            }
+                        }
+                    }
+                }
+            }
+        }*
+
+$sku"¿
+´
+©C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\ConfigurableProduct\ConfigurableProductChildStatusDisabledTest.php, =(
+
+%1:
+$skustringBRP
+Nmagento\graphql\configurableproduct\configurableproductchildstatusdisabledtest

@@ -1,0 +1,87 @@
+
+Šmagento\cataloggraphql\model\resolver\categories\dataprovider\category\collectionprocessor\catalogprocessor::addrootcategoryfilterforstore·
+¬C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories\DataProvider\Category\CollectionProcessor\CatalogProcessor.php@ @(2"1*í
+2
+CatalogProcessor.php"Ï
+·
+¬C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories\DataProvider\Category\CollectionProcessor\CatalogProcessor.phpJ J(
+implicit return*•
+1·
+¬C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories\DataProvider\Category\CollectionProcessor\CatalogProcessor.phpB B(+œ
+™
+·
+¬C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories\DataProvider\Category\CollectionProcessor\CatalogProcessor.php@ @(2
+$collection"__id*H
+F
+$collection7magento\catalog\model\resourcemodel\category\collectionó
+ð
+·
+¬C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories\DataProvider\Category\CollectionProcessor\CatalogProcessor.php@ @(2
+$rootCategoryId"__id*
+
+$rootCategoryIdstringßÜ
+·
+¬C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories\DataProvider\Category\CollectionProcessor\CatalogProcessor.phpB B(*
+%1*
+
+$collection2	getselectÖ
+Ó
+·
+¬C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories\DataProvider\Category\CollectionProcessor\CatalogProcessor.phpB B(*	
+$select"__id*
+
+%1ãà
+·
+¬C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories\DataProvider\Category\CollectionProcessor\CatalogProcessor.phpC C(2
+%2*
+
+$collection2getconnectionÚ
+×
+·
+¬C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories\DataProvider\Category\CollectionProcessor\CatalogProcessor.phpC C(2
+$connection"__id*
+
+%2ùö
+·
+¬C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories\DataProvider\Category\CollectionProcessor\CatalogProcessor.phpF2 F(\
+%3*
+
+$connection*
+
+$rootCategoryId*
+int2quoteø
+õ
+·
+¬C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories\DataProvider\Category\CollectionProcessor\CatalogProcessor.phpF F(\
+%4"__concat*!
+e.path LIKE ? OR e.entity_id=*
+
+%3ò
+ï
+·
+¬C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories\DataProvider\Category\CollectionProcessor\CatalogProcessor.phpG G(-
+%5"__concat*
+%/*
+
+$rootCategoryId*
+/%ïì
+·
+¬C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories\DataProvider\Category\CollectionProcessor\CatalogProcessor.phpE H(
+%6*
+
+$connection*
+
+%4*
+
+%52	quoteintoßÜ
+·
+¬C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogGraphQl\Model\Resolver\Categories\DataProvider\Category\CollectionProcessor\CatalogProcessor.phpD I(	
+%7*
+	
+$select*
+
+%62where*
+2:F
+$collection7magento\catalog\model\resourcemodel\category\collection:
+$rootCategoryIdstringBom
+kmagento\cataloggraphql\model\resolver\categories\dataprovider\category\collectionprocessor\catalogprocessor

@@ -1,0 +1,69 @@
+
+Lmagento\sales\controller\adminhtml\order\creditmemo\printaction::__constructã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Creditmemo\PrintAction.php ("1*º
+2
+PrintAction.php"£
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Creditmemo\PrintAction.php- -(
+implicit return*ı
+1ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Creditmemo\PrintAction.php& &(4’
+“
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Creditmemo\PrintAction.php (
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÍ
+Á
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Creditmemo\PrintAction.php (
+$fileFactory"__id*A
+?
+$fileFactory/magento\framework\app\response\http\filefactory˝
+˙
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Creditmemo\PrintAction.php (
+$resultForwardFactory"__id*K
+I
+$resultForwardFactory0magento\backend\model\view\result\forwardfactory¸
+˘
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Creditmemo\PrintAction.php (
+$creditmemoRepository"__id*J
+H
+$creditmemoRepository/magento\sales\api\creditmemorepositoryinterface˛
+˚
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Creditmemo\PrintAction.php (
+$creditmemoLoader"__id*P
+N
+$creditmemoLoader9magento\sales\controller\adminhtml\order\creditmemoloaderá
+Ñ
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Creditmemo\PrintAction.php& &(3WA
+?magento\sales\controller\adminhtml\order\creditmemo\printaction"
+creditmemoLoader"__id*
+
+$creditmemoLoaderç
+ä
+ã
+ÄC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Controller\Adminhtml\Order\Creditmemo\PrintAction.php' ,(	
+%1"Ymagento\sales\controller\adminhtml\creditmemo\abstractcreditmemo\printaction::__construct*CA
+?magento\sales\controller\adminhtml\order\creditmemo\printaction*
+
+
+$context*
+
+$fileFactory*
+
+$resultForwardFactory*
+
+$creditmemoRepository*
+2:.
+$context"magento\backend\app\action\context:?
+$fileFactory/magento\framework\app\response\http\filefactory:I
+$resultForwardFactory0magento\backend\model\view\result\forwardfactory:H
+$creditmemoRepository/magento\sales\api\creditmemorepositoryinterface:N
+$creditmemoLoader9magento\sales\controller\adminhtml\order\creditmemoloaderBCA
+?magento\sales\controller\adminhtml\order\creditmemo\printaction

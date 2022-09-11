@@ -1,0 +1,96 @@
+
+>magento\config\model\config\backend\image\adapter::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Image\Adapter.php# #("1*¨
+2
+Adapter.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Image\Adapter.php/ /(
+implicit return*Ê
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Image\Adapter.php- -(qÂ
+¿
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Image\Adapter.php# #(
+
+$context"__id*-
++
+$contextmagento\framework\model\context¿
+¼
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Image\Adapter.php# #(
+	$registry"__id*)
+'
+	$registrymagento\framework\registryÒ
+Ï
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Image\Adapter.php# #(	
+$config"__id*>
+<
+$config1magento\framework\app\config\scopeconfiginterfaceÜ
+Ù
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Image\Adapter.php# #(
+$cacheTypeList"__id*A
+?
+$cacheTypeList-magento\framework\app\cache\typelistinterfaceÓ
+Ð
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Image\Adapter.php# #(
+$imageFactory"__id*9
+7
+$imageFactory&magento\framework\image\adapterfactoryÛ
+Ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Image\Adapter.php# #(
+	$resource"__id*E
+C
+	$resource6magento\framework\model\resourcemodel\abstractresourceå
+â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Image\Adapter.php# #(
+$resourceCollection"__id*E
+C
+$resourceCollection,magento\framework\data\collection\abstractdb¢
+Ÿ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Image\Adapter.php# #(
+$data"__id*
+
+$dataarrayà
+Ý
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Image\Adapter.php- -(p
+%1"/magento\framework\app\config\value::__construct*53
+1magento\config\model\config\backend\image\adapter*
+
+
+$context*
+
+	$registry*
+	
+$config*
+
+$cacheTypeList*
+
+	$resource*
+
+$resourceCollection*	
+
+$dataâ
+ß
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Config\Model\Config\Backend\Image\Adapter.php. .(,F3
+1magento\config\model\config\backend\image\adapter"
+_imageFactory"__id*
+
+$imageFactory*
+2:+
+$contextmagento\framework\model\context:'
+	$registrymagento\framework\registry:<
+$config1magento\framework\app\config\scopeconfiginterface:?
+$cacheTypeList-magento\framework\app\cache\typelistinterface:7
+$imageFactory&magento\framework\image\adapterfactory:C
+	$resource6magento\framework\model\resourcemodel\abstractresource:C
+$resourceCollection,magento\framework\data\collection\abstractdb:
+$dataarrayB53
+1magento\config\model\config\backend\image\adapter

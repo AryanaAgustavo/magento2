@@ -1,0 +1,180 @@
+
+=magento\sales\model\adminorder\createtest::verifycreatedorderé
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php¨ ¨('"1*æ
+2
+CreateTest.php"¶
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.phpΩ Ω(
+implicit return*ˇ)
+1é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.phpØ Ø('À
+»
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php¨ ¨('
+$order"__id*%
+#
+$ordermagento\sales\model\orderØ¨
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.phpØ Ø(&
+%1*
+
+
+$order2getdata∞
+≠
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.phpØ Ø(&
+
+$orderData"__id*
+
+%1∆
+√
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php∞ ∞(7
+%2"__mapGet*
+
+
+$orderData*
+increment_idÆ
+´
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php∞ ∞(X
+%3"9magento\sales\model\adminorder\createtest::assertnotempty*-"+
+)magento\sales\model\adminorder\createtest*
+
+%2* 
+Order increment ID is empty.⁄
+◊
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php± ±('
+%4"__id*8*6+
+)magento\sales\model\adminorder\createtest"
+model¨©
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php± ±(3
+%5*
+
+%42getquote©¶
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php± ±(<
+%6*
+
+%52getid¬
+ø
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php±> ±(T
+%7"__mapGet*
+
+
+$orderData*
+
+quote_id¨
+©
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php± ±(m
+%8"7magento\sales\model\adminorder\createtest::assertequals*-"+
+)magento\sales\model\adminorder\createtest*
+
+%6*
+
+%7*
+Quote ID is invalid.⁄
+◊
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php≥ ≥(
+%9"__id*8*6+
+)magento\sales\model\adminorder\createtest"
+model≠™
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php≥ ≥($
+%10*
+
+%92getquote±Æ
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php≥ ≥(3
+%11*
+
+%102getcustomerÆ´
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php≥ ≥(?
+%12*
+
+%112getemail…
+∆
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php¥ ¥((
+%13"__mapGet*
+
+
+$orderData*
+customer_emailµ
+≤
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php≤ ∂(	
+%14"7magento\sales\model\adminorder\createtest::assertequals*-"+
+)magento\sales\model\adminorder\createtest*
+
+%12*
+
+%13*
+Customer email is invalid.€
+ÿ
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php∏ ∏(
+%15"__id*8*6+
+)magento\sales\model\adminorder\createtest"
+modelÆ´
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php∏ ∏($
+%16*
+
+%152getquote±Æ
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php∏ ∏(3
+%17*
+
+%162getcustomer≤Ø
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php∏ ∏(C
+%18*
+
+%172getfirstnameÕ
+ 
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.phpπ π(,
+%19"__mapGet*
+
+
+$orderData*
+customer_firstname∫
+∑
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.php∑ ª(	
+%20"7magento\sales\model\adminorder\createtest::assertequals*-"+
+)magento\sales\model\adminorder\createtest*
+
+%18*
+
+%19*#!
+Customer first name is invalid. 
+«
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.phpº, º(I
+%21"__mapGet*
+
+
+$orderData*
+shipping_method¬
+ø
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Model\AdminOrder\CreateTest.phpº º(i
+%22"7magento\sales\model\adminorder\createtest::assertequals*-"+
+)magento\sales\model\adminorder\createtest*
+
+$shippingMethod*
+
+%21*
+Shipping method is invalid.*
+2:#
+$ordermagento\sales\model\order:
+$shippingMethodB-+
+)magento\sales\model\adminorder\createtest

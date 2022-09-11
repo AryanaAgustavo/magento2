@@ -1,0 +1,62 @@
+
+Tmagento\catalog\pricing\render\pricetypes\combinationabstract::checktierpricemessage¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Pricing\Render\PriceTypes\CombinationAbstract.phpä ä(,"1*Û
+2
+CombinationAbstract.php"º
+¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Pricing\Render\PriceTypes\CombinationAbstract.phpë ë(
+implicit return*×
+1¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Pricing\Render\PriceTypes\CombinationAbstract.phpæ ê(
+Ô
+Ñ
+¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Pricing\Render\PriceTypes\CombinationAbstract.phpä ä(,
+
+$priceHtml"__id*
+
+
+$priceHtmlstringã
+à
+¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Pricing\Render\PriceTypes\CombinationAbstract.phpä ä(,
+$tierMessageConfig"__id*
+
+$tierMessageConfigarray£ 
+¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Pricing\Render\PriceTypes\CombinationAbstract.phpè, è(_
+%1*A?
+=magento\catalog\pricing\render\pricetypes\combinationabstract*
+
+$tierMessageConfig2gettierpricemessagexpath¬
+©
+¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Pricing\Render\PriceTypes\CombinationAbstract.phpè è(l
+%2"<magento\testframework\helper\xpath::getelementscountforxpath*&"$
+"magento\testframework\helper\xpath*
+
+%1*
+
+
+$priceHtmlý
+ú
+¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Pricing\Render\PriceTypes\CombinationAbstract.phpé é(I
+%3"__concat*31
+/Tier price message not founded. Rendered html: *
+
+
+$priceHtml•’
+¢
+•C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Pricing\Render\PriceTypes\CombinationAbstract.phpæ ê(	
+%4*A?
+=magento\catalog\pricing\render\pricetypes\combinationabstract*2*
+
+%2*
+
+%32assertequals*
+2:
+
+$priceHtmlstring:
+$tierMessageConfigarrayBA?
+=magento\catalog\pricing\render\pricetypes\combinationabstract

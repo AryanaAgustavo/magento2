@@ -1,0 +1,88 @@
+
+3magento\checkout\controller\cart\index::__constructq
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\Index.php ("1*›
+2
+	Index.php"ˆ
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\Index.php/ /(
+implicit return*¤
+1q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\Index.php& -(
+¼
+¹
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\Index.php (
+
+$context"__id*2
+0
+$context$magento\framework\app\action\contextÑ
+Î
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\Index.php (
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceÆ
+Ã
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\Index.php (
+$checkoutSession"__id*4
+2
+$checkoutSessionmagento\checkout\model\sessionË
+È
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\Index.php (
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface×
+Ô
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\Index.php (
+$formKeyValidator"__id*D
+B
+$formKeyValidator-magento\framework\data\form\formkey\validator­
+ª
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\Index.php (
+$cart"__id*&
+$
+$cartmagento\checkout\model\cartÕ
+Ò
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\Index.php (
+$resultPageFactory"__id*A
+?
+$resultPageFactory)magento\framework\view\result\pagefactoryÂ
+¿
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\Index.php& -(	
+%1"-magento\checkout\controller\cart::__construct**(
+&magento\checkout\controller\cart\index*
+
+
+$context*
+
+$scopeConfig*
+
+$checkoutSession*
+
+$storeManager*
+
+$formKeyValidator*	
+
+$cartÕ
+Ò
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Checkout\Controller\Cart\Index.php. .(5?(
+&magento\checkout\controller\cart\index"
+resultPageFactory"__id*
+
+$resultPageFactory*
+2:0
+$context$magento\framework\app\action\context:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:2
+$checkoutSessionmagento\checkout\model\session::
+$storeManager)magento\store\model\storemanagerinterface:B
+$formKeyValidator-magento\framework\data\form\formkey\validator:$
+$cartmagento\checkout\model\cart:?
+$resultPageFactory)magento\framework\view\result\pagefactoryB*(
+&magento\checkout\controller\cart\index

@@ -1,0 +1,155 @@
+
+Bmagento\search\test\unit\model\queryfactorytest::testgetquerytwice|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php“ “(%"1*±
+2
+QueryFactoryTest.php"“
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.phpª ª(
+implicit return*’%
+1|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php• •(™
+–
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php• •(
+
+$queryId"__id*2{ 
+
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php– –(
+$maxQueryLength"__id*2d 
+
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php— —(
+$minQueryLength"__id*2±
+®
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php˜ ˜(-
+$rawQueryText"__id*
+  Simple product   ®
+«
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php™ ™(*
+$cleanedRawText"__id*
+Simple productª
+§
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.phpš š($
+$isQueryTextExceeded"__id*	
+false§
+¤
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php› ›(!
+$isQueryTextShort"__id*	
+falseÝÚ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php (*
+%1*31
+/magento\search\test\unit\model\queryfactorytest*
+
+$cleanedRawText2
+mockstringøõ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.phpž ž(A
+%2*31
+/magento\search\test\unit\model\queryfactorytest*
+
+$maxQueryLength*
+
+$minQueryLength2mockquerylengthsäá
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.phpŸ Ÿ(1
+%3*31
+/magento\search\test\unit\model\queryfactorytest*
+
+$rawQueryText2mockgetrawquerytext¡ž
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php   (b
+%4*31
+/magento\search\test\unit\model\queryfactorytest*
+
+$cleanedRawText*
+
+
+$queryId*
+
+$isQueryTextExceeded*
+
+$isQueryTextShort2mocksimplequeryÍÊ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php¢ ¢( 
+%5*31
+/magento\search\test\unit\model\queryfactorytest2mockcreatequeryÍ
+Ê
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php¤ ¤(
+%6"__id*>*<1
+/magento\search\test\unit\model\queryfactorytest"
+model”‘
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php¤ ¤(%
+%7*
+
+%62getš
+—
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php¤ ¤(%	
+$result"__id*
+
+%7Í
+Ê
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php¥ ¥(&
+%8"__id*>*<1
+/magento\search\test\unit\model\queryfactorytest"
+queryŠ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php¥ ¥(^
+%9*31
+/magento\search\test\unit\model\queryfactorytest*
+
+%8*
+	
+$result*.,
+*After first execution queries are not same2
+assertsameÎ
+Ë
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php§ §(
+%10"__id*>*<1
+/magento\search\test\unit\model\queryfactorytest"
+model–“
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php§ §(%
+%11*
+
+%102get›
+˜
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php§ §(%	
+$result"__id*
+
+%11Î
+Ë
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php¨ ¨(&
+%12"__id*>*<1
+/magento\search\test\unit\model\queryfactorytest"
+query
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php¨ ¨(_
+%13*31
+/magento\search\test\unit\model\queryfactorytest*
+
+%12*
+	
+$result*/-
++After second execution queries are not same2
+assertsameåâ
+|
+pC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Test\Unit\Model\QueryFactoryTest.php© ©(1
+%14*31
+/magento\search\test\unit\model\queryfactorytest*
+
+$cleanedRawText2assertsearchquery*
+2B31
+/magento\search\test\unit\model\queryfactorytest

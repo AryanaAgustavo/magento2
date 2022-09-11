@@ -1,0 +1,146 @@
+
+Dmagento\customer\observer\upgradequotecustomeremailobserver::execute†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php( (("1*¢
+2†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php- -("“
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php- -(
+void*Ò
+
+3†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php0 0(/¯¬
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php0 0(.
+%3*
+
+$customerOrig2getemail¨
+¥
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php0 0(.
+
+$emailOrig"__id*
+
+%3«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php3 3()
+%4*
+
+	$observer2getevent±®
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php3 3(B
+%5*
+
+%42getcustomerdataobject§
+¤
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php3 3(B
+	$customer"__id*
+
+%5«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php4 4(&
+%6*
+
+	$customer2getemail¤
+¡
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php4 4(&
+$email"__id*
+
+%6*
+4
+5*¢
+4†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php7 7("“
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php7 7(
+void*ï
+5†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php; ;(Pî
+ë
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php; ;(+
+%7"__id*T*R=
+;magento\customer\observer\upgradequotecustomeremailobserver"
+quoteRepository¨¥
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php;< ;(N
+%8*
+
+	$customer2getid²¯
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php; ;(O
+%9*
+
+%7*
+
+%82getforcustomer¤
+¡
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php; ;(O
+$quote"__id*
+
+%9½º
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php< <(,
+%10*
+
+
+$quote*
+
+
+$email2setcustomeremailï
+ì
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php= =("
+%11"__id*T*R=
+;magento\customer\observer\upgradequotecustomeremailobserver"
+quoteRepository®«
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php= =(0
+%12*
+
+%11*
+
+
+$quote2save*
+6
+8*¢
+6†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php? ?("“
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php? ?(
+void*Í
+8'
+%UpgradeQuoteCustomerEmailObserver.php"ž
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.phpA A(
+implicit return*û
+1†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php+ +(KÐ
+Í
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php( ((
+	$observer"__id*/
+-
+	$observer magento\framework\event\observer«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php+ +(-
+%1*
+
+	$observer2geteventµ²
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php+ +(J
+%2*
+
+%12getorigcustomerdataobject«
+¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Observer\UpgradeQuoteCustomerEmailObserver.php+ +(J
+$customerOrig"__id*
+
+%2*
+2
+3:-
+	$observer magento\framework\event\observerB?=
+;magento\customer\observer\upgradequotecustomeremailobserver

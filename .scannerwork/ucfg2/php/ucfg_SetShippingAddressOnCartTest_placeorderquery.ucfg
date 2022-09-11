@@ -1,0 +1,31 @@
+
+Omagento\graphql\quote\customer\setshippingaddressoncarttest::getplaceorderquery£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingAddressOnCartTest.phpë ë('"1*ö
+1£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingAddressOnCartTest.phpí õ(Ý
+Ú
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingAddressOnCartTest.phpë ë('
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstring¹
+¶
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingAddressOnCartTest.phpí õ(
+%1"__concat*/-
++mutation {
+  placeOrder(input: {cart_id: "*97
+5"}) {
+    order {
+      order_number
+    }
+  }
+}*
+
+$maskedQuoteId"®
+£
+–C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Customer\SetShippingAddressOnCartTest.phpí õ(
+
+%1:
+$maskedQuoteIdstringB?=
+;magento\graphql\quote\customer\setshippingaddressoncarttest

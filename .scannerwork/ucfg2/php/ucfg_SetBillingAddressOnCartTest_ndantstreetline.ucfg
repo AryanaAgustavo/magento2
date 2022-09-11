@@ -1,0 +1,83 @@
+
+amagento\graphql\quote\guest\setbillingaddressoncarttest::testsetbillingaddressredundantstreetlineŸ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php© ©(<"1*à
+2!
+SetBillingAddressOnCartTest.php"·
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpÌ Ì(
+implicit return*Ÿ
+1Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php« «(Y•
+’
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php« «(A
+%1"__id*b*`9
+7magento\graphql\quote\guest\setbillingaddressoncarttest"#
+!getMaskedQuoteIdByReservedOrderIdÌÉ
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php« «(X
+%2*
+
+%1*
+
+test_quote2executeÅ
+Â
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php« «(X
+$maskedQuoteId"__id*
+
+%2‡
+„
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php­ È(
+%3"__concat*JH
+Fmutation {
+  setBillingAddressOnCart(
+    input: {
+      cart_id: "*ïì
+é"
+      billing_address: {
+        address: {
+          firstname: "test firstname"
+          lastname: "test lastname"
+          company: "test company"
+          street: ["test street 1", "test street 2", "test street 3"]
+          city: "test city"
+          region: "AL"
+          postcode: "887766"
+          country_code: "US"
+          telephone: "88776655"
+        }
+      }
+    }
+  ) {
+    cart {
+      billing_address {
+        firstname
+      }
+    }
+  }
+}*
+
+$maskedQuoteId½
+º
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.php­ È(
+$query"__id*
+
+%3ñ
+î
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpÊ Ê(Z
+%4"Omagento\graphql\quote\guest\setbillingaddressoncarttest::expectexceptionmessage*;"9
+7magento\graphql\quote\guest\setbillingaddressoncarttest*64
+2"Street Address" cannot contain more than 2 lines.…‚
+Ÿ
+’C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\SetBillingAddressOnCartTest.phpË Ë(&
+%5*;9
+7magento\graphql\quote\guest\setbillingaddressoncarttest*
+
+
+$query2graphqlmutation*
+2B;9
+7magento\graphql\quote\guest\setbillingaddressoncarttest

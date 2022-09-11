@@ -1,0 +1,238 @@
+
+Smagento\catalogurlrewrite\observer\categoryprocessurlrewritesavingobserver::executeñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpc c("1*∆
+14ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpÑ Ñ(7ûõ
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpÑ Ñ(6
+%22*NL
+Jmagento\catalogurlrewrite\observer\categoryprocessurlrewritesavingobserver*
+
+	$category2reseturlrewritesdatamaps*
+15*Ê
+15-
++CategoryProcessUrlRewriteSavingObserver.php"∞
+ò
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpÜ Ü(
+implicit return*Ñ	
+1ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpf f(?‡
+›
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpc c(
+	$observer"__id*/
+-
+	$observer magento\framework\event\observerª∏
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpf f()
+%1*
+
+	$observer2getevent¡æ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpf f(>
+%2*
+
+%1*
+
+category2getdata∑
+¥
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpf f(>
+	$category"__id*
+
+%2æª
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpg g($
+%3*
+
+	$category2getparentid*
+2
+3*¬
+2ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phph h("£
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phph h(
+void*Ô
+3ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpk k(+»≈
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpk k(+
+%4*
+
+	$category*
+
+store_id2hasdata*
+4
+5*π
+4ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpl l(1ïí
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpl l(0
+%5*NL
+Jmagento\catalogurlrewrite\observer\categoryprocessurlrewritesavingobserver*
+
+	$category2setcategorystoreid*
+5*Ö
+5ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpo o(ø
+º
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpo o(
+$mapsGenerated"__id*	
+falseóî
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpp p(2
+%6*NL
+Jmagento\catalogurlrewrite\observer\categoryprocessurlrewritesavingobserver*
+
+	$category2iscategoryhaschanged*
+14
+15
+6*¯
+6ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpq q(7—Œ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpq q(7
+%7*
+
+	$category*	
+url_key2datahaschangedfor*
+7
+8*ƒ
+
+7ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpr r(dô
+ñ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpr, r(N
+%8"__id*o*mL
+Jmagento\catalogurlrewrite\observer\categoryprocessurlrewritesavingobserver"
+categoryUrlRewriteGenerator√¿
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpr, r(c
+%9*
+
+%8*
+
+	$category2generate«
+ƒ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpr r(c
+$categoryUrlRewriteResult"__id*
+
+%9ñ
+ì
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phps s(.
+%10"__id*k*iL
+Jmagento\catalogurlrewrite\observer\categoryprocessurlrewritesavingobserver"
+urlRewriteBunchReplacer€ÿ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phps s(Y
+%11*
+
+%10*
+
+$categoryUrlRewriteResult2dobunchreplace*
+8*∂
+8ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpu u(2éã
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpu u(2
+%12*NL
+Jmagento\catalogurlrewrite\observer\categoryprocessurlrewritesavingobserver2iscategoryrewritesenabled*
+9
+12*¡
+9ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpv v(:òï
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpv v(:
+%13*NL
+Jmagento\catalogurlrewrite\observer\categoryprocessurlrewritesavingobserver*
+
+	$category2ischangedonlyproduct*
+10
+11*ﬂ
+
+10ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpw x(gê
+ç
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpx x(0
+%14"__id*e*cL
+Jmagento\catalogurlrewrite\observer\categoryprocessurlrewritesavingobserver"
+urlRewriteHandlerÊ„
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpx x(f
+%15*
+
+%14*
+
+	$category2)updateproducturlrewritesforchangedproduct«
+ƒ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpw x(f
+$productUrlRewriteResult"__id*
+
+%15ñ
+ì
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpy y(2
+%16"__id*k*iL
+Jmagento\catalogurlrewrite\observer\categoryprocessurlrewritesavingobserver"
+urlRewriteBunchReplacer⁄◊
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.phpy y(\
+%17*
+
+%16*
+
+$productUrlRewriteResult2dobunchreplace*
+12*–
+
+11ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.php{ {(oê
+ç
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.php{/ {(G
+%18"__id*e*cL
+Jmagento\catalogurlrewrite\observer\categoryprocessurlrewritesavingobserver"
+urlRewriteHandler◊‘
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.php{/ {(n
+%19*
+
+%18*
+
+	$category2generateproducturlrewrites«
+ƒ
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.php{ {(n
+$productUrlRewriteResult"__id*
+
+%19ñ
+ì
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.php| |(2
+%20"__id*k*iL
+Jmagento\catalogurlrewrite\observer\categoryprocessurlrewritesavingobserver"
+urlRewriteBunchReplacer⁄◊
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.php| |(\
+%21*
+
+%20*
+
+$productUrlRewriteResult2dobunchreplace*
+12*Ë
+12ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.php ("æ
+ª
+ñ
+ãC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogUrlRewrite\Observer\CategoryProcessUrlRewriteSavingObserver.php (!
+$mapsGenerated"__id*
+true*
+14
+15:-
+	$observer magento\framework\event\observerBNL
+Jmagento\catalogurlrewrite\observer\categoryprocessurlrewritesavingobserver

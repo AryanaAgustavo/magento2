@@ -1,0 +1,72 @@
+
+Amagento\adobeims\controller\adminhtml\oauth\callback::__construct
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\OAuth\Callback.phpK K("1*¬
+2
+Callback.php"–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\OAuth\Callback.phpV V(
+implicit return*Ë
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\OAuth\Callback.phpQ Q(&È
+Å
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\OAuth\Callback.phpK K(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÑ
+Î
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\OAuth\Callback.phpK K(
+	$getToken"__id*8
+6
+	$getToken)magento\adobeimsapi\api\gettokeninterfaceÈ
+Å
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\OAuth\Callback.phpK K(
+$login"__id*2
+0
+$login&magento\adobeimsapi\api\logininterface»
+¸
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\OAuth\Callback.phpK K(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceû
+ø
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\OAuth\Callback.phpQ Q(%
+%1"'magento\backend\app\action::__construct*86
+4magento\adobeims\controller\adminhtml\oauth\callback*
+
+
+$contextß
+Ü
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\OAuth\Callback.phpS S(#D6
+4magento\adobeims\controller\adminhtml\oauth\callback"
+
+getToken"__id*
+
+	$getTokenÙ
+Ö
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\OAuth\Callback.phpT T(A6
+4magento\adobeims\controller\adminhtml\oauth\callback"
+login"__id*
+
+
+$loginÛ
+Ø
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\AdobeIms\Controller\Adminhtml\OAuth\Callback.phpU U(B6
+4magento\adobeims\controller\adminhtml\oauth\callback"
+logger"__id*
+	
+$logger*
+2:.
+$context"magento\backend\app\action\context:6
+	$getToken)magento\adobeimsapi\api\gettokeninterface:0
+$login&magento\adobeimsapi\api\logininterface:"
+$loggerpsr\log\loggerinterfaceB86
+4magento\adobeims\controller\adminhtml\oauth\callback

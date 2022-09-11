@@ -1,0 +1,355 @@
+
+Qmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest::testresolve§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php6 6("1*æ
+2
+PaypalPayflowProTokenTest.php"¿
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpY Y(
+implicit return*×a
+1§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php8 8(1¢Ÿ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php8 8(0
+%1*HF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest*
+
+payflowpro2enablepaymentmethod×
+Ô
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php9 9('
+$reservedQuoteId"__id*
+
+test_quote®«
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php: :(B
+%2*HF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest*
+
+$reservedQuoteId2getquotebyreservedorderidÄ
+Á
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php: :(B
+$cart"__id*
+
+%2š
+—
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php< <(*
+%3"__id*_*]F
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest"
+quoteIdToMaskedIdÅÂ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php<9 <(G
+%4*	
+
+$cart2getidÎ
+Ë
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php<4 <(G
+%5"__sanitizing_cast*
+
+%4ÌÉ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php< <(H
+%6*
+
+%3*
+
+%52executeÆ
+Ã
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php< <(H	
+$cartId"__id*
+
+%6©¦
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php= =(>
+%7*HF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest*
+	
+$cartId2getcreatepayflowtokenmutationÅ
+Â
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php= =(>
+$query"__id*
+
+%7»¸
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php@ F(
+%8"$ArrayØ
+Õ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php@ F(
+%9"__mapSet*
+
+%8*
+
+result*
+0ê
+ç
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php@ F(
+%10"__mapSet*
+
+%8*
+securetoken*
+mysecuretokenî
+ë
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php@ F(
+%11"__mapSet*
+
+%8*
+securetokenid*
+mysecuretokenidá
+Þ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php@ F(
+%12"__mapSet*
+
+%8*	
+respmsg*
+
+ApprovedÞ
+Û
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php@ F(
+%13"__mapSet*
+
+%8*
+result_code*
+0ÞÛ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php? G(	
+$paypalResponse"magento\framework\dataobjectü
+ù
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.php? G(	
+%14")magento\framework\dataobject::__construct*
+
+$paypalResponse*
+
+%8•
+’
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpI I(
+%15"__id*Y*WF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest"
+gatewayMockÖÓ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpI J(#
+%16*
+
+%15*
+postRequest2methodÞÛ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpI K()
+%17*
+
+%16*
+
+$paypalResponse2
+willreturn˜
+•
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpM M()
+%18"__id*\*ZF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest"
+graphQlRequestÏÌ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpM M(7
+%19*
+
+%18*
+
+
+$query2sendÉ
+Æ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpM M(7
+	$response"__id*
+
+%19Ž
+‹
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpN N(#
+%20"__id*R*PF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest"
+jsonÏÌ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpN1 N(H
+%21*
+
+	$response2
+getcontentÓÐ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpN N(I
+%22*
+
+%20*
+
+%212unserializeÍ
+Ê
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpN N(I
+$responseData"__id*
+
+%22®«
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpO O(7
+%23*HF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest*
+data*
+
+$responseData2assertarrayhaskeyÛ
+Ø
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpP: P(O
+%24"__mapGet*
+
+$responseData*
+dataµ²
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpP P(P
+%25*HF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest*
+createPayflowProToken*
+
+%242assertarrayhaskeyÛ
+Ø
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpQ Q(0
+%26"__mapGet*
+
+$responseData*
+dataâ
+ß
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpQ Q(I
+%27"__mapGet*
+
+%26*
+createPayflowProTokenÐ
+Í
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpQ Q(I
+$createTokenData"__id*
+
+%27³°
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpS S(<
+%28*HF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest*
+
+errors*
+
+$responseData2assertarraynothaskeyãà
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpT T(C
+%29*
+
+$paypalResponse*
+securetoken2getdataæ
+ã
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpTE T(e
+%30"__mapGet*
+
+$createTokenData*
+secure_tokenž›
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpT T(f
+%31*HF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest*
+
+%29*
+
+%302assertequalsåâ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpU U(E
+%32*
+
+$paypalResponse*
+securetokenid2getdataé
+æ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpUG U(j
+%33"__mapGet*
+
+$createTokenData*
+secure_token_idž›
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpU U(k
+%34*HF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest*
+
+%32*
+
+%332assertequalsÞÛ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpV V(>
+%35*
+
+$paypalResponse*
+
+result2getdataà
+Ý
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpV@ V(Z
+%36"__mapGet*
+
+$createTokenData*
+
+resultž›
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpV V([
+%37*HF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest*
+
+%35*
+
+%362assertequalsãà
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpW W(C
+%38*
+
+$paypalResponse*
+result_code2getdataå
+â
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpWE W(d
+%39"__mapGet*
+
+$createTokenData*
+result_codež›
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpW W(e
+%40*HF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest*
+
+%38*
+
+%392assertequalsßÜ
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpX X(?
+%41*
+
+$paypalResponse*	
+respmsg2getdataê
+ç
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpXA X(e
+%42"__mapGet*
+
+$createTokenData*
+response_messagež›
+§
+œC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\Model\Resolver\Guest\PaypalPayflowProTokenTest.phpX X(f
+%43*HF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest*
+
+%41*
+
+%422assertequals*
+2BHF
+Dmagento\paypalgraphql\model\resolver\guest\paypalpayflowprotokentest

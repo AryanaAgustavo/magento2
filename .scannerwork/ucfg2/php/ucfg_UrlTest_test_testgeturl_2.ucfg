@@ -1,0 +1,80 @@
+
+)magento\backend\model\urltest::testgeturl
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Model\UrlTest.php; ;("1*«
+2
+UrlTest.php"–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Model\UrlTest.phpE E(
+implicit return*³
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Model\UrlTest.phpA A(2°
+­
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Model\UrlTest.php; ;(
+
+$routePath"__id*
+
+
+$routePathstring·
+´
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Model\UrlTest.php; ;(
+$requestParams"__id*
+
+$requestParamsarrayº
+·
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Model\UrlTest.php; ;(
+$expectedResult"__id*
+
+$expectedResultstringÀ
+½
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Model\UrlTest.phpA A(
+%1"__id*.*,
+magento\backend\model\urltest"	
+request±®
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Model\UrlTest.phpA A(1
+%2*
+
+%1*
+
+$requestParams2	setparams¿
+¼
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Model\UrlTest.phpB B(
+%3"__id*-*+
+magento\backend\model\urltest"
+_model¼¹
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Model\UrlTest.phpB B(>
+%4*
+
+%3*
+
+
+$routePath*
+
+$routeParams2geturlš
+—
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Model\UrlTest.phpB B(>
+$url"__id*
+
+%4èå
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Backend\Model\UrlTest.phpD D(@
+%5*!
+magento\backend\model\urltest*
+
+$expectedResult*
+
+$url2assertstringcontainsstring*
+2:
+
+$routePathstring:
+$requestParamsarray:
+$expectedResultstring:
+$routeParamsB!
+magento\backend\model\urltest

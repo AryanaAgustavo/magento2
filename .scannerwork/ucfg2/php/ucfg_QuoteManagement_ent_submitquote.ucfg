@@ -1,0 +1,786 @@
+
+0magento\quote\model\quotemanagement::submitquotep
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpè è(""1*ø
+13p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpœ œ(Aúô
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpœ# œ(?
+%77*
+
+
+$quote2getreservedorderid°û
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpœ œ(@
+%78*
+
+
+$order*
+
+%772setincrementid*
+14*°
+14p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php“ “(;≈
+¬
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php“ “(#
+%79"__id*A*?%
+#magento\quote\model\quotemanagement"
+submitQuoteValidator†ù
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php“ “(:
+%80*
+
+%79*
+
+
+$order2validateorderΩ
+∫
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php‘ ‘(
+%81"__id*9*7%
+#magento\quote\model\quotemanagement"
+eventManagerÑÅ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php÷ Ÿ(
+%82"$Array¶
+£
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php÷ Ÿ(
+%83"__mapSet*
+
+%82*	
+order*
+
+
+$order¶
+£
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php÷ Ÿ(
+%84"__mapSet*
+
+%82*	
+quote*
+
+
+$quote≈¬
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php‘ ⁄(	
+%85*
+
+%81*+)
+'sales_model_service_quote_submit_before*
+
+%822dispatch¿
+Ω
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php‹ ‹(+
+%86"__id*<*:%
+#magento\quote\model\quotemanagement"
+orderManagementòï
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php‹ ‹(:
+%87*
+
+%86*
+
+
+$order2placeé
+ã
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php‹ ‹(:
+$order"__id*
+
+%87†ù
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php› ›(&
+%88*
+
+
+$quote*	
+false2setisactiveΩ
+∫
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpﬁ ﬁ(
+%89"__id*9*7%
+#magento\quote\model\quotemanagement"
+eventManagerÑÅ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php‡ „(
+%90"$Array¶
+£
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php‡ „(
+%91"__mapSet*
+
+%90*	
+order*
+
+
+$order¶
+£
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php‡ „(
+%92"__mapSet*
+
+%90*	
+quote*
+
+
+$quote∆√
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpﬁ ‰(
+%93*
+
+%89*,*
+(sales_model_service_quote_submit_success*
+
+%902dispatch¿
+Ω
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpÂ Â("
+%94"__id*<*:%
+#magento\quote\model\quotemanagement"
+quoteRepositoryóî
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpÂ Â(0
+%95*
+
+%94*
+
+
+$quote2save*
+15
+16
+18*◊
+15p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpÁ Á(9ÿ’
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpÁ Á(8
+%96*'%
+#magento\quote\model\quotemanagement*
+
+
+$quote*
+
+
+$order*
+
+$e2rollbackaddresses*
+18*ˆ
+16p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpÍ Í("~
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpÍ Í(
+
+
+$order*•
+18
+QuoteManagement.php"á
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpÎ Î(
+implicit return*è
+
+1p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpë ë(/¨
+©
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpè è("
+$quote"__id*%
+#
+$quotemagento\quote\model\quoteº
+π
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpë ë($
+%1"__id*9*7%
+#magento\quote\model\quotemanagement"
+orderFactoryãà
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpë ë(.
+%2*
+
+%12createç
+ä
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpë ë(.
+$order"__id*
+
+%2ƒ
+¡
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpí í(#
+%3"__id*A*?%
+#magento\quote\model\quotemanagement"
+submitQuoteValidatorûõ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpí í(:
+%4*
+
+%3*
+
+
+$quote2validatequoteõò
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpì ì()
+%5*
+
+
+$quote2getcustomerisguest*
+2
+5*ñ
+2p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpî î('ñì
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpî î('
+%6*
+
+
+$quote2getcustomerid*
+3
+4*Æ
+3p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpï ï(5«ƒ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpï ï(4
+%7*'%
+#magento\quote\model\quotemanagement*
+
+
+$quote2_preparecustomerquote¬
+ø
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpñ ñ()
+%8"__id*?*=%
+#magento\quote\model\quotemanagement"
+customerManagement¢ü
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpñ ñ(D
+%9*
+
+%8*
+
+
+$quote2validateaddresses*
+4*Í
+4p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpò ò(D√
+¿
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpò ò(%
+%10"__id*?*=%
+#magento\quote\model\quotemanagement"
+customerManagementß§
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpò ò(C
+%11*
+
+%10*
+
+
+$quote2populatecustomerinfo*
+5* 
+5p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpö ö(ÑÅ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpö ö(
+%12"$Arrayí
+è
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpö ö(
+
+$addresses"__id*
+
+%12òï
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpõ õ( 
+%13*
+
+
+$quote2reserveorderidìê
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpú ú(
+%14*
+
+
+$quote2	isvirtual*
+6
+7*Ä
+6p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpù °(¡
+æ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpù ù(#
+%15"__id*=*;%
+#magento\quote\model\quotemanagement"
+dataObjectHelperƒ
+¡
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php† †(*
+%16"__id*@*>%
+#magento\quote\model\quotemanagement"
+quoteAddressToOrderõò
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php†4 †(O
+%17*
+
+
+$quote2getbillingaddressß§
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php† †(\
+%18*
+
+%16*
+
+%17*
+
+
+$orderData2convert∞≠
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpù °(
+%19*
+
+%15* *
+
+
+$order*
+
+%182mergedataobjects*
+8*ﬁ
+7p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php£ ß(¡
+æ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php£ £(#
+%20"__id*=*;%
+#magento\quote\model\quotemanagement"
+dataObjectHelperƒ
+¡
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¶ ¶(*
+%21"__id*@*>%
+#magento\quote\model\quotemanagement"
+quoteAddressToOrderúô
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¶4 ¶(P
+%22*
+
+
+$quote2getshippingaddressß§
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¶ ¶(]
+%23*
+
+%21*
+
+%22*
+
+
+$orderData2convert∞≠
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php£ ß(
+%24*
+
+%20* *
+
+
+$order*
+
+%232mergedataobjectsÀ
+»
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php® ®(@
+%25"__id*G*E%
+#magento\quote\model\quotemanagement"
+quoteAddressToOrderAddressúô
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php© ©(,
+%26*
+
+
+$quote2getshippingaddressÑÅ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php™ ≠(
+%27"$ArrayØ
+¨
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php™ ≠(
+%28"__mapSet*
+
+%27*
+address_type*
+
+shippingöó
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¨ ¨(9
+%29*
+
+
+$quote2getcustomeremail£
+†
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php™ ≠(
+%30"__mapSet*
+
+%27*	
+email*
+
+%29†ù
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php® Æ(
+%31*
+
+%25*
+
+%26*
+
+%272convertò
+ï
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php® Æ(
+$shippingAddress"__id*
+
+%31úô
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpØ: Ø(V
+%32*
+
+
+$quote2getshippingaddressåâ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpØ: Ø(_
+%33*
+
+%322getid∫∑
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpØ Ø(`
+%34*
+
+$shippingAddress*
+quote_address_id*
+
+%332setdata≤
+Ø
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php∞ ∞(
+%35"
+__arrayAdd*
+
+
+$addresses*: *
+
+$shippingAddress≤Ø
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php± ±(8
+%36*
+
+
+$order*
+
+$shippingAddress2setshippingaddressúô
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php≤& ≤(B
+%37*
+
+
+$quote2getshippingaddressòï
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php≤& ≤(W
+%38*
+
+%372getshippingmethod§°
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php≤ ≤(X
+%39*
+
+
+$order*
+
+%382setshippingmethod*
+8*≤
+8p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¥ ∫(
+À
+»
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¥ ¥(;
+%40"__id*G*E%
+#magento\quote\model\quotemanagement"
+quoteAddressToOrderAddressõò
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpµ µ('
+%41*
+
+
+$quote2getbillingaddressÑÅ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php∂ π(
+%42"$ArrayÆ
+´
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php∂ π(
+%43"__mapSet*
+
+%42*
+address_type*	
+billingöó
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php∏ ∏(5
+%44*
+
+
+$quote2getcustomeremail£
+†
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php∂ π(
+%45"__mapSet*
+
+%42*	
+email*
+
+%44†ù
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¥ ∫(	
+%46*
+
+%40*
+
+%41*
+
+%422convertó
+î
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¥ ∫(	
+$billingAddress"__id*
+
+%46õò
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpª5 ª(P
+%47*
+
+
+$quote2getbillingaddressåâ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpª5 ª(Y
+%48*
+
+%472getidπ∂
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpª ª(Z
+%49*
+
+$billingAddress*
+quote_address_id*
+
+%482setdata±
+Æ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpº º(
+%50"
+__arrayAdd*
+
+
+$addresses*: *
+
+$billingAddress∞≠
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpΩ Ω(2
+%51*
+
+
+$order*
+
+$billingAddress2setbillingaddress¶£
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpæ æ((
+%52*
+
+
+$order*
+
+
+$addresses2setaddressesÀ
+»
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpø ø(<
+%53"__id*G*E%
+#magento\quote\model\quotemanagement"
+quotePaymentToOrderPaymentîë
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpøF ø(Z
+%54*
+
+
+$quote2
+getpaymentóî
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpø ø([
+%55*
+
+%53*
+
+%542convertùö
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpø ø(\
+%56*
+
+
+$order*
+
+%552
+setpaymentøº
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¿ ¿(4
+%57*'%
+#magento\quote\model\quotemanagement*
+
+
+$quote2resolveitemsõò
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¿ ¿(5
+%58*
+
+
+$order*
+
+%572setitemsïí
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¡ ¡(!
+%59*
+
+
+$quote2getcustomer*
+9
+10*≈
+9p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¬ ¬(Bïí
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¬" ¬(7
+%60*
+
+
+$quote2getcustomeråâ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¬" ¬(@
+%61*
+
+%602getid†ù
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php¬ ¬(A
+%62*
+
+
+$order*
+
+%612setcustomerid*
+10*Ò
+10p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpƒ ƒ(,èå
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpƒ ƒ(*
+%63*
+
+
+$quote2getidùö
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpƒ ƒ(+
+%64*
+
+
+$order*
+
+%632
+setquoteidöó
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php≈! ≈(;
+%65*
+
+
+$quote2getcustomeremail£†
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php≈ ≈(<
+%66*
+
+
+$order*
+
+%652setcustomeremailûõ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php∆% ∆(C
+%67*
+
+
+$quote2getcustomerfirstnameß§
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php∆ ∆(D
+%68*
+
+
+$order*
+
+%672setcustomerfirstnameüú
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php«& «(E
+%69*
+
+
+$quote2getcustomermiddlename®•
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php« «(F
+%70*
+
+
+$order*
+
+%692setcustomermiddlenameùö
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php»$ »(A
+%71*
+
+
+$quote2getcustomerlastname¶£
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php» »(B
+%72*
+
+
+$order*
+
+%712setcustomerlastnameòï
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.php   ($
+%73*
+
+
+$quote2getorigorderid*
+11
+12*∏
+11p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpÀ À(:òï
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpÀ  À(8
+%74*
+
+
+$quote2getorigorderidûõ
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpÀ À(9
+%75*
+
+
+$order*
+
+%742setentityid*
+12*ü
+12p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpŒ Œ((úô
+p
+dC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\QuoteManagement.phpŒ Œ((
+%76*
+
+
+$quote2getreservedorderid*
+13
+14:#
+$quotemagento\quote\model\quote:
+
+$orderDataB'%
+#magento\quote\model\quotemanagement

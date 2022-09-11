@@ -1,0 +1,101 @@
+
+Nmagento\sales\model\resourcemodel\order\payment\transaction::loadobjectbytxnid†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpW W(%"1*«
+2†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php` `( Ù
+Ö
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php` `( 3
+%4-magento\sales\model\order\payment\transaction"__id*
+
+$transaction"À
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php` `( 5
+3
+%4-magento\sales\model\order\payment\transaction*Õ	
+3†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpb b(%¸µ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpb b($
+%5*
+
+$transaction*	
+
+$data2setdataøõ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpc c(.
+%6*?=
+;magento\sales\model\resourcemodel\order\payment\transaction*
+
+$transaction2unserializefieldsñî
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpd d('
+%7*?=
+;magento\sales\model\resourcemodel\order\payment\transaction*
+
+$transaction2
+_afterloadÙ
+Ö
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpf f(3
+%8-magento\sales\model\order\payment\transaction"__id*
+
+$transaction"À
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpf f(5
+3
+%8-magento\sales\model\order\payment\transaction*ü
+
+1†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php] ](Qã
+à
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpW W(%
+$transaction"__id*?
+=
+$transaction-magento\sales\model\order\payment\transaction˜•
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php] ](P
+%1*?=
+;magento\sales\model\resourcemodel\order\payment\transaction*
+
+
+$orderId*
+
+
+$paymentId*
+
+
+$txnId2_getloadbyuniquekeyselect¥
+¢
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php] ](P	
+$select"__id*
+
+%1âß
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php^ ^(&
+%2*?=
+;magento\sales\model\resourcemodel\order\payment\transaction2getconnection±®
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php^ ^(9
+%3*
+
+%2*
+	
+$select2fetchrow£
+ 
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php^ ^(9
+$data"__id*
+
+%3*
+2
+3:=
+$transaction-magento\sales\model\order\payment\transaction:
+
+$orderId:
+
+$paymentId:
+$txnIdB?=
+;magento\sales\model\resourcemodel\order\payment\transaction

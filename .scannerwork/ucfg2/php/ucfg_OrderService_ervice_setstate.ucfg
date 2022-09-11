@@ -1,0 +1,259 @@
+
+2magento\sales\model\service\orderservice::setstateu
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpò ò("1*¯
+2u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpü ü(0ª§
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpü ü(0
+%1*
+
+
+$order*
+
+
+$state2isstateprotected*
+4
+9*¡
+4u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpƒ Š(
+ˆ…
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php„ ‰(
+%2"$Array©
+¦
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php„ ‰(
+%3"__mapSet*
+
+%2*	
+state*
+
+
+$state«
+¨
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php„ ‰(
+%4"__mapSet*
+
+%2*
+
+status*
+	
+$status­
+ª
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php„ ‰(
+%5"__mapSet*
+
+%2*	
+comment*
+
+
+$commentÅ
+Â
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php„ ‰(
+%6"__mapSet*
+
+%2*
+is_customer_notified*
+
+$isCustomerNotified¦£
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpƒ Š(	
+
+$transport"magento\framework\dataobjectÃ
+À
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpƒ Š(	
+%7")magento\framework\dataobject::__construct*
+
+
+$transport*
+
+%2Æ
+Ã
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpŒ Œ(
+%8"__id*>*<*
+(magento\sales\model\service\orderservice"
+eventManagerˆ…
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpŽ Ž(S
+%9"$ArrayÌ
+É
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpŽ Ž(S
+%10"__mapSet*
+
+%9*	
+order*,*
+(magento\sales\model\service\orderservice²
+¯
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpŽ Ž(S
+%11"__mapSet*
+
+%9*
+	transport*
+
+
+$transport±
+®
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpŽ Ž(S
+%12"__mapSet*
+
+%9*
+order_object*
+
+
+$orderÀ½
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpŒ (	
+%13*
+
+%8*#!
+sales_order_state_change_before*
+
+%92dispatchœ™
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php ()
+%14*
+
+
+$transport2	getstatus”
+‘
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php ()	
+$status"__id*
+
+%14›˜
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php‘! ‘(7
+%15*
+
+
+$transport2getstateª§
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php‘ ‘(8
+%16*
+
+
+$order*	
+state*
+
+%152setdata*	
+6
+7
+8*ü
+6u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php– –(]˜•
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php– –(-
+%17*
+
+
+$order2	getconfig›˜
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php–E –([
+%18*
+
+
+$transport2getstateª§
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php– –(\
+%19*
+
+%17*
+
+%182getstatedefaultstatus”
+‘
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php– –(\	
+$status"__id*
+
+%19*
+7*ù
+7u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php˜ ˜('¥¢
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php˜ ˜(&
+%20*
+
+
+$order*
+	
+$status2	setstatusš
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php™7 ™(O
+%21*
+
+
+$transport2
+getcommentº·
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php™ ™(W
+%22*
+
+
+$order*
+
+%21*	
+false2addstatushistorycomment•
+’
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php™ ™(W
+
+$history"__id*
+
+%22¨¥
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php›, ›(O
+%23*
+
+
+$transport2getiscustomernotified¯¬
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php› ›(P
+%24*
+
+
+$history*
+
+%232setiscustomernotified*
+8*‰
+8u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php (ß
+Ü
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php (/
+%25(magento\sales\model\service\orderservice"__id*,*
+(magento\sales\model\service\orderservice"ª
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.php (1
+/
+%25(magento\sales\model\service\orderservice*¦
+9
+OrderService.php"Œ
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpž ž(
+implicit return*Â
+1u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpû û(½
+º
+u
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Service\OrderService.phpò ò(
+$order"__id*1
+/
+$order%magento\sales\api\data\orderinterface*
+2
+4:/
+$order%magento\sales\api\data\orderinterface:
+$state:	
+$status:
+
+$comment:
+$isCustomerNotified:
+$shouldProtectStateB,*
+(magento\sales\model\service\orderservice

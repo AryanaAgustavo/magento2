@@ -1,0 +1,70 @@
+
+Dmagento\framework\view\test\unit\element\html\linktest::testlinkhtml‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\Element\Html\LinkTest.phpŸ Ÿ( "1*µ
+2
+LinkTest.php"Ÿ
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\Element\Html\LinkTest.php« «(
+implicit return*¡
+1‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\Element\Html\LinkTest.php¡ ¡(Dß
+Ü
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\Element\Html\LinkTest.php¡ ¡(
+%1"__id*D*B8
+6magento\framework\view\test\unit\element\html\linktest"
+linkÏÌ
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\Element\Html\LinkTest.php¡ ¡(C
+%2*
+
+%1*	
+style*
+display: block;2setdatausingmethodß
+Ü
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\Element\Html\LinkTest.php¢ ¢(
+%3"__id*D*B8
+6magento\framework\view\test\unit\element\html\linktest"
+linkÓÐ
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\Element\Html\LinkTest.php¢ ¢(G
+%4*
+
+%3*	
+onclick*
+alert("clicked");2setdatausingmethodß
+Ü
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\Element\Html\LinkTest.php¤ ¤(
+%5"__id*D*B8
+6magento\framework\view\test\unit\element\html\linktest"
+link£ 
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\Element\Html\LinkTest.php¤ ¤(%
+%6*
+
+%52tohtml¤
+¡
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\Element\Html\LinkTest.php¤ ¤(%
+$html"__id*
+
+%6þ
+û
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\Element\Html\LinkTest.php¦ ¨(r
+%7"__concat*DB
+@<li><a href="http://site.com/link.html" id="idrandom" ></a></li>*0.
+,<style>#idrandom { display: block; }</style>*ge
+c<script>document.querySelector(\'#idrandom\').onclick = function () { alert("clicked"); };</script>ðí
+‡
+{C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\View\Test\Unit\Element\Html\LinkTest.php¥ ª(	
+%8*:8
+6magento\framework\view\test\unit\element\html\linktest*
+
+%7*	
+
+$html2assertequals*
+2B:8
+6magento\framework\view\test\unit\element\html\linktest

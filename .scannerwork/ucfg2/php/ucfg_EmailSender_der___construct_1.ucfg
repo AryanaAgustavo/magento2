@@ -1,0 +1,68 @@
+
+7magento\sales\model\adminorder\emailsender::__constructu
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\AdminOrder\EmailSender.php/ /("1*¥
+2
+EmailSender.php"Œ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\AdminOrder\EmailSender.php9 9(
+implicit return*’
+1u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\AdminOrder\EmailSender.php5 5(0Ô
+Ñ
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\AdminOrder\EmailSender.php/ /(
+$messageManager"__id*?
+=
+$messageManager*magento\framework\message\managerinterface±
+®
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\AdminOrder\EmailSender.php/ /(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÖ
+Ó
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\AdminOrder\EmailSender.php/ /(
+$orderSender"__id*D
+B
+$orderSender2magento\sales\model\order\email\sender\ordersenderÜ
+Ù
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\AdminOrder\EmailSender.php/ /(
+$invoiceSender"__id*H
+F
+$invoiceSender4magento\sales\model\order\email\sender\invoicesender×
+Ô
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\AdminOrder\EmailSender.php5 5(/@,
+*magento\sales\model\adminorder\emailsender"
+messageManager"__id*
+
+$messageManagerÇ
+Ä
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\AdminOrder\EmailSender.php6 6(8,
+*magento\sales\model\adminorder\emailsender"
+logger"__id*
+	
+$loggerÑ
+Î
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\AdminOrder\EmailSender.php7 7()=,
+*magento\sales\model\adminorder\emailsender"
+orderSender"__id*
+
+$orderSenderÕ
+Ò
+u
+kC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\AdminOrder\EmailSender.php8 8(-?,
+*magento\sales\model\adminorder\emailsender"
+invoiceSender"__id*
+
+$invoiceSender*
+2:=
+$messageManager*magento\framework\message\managerinterface:"
+$loggerpsr\log\loggerinterface:B
+$orderSender2magento\sales\model\order\email\sender\ordersender:F
+$invoiceSender4magento\sales\model\order\email\sender\invoicesenderB.,
+*magento\sales\model\adminorder\emailsender

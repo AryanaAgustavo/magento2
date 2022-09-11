@@ -1,0 +1,64 @@
+
+Kmagento\integration\model\authorizationservice::_associateresourceswithrole{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\AuthorizationService.phpÂ Â(2"1*´
+2
+AuthorizationService.php"’
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\AuthorizationService.phpÇ Ç(
+implicit return*Ú
+1{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\AuthorizationService.phpÅ Å(0¼
+¹
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\AuthorizationService.phpÂ Â(2
+$role"__id*+
+)
+$role magento\authorization\model\roleÓ
+Ð
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\AuthorizationService.phpÅ Å(%
+%1"__id*E*C0
+.magento\integration\model\authorizationservice"
+_rulesFactory–“
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\AuthorizationService.phpÅ Å(/
+%2*
+
+%12create˜
+•
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\AuthorizationService.phpÅ Å(/
+$rules"__id*
+
+%2˜•
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\AuthorizationService.phpÆ Æ((
+%3*	
+
+$role2getid¥¢
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\AuthorizationService.phpÆ Æ()
+%4*
+
+
+$rules*
+
+%32	setroleid¬©
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\AuthorizationService.phpÆ Æ(C
+%5*
+
+%4*
+
+
+$resources2setresources—”
+{
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\AuthorizationService.phpÆ Æ(N
+%6*
+
+%52saverel*
+2:)
+$role magento\authorization\model\role:
+
+$resourcesB20
+.magento\integration\model\authorizationservice

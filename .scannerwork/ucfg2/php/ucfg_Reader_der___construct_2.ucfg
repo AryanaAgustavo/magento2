@@ -1,0 +1,71 @@
+
+=magento\catalog\model\producttypes\config\reader::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductTypes\Config\Reader.php" "("1*¶
+2
+
+Reader.php"í
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductTypes\Config\Reader.php6 6(
+implicit return*ù
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductTypes\Config\Reader.php, 5(
+⁄
+◊
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductTypes\Config\Reader.php" "(
+$fileResolver"__id*A
+?
+$fileResolver.magento\framework\config\fileresolverinterfaceŸ
+÷
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductTypes\Config\Reader.php" "(
+
+$converter"__id*C
+A
+
+$converter3magento\catalog\model\producttypes\config\converterÂ
+‚
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductTypes\Config\Reader.php" "(
+$schemaLocator"__id*K
+I
+$schemaLocator7magento\catalog\model\producttypes\config\schemalocator„
+‡
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductTypes\Config\Reader.php" "(
+$validationState"__id*G
+E
+$validationState1magento\framework\config\validationstateinterfaceé
+ã
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\ProductTypes\Config\Reader.php, 5(	
+%1"7magento\framework\config\reader\filesystem::__construct*42
+0magento\catalog\model\producttypes\config\reader*
+
+$fileResolver*
+
+
+$converter*
+
+$schemaLocator*
+
+$validationState*
+
+	$fileName*
+
+$idAttributes*
+
+$domDocumentClass*
+
+$defaultScope*
+2:?
+$fileResolver.magento\framework\config\fileresolverinterface:A
+
+$converter3magento\catalog\model\producttypes\config\converter:I
+$schemaLocator7magento\catalog\model\producttypes\config\schemalocator:E
+$validationState1magento\framework\config\validationstateinterface:
+	$fileName:
+$idAttributes:
+$domDocumentClass:
+$defaultScopeB42
+0magento\catalog\model\producttypes\config\reader

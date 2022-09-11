@@ -1,0 +1,158 @@
+
+7magento\sales\controller\order\reordertest::testreorderç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpV V("1*æ
+2
+ReorderTest.php"•
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpc c(
+implicit return*˙(
+1ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpX X(e·
+ﬁ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpX X($
+%1"__id*@*>,
+*magento\sales\controller\order\reordertest"
+orderFactory©¶
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpX X(.
+%2*
+
+%12createŸ÷
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpX X(d
+%3*
+
+%2*#!
+test_order_with_taxable_product2loadbyincrementid´
+®
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpX X(d
+$order"__id*
+
+%3‰
+·
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpY Y(
+%4"__id*C*A,
+*magento\sales\controller\order\reordertest"
+customerSession¥±
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpY. Y(E
+%5*
+
+
+$order2getcustomerid∏µ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpY Y(F
+%6*
+
+%4*
+
+%52setcustomerid¨©
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpZ+ Z(:
+%7*
+
+
+$order2getid¥
+±
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpZ& Z(:
+%8"__sanitizing_cast*
+
+%7ÈÊ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpZ Z(;
+%9*.,
+*magento\sales\controller\order\reordertest*
+
+%82dispatchreorderrequestÌÍ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.php[ [(D
+%10*.,
+*magento\sales\controller\order\reordertest*
+checkout/cart2stringcontains„‡
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.php[ [(E
+%11*.,
+*magento\sales\controller\order\reordertest*
+
+%102assertredirectÂ
+‚
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.php\ \(-
+%12"__id*C*A,
+*magento\sales\controller\order\reordertest"
+checkoutSession≠™
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.php\ \(9
+%13*
+
+%122getquote€
+ÿ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.php\ \(97,
+*magento\sales\controller\order\reordertest"
+quote"__id*
+
+%13€
+ÿ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.php]  ](,
+%14"__id*9*7,
+*magento\sales\controller\order\reordertest"
+quote∑¥
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.php]  ](B
+%15*
+
+%142getitemscollectionª
+∏
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.php] ](B
+$quoteItemsCollection"__id*
+
+%15¯ı
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.php^ ^(4
+%16*.,
+*magento\sales\controller\order\reordertest*2*
+
+$quoteItemsCollection2assertcount∫∑
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.php` `((
+%17*
+
+
+$order2getitemscollection±Æ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.php` `(8
+%18*
+
+%172getfirstitem´®
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.php` `(B
+%19*
+
+%182getsku√¿
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpa a(1
+%20*
+
+$quoteItemsCollection2getfirstitem´®
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.phpa a(;
+%21*
+
+%202getskuÍÁ
+ç
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Sales\Controller\Order\ReorderTest.php_ b(	
+%22*.,
+*magento\sales\controller\order\reordertest*
+
+%19*
+
+%212assertequals*
+2B.,
+*magento\sales\controller\order\reordertest

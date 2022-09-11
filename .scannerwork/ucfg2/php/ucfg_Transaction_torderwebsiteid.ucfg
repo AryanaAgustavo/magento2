@@ -1,0 +1,118 @@
+
+Nmagento\sales\model\resourcemodel\order\payment\transaction::getorderwebsiteid†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpo o(%"1*´
+1†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpq q(-âß
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpq q(,
+%1*?=
+;magento\sales\model\resourcemodel\order\payment\transaction2getconnection©
+¦
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpq q(,
+$connection"__id*
+
+%1š—
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpr r(*
+%2"$ArrayÂ
+¿
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpr r(*
+%3"__mapSet*
+
+%2*
+
+:entity_id*
+
+
+$orderId£
+ 
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpr r(*
+$bind"__id*
+
+%2«¨
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phps s('
+%4*
+
+$connection2selectš—
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpt t(4
+%5"$Arrayîë
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpt t(3
+%6*?=
+;magento\sales\model\resourcemodel\order\payment\transaction*
+sales_order2gettable´
+±
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpt t(4
+%7"__mapSet*
+
+%5*
+so*
+
+%6»¸
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phps v(	
+%8*
+
+%4*
+
+%5*
+cs.website_id2fromš—
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpw w(.
+%9"$Arrayéæ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpw w(-
+%10*?=
+;magento\sales\model\resourcemodel\order\payment\transaction*	
+store2gettable¶
+³
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phpw w(.
+%11"__mapSet*
+
+%9*
+cs*
+
+%10ÍÊ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phps y(	
+%12*
+
+%8*
+
+%9*
+cs.store_id = so.store_id2	joininnerÂ¿
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phps {(	
+%13*
+
+%12*
+so.entity_id = :entity_id2where¦
+£
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.phps {(		
+$select"__id*
+
+%13ÆÃ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php| |(4
+%14*
+
+$connection*
+	
+$select*	
+
+$bind2fetchone"’
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Order\Payment\Transaction.php| |(5
+
+%14:
+
+$orderIdB?=
+;magento\sales\model\resourcemodel\order\payment\transaction

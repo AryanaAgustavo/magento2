@@ -1,0 +1,136 @@
+
+4magento\loginascustomerlog\model\getloglist::executev
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.php@ @("1*¬
+2v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpC+ C(,©
+¦
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpC C(S
+$searchCriteria"__id*
+
+$searchCriteria*
+4*‰
+3v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpC- C(SÓ
+Ð
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpC- C(I
+%3"__id*J*H-
++magento\loginascustomerlog\model\getloglist"
+searchCriteriaBuilder‘Ž
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpC- C(S
+%4*
+
+%32createœ
+™
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpC C(S
+$searchCriteria"__id*
+
+%4*
+4*‹
+4v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpCS C(SÑ
+Î
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpD D("
+%5"__id*H*F-
++magento\loginascustomerlog\model\getloglist"
+collectionProcessor¸µ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpD D(I
+%6*
+
+%5*
+
+$searchCriteria*
+
+$collection2processÕ
+Ò
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpF F(6
+%7"__id*L*J-
++magento\loginascustomerlog\model\getloglist"
+logSearchResultsFactory‘Ž
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpF F(@
+%8*
+
+%72createš
+—
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpF F(@
+$searchResult"__id*
+
+%8œ™
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpG  G(7
+%9*
+
+$collection2getitems§¤
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpG G(8
+%10*
+
+$searchResult*
+
+%92setitemsœ™
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpH% H(;
+%11*
+
+$collection2getsize­ª
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpH H(<
+%12*
+
+$searchResult*
+
+%112settotalcount½º
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpI I(9
+%13*
+
+$searchResult*
+
+$searchCriteria2setsearchcriteriaÚ
+×
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpK K(D
+%14=magento\loginascustomerlog\api\data\logsearchresultsinterface"__id*
+
+$searchResult"À
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpK K(F
+D
+%14=magento\loginascustomerlog\api\data\logsearchresultsinterface*â
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpB B(<Ø
+Õ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.php@ @(
+$searchCriteria"__id*B
+@
+$searchCriteria-magento\framework\api\searchcriteriainterfaceÒ
+Ï
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpB B(1
+%1"__id*I*G-
++magento\loginascustomerlog\model\getloglist"
+logCollectionFactory‘Ž
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpB B(;
+%2*
+
+%12create˜
+•
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\LoginAsCustomerLog\Model\GetLogList.phpB B(;
+$collection"__id*
+
+%2*
+2
+3:@
+$searchCriteria-magento\framework\api\searchcriteriainterfaceB/-
++magento\loginascustomerlog\model\getloglist

@@ -1,0 +1,145 @@
+
+8magento\weee\model\app\action\contextplugin::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpU U("1*®
+2
+ContextPlugin.php"ç
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpi i(
+implicit return*ã
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.php` `(2À
+»
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpU U(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\session«
+ƒ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpU U(
+$httpContext"__id*4
+2
+$httpContext"magento\framework\app\http\context≥
+∞
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpU U(
+
+$weeeTax"__id*$
+"
+$weeeTaxmagento\weee\model\tax∏
+µ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpU U(
+
+$taxHelper"__id*'
+%
+
+$taxHelpermagento\tax\helper\dataª
+∏
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpU U(
+$weeeHelper"__id*)
+'
+$weeeHelpermagento\weee\helper\data…
+∆
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpU U(
+$moduleManager"__id*4
+2
+$moduleManager magento\framework\module\manager√
+¿
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpU U(
+$cacheConfig"__id*0
+.
+$cacheConfigmagento\pagecache\model\config–
+Õ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpU U(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface÷
+”
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpU U(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface€
+ÿ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.php` `(1B-
++magento\weee\model\app\action\contextplugin"
+customerSession"__id*
+
+$customerSession”
+–
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpa a()>-
++magento\weee\model\app\action\contextplugin"
+httpContext"__id*
+
+$httpContextÀ
+»
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpb b(!:-
++magento\weee\model\app\action\contextplugin"	
+weeeTax"__id*
+
+
+$weeeTaxœ
+Ã
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpc c(%<-
++magento\weee\model\app\action\contextplugin"
+	taxHelper"__id*
+
+
+$taxHelper—
+Œ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpd d('=-
++magento\weee\model\app\action\contextplugin"
+
+weeeHelper"__id*
+
+$weeeHelper◊
+‘
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpe e(-@-
++magento\weee\model\app\action\contextplugin"
+moduleManager"__id*
+
+$moduleManager”
+–
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpf f()>-
++magento\weee\model\app\action\contextplugin"
+cacheConfig"__id*
+
+$cacheConfig’
+“
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phpg g(+?-
++magento\weee\model\app\action\contextplugin"
+storeManager"__id*
+
+$storeManager”
+–
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Weee\Model\App\Action\ContextPlugin.phph h()>-
++magento\weee\model\app\action\contextplugin"
+scopeConfig"__id*
+
+$scopeConfig*
+2:2
+$customerSessionmagento\customer\model\session:2
+$httpContext"magento\framework\app\http\context:"
+$weeeTaxmagento\weee\model\tax:%
+
+$taxHelpermagento\tax\helper\data:'
+$weeeHelpermagento\weee\helper\data:2
+$moduleManager magento\framework\module\manager:.
+$cacheConfigmagento\pagecache\model\config::
+$storeManager)magento\store\model\storemanagerinterface:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceB/-
++magento\weee\model\app\action\contextplugin

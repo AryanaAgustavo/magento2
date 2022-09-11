@@ -1,0 +1,229 @@
+
+Hmagento\catalogsearch\model\resourcemodel\search\collection::__construct†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H("1*¶
+2
+Collection.php"ž
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpx x(
+implicit return*©2
+1†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.php` `(Ié
+æ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÃ
+À
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceõ
+ò
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceà
+Ý
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceÊ
+Ç
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+
+$eavConfig"__id*(
+&
+
+$eavConfigmagento\eav\model\configØ
+Õ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+	$resource"__id*7
+5
+	$resource(magento\framework\app\resourceconnectionß
+Ü
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$eavEntityFactory"__id*6
+4
+$eavEntityFactorymagento\eav\model\entityfactoryæ
+ã
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$resourceHelper"__id*?
+=
+$resourceHelper*magento\catalog\model\resourcemodel\helperì
+é
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$universalFactory"__id*C
+A
+$universalFactory,magento\framework\validator\universalfactoryá
+Þ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÚ
+×
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$moduleManager"__id*4
+2
+$moduleManager magento\framework\module\managerþ
+û
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$catalogProductFlatState"__id*N
+L
+$catalogProductFlatState0magento\catalog\model\indexer\product\flat\stateç
+ä
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceó
+ð
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$productOptionFactory"__id*F
+D
+$productOptionFactory+magento\catalog\model\product\optionfactoryÛ
+Ø
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$catalogUrl"__id*8
+6
+$catalogUrl'magento\catalog\model\resourcemodel\urlç
+ä
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterfaceÜ
+Ù
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionÑ
+Î
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+	$dateTime"__id*0
+.
+	$dateTime!magento\framework\stdlib\datetimeë
+è
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$groupManagement"__id*C
+A
+$groupManagement-magento\customer\api\groupmanagementinterface›
+˜
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$attributeCollectionFactory"__id*h
+f
+$attributeCollectionFactoryGmagento\catalog\model\resourcemodel\product\attribute\collectionfactoryá
+Þ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceÑ
+Î
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpH H(
+$indexUsageEnforcements"__id*"
+ 
+$indexUsageEnforcementsarray“
+
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.php` `(H^=
+;magento\catalogsearch\model\resourcemodel\search\collection"
+_attributeCollectionFactory"__id*
+
+$attributeCollectionFactory¢
+Ÿ
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpa v(	
+%1"Cmagento\catalog\model\resourcemodel\product\collection::__construct*?=
+;magento\catalogsearch\model\resourcemodel\search\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+
+$eavConfig*
+
+	$resource*
+
+$eavEntityFactory*
+
+$resourceHelper*
+
+$universalFactory*
+
+$storeManager*
+
+$moduleManager*
+
+$catalogProductFlatState*
+
+$scopeConfig*
+
+$productOptionFactory*
+
+$catalogUrl*
+
+$localeDate*
+
+$customerSession*
+
+	$dateTime*
+
+$groupManagement*
+
+$connectionŠ
+‡
+†
+|C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogSearch\Model\ResourceModel\Search\Collection.phpw w(?Y=
+;magento\catalogsearch\model\resourcemodel\search\collection"
+indexUsageEnforcements"__id*
+
+$indexUsageEnforcements*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:&
+
+$eavConfigmagento\eav\model\config:5
+	$resource(magento\framework\app\resourceconnection:4
+$eavEntityFactorymagento\eav\model\entityfactory:=
+$resourceHelper*magento\catalog\model\resourcemodel\helper:A
+$universalFactory,magento\framework\validator\universalfactory::
+$storeManager)magento\store\model\storemanagerinterface:2
+$moduleManager magento\framework\module\manager:L
+$catalogProductFlatState0magento\catalog\model\indexer\product\flat\state:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:D
+$productOptionFactory+magento\catalog\model\product\optionfactory:6
+$catalogUrl'magento\catalog\model\resourcemodel\url:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:2
+$customerSessionmagento\customer\model\session:.
+	$dateTime!magento\framework\stdlib\datetime:A
+$groupManagement-magento\customer\api\groupmanagementinterface:f
+$attributeCollectionFactoryGmagento\catalog\model\resourcemodel\product\attribute\collectionfactory:<
+$connection-magento\framework\db\adapter\adapterinterface: 
+$indexUsageEnforcementsarrayB?=
+;magento\catalogsearch\model\resourcemodel\search\collection

@@ -1,0 +1,68 @@
+
+Bmagento\reviewgraphql\model\review\addreviewtoproduct::__construct€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReviewGraphQl\Model\Review\AddReviewToProduct.php3 3("1*¸
+2
+AddReviewToProduct.php"˜
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReviewGraphQl\Model\Review\AddReviewToProduct.php= =(
+implicit return*¬
+1€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReviewGraphQl\Model\Review\AddReviewToProduct.php9 9(6ê
+ç
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReviewGraphQl\Model\Review\AddReviewToProduct.php3 3(
+$productRepository"__id*F
+D
+$productRepository.magento\catalog\api\productrepositoryinterfaceÖ
+Ó
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReviewGraphQl\Model\Review\AddReviewToProduct.php3 3(
+$reviewFactory"__id*6
+4
+$reviewFactory"magento\review\model\reviewfactoryÖ
+Ó
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReviewGraphQl\Model\Review\AddReviewToProduct.php3 3(
+$ratingFactory"__id*6
+4
+$ratingFactory"magento\review\model\ratingfactory›
+˜
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReviewGraphQl\Model\Review\AddReviewToProduct.php3 3( 
+$ratingOptionCollectionFactory"__id*k
+i
+$ratingOptionCollectionFactoryGmagento\review\model\resourcemodel\rating\option\vote\collectionfactoryô
+ñ
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReviewGraphQl\Model\Review\AddReviewToProduct.php9 9(5N7
+5magento\reviewgraphql\model\review\addreviewtoproduct"
+productRepository"__id*
+
+$productRepositoryì
+é
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReviewGraphQl\Model\Review\AddReviewToProduct.php: :(-J7
+5magento\reviewgraphql\model\review\addreviewtoproduct"
+reviewFactory"__id*
+
+$reviewFactoryì
+é
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReviewGraphQl\Model\Review\AddReviewToProduct.php; ;(-J7
+5magento\reviewgraphql\model\review\addreviewtoproduct"
+ratingFactory"__id*
+
+$ratingFactoryŒ
+‰
+€
+vC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\ReviewGraphQl\Model\Review\AddReviewToProduct.php< <(MZ7
+5magento\reviewgraphql\model\review\addreviewtoproduct"
+ratingOptionCollectionFactory"__id*"
+ 
+$ratingOptionCollectionFactory*
+2:D
+$productRepository.magento\catalog\api\productrepositoryinterface:4
+$reviewFactory"magento\review\model\reviewfactory:4
+$ratingFactory"magento\review\model\ratingfactory:i
+$ratingOptionCollectionFactoryGmagento\review\model\resourcemodel\rating\option\vote\collectionfactoryB97
+5magento\reviewgraphql\model\review\addreviewtoproduct

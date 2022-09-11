@@ -1,0 +1,258 @@
+
+Kmagento\customer\controller\adminhtml\customer\invalidatetoken::__constructâ
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I("1*¿
+2
+InvalidateToken.php"£
+ã
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpÅ Å(
+implicit return*ó:
+1â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpe e(,”
+–
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\context’
+“
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryË
+Â
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$fileFactory"__id*A
+?
+$fileFactory/magento\framework\app\response\http\filefactoryÁ
+‰
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$customerFactory"__id*<
+:
+$customerFactory&magento\customer\model\customerfactory‰
+·
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$addressFactory"__id*:
+8
+$addressFactory%magento\customer\model\addressfactory‰
+·
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$formFactory"__id*=
+;
+$formFactory+magento\customer\model\metadata\formfactoryÔ
+Ï
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$subscriberFactory"__id*B
+@
+$subscriberFactory*magento\newsletter\model\subscriberfactory”
+–
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$viewHelper"__id*-
++
+$viewHelpermagento\customer\helper\viewÃ
+…
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(	
+$random"__id**
+(
+$randommagento\framework\math\random˜
+Ù
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$customerRepository"__id*I
+G
+$customerRepository0magento\customer\api\customerrepositoryinterfaceê
+ç
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I( 
+$extensibleDataObjectConverter"__id*W
+U
+$extensibleDataObjectConverter3magento\framework\api\extensibledataobjectconverter‚
+ﬂ
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$addressMapper"__id*9
+7
+$addressMapper%magento\customer\model\address\mapperÑ
+Å
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$customerAccountManagement"__id*O
+M
+$customerAccountManagement/magento\customer\api\accountmanagementinterfaceÙ
+Ò
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$addressRepository"__id*G
+E
+$addressRepository/magento\customer\api\addressrepositoryinterface˚
+¯
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$customerDataFactory"__id*L
+J
+$customerDataFactory2magento\customer\api\data\customerinterfacefactory¯
+ı
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$addressDataFactory"__id*J
+H
+$addressDataFactory1magento\customer\api\data\addressinterfacefactoryÂ
+‚
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$customerMapper"__id*;
+9
+$customerMapper&magento\customer\model\customer\mapper˘
+ˆ
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$dataObjectProcessor"__id*J
+H
+$dataObjectProcessor0magento\framework\reflection\dataobjectprocessorÈ
+Ê
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$dataObjectHelper"__id*=
+;
+$dataObjectHelper&magento\framework\api\dataobjecthelper‡
+›
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$objectFactory"__id*7
+5
+$objectFactory#magento\framework\dataobjectfactory·
+ﬁ
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$layoutFactory"__id*8
+6
+$layoutFactory$magento\framework\view\layoutfactoryÙ
+Ò
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$resultLayoutFactory"__id*E
+C
+$resultLayoutFactory+magento\framework\view\result\layoutfactoryÓ
+Î
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$resultPageFactory"__id*A
+?
+$resultPageFactory)magento\framework\view\result\pagefactory˚
+¯
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$resultForwardFactory"__id*K
+I
+$resultForwardFactory0magento\backend\model\view\result\forwardfactoryÙ
+Ò
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$resultJsonFactory"__id*G
+E
+$resultJsonFactory/magento\framework\controller\result\jsonfactory
+Ì
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpI I(
+$tokenService"__id*H
+F
+$tokenService5magento\integration\api\customertokenserviceinterface¸
+˘
+â
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpe e(+R@
+>magento\customer\controller\adminhtml\customer\invalidatetoken"
+tokenService"__id*
+
+$tokenService…
+∆
+ä
+C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Customer\InvalidateToken.phpf Ä(	
+%1"8magento\customer\controller\adminhtml\index::__construct*B@
+>magento\customer\controller\adminhtml\customer\invalidatetoken*
+
+
+$context*
+
+$coreRegistry*
+
+$fileFactory*
+
+$customerFactory*
+
+$addressFactory*
+
+$formFactory*
+
+$subscriberFactory*
+
+$viewHelper*
+	
+$random*
+
+$customerRepository*"
+ 
+$extensibleDataObjectConverter*
+
+$addressMapper*
+
+$customerAccountManagement*
+
+$addressRepository*
+
+$customerDataFactory*
+
+$addressDataFactory*
+
+$customerMapper*
+
+$dataObjectProcessor*
+
+$dataObjectHelper*
+
+$objectFactory*
+
+$layoutFactory*
+
+$resultLayoutFactory*
+
+$resultPageFactory*
+
+$resultForwardFactory*
+
+$resultJsonFactory*
+2:.
+$context"magento\backend\app\action\context:+
+$coreRegistrymagento\framework\registry:?
+$fileFactory/magento\framework\app\response\http\filefactory::
+$customerFactory&magento\customer\model\customerfactory:8
+$addressFactory%magento\customer\model\addressfactory:;
+$formFactory+magento\customer\model\metadata\formfactory:@
+$subscriberFactory*magento\newsletter\model\subscriberfactory:+
+$viewHelpermagento\customer\helper\view:(
+$randommagento\framework\math\random:G
+$customerRepository0magento\customer\api\customerrepositoryinterface:U
+$extensibleDataObjectConverter3magento\framework\api\extensibledataobjectconverter:7
+$addressMapper%magento\customer\model\address\mapper:M
+$customerAccountManagement/magento\customer\api\accountmanagementinterface:E
+$addressRepository/magento\customer\api\addressrepositoryinterface:J
+$customerDataFactory2magento\customer\api\data\customerinterfacefactory:H
+$addressDataFactory1magento\customer\api\data\addressinterfacefactory:9
+$customerMapper&magento\customer\model\customer\mapper:H
+$dataObjectProcessor0magento\framework\reflection\dataobjectprocessor:;
+$dataObjectHelper&magento\framework\api\dataobjecthelper:5
+$objectFactory#magento\framework\dataobjectfactory:6
+$layoutFactory$magento\framework\view\layoutfactory:C
+$resultLayoutFactory+magento\framework\view\result\layoutfactory:?
+$resultPageFactory)magento\framework\view\result\pagefactory:I
+$resultForwardFactory0magento\backend\model\view\result\forwardfactory:E
+$resultJsonFactory/magento\framework\controller\result\jsonfactory:F
+$tokenService5magento\integration\api\customertokenserviceinterfaceBB@
+>magento\customer\controller\adminhtml\customer\invalidatetoken

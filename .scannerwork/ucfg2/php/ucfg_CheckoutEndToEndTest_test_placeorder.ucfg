@@ -1,0 +1,133 @@
+
+<magento\graphql\quote\guest\checkoutendtoendtest::placeorder˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpù ù("1*Ò
+2
+CheckoutEndToEndTest.php"°
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.php (
+implicit return*¼
+1˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpû ‡(Ä
+Á
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpù ù(	
+$cartId"__id*
+
+$cartIdstring¿
+¼
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpû ‡(
+%1"__concat*=;
+9mutation {
+  placeOrder(
+    input: {
+      cart_id: "*CA
+?"
+    }
+  ) {
+    order {
+      order_number
+    }
+  }
+}*
+	
+$cartId¶
+³
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpû ‡(
+$query"__id*
+
+%1÷ô
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpˆ ˆ(2
+%2*42
+0magento\graphql\quote\guest\checkoutendtoendtest*
+
+
+$query2graphqlmutation¹
+¶
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpˆ ˆ(2
+	$response"__id*
+
+%2¾
+»
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.php‰ ‰(8
+%3"Cmagento\graphql\quote\guest\checkoutendtoendtest::assertarrayhaskey*4"2
+0magento\graphql\quote\guest\checkoutendtoendtest*
+
+placeOrder*
+
+	$responseÍ
+Ê
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpŠ) Š(@
+%4"__mapGet*
+
+	$response*
+
+placeOrder²
+¯
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpŠ Š(A
+%5"Cmagento\graphql\quote\guest\checkoutendtoendtest::assertarrayhaskey*4"2
+0magento\graphql\quote\guest\checkoutendtoendtest*	
+order*
+
+%4Í
+Ê
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.php‹0 ‹(G
+%6"__mapGet*
+
+	$response*
+
+placeOrderÁ
+¾
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.php‹0 ‹(P
+%7"__mapGet*
+
+%6*	
+order¹
+¶
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.php‹ ‹(Q
+%8"Cmagento\graphql\quote\guest\checkoutendtoendtest::assertarrayhaskey*4"2
+0magento\graphql\quote\guest\checkoutendtoendtest*
+order_number*
+
+%7Í
+Ê
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpŒ Œ(4
+%9"__mapGet*
+
+	$response*
+
+placeOrderÂ
+¿
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpŒ Œ(=
+%10"__mapGet*
+
+%9*	
+orderÊ
+Ç
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpŒ Œ(M
+%11"__mapGet*
+
+%10*
+order_number¦
+£
+˜
+‹C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\CheckoutEndToEndTest.phpŒ Œ(N
+%12"@magento\graphql\quote\guest\checkoutendtoendtest::assertnotempty*4"2
+0magento\graphql\quote\guest\checkoutendtoendtest*
+
+%11*
+2:
+$cartIdstringB42
+0magento\graphql\quote\guest\checkoutendtoendtest

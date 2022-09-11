@@ -1,0 +1,140 @@
+
+Tmagento\paypal\block\adminhtml\billing\agreement\view\tab\orders::_preparecollectionå
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.phpw w()"1*æ
+2ç
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.php{ ç(˚
+¯
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.php{ {(2
+%3"__id*[*YB
+@magento\paypal\block\adminhtml\billing\agreement\view\tab\orders"
+collectionFactoryÕ 
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.php{ {(]
+%4*
+
+%3* 
+sales_order_grid_data_source2	getreport¡æ
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.php{ }(
+%5*
+
+%4*
+	entity_id2addfieldtoselectƒ¡
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.php{ (
+%6*
+
+%5*
+increment_id2addfieldtoselectƒ¡
+ç
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.php{ Å(
+%7*
+
+%6*
+customer_id2addfieldtoselect√¿
+ç
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.php{ É(
+%8*
+
+%7*
+
+created_at2addfieldtoselectƒ¡
+ç
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.php{ Ö(
+%9*
+
+%8*
+grand_total2addfieldtoselectÕ 
+ç
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.php{ á(
+%10*
+
+%9*
+order_currency_code2addfieldtoselect√¿
+ç
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.php{ â(
+%11*
+
+%10*
+
+store_id2addfieldtoselect«ƒ
+ç
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.php{ ã(
+%12*
+
+%11*
+billing_name2addfieldtoselect»≈
+ç
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.php{ ç(
+%13*
+
+%12*
+shipping_name2addfieldtoselect±
+Æ
+ç
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.php{ ç(
+$collection"__id*
+
+%13Ö
+Ç
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.phpé é(+
+%14"__id*b*`B
+@magento\paypal\block\adminhtml\billing\agreement\view\tab\orders"
+billingAgreementResourceπ∂
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.phpéJ é(d
+%15*
+
+$billingAgreement2getidœÃ
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.phpé é(e
+%16*
+
+%14*
+
+$collection*
+
+%152addordersfilterÅ˛
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.phpè è(-
+%17*DB
+@magento\paypal\block\adminhtml\billing\agreement\view\tab\orders*
+
+$collection2setcollection*
+3*’
+3é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.phpë ë(,°
+û
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.phpë ë(+
+%18">magento\backend\block\widget\grid\extended::_preparecollection*DB
+@magento\paypal\block\adminhtml\billing\agreement\view\tab\orders"ö
+é
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.phpë ë(,
+
+%18*ó
+1å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.phpy y(Wˆ
+Û
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.phpy y(/
+%1"__id*V*TB
+@magento\paypal\block\adminhtml\billing\agreement\view\tab\orders"
+coreRegistry…∆
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.phpy y(V
+%2*
+
+%1*
+current_billing_agreement2registryµ
+≤
+å
+ÅC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Paypal\Block\Adminhtml\Billing\Agreement\View\Tab\Orders.phpy y(V
+$billingAgreement"__id*
+
+%2*
+2
+3BDB
+@magento\paypal\block\adminhtml\billing\agreement\view\tab\orders

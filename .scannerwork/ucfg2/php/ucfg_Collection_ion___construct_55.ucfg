@@ -1,0 +1,84 @@
+
+Fmagento\sales\model\resourcemodel\report\order\collection::__construct„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order\Collection.php, ,("1*´
+2
+Collection.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order\Collection.php6 6(
+implicit return*ý
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order\Collection.php4 4(2ç
+ä
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order\Collection.php, ,(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÁ
+¾
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order\Collection.php, ,(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceó
+ð
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order\Collection.php, ,(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceÞ
+Û
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order\Collection.php, ,(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceÖ
+Ó
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order\Collection.php, ,(
+	$resource"__id*7
+5
+	$resource(magento\sales\model\resourcemodel\reportß
+Ü
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order\Collection.php, ,(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceì
+é
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order\Collection.php4 4(0
+%1"__id*T*R;
+9magento\sales\model\resourcemodel\report\order\collection"
+_aggregationTable­ª
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order\Collection.php4 4(1
+%2*
+
+	$resource*
+
+%12initŒ
+‰
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Report\Order\Collection.php5 5(k
+%3"Smagento\sales\model\resourcemodel\report\collection\abstractcollection::__construct*=;
+9magento\sales\model\resourcemodel\report\order\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+	$resource*
+
+$connection*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:5
+	$resource(magento\sales\model\resourcemodel\report:<
+$connection-magento\framework\db\adapter\adapterinterfaceB=;
+9magento\sales\model\resourcemodel\report\order\collection

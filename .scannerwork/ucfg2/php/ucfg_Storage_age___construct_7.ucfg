@@ -1,0 +1,73 @@
+
+5magento\mediastorage\helper\file\storage::__constructs
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Helper\File\Storage.php8 8("1*Ÿ
+2
+Storage.php"Š
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Helper\File\Storage.phpB B(
+implicit return*»
+1s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Helper\File\Storage.php> >(7¾
+»
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Helper\File\Storage.php8 8(
+
+$context"__id*2
+0
+$context$magento\framework\app\helper\contextß
+Ü
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Helper\File\Storage.php8 8(
+$coreFileStorageDb"__id*I
+G
+$coreFileStorageDb1magento\mediastorage\helper\file\storage\databaseÁ
+¾
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Helper\File\Storage.php8 8(
+
+$storage"__id*5
+3
+$storage'magento\mediastorage\model\file\storageÚ
+×
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Helper\File\Storage.php8 8(
+$filesystemStorage"__id*D
+B
+$filesystemStorage,magento\mediastorage\model\file\storage\fileÚ
+×
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Helper\File\Storage.php> >(6B*
+(magento\mediastorage\helper\file\storage"
+_filesystemStorage"__id*
+
+$filesystemStorageÚ
+×
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Helper\File\Storage.php? ?(6B*
+(magento\mediastorage\helper\file\storage"
+_coreFileStorageDb"__id*
+
+$coreFileStorageDbÆ
+Ã
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Helper\File\Storage.php@ @("8*
+(magento\mediastorage\helper\file\storage"
+
+_storage"__id*
+
+
+$storageô
+ñ
+s
+iC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Helper\File\Storage.phpA A(%
+%1"8magento\framework\app\helper\abstracthelper::__construct*,*
+(magento\mediastorage\helper\file\storage*
+
+
+$context*
+2:0
+$context$magento\framework\app\helper\context:G
+$coreFileStorageDb1magento\mediastorage\helper\file\storage\database:3
+$storage'magento\mediastorage\model\file\storage:B
+$filesystemStorage,magento\mediastorage\model\file\storage\fileB,*
+(magento\mediastorage\helper\file\storage

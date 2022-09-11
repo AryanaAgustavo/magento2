@@ -1,0 +1,120 @@
+
+9magento\catalog\model\layer\filter\attribute::__constructw
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php, ,("1*¥
+2
+Attribute.php"Ž
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php; ;(
+implicit return*º
+1w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php6 6(=à
+Ý
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php, ,(
+$filterItemFactory"__id*F
+D
+$filterItemFactory.magento\catalog\model\layer\filter\itemfactoryÑ
+Î
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php, ,(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceµ
+²
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php, ,(
+$layer"__id*'
+%
+$layermagento\catalog\model\layerá
+Þ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php, ,(
+$itemDataBuilder"__id*I
+G
+$itemDataBuilder3magento\catalog\model\layer\filter\item\databuilderý
+ú
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php, ,(
+$filterAttributeFactory"__id*^
+\
+$filterAttributeFactoryAmagento\catalog\model\resourcemodel\layer\filter\attributefactoryÀ
+½
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php, ,(	
+$string"__id*1
+/
+$string$magento\framework\stdlib\stringutilsÄ
+Á
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php, ,(
+
+$tagFilter"__id*2
+0
+
+$tagFilter"magento\framework\filter\striptags
+š
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php, ,(
+$data"__id*
+
+$dataarray§¤
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php6 6(<
+%1*
+
+$filterAttributeFactory2createÉ
+Æ
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php6 6(<=.
+,magento\catalog\model\layer\filter\attribute"
+	_resource"__id*
+
+%1Ë
+È
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php7 7(:.
+,magento\catalog\model\layer\filter\attribute"
+string"__id*
+	
+$stringÒ
+Ï
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php8 8((?.
+,magento\catalog\model\layer\filter\attribute"
+_requestVar"__id*
+	attributeÑ
+Î
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php9 9(%=.
+,magento\catalog\model\layer\filter\attribute"
+	tagFilter"__id*
+
+
+$tagFilterÌ
+É
+w
+mC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Catalog\Model\Layer\Filter\Attribute.php: :(_
+%2">magento\catalog\model\layer\filter\abstractfilter::__construct*0.
+,magento\catalog\model\layer\filter\attribute*
+
+$filterItemFactory*
+
+$storeManager*
+
+
+$layer*
+
+$itemDataBuilder*	
+
+$data*
+2:D
+$filterItemFactory.magento\catalog\model\layer\filter\itemfactory::
+$storeManager)magento\store\model\storemanagerinterface:%
+$layermagento\catalog\model\layer:G
+$itemDataBuilder3magento\catalog\model\layer\filter\item\databuilder:\
+$filterAttributeFactoryAmagento\catalog\model\resourcemodel\layer\filter\attributefactory:/
+$string$magento\framework\stdlib\stringutils:0
+
+$tagFilter"magento\framework\filter\striptags:
+$dataarrayB0.
+,magento\catalog\model\layer\filter\attribute

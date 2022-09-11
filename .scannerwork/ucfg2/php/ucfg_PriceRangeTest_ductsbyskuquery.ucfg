@@ -1,0 +1,60 @@
+
+Dmagento\graphql\cataloggraphql\pricerangetest::getproductsbyskuquery•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\PriceRangeTest.php¾ ¾(*"1*À
+
+1•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\PriceRangeTest.phpÀ î(ÿ
+ü
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\PriceRangeTest.phpÀ î(
+%1"__id*ÕÒ
+Ïquery getProductsBySku {
+  products(filter: { sku: { eq: "configurable" } }) {
+    items {
+      sku
+      name
+      price_range {
+        minimum_price {
+          regular_price {
+            value
+            currency
+          }
+          discount {
+            amount_off
+            percent_off
+          }
+          final_price {
+            value
+            currency
+          }
+        }
+        maximum_price {
+          regular_price {
+            value
+            currency
+          }
+          discount {
+            amount_off
+            percent_off
+          }
+          final_price {
+            value
+            currency
+          }
+        }
+      }
+      ... on ConfigurableProduct {
+        variants {
+          product {
+            sku
+          }
+        }
+      }
+    }
+  }
+}" 
+•
+ˆC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogGraphQl\PriceRangeTest.phpÀ î(
+
+%1B1/
+-magento\graphql\cataloggraphql\pricerangetest

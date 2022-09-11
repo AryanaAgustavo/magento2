@@ -1,0 +1,94 @@
+
+Rmagento\framework\filter\templatetest::testdataobjectcanrenderpropertiesstrictmode‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpı ı(?"1*»
+2
+TemplateTest.php"¡
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpˆ ˆ(
+implicit return*³
+1‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpÿ ƒ(
+Ú
+×
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpÿ ÿ(
+%1"__id*=*;'
+%magento\framework\filter\templatetest"
+templateFilterš
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.php€ ‚(
+%2"$Arrayš
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.php- (C
+%4"$Array¿
+¼
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.php- (C
+%5"__mapSet*
+
+%4*
+name*
+
+John Doe³°
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.php (D
+%3"magento\framework\dataobjectĞ
+Í
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.php (D
+%6")magento\framework\dataobject::__construct*
+
+%3*
+
+%4½
+º
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.php€ ‚(
+%7"__mapSet*
+
+%2*
+
+customer*
+
+%3³°
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.phpÿ ƒ(	
+%8*
+
+%1*
+
+%22setvariablesÚ
+×
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.php… …(H
+	$template"__id*64
+2{{var customer.name}} - {{var customer.getName()}}»
+¸
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.php† †()
+	$expected"__id*
+John Doe - John DoeÚ
+×
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.php‡& ‡(;
+%9"__id*=*;'
+%magento\framework\filter\templatetest"
+templateFilterµ²
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.php‡& ‡(N
+%10*
+
+%9*
+
+	$template2filter
+‹
+‰
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Framework\Filter\TemplateTest.php‡ ‡(O
+%11"3magento\framework\filter\templatetest::assertequals*)"'
+%magento\framework\filter\templatetest*
+
+	$expected*
+
+%10*
+2B)'
+%magento\framework\filter\templatetest

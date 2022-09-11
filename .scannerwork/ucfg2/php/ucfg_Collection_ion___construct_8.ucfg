@@ -1,0 +1,81 @@
+
+>magento\sales\model\resourcemodel\sale\collection::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Sale\Collection.phpA A("1*«
+2
+Collection.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Sale\Collection.phpQ Q(
+implicit return*ù
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Sale\Collection.phpI I(AÞ
+Û
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Sale\Collection.phpA A(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactory¸
+µ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Sale\Collection.phpA A(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceê
+ç
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Sale\Collection.phpA A(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceÕ
+Ò
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Sale\Collection.phpA A(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceú
+÷
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Sale\Collection.phpA A(
+$storeCollectionFactory"__id*V
+T
+$storeCollectionFactory9magento\store\model\resourcemodel\store\collectionfactoryÖ
+Ó
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Sale\Collection.phpA A(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceö
+ó
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Sale\Collection.phpI I(@P3
+1magento\sales\model\resourcemodel\sale\collection"
+_storeCollectionFactory"__id*
+
+$storeCollectionFactoryâ
+ß
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Sale\Collection.phpJ J(,F3
+1magento\sales\model\resourcemodel\sale\collection"
+_storeManager"__id*
+
+$storeManagerÛ
+Ø
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\ResourceModel\Sale\Collection.phpK P(	
+%1"Smagento\framework\model\resourcemodel\db\collection\abstractcollection::__construct*53
+1magento\sales\model\resourcemodel\sale\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:T
+$storeCollectionFactory9magento\store\model\resourcemodel\store\collectionfactory::
+$storeManager)magento\store\model\storemanagerinterfaceB53
+1magento\sales\model\resourcemodel\sale\collection

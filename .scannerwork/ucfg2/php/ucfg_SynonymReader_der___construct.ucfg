@@ -1,0 +1,59 @@
+
+=magento\search\model\resourcemodel\synonymreader::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\SynonymReader.php$ $("1*­
+2
+SynonymReader.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\SynonymReader.php- -(
+implicit return*é
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\SynonymReader.php* *(7Ò
+Ï
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\SynonymReader.php$ $(
+
+$context"__id*>
+<
+$context0magento\framework\model\resourcemodel\db\contextÕ
+Ò
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\SynonymReader.php$ $(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceÎ
+Ë
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\SynonymReader.php$ $(
+	$fulltext"__id*9
+7
+	$fulltext*magento\framework\db\helper\mysql\fulltext¡
+ž
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\SynonymReader.php* *(6
+%1"@magento\framework\model\resourcemodel\db\abstractdb::__construct*42
+0magento\search\model\resourcemodel\synonymreader*
+
+
+$context*
+
+$connectionNameÝ
+Ú
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\SynonymReader.php+ +()F2
+0magento\search\model\resourcemodel\synonymreader"
+fullTextSelect"__id*
+
+	$fulltextß
+Ü
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Search\Model\ResourceModel\SynonymReader.php, ,(+D2
+0magento\search\model\resourcemodel\synonymreader"
+storeManager"__id*
+
+$storeManager*
+2:<
+$context0magento\framework\model\resourcemodel\db\context::
+$storeManager)magento\store\model\storemanagerinterface:7
+	$fulltext*magento\framework\db\helper\mysql\fulltext:
+$connectionNameB42
+0magento\search\model\resourcemodel\synonymreader

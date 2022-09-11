@@ -1,0 +1,95 @@
+
+Lmagento\quote\model\resourcemodel\quote\address\rate\collection::__construct‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote\Address\Rate\Collection.php% %("1*»
+2
+Collection.php"£
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote\Address\Rate\Collection.php9 9(
+implicit return*µ
+1‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote\Address\Rate\Collection.php/ 7(
+î
+ë
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote\Address\Rate\Collection.php% %(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactoryÈ
+Å
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote\Address\Rate\Collection.php% %(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceú
+÷
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote\Address\Rate\Collection.php% %(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceå
+â
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote\Address\Rate\Collection.php% %(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterface
+þ
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote\Address\Rate\Collection.php% %(
+$entitySnapshot"__id*U
+S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshotï
+ì
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote\Address\Rate\Collection.php% %(
+$carrierFactory"__id*C
+A
+$carrierFactory.magento\shipping\model\carrierfactoryinterfaceæ
+ã
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote\Address\Rate\Collection.php% %(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceè
+å
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote\Address\Rate\Collection.php% %(
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbª
+§
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote\Address\Rate\Collection.php/ 7(	
+%1"Omagento\framework\model\resourcemodel\db\versioncontrol\collection::__construct*CA
+?magento\quote\model\resourcemodel\quote\address\rate\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$entitySnapshot*
+
+$connection*
+
+	$resource„
+
+‹
+€C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Model\ResourceModel\Quote\Address\Rate\Collection.php8 8(0VA
+?magento\quote\model\resourcemodel\quote\address\rate\collection"
+_carrierFactory"__id*
+
+$carrierFactory*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshot:A
+$carrierFactory.magento\shipping\model\carrierfactoryinterface:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbBCA
+?magento\quote\model\resourcemodel\quote\address\rate\collection

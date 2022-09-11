@@ -1,0 +1,56 @@
+
+Bmagento\test\legacy\obsoletecodetest::_testobsoletemethodargumentsƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Legacy\ObsoleteCodeTest.phpñ ñ(3"1*¹
+2
+ObsoleteCodeTest.php"›
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Legacy\ObsoleteCodeTest.php… …(
+implicit return*‡
+1ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Legacy\ObsoleteCodeTest.phpó ÷(
+øõ
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Legacy\ObsoleteCodeTest.phpó ÷(	
+%1*(&
+$magento\test\legacy\obsoletecodetest*.,
+*/[^a-z\d_]getTypeInstance\s*\(\s*[^\)]+/iS*
+
+
+$content*mk
+iBackwards-incompatible change: method getTypeInstance() is not supposed to be invoked with any arguments.2_assertnotregexp¬
+©
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Legacy\ObsoleteCodeTest.phpû ü(T
+%2"__concat*EC
+ABackwards-incompatible change: method getUsedProductIds($product)*JH
+F must be invoked with one and only one argument - product model object”‘
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Legacy\ObsoleteCodeTest.phpø ý(	
+%3*(&
+$magento\test\legacy\obsoletecodetest*1/
+-/\->getUsedProductIds\(([^\)]+,\s*[^\)]+)?\)/*
+
+
+$content*
+
+%22_assertnotregexpž
+›
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Legacy\ObsoleteCodeTest.php‚ ƒ(Q
+%4"__concat*:8
+6Backwards-incompatible change: method _setActiveMenu()*GE
+C must be invoked with menu item identifier than xpath for menu item”‘
+ƒ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\static\testsuite\Magento\Test\Legacy\ObsoleteCodeTest.phpÿ „(	
+%5*(&
+$magento\test\legacy\obsoletecodetest*1/
+-#->_setActiveMenu\([\'"]([\w\d/_]+)[\'"]\)#Ui*
+
+
+$content*
+
+%42_assertnotregexp*
+2:
+
+$contentB(&
+$magento\test\legacy\obsoletecodetest

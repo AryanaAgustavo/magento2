@@ -1,0 +1,34 @@
+
+=magento\graphql\quote\guest\updatecartitemstest::getcartquery—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\UpdateCartItemsTest.phpˆ ˆ(!"1*Õ
+1—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\UpdateCartItemsTest.phpŠ •(Ñ
+Î
+—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\UpdateCartItemsTest.phpˆ ˆ(!
+$maskedQuoteId"__id*
+
+$maskedQuoteIdstring¼
+¹
+—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\UpdateCartItemsTest.phpŠ •(
+%1"__concat*
+query {
+  cart(cart_id: "*YW
+U"){
+    items{
+      product{
+        name
+      }
+      quantity
+    }
+  }
+}*
+
+$maskedQuoteId"¢
+—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\UpdateCartItemsTest.phpŠ •(
+
+%1:
+$maskedQuoteIdstringB31
+/magento\graphql\quote\guest\updatecartitemstest

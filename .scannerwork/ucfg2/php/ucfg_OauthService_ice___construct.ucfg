@@ -1,0 +1,124 @@
+
+3magento\integration\model\oauthservice::__constructq
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpU U("1*¢
+2
+OauthService.php"ˆ
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpg g(
+implicit return*µ
+1q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.php_ _(-Ë
+È
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpU U(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface×
+Ô
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpU U(
+$consumerFactory"__id*E
+C
+$consumerFactory/magento\integration\model\oauth\consumerfactoryÎ
+Ë
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpU U(
+$tokenFactory"__id*?
+=
+$tokenFactory,magento\integration\model\oauth\tokenfactoryÃ
+À
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpU U(
+$dataHelper"__id*6
+4
+$dataHelper%magento\integration\helper\oauth\dataÂ
+¿
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpU U(
+$httpClient"__id*5
+3
+$httpClient$magento\framework\http\laminasclient­
+ª
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpU U(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceÄ
+Á
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpU U(
+$oauthHelper"__id*6
+4
+$oauthHelper$magento\framework\oauth\helper\oauthÒ
+Ï
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpU U(
+$tokenProvider"__id*B
+@
+$tokenProvider.magento\integration\model\oauth\token\providerÌ
+É
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.php_ _(,;(
+&magento\integration\model\oauthservice"
+_storeManager"__id*
+
+$storeManagerÒ
+Ï
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.php` `(2>(
+&magento\integration\model\oauthservice"
+_consumerFactory"__id*
+
+$consumerFactoryÌ
+É
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpa a(,;(
+&magento\integration\model\oauthservice"
+_tokenFactory"__id*
+
+$tokenFactoryÈ
+Å
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpb b((9(
+&magento\integration\model\oauthservice"
+_dataHelper"__id*
+
+$dataHelperÈ
+Å
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpc c((9(
+&magento\integration\model\oauthservice"
+_httpClient"__id*
+
+$httpClientÀ
+½
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpd d( 5(
+&magento\integration\model\oauthservice"	
+_logger"__id*
+	
+$loggerÊ
+Ç
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpe e(*:(
+&magento\integration\model\oauthservice"
+_oauthHelper"__id*
+
+$oauthHelperÎ
+Ë
+q
+gC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Integration\Model\OauthService.phpf f(.<(
+&magento\integration\model\oauthservice"
+_tokenProvider"__id*
+
+$tokenProvider*
+2::
+$storeManager)magento\store\model\storemanagerinterface:C
+$consumerFactory/magento\integration\model\oauth\consumerfactory:=
+$tokenFactory,magento\integration\model\oauth\tokenfactory:4
+$dataHelper%magento\integration\helper\oauth\data:3
+$httpClient$magento\framework\http\laminasclient:"
+$loggerpsr\log\loggerinterface:4
+$oauthHelper$magento\framework\oauth\helper\oauth:@
+$tokenProvider.magento\integration\model\oauth\token\providerB*(
+&magento\integration\model\oauthservice

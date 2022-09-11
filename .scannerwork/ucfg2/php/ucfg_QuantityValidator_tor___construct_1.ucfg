@@ -1,0 +1,54 @@
+
+Nmagento\sales\model\order\creditmemo\validation\quantityvalidator::__construct
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Validation\QuantityValidator.php1 1("1*Ä
+2
+QuantityValidator.php"¥
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Validation\QuantityValidator.php9 9(
+implicit return*š
+1
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Validation\QuantityValidator.php6 6(2ï
+ì
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Validation\QuantityValidator.php1 1(
+$orderRepository"__id*@
+>
+$orderRepository*magento\sales\api\orderrepositoryinterfaceõ
+ò
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Validation\QuantityValidator.php1 1(
+$invoiceRepository"__id*D
+B
+$invoiceRepository,magento\sales\api\invoicerepositoryinterfaceñ
+î
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Validation\QuantityValidator.php1 1(
+$priceCurrency"__id*D
+B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterface‰
+†
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Validation\QuantityValidator.php6 6(1XC
+Amagento\sales\model\order\creditmemo\validation\quantityvalidator"
+orderRepository"__id*
+
+$orderRepository
+Š
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Validation\QuantityValidator.php7 7(5ZC
+Amagento\sales\model\order\creditmemo\validation\quantityvalidator"
+invoiceRepository"__id*
+
+$invoiceRepository…
+‚
+
+‚C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\Creditmemo\Validation\QuantityValidator.php8 8(-VC
+Amagento\sales\model\order\creditmemo\validation\quantityvalidator"
+priceCurrency"__id*
+
+$priceCurrency*
+2:>
+$orderRepository*magento\sales\api\orderrepositoryinterface:B
+$invoiceRepository,magento\sales\api\invoicerepositoryinterface:B
+$priceCurrency0magento\framework\pricing\pricecurrencyinterfaceBEC
+Amagento\sales\model\order\creditmemo\validation\quantityvalidator

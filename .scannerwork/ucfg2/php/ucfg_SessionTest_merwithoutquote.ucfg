@@ -1,0 +1,193 @@
+
+Mmagento\checkout\model\sessiontest::testloadcustomerquotecustomerwithoutquote†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php¿ ¿(="1*·
+2
+SessionTest.php"ž
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÙ Ù(
+implicit return*€2
+1†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÁ Á(:Õ
+Ò
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÁ Á(-
+%1"__id*;*9$
+"magento\checkout\model\sessiontest"
+checkoutSession¤¡
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÁ Á(9
+%2*
+
+%12getquoteË
+È
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÁ Á(9/$
+"magento\checkout\model\sessiontest"
+quote"__id*
+
+%2Ë
+È
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÃ Ã(
+%3"__id*1*/$
+"magento\checkout\model\sessiontest"
+quote©¦
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÃ Ã()
+%4*
+
+%32getcustomerid
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÂ Å(	
+%5*&$
+"magento\checkout\model\sessiontest*
+
+%4*?=
+;Precondition failed: Customer data must not be set to quote2assertemptyË
+È
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÇ Ç(
+%6"__id*1*/$
+"magento\checkout\model\sessiontest"
+quote¬©
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÇ Ç(,
+%7*
+
+%62getcustomeremail
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÆ É(	
+%8*&$
+"magento\checkout\model\sessiontest*
+
+%7*?=
+;Precondition failed: Customer data must not be set to quote2assertemptyË
+È
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÌ Ì(
+%9"__id*1*/$
+"magento\checkout\model\sessiontest"
+quote¯¬
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÌ Ì(.
+%10*
+
+%92getcustomerisguestº
+·
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÊ Î(	
+%11"0magento\checkout\model\sessiontest::assertequals*&"$
+"magento\checkout\model\sessiontest*
+1*
+
+%10*;9
+7Precondition failed: Customer must be as guest in quoteÙ
+Ö
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÏ Ï(-
+%12"__id*>*<$
+"magento\checkout\model\sessiontest"
+customerRepository«¨
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÏ Ï(9
+%13*
+
+%12*22getbyid¨
+¥
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÏ Ï(9
+	$customer"__id*
+
+%13Ö
+Ó
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÐ Ð(
+%14"__id*;*9$
+"magento\checkout\model\sessiontest"
+customerSessionÂ¿
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÐ Ð(@
+%15*
+
+%14*
+
+	$customer2setcustomerdataobjectÖ
+Ó
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÑ Ñ(-
+%16"__id*;*9$
+"magento\checkout\model\sessiontest"
+checkoutSession¦£
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÑ Ñ(9
+%17*
+
+%162getquoteÌ
+É
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÑ Ñ(9/$
+"magento\checkout\model\sessiontest"
+quote"__id*
+
+%17Ì
+É
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÓ Ó(
+%18"__id*1*/$
+"magento\checkout\model\sessiontest"
+quote®«
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÓ Ó(,
+%19*
+
+%182getcustomeremail’
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÒ Õ(	
+%20*&$
+"magento\checkout\model\sessiontest*
+
+%19*?=
+;Precondition failed: Customer data must not be set to quote2assertemptyÖ
+Ó
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÖ Ö(
+%21"__id*;*9$
+"magento\checkout\model\sessiontest"
+checkoutSession¯¬
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpÖ Ö(3
+%22*
+
+%212loadcustomerquoteÖ
+Ó
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php× ×(-
+%23"__id*;*9$
+"magento\checkout\model\sessiontest"
+checkoutSession¦£
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php× ×(9
+%24*
+
+%232getquoteÌ
+É
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.php× ×(9/$
+"magento\checkout\model\sessiontest"
+quote"__id*
+
+%24Ì
+É
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpØ+ Ø(7
+%25"__id*1*/$
+"magento\checkout\model\sessiontest"
+quoteáÞ
+†
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\SessionTest.phpØ Ø(8
+%26*&$
+"magento\checkout\model\sessiontest*
+
+%252validatecustomerdatainquote*
+2B&$
+"magento\checkout\model\sessiontest

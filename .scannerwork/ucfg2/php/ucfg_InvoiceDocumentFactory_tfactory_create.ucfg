@@ -1,0 +1,113 @@
+
+8magento\sales\model\order\invoicedocumentfactory::create{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.php1 1("1*›
+2{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.php< @( 
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.php= =(&
+%4*
+
+
+$comment2
+getcomment©¦
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.php? ?(/
+%5*
+
+
+$comment2getisvisibleonfrontÄÁ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.php< @(
+%6*
+
+
+$invoice*
+
+%4*
+
+$appendComment*
+
+%52
+addcomment*
+3*÷
+3{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.phpC C(Ã
+À
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.phpC C(-
+%7'magento\sales\api\data\invoiceinterface"__id*
+
+
+$invoice"®
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.phpC C(/
+-
+%7'magento\sales\api\data\invoiceinterface*»
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.php8 8(4Ã
+À
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.php1 1(
+$order"__id*1
+/
+$order%magento\sales\api\data\orderinterfaceØ
+Õ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.php1 1(
+
+$comment"__id*D
+B
+$comment6magento\sales\api\data\invoicecommentcreationinterfaceÞ
+Û
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.php1 1(
+
+$arguments"__id*H
+F
+
+$arguments8magento\sales\api\data\invoicecreationargumentsinterfaceÖÓ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.php8 8(3
+%1*42
+0magento\sales\model\order\invoicedocumentfactory*
+
+
+$items2itemstoarrayŸ
+œ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.php8 8(3
+$invoiceItems"__id*
+
+%1Ö
+Ó
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.php9 9((
+%2"__id*H*F2
+0magento\sales\model\order\invoicedocumentfactory"
+invoiceService½º
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.php9 9(O
+%3*
+
+%2*
+
+
+$order*
+
+$invoiceItems2prepareinvoiceš
+—
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Sales\Model\Order\InvoiceDocumentFactory.php9 9(O
+
+$invoice"__id*
+
+%3*
+2
+3:/
+$order%magento\sales\api\data\orderinterface:
+$items:B
+$comment6magento\sales\api\data\invoicecommentcreationinterface:
+$appendComment:F
+
+$arguments8magento\sales\api\data\invoicecreationargumentsinterfaceB42
+0magento\sales\model\order\invoicedocumentfactory

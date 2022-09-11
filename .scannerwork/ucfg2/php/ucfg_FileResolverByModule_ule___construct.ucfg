@@ -1,0 +1,72 @@
+
+:magento\framework\config\fileresolverbymodule::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Config\FileResolverByModule.php* *("1*µ
+2
+FileResolverByModule.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Config\FileResolverByModule.php4 4(
+implicit return*¨
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Config\FileResolverByModule.php1 1(JÐ
+Í
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Config\FileResolverByModule.php* *(
+$moduleReader"__id*6
+4
+$moduleReader#magento\framework\module\dir\readerÅ
+Â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Config\FileResolverByModule.php* *(
+$filesystem"__id*-
++
+$filesystemmagento\framework\filesystemß
+Ü
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Config\FileResolverByModule.php* *(
+$iteratorFactory"__id*B
+@
+$iteratorFactory,magento\framework\config\fileiteratorfactoryç
+ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Config\FileResolverByModule.php* *(
+$componentRegistrar"__id*G
+E
+$componentRegistrar.magento\framework\component\componentregistrarÉ
+Æ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Config\FileResolverByModule.php* *(	
+$driver"__id*5
+3
+$driver(magento\framework\filesystem\driver\file¬
+©
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Config\FileResolverByModule.php1 1(I
+%1"6magento\framework\app\config\fileresolver::__construct*1/
+-magento\framework\config\fileresolverbymodule*
+
+$moduleReader*
+
+$filesystem*
+
+$iteratorFactoryé
+æ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Config\FileResolverByModule.php2 2(7G/
+-magento\framework\config\fileresolverbymodule"
+componentRegistrar"__id*
+
+$componentRegistrarÑ
+Î
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Config\FileResolverByModule.php3 3(;/
+-magento\framework\config\fileresolverbymodule"
+driver"__id*
+	
+$driver*
+2:4
+$moduleReader#magento\framework\module\dir\reader:+
+$filesystemmagento\framework\filesystem:@
+$iteratorFactory,magento\framework\config\fileiteratorfactory:E
+$componentRegistrar.magento\framework\component\componentregistrar:3
+$driver(magento\framework\filesystem\driver\fileB1/
+-magento\framework\config\fileresolverbymodule

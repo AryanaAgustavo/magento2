@@ -1,0 +1,55 @@
+
+Gmagento\paypalgraphql\paypalexpressabstracttest::getcreatetokenmutationî
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\PaypalExpressAbstractTest.phpæ æ(-"1*õ
+1î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\PaypalExpressAbstractTest.php¡ ◊(¿
+Ω
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\PaypalExpressAbstractTest.phpæ æ(-	
+$cartId"__id*
+
+$cartIdstringŒ
+À
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\PaypalExpressAbstractTest.phpæ æ(-
+$paymentMethod"__id*
+
+$paymentMethodstring»
+≈
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\PaypalExpressAbstractTest.php¡ ◊(
+%1"__concat*IG
+Emutation {
+    createPaypalExpressToken(input: {
+        cart_id: "*
+",
+        code: "*ñì
+ê",
+        urls: {
+            return_url: "paypal/express/return/",
+            cancel_url: "paypal/express/cancel/"
+            success_url: "checkout/onepage/success/",
+            pending_url: "checkout/onepage/pending/"
+        }
+        express_button: true
+    })
+    {
+        __typename
+        token
+        paypal_urls{
+            start
+            edit
+        }
+    }
+}*
+	
+$cartId*
+
+$paymentMethod"ü
+î
+áC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\PaypalGraphQl\PaypalExpressAbstractTest.php¡ ◊(
+
+%1:
+$cartIdstring:
+$paymentMethodstringB31
+/magento\paypalgraphql\paypalexpressabstracttest

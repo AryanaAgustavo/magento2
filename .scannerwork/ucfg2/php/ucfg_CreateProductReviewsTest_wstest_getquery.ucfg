@@ -1,0 +1,67 @@
+
+9magento\graphql\review\createproductreviewstest::getquery—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.php« «("1*Ö
+1—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.php­ Ï(½
+º
+—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.php« «(
+$sku"__id*
+
+$skustringÏ
+Ì
+—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.php« «(
+$customerName"__id*
+
+$customerNamestringÿ
+ü
+—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.php­ Ï(
+%1"__concat*B@
+>mutation {
+  createProductReview(
+    input: {
+      sku: "*
+",
+      nickname: "*ÓÐ
+Í",
+      summary: "Summary Test",
+      text: "Text Test",
+      ratings: [
+        {
+          id: "Mw==",
+          value_id: "MTM="
+        }, {
+          id: "MQ==",
+          value_id: "Mg=="
+        }, {
+          id: "Mg==",
+          value_id: "MTA="
+        }
+      ]
+    }
+) {
+    review {
+      nickname
+      summary
+      text
+      average_rating
+      ratings_breakdown {
+        name
+        value
+      }
+    }
+  }
+}*
+
+$sku*
+
+$customerName"¢
+—
+ŠC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Review\CreateProductReviewsTest.php­ Ï(
+
+%1:
+$skustring:
+$customerNamestringB31
+/magento\graphql\review\createproductreviewstest

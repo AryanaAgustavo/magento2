@@ -1,0 +1,321 @@
+
+Wmagento\quote\test\unit\model\quoterepositorytest::testgetactivewithexceptionbyisactive~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php™ ™(8"1*¶
+2
+QuoteRepositoryTest.php"•
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php° °(
+implicit return*²M
+1~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php› ›(Tˆ…
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php› ›(S
+%1*53
+1magento\quote\test\unit\model\quoterepositorytest*53
+1Magento\Framework\Exception\NoSuchEntityException2expectexceptionýú
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.phpœ œ(H
+%2*53
+1magento\quote\test\unit\model\quoterepositorytest*#!
+No such entity with cartId = 152expectexceptionmessageš
+—
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php (	
+$cartId"__id*2Û
+Ø
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.phpŸ Ÿ(
+%3"__id*J*H3
+1magento\quote\test\unit\model\quoterepositorytest"
+cartFactoryMockÆÃ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.phpŸ( Ÿ(5
+%4*53
+1magento\quote\test\unit\model\quoterepositorytest2once¢Ÿ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.phpŸ Ÿ(6
+%5*
+
+%3*
+
+%42expects¥¢
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.phpŸ Ÿ(H
+%6*
+
+%5*
+
+create2methodÕ
+Ò
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.phpŸU Ÿ(e
+%7"__id*D*B3
+1magento\quote\test\unit\model\quoterepositorytest"
+	quoteMock¥¢
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.phpŸ Ÿ(f
+%8*
+
+%6*
+
+%72
+willreturnÜ
+Ù
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php   (
+%9"__id*K*I3
+1magento\quote\test\unit\model\quoterepositorytest"
+storeManagerMockÇÄ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php )  (6
+%10*53
+1magento\quote\test\unit\model\quoterepositorytest2once¤¡
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php   (7
+%11*
+
+%9*
+
+%102expects©¦
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php   (K
+%12*
+
+%11*
+
+getStore2methodÖ
+Ó
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php X  (h
+%13"__id*D*B3
+1magento\quote\test\unit\model\quoterepositorytest"
+	storeMock¨¥
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php   (i
+%14*
+
+%12*
+
+%132
+willreturnÖ
+Ó
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¡ ¡(
+%15"__id*D*B3
+1magento\quote\test\unit\model\quoterepositorytest"
+	storeMockÇÄ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¡" ¡(/
+%16*53
+1magento\quote\test\unit\model\quoterepositorytest2once¥¢
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¡ ¡(0
+%17*
+
+%15*
+
+%162expects¦£
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¡ ¡(A
+%18*
+
+%17*	
+getId2method¥¢
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¡ ¡(P
+%19*
+
+%18*22
+willreturnÖ
+Ó
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¢ ¢(
+%20"__id*D*B3
+1magento\quote\test\unit\model\quoterepositorytest"
+	quoteMockÈÅ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¢" ¢(0
+%21*53
+1magento\quote\test\unit\model\quoterepositorytest2never¥¢
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¢ ¢(1
+%22*
+
+%20*
+
+%212expects²¯
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¢ ¢(N
+%23*
+
+%22*
+setSharedStoreIds2methodÖ
+Ó
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php£ £(
+%24"__id*D*B3
+1magento\quote\test\unit\model\quoterepositorytest"
+	quoteMockÇÄ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php£" £(/
+%25*53
+1magento\quote\test\unit\model\quoterepositorytest2once¥¢
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php£ £(0
+%26*
+
+%24*
+
+%252expectsµ²
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php£ ¤(,
+%27*
+
+%26*
+loadByIdWithoutStore2method¦£
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php£ ¥(
+%28*
+
+%27*
+	
+$cartId2withÖ
+Ó
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¦ ¦()
+%29"__id*D*B3
+1magento\quote\test\unit\model\quoterepositorytest"
+	storeMock¨¥
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php£ ¦(*
+%30*
+
+%28*
+
+%292
+willreturnÖ
+Ó
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php§ §(
+%31"__id*D*B3
+1magento\quote\test\unit\model\quoterepositorytest"
+	quoteMockÇÄ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php§" §(/
+%32*53
+1magento\quote\test\unit\model\quoterepositorytest2once¥¢
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php§ §(0
+%33*
+
+%31*
+
+%322expects¦£
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php§ §(A
+%34*
+
+%33*	
+getId2method¬©
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php§ §(V
+%35*
+
+%34*
+	
+$cartId2
+willreturnÖ
+Ó
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¨ ¨(
+%36"__id*D*B3
+1magento\quote\test\unit\model\quoterepositorytest"
+	quoteMockÇÄ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¨" ¨(/
+%37*53
+1magento\quote\test\unit\model\quoterepositorytest2once¥¢
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¨ ¨(0
+%38*
+
+%36*
+
+%372expects¬©
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¨ ¨(G
+%39*
+
+%38*
+getIsActive2method£ 
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¨ ¨(V
+%40*
+
+%39*2 2
+willreturnÜ
+Ù
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.phpª ª(
+%41"__id*J*H3
+1magento\quote\test\unit\model\quoterepositorytest"
+loadHandlerMockÇÄ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.phpª( ª(5
+%42*53
+1magento\quote\test\unit\model\quoterepositorytest2once¥¢
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.phpª ª(6
+%43*
+
+%41*
+
+%422expects¥¢
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.phpª «(
+%44*
+
+%43*
+load2methodÖ
+Ó
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¬ ¬(#
+%45"__id*D*B3
+1magento\quote\test\unit\model\quoterepositorytest"
+	quoteMock¢Ÿ
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.phpª ¬($
+%46*
+
+%44*
+
+%452withÖ
+Ó
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php­ ­()
+%47"__id*D*B3
+1magento\quote\test\unit\model\quoterepositorytest"
+	quoteMock¨¥
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.phpª ­(*
+%48*
+
+%46*
+
+%472
+willreturnÒ
+Ï
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¯ ¯(
+%49"__id*@*>3
+1magento\quote\test\unit\model\quoterepositorytest"
+model«¨
+~
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Quote\Test\Unit\Model\QuoteRepositoryTest.php¯ ¯((
+%50*
+
+%49*
+	
+$cartId2	getactive*
+2B53
+1magento\quote\test\unit\model\quoterepositorytest

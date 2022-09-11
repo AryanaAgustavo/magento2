@@ -1,0 +1,78 @@
+
+Fmagento\customer\model\resourcemodel\customer\collection::groupbyemailƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.php_ _( "1*ô
+1ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.phpa h(
+ØÕ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.phpa a(
+%1*<:
+8magento\customer\model\resourcemodel\customer\collection2	getselect—”
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.phpb b(=
+%2"$ArrayØÕ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.phpb b(*
+%3*<:
+8magento\customer\model\resourcemodel\customer\collection2	getentity§¤
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.phpb b(<
+%4*
+
+%32getentitytable´
+±
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.phpb b(=
+%5"__mapSet*
+
+%2*	
+email*
+
+%4—”
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.phpc c(J
+%6"$Arrayš
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.phpc c(I
+%7"zend_db_exprÎ
+Ë
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.phpc c(I
+%8"zend_db_expr::__construct*
+
+%7*
+COUNT(email.entity_id)º
+·
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.phpc c(J
+%9"__mapSet*
+
+%6*
+email_count*
+
+%7®«
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.phpa d(	
+%10*
+
+%1*
+
+%2*
+
+%62fromÃÀ
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.phpa f(	
+%11*
+
+%10*!
+email.entity_id = e.entity_id2where±®
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.phpa h(	
+%12*
+
+%11*
+email.email2group"Ä
+ƒ
+yC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Model\ResourceModel\Customer\Collection.phpj j(<:
+8magento\customer\model\resourcemodel\customer\collectionB<:
+8magento\customer\model\resourcemodel\customer\collection

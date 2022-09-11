@@ -1,0 +1,139 @@
+
+Rmagento\persistent\model\checkout\configproviderplugintest::testwithloggedcustomerù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.phpz z(*"1*›
+2
+ConfigProviderPluginTest.php"∑
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.phpÉ É(
+implicit return*¿$
+1ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.php| |(1Ñ
+Å
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.php| |(
+%1"__id*S*Q<
+:magento\persistent\model\checkout\configproviderplugintest"
+customerSession∆√
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.php| |(0
+%2*
+
+%1*22setcustomeridÜ
+É
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.php} }(+
+%3"__id*U*S<
+:magento\persistent\model\checkout\configproviderplugintest"
+persistentSession…∆
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.php} }(@
+%4*
+
+%3*22loadbycustomeridΩ
+∫
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.php} }(@
+
+$session"__id*
+
+%4å
+â
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.php~ ~(&
+%5"__id*[*Y<
+:magento\persistent\model\checkout\configproviderplugintest"
+persistentSessionHelperÀ»
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.php~ ~(<
+%6*
+
+%5*
+
+
+$session2
+setsessioné
+ã
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.php (1
+%7"__id*]*[<
+:magento\persistent\model\checkout\configproviderplugintest"
+getQuoteByReservedOrderIdËÂ
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.php (f
+%8*
+
+%7*,*
+(test_order_with_customer_without_address2executeª
+∏
+ù
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.php (f
+$quote"__id*
+
+%8Ü
+É
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.phpÄ Ä(
+%9"__id*S*Q<
+:magento\persistent\model\checkout\configproviderplugintest"
+checkoutSessionøº
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.phpÄ+ Ä(:
+%10*
+
+
+$quote2getid…∆
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.phpÄ Ä(;
+%11*
+
+%9*
+
+%102
+setquoteidÜ
+É
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.phpÅ Å('
+%12"__id*R*P<
+:magento\persistent\model\checkout\configproviderplugintest"
+configProvider¿Ω
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.phpÅ Å(4
+%13*
+
+%122	getconfigø
+º
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.phpÅ Å(4	
+$result"__id*
+
+%13øº
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.phpÇ Ç(+
+%14*
+
+
+$quote2getid“
+œ
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.phpÇ- Ç(A
+%15"__mapGet*
+	
+$result*
+	quoteDataŒ
+À
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.phpÇ- Ç(N
+%16"__mapGet*
+
+%15*
+	entity_idåâ
+ü
+íC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Persistent\Model\Checkout\ConfigProviderPluginTest.phpÇ Ç(O
+%17*><
+:magento\persistent\model\checkout\configproviderplugintest*
+
+%14*
+
+%162assertequals*
+2B><
+:magento\persistent\model\checkout\configproviderplugintest

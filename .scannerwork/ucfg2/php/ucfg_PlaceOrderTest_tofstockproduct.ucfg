@@ -1,0 +1,62 @@
+
+Omagento\graphql\quote\guest\placeordertest::testplaceorderwithoutofstockproduct’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php¤ ¤(7"1*Æ
+2
+PlaceOrderTest.php"ª
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php¬ ¬(
+implicit return*Ê
+1’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php¦ ¦((Â
+¿
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php¦ ¦('
+$reservedOrderId"__id*
+
+test_quoteû
+ø
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php§ §(A
+%1"__id*U*S,
+*magento\graphql\quote\guest\placeordertest"#
+!getMaskedQuoteIdByReservedOrderIdÅÂ
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php§ §(\
+%2*
+
+%1*
+
+$reservedOrderId2execute¸
+µ
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php§ §(\
+$maskedQuoteId"__id*
+
+%2ìé
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php¨ ¨(0
+%3*.,
+*magento\graphql\quote\guest\placeordertest*
+
+$maskedQuoteId2getquery°
+­
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php¨ ¨(0
+$query"__id*
+
+%3Ô
+Ñ
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.phpª ª(d
+%4"Bmagento\graphql\quote\guest\placeordertest::expectexceptionmessage*.",
+*magento\graphql\quote\guest\placeordertest*@>
+<Unable to place order: Some of the products are out of stockëè
+’
+…C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\PlaceOrderTest.php« «(&
+%5*.,
+*magento\graphql\quote\guest\placeordertest*
+
+
+$query2graphqlmutation*
+2B.,
+*magento\graphql\quote\guest\placeordertest

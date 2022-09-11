@@ -1,0 +1,96 @@
+
+Imagento\salesinventory\observer\refundorderinventoryobserver::__construct‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.php< <("1*É
+2"
+ RefundOrderInventoryObserver.php"Ÿ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.phpJ J(
+implicit return*ð
+1‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.phpD D(8ý
+ú
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.php< <(
+$stockConfiguration"__id*Q
+O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterfaceô
+ñ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.php< <(
+$stockManagement"__id*K
+I
+$stockManagement5magento\cataloginventory\api\stockmanagementinterface
+þ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.php< <(
+$stockIndexerProcessor"__id*R
+P
+$stockIndexerProcessor6magento\cataloginventory\model\indexer\stock\processorî
+ë
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.php< <(
+$priceIndexer"__id*H
+F
+$priceIndexer5magento\catalog\model\indexer\product\price\processorñ
+î
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.php< <(
+$returnProcessor"__id*H
+F
+$returnProcessor2magento\salesinventory\model\order\returnprocessoré
+æ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.php< <(
+$orderRepository"__id*@
+>
+$orderRepository*magento\sales\api\orderrepositoryinterface„
+
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.phpD D(7V>
+<magento\salesinventory\observer\refundorderinventoryobserver"
+stockConfiguration"__id*
+
+$stockConfigurationþ
+û
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.phpE E(1S>
+<magento\salesinventory\observer\refundorderinventoryobserver"
+stockManagement"__id*
+
+$stockManagementŠ
+‡
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.phpF F(=Y>
+<magento\salesinventory\observer\refundorderinventoryobserver"
+stockIndexerProcessor"__id*
+
+$stockIndexerProcessorø
+õ
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.phpG G(+P>
+<magento\salesinventory\observer\refundorderinventoryobserver"
+priceIndexer"__id*
+
+$priceIndexerþ
+û
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.phpH H(1S>
+<magento\salesinventory\observer\refundorderinventoryobserver"
+returnProcessor"__id*
+
+$returnProcessorþ
+û
+‡
+}C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\SalesInventory\Observer\RefundOrderInventoryObserver.phpI I(1S>
+<magento\salesinventory\observer\refundorderinventoryobserver"
+orderRepository"__id*
+
+$orderRepository*
+2:O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterface:I
+$stockManagement5magento\cataloginventory\api\stockmanagementinterface:P
+$stockIndexerProcessor6magento\cataloginventory\model\indexer\stock\processor:F
+$priceIndexer5magento\catalog\model\indexer\product\price\processor:F
+$returnProcessor2magento\salesinventory\model\order\returnprocessor:>
+$orderRepository*magento\sales\api\orderrepositoryinterfaceB@>
+<magento\salesinventory\observer\refundorderinventoryobserver

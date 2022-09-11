@@ -1,0 +1,83 @@
+
+^magento\graphql\cataloginventory\updatecartitemstest::testupdatecartitemsetunavailablequantityö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\UpdateCartItemsTest.php> >(<"1*”
+2
+UpdateCartItemsTest.php"≤
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\UpdateCartItemsTest.phpI I(
+implicit return*›
+1ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\UpdateCartItemsTest.php@ @(Yç
+ä
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\UpdateCartItemsTest.php@ @(A
+%1"__id*_*]6
+4magento\graphql\cataloginventory\updatecartitemstest"#
+!getMaskedQuoteIdByReservedOrderId«ƒ
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\UpdateCartItemsTest.php@ @(X
+%2*
+
+%1*
+
+test_quote2execute¿
+Ω
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\UpdateCartItemsTest.php@ @(X
+$maskedQuoteId"__id*
+
+%2ë
+é
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\UpdateCartItemsTest.phpA A(>
+%3"__id*c*a6
+4magento\graphql\cataloginventory\updatecartitemstest"'
+%getQuoteItemIdByReservedQuoteIdAndSku€ÿ
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\UpdateCartItemsTest.phpA A(g
+%4*
+
+%3*
+
+test_quote*
+simple_product2executeπ
+∂
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\UpdateCartItemsTest.phpA A(g	
+$itemId"__id*
+
+%4π
+∂
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\UpdateCartItemsTest.phpC C(
+	$quantity"__id*2d÷”
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\UpdateCartItemsTest.phpD F(	
+%5*86
+4magento\graphql\cataloginventory\updatecartitemstest*\Z
+XCould not update the product with SKU simple_product: The requested qty is not available2expectexceptionmessageöó
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\UpdateCartItemsTest.phpG G(D
+%6*86
+4magento\graphql\cataloginventory\updatecartitemstest*
+
+$maskedQuoteId*
+	
+$itemId*
+
+	$quantity2getquery∏
+µ
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\UpdateCartItemsTest.phpG G(D
+$query"__id*
+
+%6˝˙
+ö
+èC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\CatalogInventory\UpdateCartItemsTest.phpH H(&
+%7*86
+4magento\graphql\cataloginventory\updatecartitemstest*
+
+
+$query2graphqlmutation*
+2B86
+4magento\graphql\cataloginventory\updatecartitemstest

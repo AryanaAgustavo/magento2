@@ -1,0 +1,2 @@
+]
+phpS2166CRename this class to remove "Exception" or correct its inheritance. 2 

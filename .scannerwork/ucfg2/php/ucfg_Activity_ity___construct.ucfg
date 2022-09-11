@@ -1,0 +1,70 @@
+
+>magento\security\block\adminhtml\session\activity::__construct|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Block\Adminhtml\Session\Activity.php0 0("1*©
+2
+Activity.php"“
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Block\Adminhtml\Session\Activity.php: :(
+implicit return*¦
+1|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Block\Adminhtml\Session\Activity.php6 6(&É
+Æ
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Block\Adminhtml\Session\Activity.php0 0(
+
+$context"__id*4
+2
+$context&magento\backend\block\template\context×
+Ô
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Block\Adminhtml\Session\Activity.php0 0(
+$securityConfig"__id*;
+9
+$securityConfig&magento\security\model\configinterfaceÞ
+Û
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Block\Adminhtml\Session\Activity.php0 0(
+$sessionsManager"__id*A
+?
+$sessionsManager+magento\security\model\adminsessionsmanagerâ
+ß
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Block\Adminhtml\Session\Activity.php0 0(
+$remoteAddress"__id*G
+E
+$remoteAddress3magento\framework\http\phpenvironment\remoteaddressù
+ö
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Block\Adminhtml\Session\Activity.php6 6(%
+%1"+magento\backend\block\template::__construct*53
+1magento\security\block\adminhtml\session\activity*
+
+
+$contextå
+â
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Block\Adminhtml\Session\Activity.php7 7(/G3
+1magento\security\block\adminhtml\session\activity"
+securityConfig"__id*
+
+$securityConfigç
+ä
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Block\Adminhtml\Session\Activity.php8 8(1H3
+1magento\security\block\adminhtml\session\activity"
+sessionsManager"__id*
+
+$sessionsManagerã
+à
+|
+rC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Security\Block\Adminhtml\Session\Activity.php9 9(-F3
+1magento\security\block\adminhtml\session\activity"
+remoteAddress"__id*
+
+$remoteAddress*
+2:2
+$context&magento\backend\block\template\context:9
+$securityConfig&magento\security\model\configinterface:?
+$sessionsManager+magento\security\model\adminsessionsmanager:E
+$remoteAddress3magento\framework\http\phpenvironment\remoteaddressB53
+1magento\security\block\adminhtml\session\activity

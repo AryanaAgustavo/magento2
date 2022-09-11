@@ -1,0 +1,121 @@
+
+8magento\checkout\model\carttest::testaddproductwithnoqtyÅ
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phph h(+"1*Ø
+2
+CartTest.php"ô
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpp p(
+implicit return*´
+1Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpj j(-…
+∆
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpj j("
+%1"__id*4*2!
+magento\checkout\model\carttest"
+cartFactoryùö
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpj j(,
+%2*
+
+%12createû
+õ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpj j(,
+$cart"__id*
+
+%2œ
+Ã
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpk k(+
+%3"__id*:*8!
+magento\checkout\model\carttest"
+productRepository¶£
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpk k(:
+%4*
+
+%3*
+
+simple2get°
+û
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpk k(:
+
+$product"__id*
+
+%4¢ü
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpl l(+
+%5*
+
+
+$product2getidïí
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpl- l(/
+%6"$Array¥±
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpl l(0
+%7*	
+
+$cart*
+
+%5*
+
+%62
+addproductõò
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpl l(8
+%8*
+
+%72save¢ü
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpm m((
+%9*	
+
+$cart2getquote√
+¿
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpm m((,!
+magento\checkout\model\carttest"
+quote"__id*
+
+%9£†
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpn n(/
+%10*	
+
+$cart2getitemsœÃ
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpn n(0
+%11*#!
+magento\checkout\model\carttest*2*
+
+%102assertcount£†
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpo o(-
+%12*
+
+
+$product2getidŒ
+À
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpo/ o(E
+%13"__id*8*6!
+magento\checkout\model\carttest"
+checkoutSessionÆ´
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpo/ o(^
+%14*
+
+%132getlastaddedproductid”–
+Å
+wC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Checkout\Model\CartTest.phpo o(_
+%15*#!
+magento\checkout\model\carttest*
+
+%12*
+
+%142assertequals*
+2B#!
+magento\checkout\model\carttest

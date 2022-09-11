@@ -1,0 +1,161 @@
+
+Hmagento\graphql\quote\guest\applycoupontocarttest::testapplycoupontocart—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php$ $()"1*Ò
+2
+ApplyCouponToCartTest.php"¯
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php/ /(
+implicit return*€'
+1—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php& &(!À
+½
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php& &( 
+$couponCode"__id*
+
+2?ds5!2d‡
+„
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php' '(A
+%1"__id*\*Z3
+1magento\graphql\quote\guest\applycoupontocarttest"#
+!getMaskedQuoteIdByReservedOrderIdÄÁ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php' '(X
+%2*
+
+%1*
+
+test_quote2execute½
+º
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php' '(X
+$maskedQuoteId"__id*
+
+%2‰†
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php( ((=
+%3*53
+1magento\graphql\quote\guest\applycoupontocarttest*
+
+$maskedQuoteId*
+
+$couponCode2getqueryµ
+²
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php( ((=
+$query"__id*
+
+%3÷ô
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php) )(2
+%4*53
+1magento\graphql\quote\guest\applycoupontocarttest*
+
+
+$query2graphqlmutation¸
+µ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php) )(2
+	$response"__id*
+
+%4Æ
+Ã
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php+ +(?
+%5"Dmagento\graphql\quote\guest\applycoupontocarttest::assertarrayhaskey*5"3
+1magento\graphql\quote\guest\applycoupontocarttest*
+applyCouponToCart*
+
+	$responseÓ
+Ð
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php,& ,(D
+%6"__mapGet*
+
+	$response*
+applyCouponToCart¿
+¼
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php,& ,(L
+%7"__mapGet*
+
+%6*
+cart°
+­
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php, ,(M
+%8"Dmagento\graphql\quote\guest\applycoupontocarttest::assertarrayhaskey*5"3
+1magento\graphql\quote\guest\applycoupontocarttest*
+id*
+
+%7Ó
+Ð
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php-+ -(I
+%9"__mapGet*
+
+	$response*
+applyCouponToCartÀ
+½
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php-+ -(Q
+%10"__mapGet*
+
+%9*
+cart¿
+¼
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php-+ -(W
+%11"__mapGet*
+
+%10*
+id¹
+¶
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php- -(X
+%12"?magento\graphql\quote\guest\applycoupontocarttest::assertequals*5"3
+1magento\graphql\quote\guest\applycoupontocarttest*
+
+$maskedQuoteId*
+
+%11Ô
+Ñ
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php.( .(F
+%13"__mapGet*
+
+	$response*
+applyCouponToCartÁ
+¾
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php.( .(N
+%14"__mapGet*
+
+%13*
+cartË
+È
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php.( .(`
+%15"__mapGet*
+
+%14*
+applied_couponÁ
+¾
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php.( .(h
+%16"__mapGet*
+
+%15*
+code¶
+³
+—
+ŒC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\GraphQl\Quote\Guest\ApplyCouponToCartTest.php. .(i
+%17"?magento\graphql\quote\guest\applycoupontocarttest::assertequals*5"3
+1magento\graphql\quote\guest\applycoupontocarttest*
+
+$couponCode*
+
+%16*
+2B53
+1magento\graphql\quote\guest\applycoupontocarttest

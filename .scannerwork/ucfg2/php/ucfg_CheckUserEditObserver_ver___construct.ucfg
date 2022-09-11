@@ -1,0 +1,126 @@
+
+;magento\captcha\observer\checkusereditobserver::__constructy
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpJ J("1*≥
+2
+CheckUserEditObserver.php"ê
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.php\ \(
+implicit return*ß
+1y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpT T( π
+∂
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpJ J(	
+$helper"__id*(
+&
+$helpermagento\captcha\helper\data∆
+√
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpJ J(
+$actionFlag"__id*1
+/
+$actionFlag magento\framework\app\actionflagÿ
+’
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpJ J(
+$messageManager"__id*?
+=
+$messageManager*magento\framework\message\managerinterface“
+œ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpJ J(
+	$redirect"__id*?
+=
+	$redirect0magento\framework\app\response\redirectinterfaceÍ
+Á
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpJ J(
+$captchaStringResolver"__id*J
+H
+$captchaStringResolver.magento\captcha\observer\captchastringresolver‹
+Ÿ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpJ J(
+$authentication"__id*C
+A
+$authentication.magento\customer\model\authenticationinterfaceŒ
+À
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpJ J(
+$customerSession"__id*4
+2
+$customerSessionmagento\customer\model\sessionŸ
+÷
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpJ J(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceœ
+Ã
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpT T(<0
+.magento\captcha\observer\checkusereditobserver"
+helper"__id*
+	
+$helper◊
+‘
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpU U('@0
+.magento\captcha\observer\checkusereditobserver"
+
+actionFlag"__id*
+
+$actionFlagﬂ
+‹
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpV V(/D0
+.magento\captcha\observer\checkusereditobserver"
+messageManager"__id*
+
+$messageManager”
+–
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpW W(#>0
+.magento\captcha\observer\checkusereditobserver"
+
+redirect"__id*
+
+	$redirectÌ
+Í
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpX X(=K0
+.magento\captcha\observer\checkusereditobserver"
+captchaStringResolver"__id*
+
+$captchaStringResolverﬂ
+‹
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpY Y(/D0
+.magento\captcha\observer\checkusereditobserver"
+authentication"__id*
+
+$authentication·
+ﬁ
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.phpZ Z(1E0
+.magento\captcha\observer\checkusereditobserver"
+customerSession"__id*
+
+$customerSessionŸ
+÷
+y
+oC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Captcha\Observer\CheckUserEditObserver.php[ [()A0
+.magento\captcha\observer\checkusereditobserver"
+scopeConfig"__id*
+
+$scopeConfig*
+2:&
+$helpermagento\captcha\helper\data:/
+$actionFlag magento\framework\app\actionflag:=
+$messageManager*magento\framework\message\managerinterface:=
+	$redirect0magento\framework\app\response\redirectinterface:H
+$captchaStringResolver.magento\captcha\observer\captchastringresolver:A
+$authentication.magento\customer\model\authenticationinterface:2
+$customerSessionmagento\customer\model\session:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceB20
+.magento\captcha\observer\checkusereditobserver

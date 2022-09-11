@@ -1,0 +1,98 @@
+
+8magento\customer\controller\adminhtml\group::__constructv
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.php< <("1* 
+2
+	Group.php"
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.phpJ J(
+implicit return*Ø
+1v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.phpD D(-¿
+¼
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.php< <(
+
+$context"__id*0
+.
+$context"magento\backend\app\action\contextÁ
+¾
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.php< <(
+$coreRegistry"__id*-
++
+$coreRegistrymagento\framework\registryÚ
+×
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.php< <(
+$groupRepository"__id*C
+A
+$groupRepository-magento\customer\api\grouprepositoryinterfaceÞ
+Û
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.php< <(
+$groupDataFactory"__id*F
+D
+$groupDataFactory/magento\customer\api\data\groupinterfacefactoryç
+ä
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.php< <(
+$resultForwardFactory"__id*K
+I
+$resultForwardFactory0magento\backend\model\view\result\forwardfactoryÚ
+×
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.php< <(
+$resultPageFactory"__id*A
+?
+$resultPageFactory)magento\framework\view\result\pagefactoryÖ
+Ó
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.phpD D(,@-
++magento\customer\controller\adminhtml\group"
+_coreRegistry"__id*
+
+$coreRegistryÛ
+Ø
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.phpE E(1B-
++magento\customer\controller\adminhtml\group"
+groupRepository"__id*
+
+$groupRepositoryÝ
+Ú
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.phpF F(3C-
++magento\customer\controller\adminhtml\group"
+groupDataFactory"__id*
+
+$groupDataFactoryé
+æ
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.phpG G(%
+%1"'magento\backend\app\action::__construct*/-
++magento\customer\controller\adminhtml\group*
+
+
+$contextå
+â
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.phpH H(;G-
++magento\customer\controller\adminhtml\group"
+resultForwardFactory"__id*
+
+$resultForwardFactoryß
+Ü
+v
+lC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Customer\Controller\Adminhtml\Group.phpI I(5D-
++magento\customer\controller\adminhtml\group"
+resultPageFactory"__id*
+
+$resultPageFactory*
+2:.
+$context"magento\backend\app\action\context:+
+$coreRegistrymagento\framework\registry:A
+$groupRepository-magento\customer\api\grouprepositoryinterface:D
+$groupDataFactory/magento\customer\api\data\groupinterfacefactory:I
+$resultForwardFactory0magento\backend\model\view\result\forwardfactory:?
+$resultPageFactory)magento\framework\view\result\pagefactoryB/-
++magento\customer\controller\adminhtml\group

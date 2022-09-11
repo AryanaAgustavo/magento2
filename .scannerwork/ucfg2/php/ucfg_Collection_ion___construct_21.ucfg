@@ -1,0 +1,160 @@
+
+Amagento\reports\model\resourcemodel\order\collection::__construct
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpV V("1*®
+2
+Collection.php"–
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpt t(
+implicit return*Ÿ$
+1
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpe n(
+á
+Þ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpV V(
+$entityFactory"__id*C
+A
+$entityFactory/magento\framework\data\collection\entityfactory»
+¸
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpV V(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceí
+ê
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpV V(
+$fetchStrategy"__id*O
+M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterfaceØ
+Õ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpV V(
+$eventManager"__id*;
+9
+$eventManager(magento\framework\event\managerinterfaceô
+ñ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpV V(
+$entitySnapshot"__id*U
+S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshot×
+Ô
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpV V(
+$coreResourceHelper"__id*4
+2
+$coreResourceHelpermagento\framework\db\helperß
+Ü
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpV V(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceÙ
+Ö
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpV V(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterfaceß
+Ü
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpV V(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterfaceÎ
+Ë
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpV V(
+$orderConfig"__id*2
+0
+$orderConfig magento\sales\model\order\configñ
+î
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpV V(
+$reportOrderFactory"__id*N
+L
+$reportOrderFactory5magento\sales\model\resourcemodel\report\orderfactoryÙ
+Ö
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpV V(
+$connection"__id*>
+<
+$connection-magento\framework\db\adapter\adapterinterfaceÛ
+Ø
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpV V(
+	$resource"__id*B
+@
+	$resource3magento\framework\model\resourcemodel\db\abstractdb›
+˜
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpe n(	
+%1"?magento\sales\model\resourcemodel\order\collection::__construct*86
+4magento\reports\model\resourcemodel\order\collection*
+
+$entityFactory*
+	
+$logger*
+
+$fetchStrategy*
+
+$eventManager*
+
+$entitySnapshot*
+
+$coreResourceHelper*
+
+$connection*
+
+	$resourceæ
+ã
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpo o(*H6
+4magento\reports\model\resourcemodel\order\collection"
+_scopeConfig"__id*
+
+$scopeConfigè
+å
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpp p(,I6
+4magento\reports\model\resourcemodel\order\collection"
+_storeManager"__id*
+
+$storeManagerä
+á
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpq q((G6
+4magento\reports\model\resourcemodel\order\collection"
+_localeDate"__id*
+
+$localeDateæ
+ã
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phpr r(*H6
+4magento\reports\model\resourcemodel\order\collection"
+_orderConfig"__id*
+
+$orderConfigô
+ñ
+
+uC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Order\Collection.phps s(8O6
+4magento\reports\model\resourcemodel\order\collection"
+_reportOrderFactory"__id*
+
+$reportOrderFactory*
+2:A
+$entityFactory/magento\framework\data\collection\entityfactory:"
+$loggerpsr\log\loggerinterface:M
+$fetchStrategy;magento\framework\data\collection\db\fetchstrategyinterface:9
+$eventManager(magento\framework\event\managerinterface:S
+$entitySnapshot@magento\framework\model\resourcemodel\db\versioncontrol\snapshot:2
+$coreResourceHelpermagento\framework\db\helper:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface::
+$storeManager)magento\store\model\storemanagerinterface:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:0
+$orderConfig magento\sales\model\order\config:L
+$reportOrderFactory5magento\sales\model\resourcemodel\report\orderfactory:<
+$connection-magento\framework\db\adapter\adapterinterface:@
+	$resource3magento\framework\model\resourcemodel\db\abstractdbB86
+4magento\reports\model\resourcemodel\order\collection

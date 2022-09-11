@@ -1,0 +1,5 @@
+a
+phpS112FDefine and throw a dedicated exception instead of using a generic one. 2
+ˆˆ  a
+phpS112FDefine and throw a dedicated exception instead of using a generic one. 2
+šš  

@@ -1,0 +1,60 @@
+
+0magento\framework\event\config\data::__constructr
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Config\Data.php ("1*›
+2
+
+Data.php"‰
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Config\Data.php' '(
+implicit return*¼	
+1r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Config\Data.php& &(R¼
+¹
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Config\Data.php (	
+$reader"__id*2
+0
+$reader%magento\framework\event\config\readerÈ
+Å
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Config\Data.php (
+$configScope"__id*9
+7
+$configScope'magento\framework\config\scopeinterface¼
+¹
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Config\Data.php (
+$cache"__id*3
+1
+$cache'magento\framework\config\cacheinterfaceÎ
+Ë
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Config\Data.php (
+$serializer"__id*@
+>
+$serializer/magento\framework\serialize\serializerinterface£
+ 
+r
+hC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\lib\internal\Magento\Framework\Event\Config\Data.php& &(Q
+%1"1magento\framework\config\data\scoped::__construct*'%
+#magento\framework\event\config\data*
+	
+$reader*
+
+$configScope*
+
+
+$cache*
+
+
+$cacheId*
+
+$serializer*
+2:0
+$reader%magento\framework\event\config\reader:7
+$configScope'magento\framework\config\scopeinterface:1
+$cache'magento\framework\config\cacheinterface:
+
+$cacheId:>
+$serializer/magento\framework\serialize\serializerinterfaceB'%
+#magento\framework\event\config\data

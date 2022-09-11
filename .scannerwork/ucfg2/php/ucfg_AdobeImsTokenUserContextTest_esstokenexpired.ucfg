@@ -1,0 +1,87 @@
+
+`magento\adminadobeims\authorization\adobeimstokenusercontexttest::testuseadobeaccesstokenexpired¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php¬ ¬(2"1*ê
+2¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php¶ º(ÈÅ
+¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php¸ ¸( 
+%3*
+
+$e2
+getmessageæã
+¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php¶ º(
+%4*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest*
+
+$expectedMessage*
+
+%3*0.
+,SoapFault does not contain expected message.2assertstringcontainsstring*
+5
+7*æ
+3¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php¼ ¼(A­ª
+¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php¼ ¼(@
+%5*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest*
+
+
+$exception2!assertunauthorizedaccessexception*
+5
+7*ÿ
+5¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php¿ ¿(_ÉÆ
+¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php¿ ¿(^
+%6*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest*GE
+CException was expected to be thrown when provided token is expired.2fail*
+7*ê
+7"
+ AdobeImsTokenUserContextTest.php"À
+¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.phpÁ Á(
+implicit return*Î
+1¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php® ®(4™–
+¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php® ®(3
+%1*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest*
+
+-2 day2createaccesstokenÆ
+Ã
+¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php® ®(3
+$token"__id*
+
+%1×
+Ô
+¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php° °($
+$noExceptionOccurred"__id*	
+falseß
+Ü
+¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php± ±(.
+$expectedMessage"__id*
+Token has expired•’
+¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php³ ³((
+%2*DB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest*
+
+
+$token2runwebapicallÖ
+Ó
+¨
+›C:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\AdminAdobeIms\Authorization\AdobeImsTokenUserContextTest.php´ ´('
+$noExceptionOccurred"__id*
+true*
+2
+3
+5
+7BDB
+@magento\adminadobeims\authorization\adobeimstokenusercontexttest

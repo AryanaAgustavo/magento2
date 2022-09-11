@@ -1,0 +1,80 @@
+
+=magento\mediastorage\model\file\storage\response::__construct{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Response.php' '("1*¨
+2
+Response.php"’
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Response.php1 1(
+implicit return*Ç
+1{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Response.php/ /(cÄ
+Á
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Response.php' '(
+
+$request"__id*0
+.
+$request"magento\framework\app\request\httpÝ
+Ú
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Response.php' '(
+$cookieManager"__id*C
+A
+$cookieManager/magento\framework\stdlib\cookiemanagerinterfaceó
+ð
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Response.php' '(
+$cookieMetadataFactory"__id*Q
+O
+$cookieMetadataFactory5magento\framework\stdlib\cookie\cookiemetadatafactoryÄ
+Á
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Response.php' '(
+
+$context"__id*0
+.
+$context"magento\framework\app\http\contextÅ
+Â
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Response.php' '(
+	$dateTime"__id*0
+.
+	$dateTime!magento\framework\stdlib\datetimeÞ
+Û
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Response.php' '(
+$transferAdapter"__id*B
+@
+$transferAdapter,magento\framework\file\transfer\adapter\httpÉ
+Æ
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Response.php/ /(b
+%1"0magento\framework\app\response\http::__construct*42
+0magento\mediastorage\model\file\storage\response*
+
+
+$request*
+
+$cookieManager*
+
+$cookieMetadataFactory*
+
+
+$context*
+
+	$dateTimeæ
+ã
+{
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\MediaStorage\Model\File\Storage\Response.php0 0(2H2
+0magento\mediastorage\model\file\storage\response"
+_transferAdapter"__id*
+
+$transferAdapter*
+2:.
+$request"magento\framework\app\request\http:A
+$cookieManager/magento\framework\stdlib\cookiemanagerinterface:O
+$cookieMetadataFactory5magento\framework\stdlib\cookie\cookiemetadatafactory:.
+$context"magento\framework\app\http\context:.
+	$dateTime!magento\framework\stdlib\datetime:@
+$transferAdapter,magento\framework\file\transfer\adapter\httpB42
+0magento\mediastorage\model\file\storage\response

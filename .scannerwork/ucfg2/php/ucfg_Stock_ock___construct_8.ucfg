@@ -1,0 +1,88 @@
+
+?magento\cataloginventory\model\resourcemodel\stock::__construct}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock.phpb b("1*§
+2
+	Stock.php"”
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock.phpo o(
+implicit return*£
+1}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock.phpj j(7Ô
+Ñ
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock.phpb b(
+
+$context"__id*>
+<
+$context0magento\framework\model\resourcemodel\db\contextÝ
+Ú
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock.phpb b(
+$scopeConfig"__id*C
+A
+$scopeConfig1magento\framework\app\config\scopeconfiginterfaceÐ
+Í
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock.phpb b(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetimeò
+ï
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock.phpb b(
+$stockConfiguration"__id*Q
+O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterface×
+Ô
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock.phpb b(
+$storeManager"__id*<
+:
+$storeManager)magento\store\model\storemanagerinterface¥
+¢
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock.phpj j(6
+%1"@magento\framework\model\resourcemodel\db\abstractdb::__construct*64
+2magento\cataloginventory\model\resourcemodel\stock*
+
+
+$context*
+
+$connectionNameâ
+ß
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock.phpk k(*F4
+2magento\cataloginventory\model\resourcemodel\stock"
+_scopeConfig"__id*
+
+$scopeConfigÛ
+Ø
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock.phpl l(#B4
+2magento\cataloginventory\model\resourcemodel\stock"
+
+dateTime"__id*
+
+	$dateTimeï
+ì
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock.phpm m(7L4
+2magento\cataloginventory\model\resourcemodel\stock"
+stockConfiguration"__id*
+
+$stockConfigurationã
+à
+}
+sC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\CatalogInventory\Model\ResourceModel\Stock.phpn n(+F4
+2magento\cataloginventory\model\resourcemodel\stock"
+storeManager"__id*
+
+$storeManager*
+2:<
+$context0magento\framework\model\resourcemodel\db\context:A
+$scopeConfig1magento\framework\app\config\scopeconfiginterface:7
+	$dateTime*magento\framework\stdlib\datetime\datetime:O
+$stockConfiguration8magento\cataloginventory\api\stockconfigurationinterface::
+$storeManager)magento\store\model\storemanagerinterface:
+$connectionNameB64
+2magento\cataloginventory\model\resourcemodel\stock

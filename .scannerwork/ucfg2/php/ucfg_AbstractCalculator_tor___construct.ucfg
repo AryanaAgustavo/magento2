@@ -1,0 +1,120 @@
+
+=magento\tax\model\calculation\abstractcalculator::__construct}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpå å("1*¥
+2
+AbstractCalculator.php"î
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpû û(
+implicit return*Ù
+1}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpñ ñ(5ﬂ
+‹
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpå å(
+$taxClassService"__id*A
+?
+$taxClassService+magento\tax\api\taxclassmanagementinterfaceá
+Ñ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpå å("
+ $taxDetailsItemDataObjectFactory"__id*Y
+W
+ $taxDetailsItemDataObjectFactory3magento\tax\api\data\taxdetailsiteminterfacefactory˚
+¯
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpå å(
+$appliedTaxDataObjectFactory"__id*Q
+O
+$appliedTaxDataObjectFactory/magento\tax\api\data\appliedtaxinterfacefactoryá
+Ñ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpå å("
+ $appliedTaxRateDataObjectFactory"__id*Y
+W
+ $appliedTaxRateDataObjectFactory3magento\tax\api\data\appliedtaxrateinterfacefactory—
+Œ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpå å(
+$calculationTool"__id*3
+1
+$calculationToolmagento\tax\model\calculation∫
+∑
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpå å(	
+$config"__id*%
+#
+$configmagento\tax\model\config÷
+”
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpå å(
+$addressRateRequest"__id*5
+3
+$addressRateRequestmagento\framework\dataobjectÍ
+Á
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpñ ñ(4J2
+0magento\tax\model\calculation\abstractcalculator"
+taxClassManagement"__id*
+
+$taxClassServiceá
+Ñ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpó ó(QW2
+0magento\tax\model\calculation\abstractcalculator"!
+taxDetailsItemDataObjectFactory"__id*$
+"
+ $taxDetailsItemDataObjectFactoryˇ
+¸
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpò ò(IS2
+0magento\tax\model\calculation\abstractcalculator"
+appliedTaxDataObjectFactory"__id* 
+
+$appliedTaxDataObjectFactoryá
+Ñ
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpô ô(QW2
+0magento\tax\model\calculation\abstractcalculator"!
+appliedTaxRateDataObjectFactory"__id*$
+"
+ $appliedTaxRateDataObjectFactoryÁ
+‰
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpö ö(1G2
+0magento\tax\model\calculation\abstractcalculator"
+calculationTool"__id*
+
+$calculationTool’
+“
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpõ õ(>2
+0magento\tax\model\calculation\abstractcalculator"
+config"__id*
+	
+$config◊
+‘
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpú ú(!?2
+0magento\tax\model\calculation\abstractcalculator"	
+storeId"__id*
+
+
+$storeIdÌ
+Í
+}
+qC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Tax\Model\Calculation\AbstractCalculator.phpù ù(7J2
+0magento\tax\model\calculation\abstractcalculator"
+addressRateRequest"__id*
+
+$addressRateRequest*
+2:?
+$taxClassService+magento\tax\api\taxclassmanagementinterface:W
+ $taxDetailsItemDataObjectFactory3magento\tax\api\data\taxdetailsiteminterfacefactory:O
+$appliedTaxDataObjectFactory/magento\tax\api\data\appliedtaxinterfacefactory:W
+ $appliedTaxRateDataObjectFactory3magento\tax\api\data\appliedtaxrateinterfacefactory:1
+$calculationToolmagento\tax\model\calculation:#
+$configmagento\tax\model\config:
+
+$storeId:3
+$addressRateRequestmagento\framework\dataobjectB42
+0magento\tax\model\calculation\abstractcalculator

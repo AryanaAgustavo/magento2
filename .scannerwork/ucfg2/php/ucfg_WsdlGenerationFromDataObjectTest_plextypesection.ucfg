@@ -1,0 +1,575 @@
+
+Omagento\webapi\wsdlgenerationfromdataobjecttest::_checkfaultscomplextypesectionó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php∞ ∞(5"1*≤
+2ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php˚ ê(Ì
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÅ) Å(8
+%15"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_baseUrlÔ
+Ï
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÅ@ Å(Q
+%16"__id*C*A1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_storeCodeÌ
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpâ) â(8
+%17"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_baseUrlÔ
+Ï
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpâ@ â(Q
+%18"__id*C*A1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_storeCode˛
+˚
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php˚' ê(
+%19"__concat*Å˛
+˚<xsd:complexType name="WrappedError">
+    <xsd:sequence>
+        <xsd:element name="message" minOccurs="1" maxOccurs="1" type="xsd:string">
+            <xsd:annotation>
+                <xsd:documentation/>
+                <xsd:appinfo xmlns:inf="*
+
+/soap/*ùö
+ó?services=testModule5AllSoapAndRestV2">
+                    <inf:maxLength/>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="parameters" type="tns:ArrayOfGenericFaultParameter" minOccurs="0">
+            <xsd:annotation>
+                <xsd:documentation>Message parameters.</xsd:documentation>
+                <xsd:appinfo xmlns:inf="*
+
+/soap/*ÌÍ
+Á?services=testModule5AllSoapAndRestV2">
+                    <inf:natureOfType>array</inf:natureOfType>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+    </xsd:sequence>
+</xsd:complexType>*
+
+%15*
+
+%16*
+
+%17*
+
+%18»
+≈
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php˚ ê(
+$detailsWrappedErrorType"__id*
+
+%19*
+4*Ó
+3ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpí ß(Ì
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpò) ò(8
+%20"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_baseUrlÔ
+Ï
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpò@ ò(Q
+%21"__id*C*A1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_storeCodeÌ
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php†) †(8
+%22"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_baseUrlÔ
+Ï
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php†@ †(Q
+%23"__id*C*A1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_storeCode∫	
+∑	
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpí' ß(
+%24"__concat*Å˛
+˚<xsd:complexType name="WrappedError">
+    <xsd:sequence>
+        <xsd:element name="message" minOccurs="1" maxOccurs="1" type="xsd:string">
+            <xsd:annotation>
+                <xsd:documentation/>
+                <xsd:appinfo xmlns:inf="*
+
+/soap/*ª∏
+µ?services=testModule5AllSoapAndRestV1%2CtestModule5AllSoapAndRestV2">
+                    <inf:maxLength/>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="parameters" type="tns:ArrayOfGenericFaultParameter" minOccurs="0">
+            <xsd:annotation>
+                <xsd:documentation>Message parameters.</xsd:documentation>
+                <xsd:appinfo xmlns:inf="*
+
+/soap/*ãà
+Ö?services=testModule5AllSoapAndRestV1%2CtestModule5AllSoapAndRestV2">
+                    <inf:natureOfType>array</inf:natureOfType>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+    </xsd:sequence>
+</xsd:complexType>*
+
+%20*
+
+%21*
+
+%22*
+
+%23»
+≈
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpí ß(
+$detailsWrappedErrorType"__id*
+
+%24*
+4*ﬂ
+4ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php™ Æ(
+åâ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php´ ´(@
+%25*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$detailsWrappedErrorType2_convertxmltostring—Œ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php™ Æ(	
+%26*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%25*
+
+$wsdlContent*?=
+;Details wrapped error complex types declaration is invalid.2assertstringcontainsstringÌ
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php¥! ¥(0
+%27"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÌ
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php∫) ∫(8
+%28"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrl¿
+Ω
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php∞! ø(
+%29"__concat*Ã…
+∆<xsd:complexType name="ArrayOfGenericFaultParameter">
+    <xsd:annotation>
+        <xsd:documentation>An array of GenericFaultParameter items.</xsd:documentation>
+        <xsd:appinfo xmlns:inf="*≈¬
+ø"/>
+    </xsd:annotation>
+    <xsd:sequence>
+        <xsd:element name="item" minOccurs="0" maxOccurs="unbounded" type="tns:GenericFaultParameter">
+            <xsd:annotation>
+                <xsd:documentation>An item of ArrayOfGenericFaultParameter.</xsd:documentation>
+                <xsd:appinfo xmlns:inf="*ge
+c"/>
+            </xsd:annotation>
+        </xsd:element>
+    </xsd:sequence>
+</xsd:complexType>*
+
+%27*
+
+%28∆
+√
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php∞ ø(
+$detailsParametersType"__id*
+
+%29äá
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php¬ ¬(>
+%30*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$detailsParametersType2_convertxmltostring‰·
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php¡ ≈(	
+%31*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%30*
+
+$wsdlContent*RP
+NDetails parameters (array of parameters) complex types declaration is invalid.2assertstringcontainsstringÙ
+Ò
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php« «("
+%32"__id*H*F1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+isSingleService*
+5
+6*»
+5ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php… ÿ(Ì
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÕ! Õ(0
+%33"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_baseUrlÔ
+Ï
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÕ8 Õ(I
+%34"__id*C*A1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_storeCodeÌ
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php”) ”(8
+%35"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_baseUrlÔ
+Ï
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php”@ ”(Q
+%36"__id*C*A1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_storeCodeì
+ê
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php…( ÿ(
+%37"__concat*∫∑
+¥<xsd:complexType name="ArrayOfWrappedError">
+    <xsd:annotation>
+        <xsd:documentation>An array of WrappedError items.</xsd:documentation>
+        <xsd:appinfo xmlns:inf="*
+
+/soap/*ÿ’
+“?services=testModule5AllSoapAndRestV2"/>
+    </xsd:annotation>
+    <xsd:sequence>
+        <xsd:element name="item" minOccurs="0" maxOccurs="unbounded" type="tns:WrappedError">
+            <xsd:annotation>
+                <xsd:documentation>An item of ArrayOfWrappedError.</xsd:documentation>
+                <xsd:appinfo xmlns:inf="*
+
+/soap/*éã
+à?services=testModule5AllSoapAndRestV2"/>
+            </xsd:annotation>
+        </xsd:element>
+    </xsd:sequence>
+</xsd:complexType>*
+
+%33*
+
+%34*
+
+%35*
+
+%36…
+∆
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php… ÿ(
+$detailsWrappedErrorsType"__id*
+
+%37*
+7*Ñ
+6ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php⁄ È(Ì
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpﬁ! ﬁ(0
+%38"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_baseUrlÔ
+Ï
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpﬁ8 ﬁ(I
+%39"__id*C*A1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_storeCodeÌ
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php‰) ‰(8
+%40"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_baseUrlÔ
+Ï
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php‰@ ‰(Q
+%41"__id*C*A1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_storeCodeœ
+Ã
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php⁄( È(
+%42"__concat*∫∑
+¥<xsd:complexType name="ArrayOfWrappedError">
+    <xsd:annotation>
+        <xsd:documentation>An array of WrappedError items.</xsd:documentation>
+        <xsd:appinfo xmlns:inf="*
+
+/soap/*ˆÛ
+?services=testModule5AllSoapAndRestV1%2CtestModule5AllSoapAndRestV2"/>
+    </xsd:annotation>
+    <xsd:sequence>
+        <xsd:element name="item" minOccurs="0" maxOccurs="unbounded" type="tns:WrappedError">
+            <xsd:annotation>
+                <xsd:documentation>An item of ArrayOfWrappedError.</xsd:documentation>
+                <xsd:appinfo xmlns:inf="*
+
+/soap/*¨©
+¶?services=testModule5AllSoapAndRestV1%2CtestModule5AllSoapAndRestV2"/>
+            </xsd:annotation>
+        </xsd:element>
+    </xsd:sequence>
+</xsd:complexType>*
+
+%38*
+
+%39*
+
+%40*
+
+%41…
+∆
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php⁄ È(
+$detailsWrappedErrorsType"__id*
+
+%42*
+7*°
+7ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÌ Ò(
+çä
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÓ Ó(A
+%43*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$detailsWrappedErrorsType2_convertxmltostringÏÈ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÌ Ò(	
+%44*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%43*
+
+$wsdlContent*ZX
+VDetails wrapped errors (array of wrapped errors) complex types declaration is invalid.2assertstringcontainsstring*
+8*›
+8&
+$WsdlGenerationFromDataObjectTest.php"Ø
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÚ Ú(
+implicit return*Ø1
+1ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php≤ ∂(
+≠™
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php≥ ≥(d
+%1*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*><
+:<xsd:element name="GenericFault" type="tns:GenericFault"/>2_convertxmltostring“œ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php≤ ∂(	
+%2*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%1*
+
+$wsdlContent*B@
+>Default SOAP Fault complex type element declaration is invalid2assertstringcontainsstringÏ
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpø) ø(8
+%3"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÏ
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php«) «(8
+%4"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÏ
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpœ) œ(8
+%5"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlﬂ
+‹
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpπ ÷(
+%6"__concat*Æ´
+®<xsd:complexType name="GenericFault">
+    <xsd:sequence>
+        <xsd:element name="Trace" minOccurs="0" maxOccurs="1" type="xsd:string">
+            <xsd:annotation>
+                <xsd:documentation>Exception calls stack trace.</xsd:documentation>
+                <xsd:appinfo xmlns:inf="*ÖÇ
+ˇ">
+                    <inf:maxLength/>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="Parameters" type="tns:ArrayOfGenericFaultParameter" minOccurs="0">
+            <xsd:annotation>
+                <xsd:documentation>Additional exception parameters.</xsd:documentation>
+                <xsd:appinfo xmlns:inf="*ìê
+ç">
+                    <inf:natureOfType>array</inf:natureOfType>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="WrappedErrors" type="tns:ArrayOfWrappedError" minOccurs="0">
+            <xsd:annotation>
+                <xsd:documentation>Additional wrapped errors.</xsd:documentation>
+                <xsd:appinfo xmlns:inf="*»≈
+¬">
+                    <inf:natureOfType>array</inf:natureOfType>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+    </xsd:sequence>
+</xsd:complexType>*
+
+%3*
+
+%4*
+
+%5¿
+Ω
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpπ ÷(
+$genericFaultType"__id*
+
+%6ÑÅ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÿ ÿ(9
+%7*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$genericFaultType2_convertxmltostringÀ»
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php◊ €(	
+%8*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%7*
+
+$wsdlContent*;9
+7Default SOAP Fault complex types declaration is invalid2assertstringcontainsstringÏ
+È
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php„) „(8
+%9"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrlÌ
+Í
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÎ) Î(8
+%10"__id*A*?1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+
+_soapUrl¡
+æ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php›  Ú(
+%11"__concat*ÜÉ
+Ä<xsd:complexType name="GenericFaultParameter">
+    <xsd:sequence>
+        <xsd:element name="key" minOccurs="1" maxOccurs="1" type="xsd:string">
+            <xsd:annotation>
+                <xsd:documentation/>
+                <xsd:appinfo xmlns:inf="*≈¬
+ø">
+                    <inf:maxLength/>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="value" minOccurs="1" maxOccurs="1" type="xsd:string">
+            <xsd:annotation>
+                <xsd:documentation/>
+                <xsd:appinfo xmlns:inf="*Æ´
+®">
+                    <inf:maxLength/>
+                </xsd:appinfo>
+            </xsd:annotation>
+        </xsd:element>
+    </xsd:sequence>
+</xsd:complexType>*
+
+%9*
+
+%10≈
+¬
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php› Ú(
+$detailsParameterType"__id*
+
+%11âÜ
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÙ Ù(=
+%12*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+$detailsParameterType2_convertxmltostringÕ 
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.phpÛ ˜(	
+%13*31
+/magento\webapi\wsdlgenerationfromdataobjecttest*
+
+%12*
+
+$wsdlContent*;9
+7Details parameter complex types declaration is invalid.2assertstringcontainsstringÙ
+Ò
+ó
+äC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\api-functional\testsuite\Magento\Webapi\WsdlGenerationFromDataObjectTest.php˙ ˙("
+%14"__id*H*F1
+/magento\webapi\wsdlgenerationfromdataobjecttest"
+isSingleService*
+2
+3:
+$wsdlContentB31
+/magento\webapi\wsdlgenerationfromdataobjecttest

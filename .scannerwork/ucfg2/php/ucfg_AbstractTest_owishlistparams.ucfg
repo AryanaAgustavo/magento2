@@ -1,0 +1,137 @@
+
+Fmagento\catalog\block\product\abstracttest::testgetaddtowishlistparamsè
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpá á(."1*¡
+2
+AbstractTest.php"ß
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpì ì(
+implicit return*® 
+1è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpâ â(AË
+Â
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpâ â(1
+%1"__id*E*C,
+*magento\catalog\block\product\abstracttest"
+productRepository¥±
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpâ â(@
+%2*
+
+%1*
+
+simple2getﬁ
+€
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpâ â(@9,
+*magento\catalog\block\product\abstracttest"	
+product"__id*
+
+%2‹
+Ÿ
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpä ä(
+%3"__id*9*7,
+*magento\catalog\block\product\abstracttest"
+blockﬁ
+€
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpä5 ä(C
+%4"__id*;*9,
+*magento\catalog\block\product\abstracttest"	
+product√¿
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpä ä(D
+%5*
+
+%3*
+
+%42getaddtowishlistparams¨
+©
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpä ä(D
+$json"__id*
+
+%5€
+ÿ
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpã ã($
+%6"__id*8*6,
+*magento\catalog\block\product\abstracttest"
+jsonª∏
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpã ã(8
+%7*
+
+%6*	
+
+$json2unserializeº
+π
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpã ã(8	
+$params"__passthrough_cast*
+
+%7º
+π
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpå å(&
+%8"__mapGet*
+	
+$params*
+data∫
+∑
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpå å(&
+$data"__passthrough_cast*
+
+%8ﬁ
+€
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpç ç(*
+%9"__id*;*9,
+*magento\catalog\block\product\abstracttest"	
+product´®
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpç ç(3
+%10*
+
+%92getidæ
+ª
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpç5 ç(E
+%11"__mapGet*	
+
+$data*	
+productÏÈ
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpç ç(F
+%12*.,
+*magento\catalog\block\product\abstracttest*
+
+%10*
+
+%112assertequalsÙÒ
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpé é(/
+%13*.,
+*magento\catalog\block\product\abstracttest*
+uenc*	
+
+$data2assertarrayhaskeyø
+º
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpë ë(
+%14"__mapGet*
+	
+$params*
+
+actionÑÅ
+è
+ÇC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\dev\tests\integration\testsuite\Magento\Catalog\Block\Product\AbstractTest.phpè í(	
+%15*.,
+*magento\catalog\block\product\abstracttest*
+wishlist/index/add/*
+
+%142assertstringendswith*
+2B.,
+*magento\catalog\block\product\abstracttest

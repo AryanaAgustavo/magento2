@@ -1,0 +1,106 @@
+
+Fmagento\reports\model\resourcemodel\report\product\viewed::__construct„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\Product\Viewed.php> >("1*°
+2
+
+Viewed.php"œ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\Product\Viewed.phpT T(
+implicit return*²
+1„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\Product\Viewed.phpI Q(
+Ü
+Ù
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\Product\Viewed.php> >(
+
+$context"__id*>
+<
+$context0magento\framework\model\resourcemodel\db\contextÁ
+¾
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\Product\Viewed.php> >(	
+$logger"__id*$
+"
+$loggerpsr\log\loggerinterfaceå
+â
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\Product\Viewed.php> >(
+$localeDate"__id*D
+B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterfaceã
+à
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\Product\Viewed.php> >(
+$reportsFlagFactory"__id*:
+8
+$reportsFlagFactory!magento\reports\model\flagfactoryô
+ñ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\Product\Viewed.php> >(
+$timezoneValidator"__id*L
+J
+$timezoneValidator4magento\framework\stdlib\datetime\timezone\validatorØ
+Õ
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\Product\Viewed.php> >(
+	$dateTime"__id*9
+7
+	$dateTime*magento\framework\stdlib\datetime\datetimeç
+ä
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\Product\Viewed.php> >(
+$productResource"__id*A
+?
+$productResource+magento\catalog\model\resourcemodel\productä
+á
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\Product\Viewed.php> >(
+$resourceHelper"__id*?
+=
+$resourceHelper*magento\reports\model\resourcemodel\helper–
+“
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\Product\Viewed.phpI Q(	
+%1"Dmagento\sales\model\resourcemodel\report\abstractreport::__construct*=;
+9magento\reports\model\resourcemodel\report\product\viewed*
+
+
+$context*
+	
+$logger*
+
+$localeDate*
+
+$reportsFlagFactory*
+
+$timezoneValidator*
+
+	$dateTime*
+
+$connectionNameù
+ö
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\Product\Viewed.phpR R(2Q;
+9magento\reports\model\resourcemodel\report\product\viewed"
+_productResource"__id*
+
+$productResource÷
+ô
+„
+zC:\Users\aryan\Documents\TCC-SONAR\MAGENTO\magento2\app\code\Magento\Reports\Model\ResourceModel\Report\Product\Viewed.phpS S(0P;
+9magento\reports\model\resourcemodel\report\product\viewed"
+_resourceHelper"__id*
+
+$resourceHelper*
+2:<
+$context0magento\framework\model\resourcemodel\db\context:"
+$loggerpsr\log\loggerinterface:B
+$localeDate3magento\framework\stdlib\datetime\timezoneinterface:8
+$reportsFlagFactory!magento\reports\model\flagfactory:J
+$timezoneValidator4magento\framework\stdlib\datetime\timezone\validator:7
+	$dateTime*magento\framework\stdlib\datetime\datetime:?
+$productResource+magento\catalog\model\resourcemodel\product:=
+$resourceHelper*magento\reports\model\resourcemodel\helper:
+$connectionNameB=;
+9magento\reports\model\resourcemodel\report\product\viewed
